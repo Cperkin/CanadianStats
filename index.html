@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Canadian Rent Reality Check</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav">
+      <div class="logo">CanadianStats</div>
+      <div class="nav-links">
+        <a href="#how">How it works</a>
+        <a href="#compare">Compare rent</a>
+        <a href="#insights">Insights</a>
+      </div>
+    </nav>
+    <div class="hero-content">
+      <div>
+        <p class="eyebrow">Powered by CMHC rental market data</p>
+        <h1>Find out if your rent is above the neighbourhood norm.</h1>
+        <p class="subhead">
+          Compare your monthly rent to the latest CMHC Rental Market Report data for Canadian neighbourhoods.
+          Get a quick read on whether you are paying below, at, or above the local average.
+        </p>
+        <div class="hero-actions">
+          <a class="button" href="#compare">Check my rent</a>
+          <a class="button ghost" href="#how">Learn about CMHC data</a>
+        </div>
+      </div>
+      <div class="hero-card">
+        <p class="card-label">Quick peek</p>
+        <h3>Typical rent snapshot</h3>
+        <p>Sample averages drawn from CMHC 2023 rental market data to demonstrate the tool.</p>
+        <div class="card-grid">
+          <div>
+            <h4>$2,100</h4>
+            <span>Downtown Toronto, 1-bed</span>
+          </div>
+          <div>
+            <h4>$1,750</h4>
+            <span>Kitsilano, 1-bed</span>
+          </div>
+          <div>
+            <h4>$1,380</h4>
+            <span>Old Strathcona, 1-bed</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="compare" class="section">
+      <div class="section-header">
+        <h2>Compare your rent</h2>
+        <p>Pick your city, neighbourhood, and unit type. We compare it to the CMHC average.</p>
+      </div>
+      <form class="rent-form" id="rent-form">
+        <label>
+          City
+          <select id="city" required>
+            <option value="">Select a city</option>
+          </select>
+        </label>
+        <label>
+          Neighbourhood
+          <select id="neighbourhood" required>
+            <option value="">Select a neighbourhood</option>
+          </select>
+        </label>
+        <label>
+          Unit type
+          <select id="unit" required>
+            <option value="1br">1 bedroom</option>
+            <option value="2br">2 bedroom</option>
+            <option value="3br">3 bedroom</option>
+          </select>
+        </label>
+        <label>
+          Your monthly rent (CAD)
+          <input id="rent" type="number" min="500" step="10" placeholder="e.g. 1950" required />
+        </label>
+        <button class="button" type="submit">Calculate</button>
+      </form>
+
+      <div id="results" class="results" aria-live="polite"></div>
+    </section>
+
+    <section id="insights" class="section light">
+      <div class="section-header">
+        <h2>What the report says</h2>
+        <p>CMHC publishes annual rental market reports for major Canadian centres. We use that data to benchmark neighbourhood rent levels.</p>
+      </div>
+      <div class="insight-grid">
+        <article>
+          <h3>Neighbourhood averages</h3>
+          <p>Average rents are aggregated at the neighbourhood level, allowing you to see how your rent compares locally.</p>
+        </article>
+        <article>
+          <h3>Market pressure</h3>
+          <p>We highlight the percentage difference between your rent and the average so you can spot overpayment quickly.</p>
+        </article>
+        <article>
+          <h3>Rental type insights</h3>
+          <p>Unit type matters. Compare the same unit size so you get a fair and accurate benchmark.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="how" class="section">
+      <div class="section-header">
+        <h2>How we use CMHC data</h2>
+        <p>
+          The CMHC Rental Market Report provides average monthly rents by neighbourhood and unit type.
+          We’ve loaded sample entries from the latest report to power this prototype. Swap in the full CMHC dataset when ready.
+        </p>
+      </div>
+      <div class="data-callout">
+        <div>
+          <h3>Source</h3>
+          <p>Canada Mortgage and Housing Corporation (CMHC), Rental Market Report.</p>
+        </div>
+        <div>
+          <h3>Update cadence</h3>
+          <p>CMHC typically releases the report annually. Refresh your data each release to stay current.</p>
+        </div>
+        <div>
+          <h3>Coverage</h3>
+          <p>Major urban centres with neighbourhood-level breakdowns for 1, 2, and 3 bedroom units.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built for Canadians who want clarity on rent. Data sourced from CMHC Rental Market Reports.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
