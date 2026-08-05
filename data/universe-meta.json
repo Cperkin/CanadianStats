@@ -1,0 +1,14 @@
+{
+  "lastUpdatedAt": "2026-08-05T21:28:13.261Z",
+  "mode": "seed-fallback",
+  "notes": "Source files were unavailable; preserved existing seed universe.",
+  "sources": [
+    "seed-universe"
+  ],
+  "counts": {
+    "NASDAQ": 11,
+    "NYSE": 10,
+    "TSX": 10,
+    "total": 31
+  }
+}

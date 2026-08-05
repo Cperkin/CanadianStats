@@ -1,0 +1,66 @@
+name: Daily Universe Refresh
+
+on:
+  schedule:
+    - cron: "15 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch exchange source files
+        env:
+          NASDAQ_SOURCE_URL: ${{ vars.NASDAQ_SOURCE_URL }}
+          NYSE_SOURCE_URL: ${{ vars.NYSE_SOURCE_URL }}
+          TSX_SOURCE_URL: ${{ vars.TSX_SOURCE_URL }}
+        run: node scripts/fetch-source-files.js
+
+      - name: Verify source freshness
+        env:
+          SOURCE_MAX_AGE_HOURS: "30"
+        run: node scripts/verify-source-freshness.js
+
+      - name: Build custom universe
+        run: node scripts/build-universe.js
+
+      - name: Refresh Top 20 scored cache
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: node scripts/update-top20-cache.js
+
+      - name: Generate automation health report
+        run: node scripts/write-health-report.js
+
+      - name: Upload automation health artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: automation-health
+          path: data/automation-health.json
+
+      - name: Commit and push updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/sources data/universe.json data/universe-meta.json data/top20-cache.json data/api-budget.json data/automation-health.json
+
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(data): daily universe and top20 refresh"
+          git push
