@@ -13,6 +13,10 @@ const API_KEY = process.env.FMP_API_KEY;
 const API_BASE = "https://financialmodelingprep.com/stable";
 const TOP20_API_DAILY_LIMIT = 200;
 const TOP20_DISPLAY_COUNT = 20;
+const REQUEST_DELAY_MS = Number(process.env.FMP_REQUEST_DELAY_MS || 500);
+const MAX_RETRIES = Number(process.env.FMP_HTTP_MAX_RETRIES || 3);
+const MAX_RETRY_DELAY_MS = 20_000;
+const MAX_NON_429_ERRORS = Number(process.env.FMP_MAX_NON_429_ERRORS || 10);
 
 if (!API_KEY) {
   console.error("FMP_API_KEY is required to run update-top20-cache.js");
@@ -46,12 +50,72 @@ async function writeJson(filePath, value) {
   await fs.writeFile(filePath, JSON.stringify(value, null, 2) + "\n");
 }
 
-async function fetchJson(url) {
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
+class HttpError extends Error {
+  constructor(status, message, retryAfterMs = null) {
+    super(message);
+    this.name = "HttpError";
+    this.status = status;
+    this.retryAfterMs = retryAfterMs;
   }
-  return response.json();
+}
+
+function isFinitePositiveNumber(value) {
+  return Number.isFinite(value) && value > 0;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function parseRetryAfterMs(value) {
+  if (!value) return null;
+  const trimmed = String(value).trim();
+  const seconds = Number(trimmed);
+  if (isFinitePositiveNumber(seconds)) {
+    return Math.round(seconds * 1000);
+  }
+
+  const timestamp = Date.parse(trimmed);
+  if (!Number.isNaN(timestamp)) {
+    const deltaMs = timestamp - Date.now();
+    return deltaMs > 0 ? deltaMs : null;
+  }
+
+  return null;
+}
+
+function backoffDelayMs(attemptIndex) {
+  const base = Math.min(MAX_RETRY_DELAY_MS, 1000 * (2 ** attemptIndex));
+  const jitter = Math.floor(Math.random() * 300);
+  return base + jitter;
+}
+
+async function fetchJson(url) {
+  let attempt = 0;
+
+  while (attempt <= MAX_RETRIES) {
+    const response = await fetch(url);
+    if (response.ok) {
+      return response.json();
+    }
+
+    const status = response.status;
+    const retryAfterMs = parseRetryAfterMs(response.headers.get("retry-after"));
+    const isRetryable = status === 429 || (status >= 500 && status <= 599);
+    const hasRetry = attempt < MAX_RETRIES;
+
+    if (isRetryable && hasRetry) {
+      const waitMs = retryAfterMs || backoffDelayMs(attempt);
+      console.warn(`Request retry ${attempt + 1}/${MAX_RETRIES} after HTTP ${status}. Waiting ${waitMs}ms.`);
+      await sleep(waitMs);
+      attempt += 1;
+      continue;
+    }
+
+    throw new HttpError(status, `HTTP ${status}`, retryAfterMs);
+  }
+
+  throw new Error("Unreachable fetch retry loop exit");
 }
 
 function clamp(value, min, max) {
@@ -192,14 +256,42 @@ async function main() {
 
   const candidates = universe.slice(0, Math.min(universe.length, callsRemaining));
   const scoredStocks = [];
+  let rateLimited = false;
+  let non429Errors = 0;
 
   for (const entry of candidates) {
-    const profile = await fetchProfile(entry.fmpSymbol || entry.symbol);
     currentBudget.top20Used += 1;
     callsRemaining -= 1;
 
+    let profile = null;
+    try {
+      profile = await fetchProfile(entry.fmpSymbol || entry.symbol);
+    } catch (error) {
+      if (error instanceof HttpError && error.status === 429) {
+        rateLimited = true;
+        console.warn(`Rate limited on ${entry.fmpSymbol || entry.symbol}; stopping early and keeping partial results.`);
+        break;
+      }
+
+      non429Errors += 1;
+      console.warn(`Skipping ${entry.fmpSymbol || entry.symbol} due to error: ${error.message || error}`);
+      if (non429Errors >= MAX_NON_429_ERRORS) {
+        console.warn(`Too many non-429 errors (${non429Errors}); stopping early.`);
+        break;
+      }
+
+      if (callsRemaining <= 0) break;
+      if (REQUEST_DELAY_MS > 0) {
+        await sleep(REQUEST_DELAY_MS);
+      }
+      continue;
+    }
+
     if (!profile || !profile.companyName) {
       if (callsRemaining <= 0) break;
+      if (REQUEST_DELAY_MS > 0) {
+        await sleep(REQUEST_DELAY_MS);
+      }
       continue;
     }
 
@@ -221,9 +313,24 @@ async function main() {
     });
 
     if (callsRemaining <= 0) break;
+    if (REQUEST_DELAY_MS > 0) {
+      await sleep(REQUEST_DELAY_MS);
+    }
   }
 
   scoredStocks.sort((a, b) => b.finalScore - a.finalScore);
+
+  const existingStocks = Array.isArray(existingCache.stocks) ? existingCache.stocks : [];
+  const outputStocks = scoredStocks.length ? scoredStocks.slice(0, TOP20_DISPLAY_COUNT) : existingStocks;
+  let status = "Top 20 cache updated from custom universe.";
+
+  if (rateLimited) {
+    status = scoredStocks.length
+      ? "Partial Top 20 update due to provider rate limit (HTTP 429)."
+      : "Provider rate limited immediately (HTTP 429); kept previous Top 20 snapshot.";
+  } else if (non429Errors > 0) {
+    status = `Partial Top 20 update with ${non429Errors} non-rate-limit fetch errors.`;
+  }
 
   await writeJson(CACHE_PATH, {
     meta: {
@@ -233,9 +340,9 @@ async function main() {
       scoredCount: scoredStocks.length,
       budgetUsed: currentBudget.top20Used,
       budgetLimit: currentBudget.top20Limit,
-      status: "Top 20 cache updated from custom universe."
+      status
     },
-    stocks: scoredStocks.slice(0, TOP20_DISPLAY_COUNT)
+    stocks: outputStocks
   });
 
   currentBudget.lastResetAt = new Date().toISOString();
