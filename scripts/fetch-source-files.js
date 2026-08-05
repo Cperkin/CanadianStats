@@ -23,7 +23,8 @@ const SOURCE_DEFINITIONS = [
     key: "TSX_SOURCE_URL",
     fileName: "tsx-listed.csv",
     required: false,
-    defaultUrl: ""
+    defaultUrl: "https://www.tsx.com/json/company-directory/search/tsx/*",
+    format: "tsx-json"
   }
 ];
 
@@ -59,6 +60,42 @@ async function fetchText(url) {
   return text;
 }
 
+function escapeCsvCell(value) {
+  const text = String(value ?? "");
+  if (text.includes(",") || text.includes("\"") || text.includes("\n")) {
+    return `"${text.replace(/\"/g, "\"\"")}"`;
+  }
+  return text;
+}
+
+function convertTsxJsonToCsv(content) {
+  let parsed;
+  try {
+    parsed = JSON.parse(content);
+  } catch {
+    throw new Error("Invalid TSX JSON payload");
+  }
+
+  const results = Array.isArray(parsed?.results) ? parsed.results : [];
+  if (!results.length) {
+    throw new Error("TSX JSON payload has no results");
+  }
+
+  const rows = ["symbol,name,exchange"];
+  for (const entry of results) {
+    const symbol = String(entry?.symbol || "").trim().toUpperCase();
+    const name = String(entry?.name || "").trim();
+    if (!symbol || !name) continue;
+    rows.push(`${escapeCsvCell(symbol)},${escapeCsvCell(name)},TSX`);
+  }
+
+  if (rows.length <= 1) {
+    throw new Error("TSX JSON payload produced no valid rows");
+  }
+
+  return rows.join("\n") + "\n";
+}
+
 async function writeIfChanged(filePath, content) {
   try {
     const current = await fs.readFile(filePath, "utf8");
@@ -87,8 +124,11 @@ async function updateSource(definition) {
     };
   }
 
-  const text = await fetchText(url);
-  const changed = await writeIfChanged(targetPath, text);
+  const rawText = await fetchText(url);
+  const normalizedText = definition.format === "tsx-json"
+    ? convertTsxJsonToCsv(rawText)
+    : rawText;
+  const changed = await writeIfChanged(targetPath, normalizedText);
 
   return {
     fileName: definition.fileName,

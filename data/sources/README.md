@@ -21,5 +21,6 @@ Notes:
 	- `NASDAQ_SOURCE_URL`
 	- `NYSE_SOURCE_URL`
 	- `TSX_SOURCE_URL`
+- By default, TSX data is fetched from the public TMX company-directory endpoint and normalized into CSV.
 - `verify-source-freshness.js` fails when required files are older than `SOURCE_MAX_AGE_HOURS` (default `30`).
 - If these files are missing, `scripts/build-universe.js` falls back to the committed seed universe.

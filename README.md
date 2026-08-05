@@ -58,13 +58,13 @@ What it runs every day:
 One-time setup required:
 
 1. Add repository secret `FMP_API_KEY`.
-2. Optional: add repository variables `NASDAQ_SOURCE_URL`, `NYSE_SOURCE_URL`, and `TSX_SOURCE_URL`.
+2. Optional: add repository variables `NASDAQ_SOURCE_URL`, `NYSE_SOURCE_URL`, and `TSX_SOURCE_URL` to override defaults.
 3. Use the workflow's `workflow_dispatch` once to validate end-to-end execution.
 
 Notes:
 
 - Default source URLs are preconfigured for Nasdaq Trader files.
-- `TSX_SOURCE_URL` is optional; if unset, TSX source fetch is skipped.
+- TSX defaults to the public TMX company directory endpoint and is transformed to `data/sources/tsx-listed.csv` automatically.
 - Required source files (`nasdaqlisted.txt`, `otherlisted.txt`) must be fresher than 30 hours or the workflow fails.
 - A run health snapshot is written to `data/automation-health.json` and uploaded as a workflow artifact.
 - Scheduled runs are at `11:15 UTC` daily.
