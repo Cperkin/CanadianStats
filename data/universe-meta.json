@@ -1,14 +1,16 @@
 {
-  "lastUpdatedAt": "2026-08-05T21:28:13.261Z",
-  "mode": "seed-fallback",
-  "notes": "Source files were unavailable; preserved existing seed universe.",
+  "lastUpdatedAt": "2026-08-05T22:37:37.136Z",
+  "mode": "full-source-build",
+  "notes": "Universe generated from local source files under data/sources/.",
   "sources": [
-    "seed-universe"
+    "nasdaqlisted.txt",
+    "otherlisted.txt",
+    "tsx-listed.csv"
   ],
   "counts": {
-    "NASDAQ": 11,
-    "NYSE": 10,
-    "TSX": 10,
-    "total": 31
+    "NASDAQ": 3453,
+    "NYSE": 2144,
+    "TSX": 727,
+    "total": 6324
   }
 }
