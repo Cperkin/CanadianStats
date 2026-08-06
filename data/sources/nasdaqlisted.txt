@@ -370,7 +370,7 @@ AQMS|Aqua Metals, Inc. - Common Stock|S|N|N|100|N|N
 AQST|Aquestive Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 AQWA|Global X Clean Water ETF|G|N|N|100|Y|N
 ARAI|Arrive AI Inc. - Common Stock|G|N|D|100|N|N
-ARAY|Accuray Incorporated - Common Stock|Q|N|D|100|N|N
+ARAY|Accuray Incorporated - Common Stock|S|N|D|100|N|N
 ARBB|ARB IOT Group Limited - Ordinary Shares|S|N|N|100|N|N
 ARBE|Arbe Robotics Ltd. - Ordinary Shares|S|N|D|100|N|N
 ARBEW|Arbe Robotics Ltd. - Warrant|S|N|N|100|N|N
@@ -727,9 +727,9 @@ BMRC|Bank of Marin Bancorp - Common Stock|Q|N|N|100|N|N
 BMRN|BioMarin Pharmaceutical Inc. - Common Stock|Q|N|N|100|N|N
 BNAI|Brand Engagement Network Inc. - Common Stock|S|N|N|100|N|N
 BNAIW|Brand Engagement Network Inc. - Warrant|S|N|N|100|N|N
-BNC|CEA Industries Inc. - Common Stock|S|N|D|100|N|N
-BNCWW|CEA Industries Inc. - Warrant|S|N|D|100|N|N
-BNCWZ|CEA Industries Inc. - Warrants|S|N|D|100|N|N
+BNC|CEA Industries Inc. - Common Stock|S|N|N|100|N|N
+BNCWW|CEA Industries Inc. - Warrant|S|N|N|100|N|N
+BNCWZ|CEA Industries Inc. - Warrants|S|N|N|100|N|N
 BND|Vanguard Total Bond Market ETF|G|N|N|100|Y|N
 BNDP|Vanguard Core-Plus Bond Index ETF|G|N|N|100|Y|N
 BNDW|Vanguard Total World Bond ETF|G|N|N|100|Y|N
@@ -1150,7 +1150,7 @@ CNSP|CNS Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 CNSY|Cerenome, Inc. - Common Stock|S|N|N|100|N|N
 CNTB|Connect Biopharma Holdings Limited - Ordinary Shares|G|N|N|100|N|N
 CNTN|Canton Strategic Holdings, Inc. - Common Stock|S|N|N|100|N|N
-CNTX|Context Therapeutics Inc. - Common Stock|S|N|N|100|N|N
+CNTX|Context Therapeutics Inc. - Common Stock|S|N|D|100|N|N
 CNTY|Century Casinos, Inc. - Common Stock|S|N|N|100|N|N
 CNVS|Cineverse Corp. - Class A Common Stock|S|N|N|100|N|N
 CNXC|Concentrix Corporation - Common Stock|Q|N|N|100|N|N
@@ -2129,7 +2129,7 @@ GNLN|Greenlane Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
 GNLX|Genelux Corporation - Common Stock|S|N|N|100|N|N
 GNMA|iShares GNMA Bond ETF|G|N|N|100|Y|N
 GNOM|Global X Genomics & Biotechnology ETF|G|N|N|100|Y|N
-GNPX|Genprex, Inc. - Common Stock|S|N|D|100|N|N
+GNPX|Genprex, Inc. - Common Stock|S|N|N|100|N|N
 GNSS|Genasys Inc. - Common Stock|S|N|N|100|N|N
 GNTA|Genenta Science S.p.A. - American Depositary Shares|S|N|N|100|N|N
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100|N|N
@@ -2887,7 +2887,7 @@ LDRX|SGI Enhanced Market Leaders ETF|G|N|N|100|Y|N
 LDSF|First Trust Low Duration Strategic Focus ETF|G|N|N|100|Y|N
 LE|Lands' End, Inc. - Common Stock|S|N|N|100|N|N
 LECO|Lincoln Electric Holdings, Inc. - Common Shares|Q|N|N|40|N|N
-LEDS|SemiLEDS Corporation - Common Stock|S|N|D|100|N|N
+LEDS|SemiLEDS Corporation - Common Stock|S|N|N|100|N|N
 LEE|Lee Enterprises, Incorporated - Common Stock|Q|N|N|100|N|N
 LEGH|Legacy Housing Corporation - Common Stock|Q|N|N|100|N|N
 LEGN|Legend Biotech Corporation - American Depositary Shares|Q|N|N|100|N|N
@@ -3027,7 +3027,7 @@ LUNR|Intuitive Machines, Inc. - Class A Common Stock|G|N|N|100|N|N
 LVDS|JPMorgan Fundamental Data Science Large Value ETF|G|N|N|100|Y|N
 LVHD|Franklin U.S. Low Volatility High Dividend Index ETF|G|N|N|100|Y|N
 LVIG|Longview Advantage Fixed Income ETF|G|N|N|100|Y|N
-LVLU|Lulu's Fashion Lounge Holdings, Inc. - Common Stock|S|N|D|100|N|N
+LVLU|Lulu's Fashion Lounge Holdings, Inc. - Common Stock|S|N|N|100|N|N
 LVO|LiveOne, Inc. - Common Stock|S|N|N|100|N|N
 LWAC|LightWave Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 LWACU|LightWave Acquisition Corp. - Units|G|N|N|100|N|N
@@ -4949,7 +4949,7 @@ TPLS|Thornburg Core Plus Bond ETF|G|N|N|100|Y|N
 TPST|Tempest Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 TQQQ|ProShares UltraPro QQQ|G|N|N|100|Y|N
 TQQY|GraniteShares YieldBOOST QQQ ETF|G|N|N|100|Y|N
-TRAW|Traws Pharma, Inc. - Common Stock|S|N|N|100|N|N
+TRAW|Traws Pharma, Inc. - Common Stock|S|N|D|100|N|N
 TRAX|First Tracks Biotherapeutics, Inc. - Ordinary Shares|Q|N|N|100|N|N
 TRBF|Angel Oak Total Return ETF|G|N|N|100|Y|N
 TRDA|Entrada Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -5278,8 +5278,6 @@ VSAT|ViaSat, Inc. - Common Stock|Q|N|N|100|N|N
 VSDA|VictoryShares Dividend Accelerator ETF|G|N|N|100|Y|N
 VSEC|VSE Corporation - Common Stock|Q|N|N|100|N|N
 VSECU|VSE Corporation - Tangible Equity Units|Q|N|N|100|N|N
-VSEE|VSee Health, Inc. - Common Stock|S|N|D|100|N|N
-VSEEW|VSee Health, Inc. - Warrant|S|N|N|100|N|N
 VSME|VS Media Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 VSMV|VictoryShares US Multi-Factor Minimum Volatility ETF|G|N|N|100|Y|N
 VSNT|Versant Media Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -5573,6 +5571,6 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100|N|N
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
-ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|D|100|N|N
+ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0805202618:01|||||||
+File Creation Time: 0806202607:00|||||||

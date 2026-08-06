@@ -1,10 +1,10 @@
 {
   "meta": {
-    "lastUpdatedAt": "2026-08-05T22:37:45.150Z",
+    "lastUpdatedAt": "2026-08-06T11:55:59.377Z",
     "source": "custom-universe-cache",
-    "universeCount": 6324,
+    "universeCount": 6323,
     "scoredCount": 0,
-    "budgetUsed": 32,
+    "budgetUsed": 1,
     "budgetLimit": 200,
     "status": "Provider rate limited immediately (HTTP 429); kept previous Top 20 snapshot."
   },

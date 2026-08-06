@@ -210,6 +210,7 @@ AJG|Arthur J. Gallagher & Co. Common Stock|N|AJG|N|100|N|AJG
 AJUL|Innovator Equity Defined Protection ETF - 2 Yr to July 2026|Z|AJUL|Y|100|N|AJUL
 AKA|a.k.a. Brands Holding Corp. Common Stock|N|AKA|N|100|N|AKA
 AKAF|The Frontier Economic Fund|N|AKAF|Y|100|N|AKAF
+AKAL|T-REX 2X Long AKAM Daily Target ETF|Z|AKAL|Y|100|N|AKAL
 AKO.A|Embotelladora Andina S.A. Common Stock|N|AKO.A|N|100|N|AKO.A
 AKO.B|Embotelladora Andina S.A. Common Stock|N|AKO.B|N|100|N|AKO.B
 AKR|Acadia Realty Trust Common Stock|N|AKR|N|100|N|AKR
@@ -4040,6 +4041,7 @@ LOCT|Innovator Premium Income 15 Buffer ETF - October|Z|LOCT|Y|100|N|LOCT
 LODE|Comstock Inc. Common Stock|A|LODE|N|100|N|LODE
 LODI|AAM SLC Low Duration Income ETF|P|LODI|Y|100|N|LODI
 LOEV|Harding Loevner International Developed Markets Select Equity ETF|P|LOEV|Y|100|N|LOEV
+LOFD|Direxion Daily SpaceX Bear 2X ETF|P|LOFD|Y|100|N|LOFD
 LOFF|Direxion Daily SpaceX Bull 2X ETF|P|LOFF|Y|100|N|LOFF
 LOHA|Roundhill HALO ETF|Z|LOHA|Y|100|N|LOHA
 LOMA|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS|N|LOMA|N|100|N|LOMA
@@ -4108,6 +4110,7 @@ LXU|LSB Industries, Inc. Common Stock|N|LXU|N|100|N|LXU
 LYB|LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)|N|LYB|N|100|N|LYB
 LYG|Lloyds Banking Group Plc American Depositary Shares|N|LYG|N|100|N|LYG
 LYLD|Cambria Large Cap Shareholder Yield ETF|Z|LYLD|Y|100|N|LYLD
+LYTE|Roundhill Photonics & Optics ETF|Z|LYTE|Y|100|N|LYTE
 LYV|Live Nation Entertainment, Inc. Common Stock|N|LYV|N|100|N|LYV
 LZB|La-Z-Boy Incorporated Common Stock|N|LZB|N|100|N|LZB
 LZM|Lifezone Metals Limited Ordinary Shares|N|LZM|N|100|N|LZM
@@ -4823,6 +4826,7 @@ OCAC.U|Ocean Capital Acquisition Corporation Units, each consisting of one Class
 OCAC.W|Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share|N|OCAC.WS|N|100|N|OCAC+
 OCDB|Aptus October Deep Buffer ETF|Z|OCDB|Y|100|N|OCDB
 OCIO|ClearShares OCIO ETF|P|OCIO|Y|100|N|OCIO
+OCNL|T-REX 2X Long DOCN Daily Target ETF|Z|OCNL|Y|100|N|OCNL
 OCTB|Aptus October Buffer ETF|Z|OCTB|Y|100|N|OCTB
 OCTH|Innovator Premium Income 20 Barrier ETF - October|Z|OCTH|Y|100|N|OCTH
 OCTJ|Innovator Premium Income 30 Barrier ETF - October|Z|OCTJ|Y|100|N|OCTJ
@@ -5070,6 +5074,7 @@ PEG|Public Service Enterprise Group Incorporated Common Stock|N|PEG|N|100|N|PEG
 PEJ|Invesco Leisure and Entertainment ETF|P|PEJ|Y|100|N|PEJ
 PEMX|Putnam Emerging Markets ex-China ETF|P|PEMX|Y|100|N|PEMX
 PEN|Penumbra, Inc. Common Stock|N|PEN|N|40|N|PEN
+PENU|T-REX 2X Long PENG Daily Target ETF|Z|PENU|Y|100|N|PENU
 PEO|Adams Natural Resources Fund, Inc. Common Stock|N|PEO|N|100|N|PEO
 PERF|Perfect Corp. Class A Ordinary Share|N|PERF|N|100|N|PERF
 PEVC|Pacer PE/VC ETF|P|PEVC|Y|100|N|PEVC
@@ -7524,4 +7529,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0805202618:01||||||
+File Creation Time: 0806202607:00||||||
