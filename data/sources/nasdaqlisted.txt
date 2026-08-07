@@ -315,6 +315,7 @@ ANGHW|Anghami Inc. - Warrants|S|N|N|100|N|N
 ANGI|Angi Inc. - Class A Common Stock|Q|N|N|100|N|N
 ANGL|VanEck Fallen Angel High Yield Bond ETF|G|N|N|100|Y|N
 ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100|N|N
+ANGU|SEI Ang Research Enhanced U.S. Large Cap ETF|G|N|N|100|Y|N
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ANIX|Anixa Biosciences, Inc. - Common Stock|S|N|N|100|N|N
@@ -653,8 +654,8 @@ BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,0
 BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A|Q|N|N|100|N|N
 BHRB|Burke & Herbert Financial Services Corp. - Common Stock|S|N|N|100|N|N
 BHST|BioHarvest Sciences Inc. - Common Stock|G|N|N|100|N|N
-BIAF|bioAffinity Technologies, Inc. - Common Stock|S|N|N|100|N|N
-BIAFW|bioAffinity Technologies, Inc. - Warrant|S|N|N|100|N|N
+BIAF|bioAffinity Technologies, Inc. - Common Stock|S|N|D|100|N|N
+BIAFW|bioAffinity Technologies, Inc. - Warrant|S|N|D|100|N|N
 BIB|ProShares Ultra Nasdaq Biotechnology|G|N|N|100|Y|N
 BID|Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BIDG|Leverage Shares 2X Long BIDU Daily ETF|G|N|N|100|Y|N
@@ -740,8 +741,6 @@ BNR|Burning Rock Biotech Limited - American Depositary Shares|G|N|N|100|N|N
 BNRG|Brenmiller Energy Ltd - Ordinary Shares|S|N|N|100|N|N
 BNTC|Benitec Biopharma Inc. - Common Stock|S|N|N|100|N|N
 BNTX|BioNTech SE - American Depositary Shares|Q|N|N|100|N|N
-BNZI|Banzai International, Inc. - Class A Common Stock|S|N|N|100|N|N
-BNZIW|Banzai International, Inc. - Warrant|S|N|N|100|N|N
 BODI|The Beachbody Company, Inc. - Class A Common Stock|S|N|N|100|N|N
 BOEG|Leverage Shares 2X Long BA Daily ETF|G|N|N|100|Y|N
 BOEU|Direxion Daily BA Bull 2X ETF|G|N|N|100|Y|N
@@ -797,6 +796,7 @@ BRTR|iShares Total Return Active ETF|G|N|N|100|Y|N
 BRTX|BioRestorative Therapies, Inc. - Common Stock|S|N|D|100|N|N
 BRUN|Boost Run Inc. - Class A Common Stock|G|N|N|100|N|N
 BRUNW|Boost Run Inc. - Warrant|S|N|N|100|N|N
+BRVE|Braveheart Bio, Inc. - Common Stock|G|N|N|100|N|N
 BRZE|Braze, Inc. - Class A Common Stock|Q|N|N|100|N|N
 BSAA|BEST SPAC I Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 BSAAR|BEST SPAC I Acquisition Corp. - Rights|S|N|N|100|N|N
@@ -1510,7 +1510,7 @@ DWSN|Dawson Geophysical Company - Common Stock|Q|N|N|100|N|N
 DWTX|Dogwood Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 DWUS|AdvisorShares Dorsey Wright FSM US Core ETF|G|N|N|100|Y|N
 DXCM|DexCom, Inc. - Common Stock|Q|N|N|100|N|N
-DXLG|Destination XL Group, Inc. - Common Stock|G|N|D|100|N|N
+DXLG|Destination XL Group, Inc. - Common Stock|S|N|D|100|N|N
 DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
 DXR|Daxor Corporation - Closed End Fund|S|N|N|100|N|N
 DXST|Decent Holding Inc. - Class A Ordinary Shares|S|N|N|100|N|N
@@ -1664,7 +1664,7 @@ ETHA|iShares Ethereum Trust ETF|G|N|N|100|Y|N
 ETHB|iShares Staked Ethereum Trust ETF|G|N|N|100|Y|N
 ETON|Eton Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ETOR|eToro Group Ltd. - Class A Common Shares|Q|N|N|100|N|N
-ETS|Elite Express Holding Inc. - Class A Common Stock|S|N|D|100|N|N
+ETS|Elite Express Holding Inc. - Class A Common Stock|S|N|N|100|N|N
 EU|enCore Energy Corp. - Common Stock|S|N|N|100|N|N
 EUDA|Euda Health Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 EUDAW|Euda Health Holdings Limited - Warrant|S|N|N|100|N|N
@@ -2342,7 +2342,7 @@ HOUR|Hour Loop, Inc. - common stock|S|N|N|100|N|N
 HOVNP|Hovnanian Enterprises Inc - Depositary Share representing 1/1000th of 7.625% Series A Preferred Stock|G|N|N|100|N|N
 HOVR|New Horizon Aircraft Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 HOVRW|New Horizon Aircraft Ltd. - Warrant|S|N|N|100|N|N
-HOWL|Werewolf Therapeutics, Inc. - Common Stock|Q|N|D|100|N|N
+HOWL|Werewolf Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 HOYY|GraniteShares YieldBOOST HOOD ETF|G|N|N|100|Y|N
 HPAI|Helport AI Limited - Ordinary Shares|S|N|D|100|N|N
 HPAIW|Helport AI Limited - Warrants|S|N|N|100|N|N
@@ -3374,6 +3374,7 @@ NCEL|NewcelX Ltd. - Ordinary Shares|S|N|N|100|N|N
 NCEW|New Century Logistics (BVI) Limited - Ordinary Shares|S|N|N|100|N|N
 NCI|Neo-Concept International Group Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 NCIQ|Hashdex Nasdaq CME Crypto Index ETF|G|N|N|100|Y|N
+NCLD|Roundhill Neocloud ETF|G|N|N|100|Y|N
 NCMI|National CineMedia, Inc. - Common Stock|Q|N|N|100|N|N
 NCNA|NuCana plc - American Depositary Shares|S|N|N|100|N|N
 NCNO|nCino, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3763,6 +3764,8 @@ PAMT|PAMT CORP - Common Stock|G|N|N|100|N|N
 PANG|Leverage Shares 2X Long PANW Daily ETF|G|N|N|100|Y|N
 PANL|Pangaea Logistics Solutions Ltd. - Common Stock|S|N|N|100|N|N
 PANW|Palo Alto Networks, Inc. - Common Stock|Q|N|N|100|N|N
+PARA|Banzai International, Inc. - Class A Common Stock|S|N|N|100|N|N
+PARAW|Banzai International, Inc. - Warrant|S|N|N|100|N|N
 PARK|Park Dental Partners, Inc. - Common Stock|S|N|N|100|N|N
 PASG|Passage Bio, Inc. - Common Stock|S|N|N|100|N|N
 PASW|Ping An Biomedical Co., Ltd. - Class A Ordinary Shares|S|N|D|100|N|N
@@ -3815,7 +3818,7 @@ PDEX|Pro-Dex, Inc. - Common Stock|S|N|N|100|N|N
 PDFS|PDF Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 PDLB|Ponce Financial Group, Inc. - Common Stock|G|N|N|100|N|N
 PDP|Invesco Dorsey Wright Momentum ETF|G|N|N|100|Y|N
-PDSB|PDS Biotechnology Corporation - Common Stock|S|N|N|100|N|N
+PDSB|PDS Biotechnology Corporation - Common Stock|S|N|D|100|N|N
 PDYN|Palladyne AI Corp. - Common stock|G|N|N|100|N|N
 PDYNW|Palladyne AI Corp. - Warrant|G|N|N|100|N|N
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100|N|N
@@ -4176,6 +4179,7 @@ RBKB|Rhinebeck Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 RBNE|Robin Energy Ltd. - Common Stock|S|N|N|100|N|N
 RCAT|Red Cat Holdings, Inc. - Common Stock|S|N|N|100|N|N
 RCAX|Defiance Daily Target 2x Long RCAT ETF|G|N|N|100|Y|N
+RCBC|River City Bank - Common stock|S|N|N|100|N|N
 RCEL|Avita Medical, Inc. - Common Stock|S|N|N|100|N|N
 RCGE|RockCreek Global Equality ETF|G|N|N|100|Y|N
 RCKT|Rocket Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
@@ -4881,6 +4885,7 @@ THYM|T. Rowe Price High Income Municipal ETF|G|N|N|100|Y|N
 THYP|21shares Hyperliquid ETF|G|N|N|100|Y|N
 TIGO|Millicom International Cellular S.A. - Common Stock|Q|N|N|100|N|N
 TIGR|UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares|Q|N|N|100|N|N
+TIH|The Investment House ETF|G|N|N|100|Y|N
 TIL|Instil Bio, Inc. - Common Stock|S|N|N|100|N|N
 TILC|Thrivent International Large Cap ETF|G|N|N|100|Y|N
 TILE|Interface, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5418,7 +5423,7 @@ WXM|WF International Limited - Ordinary Shares|S|N|N|100|N|N
 WYFI|WhiteFiber, Inc. - Ordinary Shares|S|N|N|100|N|N
 WYHG|Wing Yip Food Holdings Group Limited - American Depositary Shares|S|N|N|100|N|N
 WYNN|Wynn Resorts, Limited - Common Stock|Q|N|N|100|N|N
-XAIR|Beyond Air, Inc. - Common Stock|S|N|D|100|N|N
+XAIR|Beyond Air, Inc. - Common Stock|S|N|N|100|N|N
 XAIX|Xtrackers Artificial Intelligence and Big Data ETF|G|N|N|100|Y|N
 XBCI|NEOS Boosted Bitcoin High Income ETF|G|N|N|100|Y|N
 XBIL|US Treasury 6 Month Bill ETF|G|N|N|100|Y|N
@@ -5573,4 +5578,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0806202607:00|||||||
+File Creation Time: 0807202607:00|||||||

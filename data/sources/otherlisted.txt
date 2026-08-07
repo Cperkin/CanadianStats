@@ -515,8 +515,6 @@ AWP|abrdn Global Premier Properties Fund Common Shares of Beneficial Interest|N|
 AWR|American States Water Company Common Stock|N|AWR|N|100|N|AWR
 AWX|Avalon Holdings Corporation Common Stock|A|AWX|N|100|N|AWX
 AX|Axos Financial, Inc. Common Stock|N|AX|N|100|N|AX
-AXIA|AXIA Energia American Depositary Shares (Each representing one Common Share)|N|AXIA|N|100|N|AXIA
-AXIA$C|AXIA Energia American Depositary Shares, each representing one Preferred Class C Share|N|AXIApC|N|100|N|AXIA-C
 AXIL|AXIL Brands, Inc. Common Stock|A|AXIL|N|100|N|AXIL
 AXP|American Express Company Common Stock|N|AXP|N|40|N|AXP
 AXR|AMREP Corporation Common Stock|N|AXR|N|100|N|AXR
@@ -3738,7 +3736,6 @@ JPUS|JPMorgan Diversified Return U.S. Equity ETF|P|JPUS|Y|100|N|JPUS
 JPXN|iShares JPX-Nikkei 400 ETF|P|JPXN|Y|100|N|JPXN
 JQC|Nuveen Credit Strategies Income Fund Shares of Beneficial Interest|N|JQC|N|100|N|JQC
 JQUA|JPMorgan U.S. Quality Factor ETF|P|JQUA|Y|100|N|JQUA
-JRE|Janus Henderson U.S. Real Estate ETF|P|JRE|Y|100|N|JRE
 JRI|Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest|N|JRI|N|100|N|JRI
 JRS|Nuveen Real Estate Income Fund Common Shares of Beneficial Interest|N|JRS|N|100|N|JRS
 JSCP|JPMorgan Short Duration Core Plus ETF|P|JSCP|Y|100|N|JSCP
@@ -5205,6 +5202,7 @@ PMTL|First Trust Indxx Quality Precious Metals Miners ETF|P|PMTL|Y|100|N|PMTL
 PMTU|PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028|N|PMTU|N|100|N|PMTU
 PMTV|PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030|N|PMTV|N|100|N|PMTV
 PMTW|PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030|N|PMTW|N|100|N|PMTW
+PNAQ.U|Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right|N|PNAQ.U|N|100|N|PNAQ=
 PNC|PNC Financial Services Group, Inc. (The) Common Stock|N|PNC|N|100|N|PNC
 PNFP|Pinnacle Financial Partners, Inc. Common stock|N|PNFP|N|100|N|PNFP
 PNFP$A|Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A|N|PNFPpA|N|100|N|PNFP-A
@@ -6598,6 +6596,7 @@ TOUS|T. Rowe Price International Equity ETF|P|TOUS|Y|100|N|TOUS
 TOV|JLens 500 Jewish Advocacy U.S. ETF|P|TOV|Y|100|N|TOV
 TOVX|Theriva Biologics, Inc. Common Stock|A|TOVX|N|100|N|TOVX
 TOXR|21Shares XRP ETF|Z|TOXR|Y|100|N|TOXR
+TP|Ticketplus Ltd. Ordinary Shares|A|TP|N|100|N|TP
 TPAY|Roundhill S&P 500 Target 10 Managed Distribution ETF|Z|TPAY|Y|100|N|TPAY
 TPB|Turning Point Brands, Inc. Common Stock|N|TPB|N|100|N|TPB
 TPC|Tutor Perini Corporation Common Stock|N|TPC|N|100|N|TPC
@@ -7529,4 +7528,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0806202607:00||||||
+File Creation Time: 0807202607:00||||||

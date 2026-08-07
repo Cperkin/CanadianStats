@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "trackedUsed": 0,
   "trackedLimit": 50,
-  "top20Used": 1,
+  "top20Used": 200,
   "top20Limit": 200,
-  "lastResetAt": "2026-08-06T11:55:59.378Z"
+  "lastResetAt": "2026-08-07T11:33:46.100Z"
 }

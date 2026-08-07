@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-06T11:55:59.422Z",
+  "generatedAt": "2026-08-07T11:33:46.144Z",
   "status": "healthy",
   "freshness": {
-    "universeUpdatedAt": "2026-08-06T11:55:51.102Z",
+    "universeUpdatedAt": "2026-08-07T11:31:46.742Z",
     "universeAgeHours": 0,
-    "top20UpdatedAt": "2026-08-06T11:55:59.377Z",
+    "top20UpdatedAt": "2026-08-07T11:33:46.099Z",
     "top20AgeHours": 0
   },
   "counts": {
-    "universeCount": 6323,
-    "scoredCount": 0,
+    "universeCount": 6324,
+    "scoredCount": 200,
     "displayedTopCount": 20
   },
   "budget": {
-    "date": "2026-08-06",
-    "top20Used": 1,
+    "date": "2026-08-07",
+    "top20Used": 200,
     "top20Limit": 200,
     "trackedUsed": 0,
     "trackedLimit": 50
   },
   "notes": {
     "universeMode": "full-source-build",
-    "top20Status": "Provider rate limited immediately (HTTP 429); kept previous Top 20 snapshot."
+    "top20Status": "Top 20 cache updated from custom universe."
   }
 }
