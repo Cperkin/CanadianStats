@@ -707,6 +707,7 @@ BLRKU|Bluerock Acquisition Corp. - Units|G|N|N|100|N|N
 BLRKW|Bluerock Acquisition Corp. - Warrants|G|N|N|100|N|N
 BLRX|BioLineRx Ltd. - American Depositary Shares|S|N|N|100|N|N
 BLSG|Leverage Shares 2X Long BLSH Daily ETF|G|N|N|100|Y|N
+BLSM|BlossomHill Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 BLTE|Belite Bio, Inc - American Depositary Shares|S|N|N|100|N|N
 BLUW|Blue Water Acquisition Corp. III - Class A Ordinary Shares|G|N|N|100|N|N
 BLUWU|Blue Water Acquisition Corp. III - Unit.|G|N|N|100|N|N
@@ -813,6 +814,7 @@ BSCW|Invesco BulletShares 2032 Corporate Bond ETF|G|N|N|100|Y|N
 BSCX|Invesco BulletShares 2033 Corporate Bond ETF|G|N|N|100|Y|N
 BSCY|Invesco BulletShares 2034 Corporate Bond ETF|G|N|N|100|Y|N
 BSCZ|Invesco BulletShares 2035 Corporate Bond ETF|G|N|N|100|Y|N
+BSEM|BioStem Technologies, Inc. - Common Stock|S|N|N|100|N|N
 BSET|Bassett Furniture Industries, Incorporated - Common Stock|Q|N|N|100|N|N
 BSGR|Invesco BulletShares 2027 Treasury Bond ETF|G|N|N|100|Y|N
 BSGT|Invesco BulletShares 2029 Treasury Bond ETF|G|N|N|100|Y|N
@@ -1043,7 +1045,7 @@ CGON|CG Oncology, Inc. - Common stock|Q|N|N|100|N|N
 CGTL|Creative Global Technology Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 CGTX|Cognition Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CHA|Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share|Q|N|N|100|N|N
-CHAI|Core AI Holdings, Inc. - Common Shares|S|N|N|100|N|N
+CHAI|Core AI Holdings, Inc. - Common Shares|S|N|D|100|N|N
 CHAR|Charlton Aria Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 CHARR|Charlton Aria Acquisition Corporation - Rights|G|N|N|100|N|N
 CHARU|Charlton Aria Acquisition Corporation - Units|G|N|N|100|N|N
@@ -1798,7 +1800,7 @@ FERAR|Fifth Era Acquisition Corp I - Rights|G|N|N|100|N|N
 FERAU|Fifth Era Acquisition Corp I - Units|G|N|N|100|N|N
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100|Y|N
 FEX|First Trust Large Cap Core AlphaDEX Fund|G|N|N|100|Y|N
-FFAI|Faraday Future Intelligent Electric Inc. - Class A Common Stock|S|N|D|100|N|N
+FFAI|Faraday Future Intelligent Electric Inc. - Class A Common Stock|S|N|N|100|N|N
 FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100|N|N
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 FFIV|F5, Inc. - Common Stock|Q|N|N|40|N|N
@@ -2316,7 +2318,7 @@ HLAL|Wahed FTSE USA Shariah ETF|G|N|N|100|Y|N
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100|N|N
 HLMN|Hillman Solutions Corp. - Common Stock|G|N|N|100|N|N
 HLNE|Hamilton Lane Incorporated - Class A Common Stock|Q|N|N|100|N|N
-HLP|Hongli Group Inc. - Class A Ordinary Shares|S|N|D|100|N|N
+HLP|Hongli Group Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 HLTH|Tema Healthcare AI ETF|G|N|N|100|Y|N
 HLXC|Helix Acquisition Corp. III - Class A Ordinary Shares|G|N|N|100|N|N
 HMH|HMH Holding Inc. - Common Stock|Q|N|N|100|N|N
@@ -2381,7 +2383,7 @@ HUBG|Hub Group, Inc. - Class A Common Stock|Q|N|E|100|N|N
 HUDI|Huadi International Group Co., Ltd. - Ordinary Shares|S|N|D|100|N|N
 HUHU|HUHUTECH International Group Inc. - Ordinary Shares|S|N|N|100|N|N
 HUIZ|Huize Holding Limited - American Depositary Shares|G|N|N|100|N|N
-HUMA|Humacyte, Inc. - Common Stock|Q|N|N|100|N|N
+HUMA|Humacyte, Inc. - Common Stock|Q|N|D|100|N|N
 HUMAW|Humacyte, Inc. - Warrant|Q|N|N|100|N|N
 HURA|TuHURA Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 HURC|Hurco Companies, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3011,6 +3013,7 @@ LSTA|Lisata Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 LSTR|Landstar System, Inc. - Common Stock|Q|N|N|100|N|N
 LTBR|Lightbridge Corporation - Common Stock|S|N|N|100|N|N
 LTCC|Canary Litecoin ETF|G|N|N|100|Y|N
+LTGO|Latigo Biotherapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 LTGR|Long Table Growth Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 LTGRU|Long Table Growth Corp. - Units|G|N|N|100|N|N
 LTGRW|Long Table Growth Corp. - Warrants|G|N|N|100|N|N
@@ -3597,6 +3600,7 @@ OCCIN|OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due 2026|S|
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100|N|N
 OCG|Oriental Culture Holding LTD - Ordinary Shares|S|N|N|100|N|N
 OCGN|Ocugen, Inc. - Common Stock|S|N|N|100|N|N
+OCLTU|OceanLight Acquisition Corporation - Units|G|N|N|100|N|N
 OCS|Oculis Holding AG - Ordinary shares|G|N|N|100|N|N
 OCSAW|Oculis Holding AG - Warrants|G|N|N|100|N|N
 OCSL|Oaktree Specialty Lending Corporation - Closed End Fund|Q|N|N|100|N|N
@@ -3979,7 +3983,7 @@ PROF|Profound Medical Corp. - common stock|S|N|N|100|N|N
 PROK|ProKidney Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 PROP|Prairie Operating Co. - Common Stock|S|N|D|100|N|N
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-PRPL|Purple Innovation, Inc. - Common Stock|Q|N|D|100|N|N
+PRPL|Purple Innovation, Inc. - Common Stock|Q|N|N|100|N|N
 PRPO|Precipio, Inc. - Common Stock|S|N|N|100|N|N
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|S|N|N|100|N|N
 PRSO|Peraso Inc. - Common Stock|S|N|D|100|N|N
@@ -4148,6 +4152,7 @@ QUMSR|Quantumsphere Acquisition Corp. - Rights|G|N|N|100|N|N
 QUMSU|Quantumsphere Acquisition Corp. - Units|G|N|N|100|N|N
 QURE|uniQure N.V. - Ordinary Shares|Q|N|N|100|N|N
 QVAL|Alpha Architect U.S. Quantitative Value ETF|G|N|N|100|Y|N
+QVC|QVC Group, Inc. - Common Stock|Q|N|N|100|N|N
 QVOL|Infrastructure Capital Nasdaq Option Income ETF|G|N|N|100|Y|N
 QXL|Quantum X Labs Inc. - Common Stock|S|N|N|100|N|N
 QXQ|SGI Enhanced Nasdaq-100 ETF|G|N|N|100|Y|N
@@ -5113,7 +5118,7 @@ UPB|Upstream Bio, Inc. - Common Stock|Q|N|N|100|N|N
 UPBD|Upbound Group, Inc. - Common Stock|Q|N|N|100|N|N
 UPC|Universe Pharmaceuticals Inc - Class A Ordinary Shares|S|N|N|100|N|N
 UPGR|Xtrackers US Green Infrastructure Select Equity ETF|G|N|N|100|Y|N
-UPLD|Upland Software, Inc. - Common Stock|G|N|N|100|N|N
+UPLD|Upland Software, Inc. - Common Stock|G|N|D|100|N|N
 UPST|Upstart Holdings, Inc. - Common stock|Q|N|N|100|N|N
 UPWK|Upwork Inc. - Common Stock|Q|N|N|100|N|N
 UPXI|Upexi, Inc. - Common Stock|S|N|D|100|N|N
@@ -5578,4 +5583,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0807202607:00|||||||
+File Creation Time: 0807202621:31|||||||
