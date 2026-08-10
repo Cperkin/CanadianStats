@@ -1279,6 +1279,7 @@ XEQT,iShares Core Equity ETF Portfolio,TSX
 XGRO,iShares Core Growth ETF Portfolio,TSX
 XINC,iShares Core Income Balanced ETF Portfolio,TSX
 XAW,iShares Core MSCI All Country World ex Canada Index ETF,TSX
+XINT,iShares Core MSCI All-International Equity Index ETF,TSX
 XDIV,iShares Core MSCI Canadian Quality Dividend Index ETF,TSX
 XEF,iShares Core MSCI EAFE IMI Index ETF,TSX
 XFH,iShares Core MSCI EAFE IMI Index ETF (CAD-Hedged),TSX
@@ -1297,6 +1298,7 @@ XIC,iShares Core S&P/TSX Capped Composite Index ETF,TSX
 XHAK,iShares Cybersecurity and Tech Index ETF,TSX
 XTR,iShares Diversified Monthly Income ETF,TSX
 CEW,iShares Equal Weight Banc & Lifeco ETF,TSX
+IBQT,iShares Equity + Bitcoin ETF Portfolio,TSX
 XSHG,iShares ESG Advanced 1-5 Year Canadian Corporate Bond Index ETF,TSX
 XCBG,iShares ESG Advanced Canadian Corporate Bond Index ETF,TSX
 XCSR,iShares ESG Advanced MSCI Canada Index ETF,TSX

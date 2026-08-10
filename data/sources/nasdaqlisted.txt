@@ -3273,7 +3273,7 @@ MSFL|GraniteShares 2x Long MSFT Daily ETF|G|N|N|100|Y|N
 MSFT|Microsoft Corporation - Common Stock|Q|N|N|40|N|N
 MSFU|Direxion Daily MSFT Bull 2X ETF|G|N|N|100|Y|N
 MSGM|Motorsport Games Inc. - Class A Common Stock|S|N|N|100|N|N
-MSGY|Masonglory Limited - Ordinary Shares|S|N|D|100|N|N
+MSGY|Masonglory Limited - Class A Ordinary Shares|S|N|D|100|N|N
 MSLE|Satellos Bioscience Inc. - Common Stock|G|N|N|100|N|N
 MSR|GraniteShares Autocallable MSTR ETF|G|N|N|100|Y|N
 MSS|Maison Solutions Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -4152,7 +4152,7 @@ QUMSR|Quantumsphere Acquisition Corp. - Rights|G|N|N|100|N|N
 QUMSU|Quantumsphere Acquisition Corp. - Units|G|N|N|100|N|N
 QURE|uniQure N.V. - Ordinary Shares|Q|N|N|100|N|N
 QVAL|Alpha Architect U.S. Quantitative Value ETF|G|N|N|100|Y|N
-QVC|QVC Group, Inc. - Common Stock|Q|N|N|100|N|N
+QVCG|QVC Group, Inc. - Common Stock|Q|N|N|100|N|N
 QVOL|Infrastructure Capital Nasdaq Option Income ETF|G|N|N|100|Y|N
 QXL|Quantum X Labs Inc. - Common Stock|S|N|N|100|N|N
 QXQ|SGI Enhanced Nasdaq-100 ETF|G|N|N|100|Y|N
@@ -4688,7 +4688,6 @@ SRRK|Scholar Rock Holding Corporation - Common Stock|Q|N|N|100|N|N
 SRTA|Strata Critical Medical, Inc. - Class A Common Stock|S|N|N|100|N|N
 SRTS|Sensus Healthcare, Inc. - Common Stock|S|N|N|100|N|N
 SRZN|Surrozen, Inc. - Common Stock|S|N|N|100|N|N
-SRZNW|Surrozen, Inc. - Warrant|S|N|N|100|N|N
 SSAC|SPACSphere Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 SSACR|SPACSphere Acquisition Corp. - Rights|G|N|N|100|N|N
 SSACU|SPACSphere Acquisition Corp. - Unit|G|N|N|100|N|N
@@ -4733,7 +4732,6 @@ STRL|Sterling Infrastructure, Inc. - Common Stock|Q|N|N|40|N|N
 STRO|Sutro Biopharma, Inc. - Common Stock|G|N|N|100|N|N
 STRR|Star Equity Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 STRRP|Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
-STRS|Stratus Properties Inc. - Common Stock|Q|N|N|100|N|N
 STRT|STRATTEC SECURITY CORPORATION - Common Stock|G|N|N|100|N|N
 STRZ|Starz Entertainment Corp. - Common Shares|Q|N|N|100|N|N
 STTK|Shattuck Labs, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5419,7 +5417,7 @@ WTMU|WisdomTree Core Laddered Municipal Fund|G|N|N|100|Y|N
 WTMY|WisdomTree High Income Laddered Municipal Fund|G|N|N|100|Y|N
 WTW|Willis Towers Watson Public Limited Company - Ordinary Shares|Q|N|N|40|N|N
 WULF|TeraWulf Inc. - Common Stock|S|N|N|100|N|N
-WVE|Wave Life Sciences Ltd. - Ordinary Shares|G|N|N|100|N|N
+WVE|Wave Life Sciences, Inc. - Common Stock|G|N|N|100|N|N
 WVVI|Willamette Valley Vineyards, Inc. - Common Stock|S|N|N|100|N|N
 WVVIP|Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock|S|N|N|100|N|N
 WW|WW International, Inc.  - Common Stock|G|N|N|100|N|N
@@ -5583,4 +5581,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0807202621:31|||||||
+File Creation Time: 0810202607:00|||||||

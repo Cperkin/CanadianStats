@@ -363,6 +363,7 @@ ARES|Ares Management Corporation Class A Common Stock|N|ARES|N|100|N|ARES
 ARES$B|Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock|N|ARESpB|N|100|N|ARES-B
 ARGT|Global X MSCI Argentina ETF|P|ARGT|Y|100|N|ARGT
 ARI|Apollo Commercial Real Estate Finance, Inc|N|ARI|N|100|N|ARI
+ARIA|ARIA Opportunities ETF|P|ARIA|Y|100|N|ARIA
 ARIS|Aris Mining Corporation Common Shares|N|ARIS|N|100|N|ARIS
 ARKB|ARK 21Shares Bitcoin ETF |Z|ARKB|Y|100|N|ARKB
 ARKD|ARK DIET Q1 Buffer ETF|Z|ARKD|Y|100|N|ARKD
@@ -2327,7 +2328,6 @@ FCRS|FutureCrest Acquisition Corp. Class A Ordinary Shares|N|FCRS|N|100|N|FCRS
 FCRS.U|FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant|N|FCRS.U|N|100|N|FCRS=
 FCRS.W|FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|FCRS.WS|N|100|N|FCRS+
 FCSH|Federated Hermes Short Duration Corporate ETF|P|FCSH|Y|100|N|FCSH
-FCT|First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest|N|FCT|N|100|N|FCT
 FCTR|First Trust Lunt U.S. Factor Rotation ETF|Z|FCTR|Y|100|N|FCTR
 FCUS|Pinnacle Focused Opportunities ETF|P|FCUS|Y|100|N|FCUS
 FCX|Freeport-McMoRan, Inc. Common Stock|N|FCX|N|100|N|FCX
@@ -2397,6 +2397,7 @@ FFLC|Fidelity Fundamental Large Cap Core ETF|Z|FFLC|Y|100|N|FFLC
 FFLG|Fidelity Fundamental Large Cap Growth ETF|Z|FFLG|Y|100|N|FFLG
 FFLS|The Future Fund Long/Short ETF|P|FFLS|Y|100|N|FFLS
 FFLV|Fidelity Fundamental Large Cap Value ETF|Z|FFLV|Y|100|N|FFLV
+FFLX|First Trust Flexible Income ETF|P|FFLX|Y|100|N|FFLX
 FFND|One Global ETF|P|FFND|Y|100|N|FFND
 FFOG|Franklin Focused Growth ETF|Z|FFOG|Y|100|N|FFOG
 FFOX|FundX Future Fund Opportunities ETF|P|FFOX|Y|100|N|FFOX
@@ -2720,6 +2721,7 @@ GCDT|Green Circle Decarbonize Technology Limited Ordinary Shares|A|GCDT|N|100|N|
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCOR|Goldman Sachs Access U.S. Aggregate Bond ETF|P|GCOR|Y|100|N|GCOR
 GCOW|Pacer Global Cash Cows Dividend ETF|Z|GCOW|Y|100|N|GCOW
+GCPB|Goldman Sachs Core Plus Bond ETF|N|GCPB|Y|100|N|GCPB
 GCSH|Guggenheim Ultra Short Income ETF|P|GCSH|Y|100|N|GCSH
 GCTS|GCT Semiconductor Holding, Inc. Common Stock|N|GCTS|N|100|N|GCTS
 GCTS.W|GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50|N|GCTS.WS|N|100|N|GCTS+
@@ -2800,6 +2802,7 @@ GIGB|Goldman Sachs Access Investment Grade Corporate Bond ETF|P|GIGB|Y|100|N|GIG
 GIGL|Goldman Sachs Corporate Bond ETF|P|GIGL|Y|100|N|GIGL
 GII|State Street SPDR S&P Global Infrastructure ETF|P|GII|Y|100|N|GII
 GIL|Gildan Activewear, Inc. Class A Sub. Vot. Common Stock|N|GIL|N|100|N|GIL
+GINC|Goldman Sachs Income ETF|P|GINC|Y|100|N|GINC
 GINN|Goldman Sachs Innovate Equity ETF|P|GINN|Y|100|N|GINN
 GIS|General Mills, Inc. Common Stock|N|GIS|N|100|N|GIS
 GISC|Guggenheim Securitized Income ETF|P|GISC|Y|100|N|GISC
@@ -3703,7 +3706,6 @@ JOB|GEE Group Inc. Common Stock|A|JOB|N|100|N|JOB
 JOBC|Corgi JOBY 2x Daily ETF|Z|JOBC|Y|100|N|JOBC
 JOBX|Tradr 2X Long JOBY Daily ETF|Z|JOBX|Y|100|N|JOBX
 JOBY|Joby Aviation, Inc. Common Stock|N|JOBY|N|100|N|JOBY
-JOBY.W|Joby Aviation, Inc. Warrants|N|JOBY.WS|N|100|N|JOBY+
 JOE|St. Joe Company (The) Common Stock|N|JOE|N|100|N|JOE
 JOET|Virtus Terranova U.S. Quality Momentum ETF|P|JOET|Y|100|N|JOET
 JOF|Japan Smaller Capitalization Fund Inc Common Stock|N|JOF|N|100|N|JOF
@@ -5119,6 +5121,7 @@ PHI|PLDT Inc. Sponsored ADR|N|PHI|N|100|N|PHI
 PHIN|PHINIA Inc. Common Stock|N|PHIN|N|100|N|PHIN
 PHK|Pimco High Income Fund|N|PHK|N|100|N|PHK
 PHM|PulteGroup, Inc. Common Stock|N|PHM|N|100|N|PHM
+PHOX|Aura AI Photonics ETF|P|PHOX|Y|100|N|PHOX
 PHR|Phreesia, Inc. Common Stock|N|PHR|N|100|N|PHR
 PHXE$|Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares|A|PHXEp|N|100|N|PHXE-
 PHYL|PGIM Active High Yield Bond ETF|P|PHYL|Y|100|N|PHYL
@@ -7528,4 +7531,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0807202621:31||||||
+File Creation Time: 0810202607:00||||||
