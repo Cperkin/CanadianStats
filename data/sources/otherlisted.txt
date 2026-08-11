@@ -806,7 +806,6 @@ BKLN|Invesco Senior Loan ETF|P|BKLN|Y|100|N|BKLN
 BKMC|BNY Mellon US Mid Cap Core Equity ETF|P|BKMC|Y|100|N|BKMC
 BKSE|BNY Mellon US Small Cap Core Equity ETF|P|BKSE|Y|100|N|BKSE
 BKSY|BlackSky Technology Inc. Class A Common Stock|N|BKSY|N|100|N|BKSY
-BKSY.W|BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock|N|BKSY.WS|N|100|N|BKSY+
 BKT|BlackRock Income Trust Inc. (The)|N|BKT|N|100|N|BKT
 BKTI|BK Technologies Corporation Common Stock|A|BKTI|N|100|N|BKTI
 BKU|BankUnited, Inc. Common Stock|N|BKU|N|100|N|BKU
@@ -1310,7 +1309,6 @@ CNF|CNFinance Holdings Limited American Depositary Shares, each representing two
 CNH|CNH Industrial N.V. Common Shares|N|CNH|N|100|N|CNH
 CNI|Canadian National Railway Company Common Stock|N|CNI|N|100|N|CNI
 CNK|Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock|N|CNK|N|100|N|CNK
-CNL|Collective Mining Ltd. Common Shares|A|CNL|N|100|N|CNL
 CNM|Core & Main, Inc. Class A Common Stock|N|CNM|N|100|N|CNM
 CNMD|CONMED Corporation Common Stock|N|CNMD|N|100|N|CNMD
 CNNE|Cannae Holdings, Inc. Common Stock|N|CNNE|N|100|N|CNNE
@@ -3201,8 +3199,10 @@ HYDW|Xtrackers Low Beta High Yield Bond ETF|P|HYDW|Y|100|N|HYDW
 HYEM|VanEck Emerging Markets High Yield Bond ETF|P|HYEM|Y|100|N|HYEM
 HYFI|AB High Yield ETF|P|HYFI|Y|100|N|HYFI
 HYG|iShares iBoxx $ High Yield Corporate Bond ETF|P|HYG|Y|100|N|HYG
+HYGD|MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs|Z|HYGD|Y|100|N|HYGD
 HYGH|iShares Interest Rate Hedged High Yield Bond ETF|P|HYGH|Y|100|N|HYGH
 HYGM|Amplify HYG High Yield 10% Target Income ETF|Z|HYGM|Y|100|N|HYGM
+HYGU|MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs|Z|HYGU|Y|100|N|HYGU
 HYGV|FlexShares High Yield Value-Scored Bond Index Fund|P|HYGV|Y|100|N|HYGV
 HYGW|iShares High Yield Corporate Bond BuyWrite Strategy ETF|Z|HYGW|Y|100|N|HYGW
 HYHG|ProShares High Yield Interest Rate Hedged|Z|HYHG|Y|100|N|HYHG
@@ -4012,6 +4012,7 @@ LION|Lionsgate Studios Corp Common Shares|N|LION|N|100|N|LION
 LIT|Global X Lithium & Battery Tech ETF|P|LIT|Y|100|N|LIT
 LITB|LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares|N|LITB|N|100|N|LITB
 LITC|Corgi LITE 2x Daily ETF|Z|LITC|Y|100|N|LITC
+LITG|Leverage Shares 2X Long LITE Daily ETF|Z|LITG|Y|100|N|LITG
 LITL|Simplify Piper Sandler US Small-Cap PLUS Income ETF|P|LITL|Y|100|N|LITL
 LITU|T-REX 2X Long LITE Daily Target ETF|Z|LITU|Y|100|N|LITU
 LITX|Tradr 2X Long LITE Daily ETF|Z|LITX|Y|100|N|LITX
@@ -4057,9 +4058,11 @@ LPX|Louisiana-Pacific Corporation Common Stock|N|LPX|N|100|N|LPX
 LQAI|LG QRAFT AI-Powered U.S. Large Cap Core ETF|P|LQAI|Y|100|N|LQAI
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
 LQDB|iShares BBB Rated Corporate Bond ETF|P|LQDB|Y|100|N|LQDB
+LQDD|MicroSectors -3x Short Investment Grade Corporate Bond (LQD) ETNs|Z|LQDD|Y|100|N|LQDD
 LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
 LQDI|iShares Inflation Hedged Corporate Bond ETF|Z|LQDI|Y|100|N|LQDI
 LQDM|Amplify LQD Investment Grade 12% Target Income ETF|Z|LQDM|Y|100|N|LQDM
+LQDU|MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs|Z|LQDU|Y|100|N|LQDU
 LQDW|iShares Investment Grade Corporate Bond BuyWrite Strategy ETF|Z|LQDW|Y|100|N|LQDW
 LQID|Kurv Enhanced Short Maturity ETF|Z|LQID|Y|100|N|LQID
 LQTI|FT Vest Investment Grade & Target Income ETF|P|LQTI|Y|100|N|LQTI
@@ -4372,6 +4375,7 @@ MPV|Barings Participation Investors Common Stock|N|MPV|N|100|N|MPV
 MPWC|Corgi MPWR 2x Daily ETF|Z|MPWC|Y|100|N|MPWC
 MPWX|Tradr 2X Long MPWR Daily ETF|Z|MPWX|Y|100|N|MPWX
 MQY|Blackrock MuniYield Quality Fund, Inc. Common Stock|N|MQY|N|100|N|MQY
+MRAX|Tradr 2X Long MRAM Daily ETF|Z|MRAX|Y|100|N|MRAX
 MRCP|PGIM S&P 500 Buffer 12 ETF - March|Z|MRCP|Y|100|N|MRCP
 MRGR|ProShares Merger ETF|Z|MRGR|Y|100|N|MRGR
 MRK|Merck & Company, Inc. Common Stock (new)|N|MRK|N|100|N|MRK
@@ -4498,6 +4502,7 @@ MXC|Mexco Energy Corporation Common Stock|A|MXC|N|100|N|MXC
 MXE|Mexico Equity and Income Fund, Inc. (The) Common Stock|N|MXE|N|100|N|MXE
 MXF|Mexico Fund, Inc. (The) Common Stock|N|MXF|N|100|N|MXF
 MXI|iShares Global Materials ETF|P|MXI|Y|100|N|MXI
+MXLL|Leverage Shares 2X Long MXL Daily ETF|Z|MXLL|Y|100|N|MXLL
 MYE|Myers Industries, Inc. Common Stock|N|MYE|N|100|N|MYE
 MYI|Blackrock MuniYield Quality Fund III, Inc Common Stock|N|MYI|N|100|N|MYI
 MYLD|Cambria Micro and SmallCap Shareholder Yield ETF|Z|MYLD|Y|100|N|MYLD
@@ -5993,6 +5998,7 @@ SIO|Touchstone Strategic Income ETF|P|SIO|Y|100|N|SIO
 SIOO|VistaShares Target 15 S&P 100 Distribution ETF|P|SIOO|Y|100|N|SIOO
 SITC|SITE Centers Corp. Common Stock|N|SITC|N|100|N|SITC
 SITE|SiteOne Landscape Supply, Inc. Common Stock|N|SITE|N|100|N|SITE
+SITX|Tradr 2X Long SITM Daily ETF|Z|SITX|Y|100|N|SITX
 SIVR|abrdn Physical Silver Shares ETF|P|SIVR|Y|100|N|SIVR
 SIXA|ETC 6 Meridian Mega Cap Equity ETF|P|SIXA|Y|100|N|SIXA
 SIXD|AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF|Z|SIXD|Y|100|N|SIXD
@@ -6291,6 +6297,7 @@ STHH|STMicroelectronics NV ADRhedged|P|STHH|Y|100|N|STHH
 STIP|iShares 0-5 Year TIPS Bond ETF|P|STIP|Y|100|N|STIP
 STK|Columbia Seligman Premium Technology Growth Fund Inc|N|STK|N|100|N|STK
 STLA|Stellantis N.V. Common Shares|N|STLA|N|100|N|STLA
+STLL|Leverage Shares 2X Long STRL Daily ETF|Z|STLL|Y|100|N|STLL
 STLR|Stellar ETF|Z|STLR|Y|100|N|STLR
 STLU|2x Stellar ETF|Z|STLU|Y|100|N|STLU
 STM|STMicroelectronics N.V. Common Stock|N|STM|N|100|N|STM
@@ -6801,6 +6808,7 @@ UMAL|Defiance Daily Target 2X Long UMAC ETF|Z|UMAL|Y|100|N|UMAL
 UMAR|Innovator U.S. Equity Ultra Buffer ETF - March|Z|UMAR|Y|100|N|UMAR
 UMAY|Innovator U.S. Equity Ultra Buffer ETF - May|Z|UMAY|Y|100|N|UMAY
 UMC|United Microelectronics Corporation (NEW) Common Stock|N|UMC|N|100|N|UMC
+UMCU|Tradr 2X Long UMC Daily ETF|Z|UMCU|Y|100|N|UMCU
 UMCX|Corgi UMC 2x Daily ETF|Z|UMCX|Y|100|N|UMCX
 UMDD|UltraPro MidCap400|P|UMDD|Y|100|N|UMDD
 UMH|UMH Properties, Inc. Common Stock|N|UMH|N|100|N|UMH
@@ -7531,4 +7539,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0810202607:00||||||
+File Creation Time: 0811202607:00||||||

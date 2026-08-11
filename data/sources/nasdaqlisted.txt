@@ -152,7 +152,7 @@ AGGA|EA Astoria Beacon Dynamic Core US Fixed Income ETF|G|N|N|100|Y|N
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AGIX|KraneShares Public-Private AI & Technology ETF|G|N|N|100|Y|N
 AGMB|AgomAb Therapeutics NV - ADRs representing one common share.|Q|N|N|100|N|N
-AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|E|100|N|N
+AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 AGMI|Themes Silver Miners ETF|G|N|N|100|Y|N
 AGNC|AGNC Investment Corp. - Common Stock|Q|N|N|100|N|N
 AGNCL|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
@@ -775,7 +775,7 @@ BREM|iShares Emerging Markets Bond Active ETF|G|N|N|100|Y|N
 BRES|Burney U.S. Equity Select ETF|G|N|N|100|Y|N
 BREZ|Breeze Acquisition Corp. II - Ordinary Shares|G|N|N|100|N|N
 BREZR|Breeze Acquisition Corp. II - Rights|G|N|N|100|N|N
-BRFH|Barfresh Food Group Inc. - Common Stock|S|N|N|100|N|N
+BRFH|Barfresh Food Group Inc. - Common Stock|S|N|D|100|N|N
 BRHY|iShares High Yield Active ETF|G|N|N|100|Y|N
 BRID|Bridgford Foods Corporation - Common Stock|G|N|N|100|N|N
 BRKH|Burtech Acquisition Corp II - Class A Ordinary Shares|S|N|N|100|N|N
@@ -2083,7 +2083,7 @@ GHXIU|Gores Holdings XI, Inc. - Units|G|N|N|100|N|N
 GIBO|GIBO Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 GIBOW|GIBO Holdings Limited - Warrants|S|N|N|100|N|N
 GIEQ|Goldman Sachs Data Enhanced International Equity ETF|G|N|N|100|Y|N
-GIFT|Giftify, Inc. - Common Stock|S|N|N|100|N|N
+GIFT|Giftify, Inc. - Common Stock|S|N|D|100|N|N
 GIGM|GigaMedia Limited - Ordinary Shares|S|N|N|100|N|N
 GIII|G-III Apparel Group, LTD. - Common Stock|Q|N|N|100|N|N
 GILD|Gilead Sciences, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3051,7 +3051,7 @@ MAAY|GraniteShares YieldBOOST MARA ETF|G|N|N|100|Y|N
 MACI|Melar Acquisition Corp. I - Class A Ordinary Shares|G|N|N|100|N|N
 MACIU|Melar Acquisition Corp. I - Unit|G|N|N|100|N|N
 MACIW|Melar Acquisition Corp. I - Warrant|G|N|N|100|N|N
-MAGH|Magnitude International Ltd - Ordinary Shares|S|N|N|100|N|N
+MAGH|Magnitude International Ltd - Ordinary Shares|S|N|D|100|N|N
 MAKO|Mako Mining Corp - Common Stock|S|N|N|100|N|N
 MAMA|Mama's Creations, Inc. - Common Stock|S|N|N|100|N|N
 MAMK|MaxsMaking Inc. - Class A Ordinary Shares|S|N|D|100|N|N
@@ -3388,7 +3388,7 @@ NCOOW|Southern Cross Acquisition I Corp. - Warrants|G|N|N|100|N|N
 NCPB|Nuveen Core Plus Bond ETF|G|N|N|100|Y|N
 NCPL|Netcapital Inc. - Common Stock|S|N|D|100|N|N
 NCPLW|Netcapital Inc. - warrants|S|N|N|100|N|N
-NCRA|Nocera, Inc. - common stock|S|N|D|100|N|N
+NCRA|Nocera, Inc. - common stock|S|N|N|100|N|N
 NCSM|NCS Multistage Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NCT|Intercont (Cayman) Limited - Class A Ordinary shares|S|N|N|100|N|N
 NCTY|The9 Limited - American Depository Shares|S|N|N|100|N|N
@@ -3533,7 +3533,7 @@ NUG|Leverage Shares 2X Long NU Daily ETF|G|N|N|100|Y|N
 NUGY|GraniteShares YieldBOOST Gold Miners ETF|G|N|N|100|Y|N
 NUIF|Nuveen US Infrastructure ETF|G|N|N|100|Y|N
 NUSB|Nuveen Ultra Short Income ETF|G|N|N|100|Y|N
-NUTR|Nusatrip Incorporated - Common Stock|S|N|E|100|N|N
+NUTR|Nusatrip Incorporated - Common Stock|S|N|H|100|N|N
 NUTX|Nutex Health Inc. - Common Stock|S|N|N|100|N|N
 NUWE|Nuwellis, Inc. - Common Stock|S|N|N|100|N|N
 NVAX|Novavax, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3870,6 +3870,7 @@ PHAT|Phathom Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 PHIO|Phio Pharmaceuticals Corp. - Common Stock|S|N|N|100|N|N
 PHO|Invesco Water Resources ETF|G|N|N|100|Y|N
 PHOE|Phoenix Asia Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+PHOS|First Phosphate Corp. - American Depositary Shares|G|N|N|100|N|N
 PHUN|Phunware, Inc. - Common Stock|S|N|N|100|N|N
 PHVS|Pharvaris N.V. - Ordinary Shares|Q|N|N|100|N|N
 PI|Impinj, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4480,7 +4481,7 @@ SFWL|Shengfeng Development Limited - Class A Ordinary Shares|S|N|N|100|N|N
 SGA|Saga Communications, Inc. - Class A Common Stock|G|N|N|100|N|N
 SGC|Superior Group of Companies, Inc. - Common Stock|G|N|N|100|N|N
 SGHT|Sight Sciences, Inc. - Common Stock|Q|N|N|100|N|N
-SGLY|Singularity Future Technology Ltd. - Common Stock|S|N|D|100|N|N
+SGLY|Singularity Future Technology Ltd. - Common Stock|S|N|N|100|N|N
 SGML|Sigma Lithium Corporation - common shares|S|N|N|100|N|N
 SGMT|Sagimet Biosciences Inc. - Series A Common Stock|G|N|N|100|N|N
 SGP|SpyGlass Pharma, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4736,7 +4737,7 @@ STRT|STRATTEC SECURITY CORPORATION - Common Stock|G|N|N|100|N|N
 STRZ|Starz Entertainment Corp. - Common Shares|Q|N|N|100|N|N
 STTK|Shattuck Labs, Inc. - Common Stock|Q|N|N|100|N|N
 STX|Seagate Technology Holdings PLC - Ordinary Shares (Ireland)|Q|N|N|40|N|N
-SUGP|SU Group Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
+SUGP|SU Group Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
 SUIG|Sui Group Holdings Limited - Common Stock|S|N|N|100|N|N
 SUIS|Canary Staked SUI ETF|G|N|N|100|Y|N
 SUJA|Suja Life, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -5368,7 +5369,9 @@ WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 WKEY|WISeKey International Holding Ltd - American Depositary Shares|G|N|N|100|N|N
 WKHS|Workhorse Group, Inc. - Common Stock|S|N|N|100|N|N
 WKSP|Worksport, Ltd. - Common Stock|S|N|N|100|N|N
+WLCO|Wilco 63 Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 WLCOU|Wilco 63 Corporation - Units|G|N|N|100|N|N
+WLCOW|Wilco 63 Corporation - Warrant|G|N|N|100|N|N
 WLDN|Willdan Group, Inc. - Common Stock|G|N|N|100|N|N
 WLDS|Wearable Devices Ltd. - Ordinary Share|S|N|N|100|N|N
 WLDSW|Wearable Devices Ltd. - Warrant|S|N|N|100|N|N
@@ -5493,7 +5496,7 @@ XXII|22nd Century Group, Inc - Common Stock|S|N|N|100|N|N
 XXX|CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF|G|N|N|100|Y|N
 XYZG|Leverage Shares 2X Long XYZ Daily ETF|G|N|N|100|Y|N
 YAAS|Youxin Technology Ltd - Class A Ordinary shares|S|N|N|100|N|N
-YARW|Yarrow Bioscience, Inc. - Common Stock|S|N|D|100|N|N
+YARW|Yarrow Bioscience, Inc. - Common Stock|S|N|N|100|N|N
 YB|Yuanbao Inc. - American Depositary Shares|G|N|N|100|N|N
 YBMN|Defiance BMNR Option Income ETF|G|N|N|100|Y|N
 YBST|GraniteShares YieldBoost Single Stock Universe ETF|G|N|N|100|Y|N
@@ -5581,4 +5584,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0810202607:00|||||||
+File Creation Time: 0811202607:00|||||||
