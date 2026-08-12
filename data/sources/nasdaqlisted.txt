@@ -1145,6 +1145,7 @@ CNCKW|Coincheck Group N.V. - Warrants|S|N|N|100|N|N
 CNDT|Conduent Incorporated - Common Stock|Q|N|N|100|N|N
 CNET|ZW Data Action Technologies Inc. - Common Stock|S|N|D|100|N|N
 CNEY|CN Energy Group Inc. - Class A Ordinary Shares|S|N|D|100|N|N
+CNL|Collective Mining Ltd. - Common Stock|Q|N|N|100|N|N
 CNOB|ConnectOne Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 CNOBP|ConnectOne Bancorp, Inc. - Depositary Shares (each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.00 per share)|Q|N|N|100|N|N
 CNQQ|Rayliant-ChinaAMC Transformative China Tech ETF|G|N|N|100|Y|N
@@ -2091,7 +2092,7 @@ GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100|N|N
 GIND|Goldman Sachs India Equity ETF|G|N|N|100|Y|N
 GINX|SGI Enhanced Global Income ETF|G|N|N|100|Y|N
 GIPR|Generation Income Properties Inc. - Common stock|S|N|D|100|N|N
-GIPRW|Generation Income Properties Inc. - Warrant|S|N|D|100|N|N
+GIPRW|Generation Income Properties Inc. - Warrant|S|N|N|100|N|N
 GITS|Global Interactive Technologies, Inc. Common Stock - Common Stock|S|N|N|100|N|N
 GIW|GigCapital8 Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 GIWWR|GigCapital8 Corp. - Rights|G|N|N|100|N|N
@@ -2360,8 +2361,8 @@ HRTS|Tema Heart & Health ETF|G|N|N|100|Y|N
 HRTX|Heron Therapeutics, Inc.   - Common Stock|S|N|D|100|N|N
 HRZN|Horizon Technology Finance Corporation - Common Stock|Q|N|N|100|N|N
 HSAI|Hesai Group - American Depositary Share|Q|N|N|100|N|N
-HSCS|HeartSciences Inc. - Common Stock|S|N|N|100|N|N
-HSCSW|HeartSciences Inc. - Warrant|S|N|N|100|N|N
+HSCS|HeartSciences Inc. - Common Stock|S|N|D|100|N|N
+HSCSW|HeartSciences Inc. - Warrant|S|N|D|100|N|N
 HSDT|Solana Company - Class A Common Stock|S|N|N|100|N|N
 HSIC|Henry Schein, Inc. - Common Stock|Q|N|N|100|N|N
 HST|Host Hotels & Resorts, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3220,7 +3221,6 @@ MNSBP|MainStreet Bancshares, Inc. - Depositary Shares|S|N|N|100|N|N
 MNST|Monster Beverage Corporation - Common Stock|Q|N|N|100|N|N
 MNTK|Montauk Renewables, Inc. - Common Stock|S|N|N|100|N|N
 MNTS|Momentus Inc. - Class A Common Stock|S|N|N|100|N|N
-MNTSW|Momentus Inc. - Warrant|S|N|N|100|N|N
 MNVT|Moonvest ETF|G|N|N|100|Y|N
 MNY|MoneyHero Limited - Class A Ordinary Shares|G|N|N|100|N|N
 MNYWW|MoneyHero Limited - Warrants|G|N|N|100|N|N
@@ -3533,7 +3533,6 @@ NUG|Leverage Shares 2X Long NU Daily ETF|G|N|N|100|Y|N
 NUGY|GraniteShares YieldBOOST Gold Miners ETF|G|N|N|100|Y|N
 NUIF|Nuveen US Infrastructure ETF|G|N|N|100|Y|N
 NUSB|Nuveen Ultra Short Income ETF|G|N|N|100|Y|N
-NUTR|Nusatrip Incorporated - Common Stock|S|N|H|100|N|N
 NUTX|Nutex Health Inc. - Common Stock|S|N|N|100|N|N
 NUWE|Nuwellis, Inc. - Common Stock|S|N|N|100|N|N
 NVAX|Novavax, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4280,7 +4279,7 @@ RIOT|Riot Platforms, Inc. - Common Stock|S|N|N|100|N|N
 RITR|Reitar Logtech Holdings Limited - Ordinary shares|S|N|D|100|N|N
 RIVN|Rivian Automotive, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RJET|Republic Airways Holdings Inc. - Common Stock|Q|N|N|100|N|N
-RKDA|Arcadia Biosciences, Inc. - Common Stock|S|N|N|100|N|N
+RKDA|Arcadia Biosciences, Inc. - Common Stock|S|N|D|100|N|N
 RKLB|Rocket Lab Corporation - Common Stock|Q|N|N|100|N|N
 RKLX|Defiance Daily Target 2X Long RKLB ETF|G|N|N|100|Y|N
 RKLZ|Defiance Daily Target 2x Short RKLB ETF|G|N|N|100|Y|N
@@ -4331,7 +4330,7 @@ RPD|Rapid7, Inc. - Common Stock|G|N|N|100|N|N
 RPGL|Republic Power Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 RPID|Rapid Micro Biosystems, Inc. - Class A Common Stock|S|N|N|100|N|N
 RPRX|Royalty Pharma plc - Class A Ordinary Shares|Q|N|N|100|N|N
-RR|Richtech Robotics Inc. - Class B Common Stock|S|N|E|100|N|N
+RR|Richtech Robotics Inc. - Class B Common Stock|S|N|N|100|N|N
 RRBI|Red River Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 RREV|RRE Ventures Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 RREVU|RRE Ventures Acquisition Corp. - Units|G|N|N|100|N|N
@@ -4896,7 +4895,7 @@ TILE|Interface, Inc. - Common Stock|Q|N|N|100|N|N
 TIPT|Tiptree Inc. - Common Stock|S|N|N|100|N|N
 TISC|Thrivent International Small Cap ETF|G|N|N|100|Y|N
 TITN|Titan Machinery Inc. - Common Stock|Q|N|N|100|N|N
-TJGC|TJGC Group Limited - ordinary shares|S|N|N|100|N|N
+TJGC|TJGC Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 TKLF|Tokyo Lifestyle Co., Ltd. - American Depositary Shares|S|N|N|100|N|N
 TKNO|Alpha Teknova, Inc. - Common Stock|G|N|N|100|N|N
 TKNS|21Shares Active Crypto ETF|G|N|N|100|Y|N
@@ -5584,4 +5583,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0811202607:00|||||||
+File Creation Time: 0812202607:00|||||||
