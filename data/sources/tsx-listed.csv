@@ -786,6 +786,7 @@ LBIT,Evolve Levered Bitcoin ETF,TSX
 LETH,Evolve Levered Ether ETF,TSX
 QQQY,Evolve NASDAQ Technology Enhanced Yield Index Fund,TSX
 QQQT,Evolve NASDAQ Technology Index Fund,TSX
+TECY,Evolve NASDAQ Technology UltraYield ETF,TSX
 ESPX,Evolve S&P 500® Enhanced Yield Fund,TSX
 ETSX,Evolve S&P/TSX 60 Enhanced Yield Fund,TSX
 SOLA,Evolve Solana ETF,TSX
@@ -1425,7 +1426,6 @@ K,Kinross Gold Corporation,TSX
 KITS,Kits Eyecare Ltd.,TSX
 KKR,KKR CDR (CAD Hedged),TSX
 KLAC,KLA CDR (CAD Hedged),TSX
-KSI,"kneat.com, inc.",TSX
 GUD,Knight Therapeutics Inc.,TSX
 KEI,Kolibri Global Energy Inc.,TSX
 KPT,KP Tissue Inc.,TSX

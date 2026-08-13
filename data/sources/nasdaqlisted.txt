@@ -324,9 +324,6 @@ ANNA|AleAnna, Inc. - Class A Common Stock|S|N|N|100|N|N
 ANNAW|AleAnna, Inc. - Warrant|S|N|N|100|N|N
 ANNX|Annexon, Inc. - common stock|Q|N|N|100|N|N
 ANPA|Rich Sparkle Holdings Limited - Ordinary Shares|S|N|N|100|N|N
-ANSC|Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
-ANSCU|Agriculture & Natural Solutions Acquisition Corporation - Unit|G|N|N|100|N|N
-ANSCW|Agriculture & Natural Solutions Acquisition Corporation - Warrant|G|N|N|100|N|N
 ANTA|Antalpha Platform Holding Company - Class A Ordinary Shares|G|N|N|100|N|N
 ANTX|AN2 Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 ANV|GraniteShares Autocallable NVDA ETF|G|N|N|100|Y|N
@@ -614,7 +611,6 @@ BEEZ|Honeytree U.S. Equity ETF|G|N|N|100|Y|N
 BEG|Leverage Shares 2x Long BE Daily ETF|G|N|N|100|Y|N
 BELFA|Bel Fuse Inc. - Class A Common Stock|Q|N|N|100|N|N
 BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100|N|N
-BELT|iShares U.S. Select Equity Active ETF|G|N|N|100|Y|N
 BENF|Beneficient - Class A Common Stock|S|N|N|100|N|N
 BENFW|Beneficient - Warrant|S|N|N|100|N|N
 BESO|GSR Crypto Core3 ETF|G|N|N|100|Y|N
@@ -3240,6 +3236,7 @@ MOVE|Corvex, Inc. - Common Stock|S|N|N|100|N|N
 MPAA|Motorcar Parts of America, Inc. - Common Stock|Q|N|N|100|N|N
 MPB|Mid Penn Bancorp - Common Stock|G|N|N|100|N|N
 MPG|Leverage Shares 2X Long MP Daily ETF|G|N|N|100|Y|N
+MPIA|m+ Nasdaq-100 Accelerator Autocall ETF|G|N|N|100|Y|N
 MPLT|MapLight Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 MPWR|Monolithic Power Systems, Inc. - Common Stock|Q|N|N|10|N|N
 MQ|Marqeta, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -3684,7 +3681,7 @@ OPTX|Syntec Optics Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
 OPTXW|Syntec Optics Holdings, Inc. - Warrant|S|N|N|100|N|N
 OPTZ|Optimize Strategy Index ETF|G|N|N|100|Y|N
 OPXS|Optex Systems Holdings, Inc. - Common Stock|S|N|N|100|N|N
-ORBS|Eightco Holdings Inc. - Common Stock|S|N|N|100|N|N
+ORBS|Eightco Holdings Inc. - Common Stock|S|N|D|100|N|N
 ORBX|Global X Space Tech ETF|G|N|N|100|Y|N
 ORCS|Direxion Daily ORCL Bear 1X ETF|G|N|N|100|Y|N
 ORCU|Direxion Daily ORCL Bull 2X ETF|G|N|N|100|Y|N
@@ -3890,6 +3887,8 @@ PLBC|Plumas Bancorp - Common Stock|S|N|N|100|N|N
 PLBL|Polibeli Group Ltd - Class A Ordinary Shares|G|N|N|100|N|N
 PLBY|Playboy, Inc. - Common Stock|G|N|N|100|N|N
 PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100|N|N
+PLCI|Pelican Acquisition II Corporation - Ordinary Shares|S|N|N|100|N|N
+PLCIR|Pelican Acquisition II Corporation - Right|S|N|N|100|N|N
 PLCIU|Pelican Acquisition II Corporation - Unit|S|N|N|100|N|N
 PLMK|Plum Acquisition Corp. IV - Class A Ordinary Shares|G|N|N|100|N|N
 PLMKU|Plum Acquisition Corp. IV - Unit|G|N|N|100|N|N
@@ -4520,7 +4519,7 @@ SIMA|SIM Acquisition Corp. I - Class A Ordinary Shares|S|N|N|100|N|N
 SIMAU|SIM Acquisition Corp. I - Unit|S|N|N|100|N|N
 SIMAW|SIM Acquisition Corp. I - Warrant|S|N|N|100|N|N
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100|N|N
-SINT|SiNtx Technologies, Inc. - Common Stock|S|N|D|100|N|N
+SINT|SiNtx Technologies, Inc. - Common Stock|S|N|N|100|N|N
 SION|Sionna Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 SIRI|SiriusXM Holdings Inc. - Common Stock|Q|N|N|100|N|N
 SITM|SiTime Corporation - Common Stock|G|N|N|40|N|N
@@ -5256,6 +5255,7 @@ VNMEW|Vendome Acquisition Corporation I - Warrant|G|N|N|100|N|N
 VNOM|Viper Energy, Inc.  - Class A Common Stock|Q|N|N|100|N|N
 VNQI|Vanguard Global ex-U.S. Real Estate ETF|G|N|N|100|Y|N
 VOD|Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares|Q|N|N|100|N|N
+VOGX|Vogenx Inc - Common Stock|S|N|N|100|N|N
 VOLT|Tema Electrification ETF|G|N|N|100|Y|N
 VONE|Vanguard Russell 1000 ETF|G|N|N|40|Y|N
 VONG|Vanguard Russell 1000 Growth ETF|G|N|N|100|Y|N
@@ -5583,4 +5583,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0812202607:00|||||||
+File Creation Time: 0813202607:00|||||||

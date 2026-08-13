@@ -155,7 +155,6 @@ AGO|Assured Guaranty Ltd. Common Stock|N|AGO|N|100|N|AGO
 AGOX|Adaptive Alpha Opportunities ETF|P|AGOX|Y|100|N|AGOX
 AGQ|ProShares Ultra Silver|P|AGQ|Y|100|N|AGQ
 AGQI|First Trust Active Global Quality Income ETF|P|AGQI|Y|100|N|AGQI
-AGRH|iShares Interest Rate Hedged U.S. Aggregate Bond ETF|P|AGRH|Y|100|N|AGRH
 AGRO|Adecoagro S.A. Common Shares|N|AGRO|N|100|N|AGRO
 AGRW|Allspring LT Large Growth ETF|P|AGRW|Y|100|N|AGRW
 AGX|Argan, Inc. Common Stock|N|AGX|N|40|N|AGX
@@ -298,6 +297,7 @@ ANF|Abercrombie & Fitch Company Common Stock|N|ANF|N|100|N|ANF
 ANG$D|American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D|N|ANGpD|N|100|N|ANG-D
 ANGX|Angel Studios, Inc. Class A Common Stock|N|ANGX|N|100|N|ANGX
 ANRO|Alto Neuroscience, Inc. Common Stock|N|ANRO|N|100|N|ANRO
+ANTW|Anthropic AI Lab Ecosystem ETF|P|ANTW|Y|100|N|ANTW
 ANVS|Annovis Bio, Inc. Common Stock|N|ANVS|N|100|N|ANVS
 AOA|iShares Core 80/20 Aggressive Allocation ETF|P|AOA|Y|100|N|AOA
 AOCT|Innovator Equity Defined Protection ETF - 2 Yr to October 2026|Z|AOCT|Y|100|N|AOCT
@@ -1009,7 +1009,6 @@ BWIV.U|Blue Water Acquisition Corp. IV Units, each consisting of one Class A ord
 BWIV.W|Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share|N|BWIV.WS|N|100|N|BWIV+
 BWLP|BW LPG Limited Common Shares|N|BWLP|N|100|N|BWLP
 BWMX|Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares|N|BWMX|N|100|N|BWMX
-BWNB|Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026|N|BWNB|N|100|N|BWNB
 BWOW|Bitwise Dogecoin ETF|P|BWOW|Y|100|N|BWOW
 BWQG|BWM Quality Growth ETF|Z|BWQG|Y|100|N|BWQG
 BWTG|Brendan Wood TopGun Index ETF|Z|BWTG|Y|100|N|BWTG
@@ -1553,6 +1552,7 @@ CZA|Invesco Zacks Mid-Cap ETF|P|CZA|Y|100|N|CZA
 D|Dominion Energy, Inc. Common Stock|N|D|N|100|N|D
 DABS|DoubleLine Asset-Backed Securities ETF|P|DABS|Y|100|N|DABS
 DAC|Danaos Corporation Common Stock|N|DAC|N|100|N|DAC
+DACL|REX Defensive Autocallable Income ETF|P|DACL|Y|100|N|DACL
 DAL|Delta Air Lines, Inc. Common Stock|N|DAL|N|100|N|DAL
 DAMD|Defiance Daily Target 2X Short AMD ETF|P|DAMD|Y|100|N|DAMD
 DAN|Dana Incorporated Common Stock |N|DAN|N|100|N|DAN
@@ -1656,6 +1656,7 @@ DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
 DELL|Dell Technologies Inc. Class C Common Stock |N|DELL|N|100|N|DELL
 DEM|WisdomTree Emerging Markets High Dividend Fund|P|DEM|Y|100|N|DEM
 DEO|Diageo plc Common Stock|N|DEO|N|100|N|DEO
+DEPW|Google DeepMind AI Lab Ecosystem ETF|P|DEPW|Y|100|N|DEPW
 DES|WisdomTree U.S. SmallCap Dividend Fund|P|DES|Y|100|N|DES
 DESK|VanEck Office and Commercial REIT ETF|P|DESK|Y|100|N|DESK
 DEUS|Xtrackers Russell US Multifactor ETF|P|DEUS|Y|100|N|DEUS
@@ -1913,10 +1914,6 @@ EAGG|iShares ESG Aware U.S. Aggregate Bond ETF|P|EAGG|Y|100|N|EAGG
 EAGL|Eagle Capital Select Equity ETF|P|EAGL|Y|100|N|EAGL
 EAI|Entergy Arkansas, LLC First Mortgage Bonds, 4.875% Series Due September 1, 2066|N|EAI|N|100|N|EAI
 EALT|Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly|Z|EALT|Y|100|N|EALT
-EAOA|iShares ESG Aware 80/20 Aggressive Allocation ETF|Z|EAOA|Y|100|N|EAOA
-EAOK|iShares ESG Aware 30/70 Conservative Allocation ETF|Z|EAOK|Y|100|N|EAOK
-EAOM|iShares ESG Aware 40/60 Moderate Allocation ETF|Z|EAOM|Y|100|N|EAOM
-EAOR|iShares ESG Aware 60/40 Balanced Allocation ETF|Z|EAOR|Y|100|N|EAOR
 EAPR|Innovator Emerging Markets Power Buffer ETF April|P|EAPR|Y|100|N|EAPR
 EARN|Ellington Credit Company Common Shares of Beneficial Interest|N|EARN|N|100|N|EARN
 EASG|Xtrackers MSCI EAFE Selection Equity ETF|P|EASG|Y|100|N|EASG
@@ -2719,7 +2716,7 @@ GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
 GCAD|Gabelli Commercial Aerospace and Defense ETF|P|GCAD|Y|100|N|GCAD
 GCAL|Goldman Sachs Dynamic California Municipal Income ETF|P|GCAL|Y|100|N|GCAL
 GCC|WisdomTree EnhancedContinuous Commodity Index Fund|P|GCC|Y|100|N|GCC
-GCDT|Green Circle Decarbonize Technology Limited Ordinary Shares|A|GCDT|N|100|N|GCDT
+GCDT|Green Circle Decarbonize Technology Limited Class A Ordinary Shares|A|GCDT|N|100|N|GCDT
 GCO|Genesco Inc. Common Stock|N|GCO|N|100|N|GCO
 GCOR|Goldman Sachs Access U.S. Aggregate Bond ETF|P|GCOR|Y|100|N|GCOR
 GCOW|Pacer Global Cash Cows Dividend ETF|Z|GCOW|Y|100|N|GCOW
@@ -3039,6 +3036,7 @@ HAWK|HawkEye 360, Inc. Common Stock|N|HAWK|N|100|N|HAWK
 HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
 HAYW|Hayward Holdings, Inc. Common Stock|N|HAYW|N|100|N|HAYW
 HBB|Hamilton Beach Brands Holding Company Class A Common Stock |N|HBB|N|100|N|HBB
+HBIL|Harbor Short Term Treasury ETF|P|HBIL|Y|100|N|HBIL
 HBM|Hudbay Minerals Inc. Ordinary Shares (Canada)|N|HBM|N|100|N|HBM
 HBMX|Tuttle Capital Concentrated Memory Stack ETF|Z|HBMX|Y|100|N|HBMX
 HBRD|Invesco U.S. Hybrid Bond ETF|P|HBRD|Y|100|N|HBRD
@@ -3547,7 +3545,6 @@ IVOO|Vanguard S&P Mid-Cap 400 ETF|P|IVOO|Y|100|N|IVOO
 IVOV|Vanguard S&P Mid-Cap 400 Value ETF|P|IVOV|Y|100|N|IVOV
 IVR|INVESCO MORTGAGE CAPITAL INC Common Stock|N|IVR|N|100|N|IVR
 IVR$C|INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share|N|IVRpC|N|100|N|IVR-C
-IVRS|iShares Future Metaverse Tech and Communications ETF|P|IVRS|Y|100|N|IVRS
 IVT|InvenTrust Properties Corp. Common Stock|N|IVT|N|100|N|IVT
 IVV|iShares Core S&P 500 ETF|P|IVV|Y|40|N|IVV
 IVVB|iShares Large Cap Deep Quarterly Laddered ETF|Z|IVVB|Y|100|N|IVVB
@@ -4443,6 +4440,7 @@ MTA|Metalla Royalty & Streaming Ltd. Common Shares|A|MTA|N|100|N|MTA
 MTAL|Metals Acquisition Corp. II Class A Ordinary Shares|N|MTAL|N|100|N|MTAL
 MTAL.U|Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|MTAL.U|N|100|N|MTAL=
 MTAL.W|Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|MTAL.WS|N|100|N|MTAL+
+MTAW|Meta AI Lab Ecosystem ETF|P|MTAW|Y|100|N|MTAW
 MTB|M&T Bank Corporation Common Stock|N|MTB|N|100|N|MTB
 MTB$H|M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H|N|MTBpH|N|100|N|MTB-H
 MTB$J|M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J|N|MTBpJ|N|100|N|MTB-J
@@ -4815,6 +4813,7 @@ O|Realty Income Corporation Common Stock|N|O|N|100|N|O
 OACP|OneAscent Core Plus Bond ETF|P|OACP|Y|100|N|OACP
 OAEM|OneAscent Emerging Markets ETF|P|OAEM|Y|100|N|OAEM
 OAIM|OneAscent International Equity ETF|P|OAIM|Y|100|N|OAIM
+OAIW|OpenAI Lab Ecosystem ETF|P|OAIW|Y|100|N|OAIW
 OAK$A|Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units|N|OAKpA|N|100|N|OAK-A
 OAK$B|Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units|N|OAKpB|N|100|N|OAK-B
 OAKG|Oakmark Global Large Cap ETF|P|OAKG|Y|100|N|OAKG
@@ -5728,6 +5727,7 @@ RTX|RTX Corporation Common Stock|N|RTX|N|100|N|RTX
 RULE|Adaptive Core ETF|Z|RULE|Y|100|N|RULE
 RVER|Trenchless Fund ETF|P|RVER|Y|100|N|RVER
 RVI|Robinhood Ventures Fund I Common Shares of Beneficial Interest|N|RVI|N|100|N|RVI
+RVII|Robinhood Ventures Fund II Common Shares of Beneficial Interest|N|RVII|N|100|N|RVII
 RVLV|Revolve Group, Inc. Class A Common Stock|N|RVLV|N|100|N|RVLV
 RVNU|Xtrackers Municipal Infrastructure Revenue Bond Active ETF|P|RVNU|Y|100|N|RVNU
 RVP|Retractable Technologies, Inc. Common Stock|A|RVP|N|100|N|RVP
@@ -7275,6 +7275,7 @@ WZRD|Opportunistic Trader ETF|Z|WZRD|Y|100|N|WZRD
 XA|Corgi AI Cybersecurity ETF|Z|XA|Y|100|N|XA
 XAGG|Eaton Vance Income Opportunities ETF|P|XAGG|Y|100|N|XAGG
 XAGI|Corgi AGIX 2x Daily ETF|Z|XAGI|Y|100|N|XAGI
+XAIW|SpaceXAI Lab Ecosystem ETF|P|XAIW|Y|100|N|XAIW
 XAPR|FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April|Z|XAPR|Y|100|N|XAPR
 XAR|State Street SPDR S&P Aerospace & Defense ETF|P|XAR|Y|40|N|XAR
 XAUG|FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August|Z|XAUG|Y|100|N|XAUG
@@ -7546,4 +7547,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0812202607:00||||||
+File Creation Time: 0813202607:00||||||
