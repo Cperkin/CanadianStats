@@ -675,6 +675,7 @@ BEDZ|AdvisorShares Hotel ETF|P|BEDZ|Y|100|N|BEDZ
 BEGS|Rareview 2x Bull Cryptocurrency & Precious Metals ETF|Z|BEGS|Y|100|N|BEGS
 BEKE|KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)|N|BEKE|N|100|N|BEKE
 BEMB|iShares J.P. Morgan Broad USD Emerging Markets Bond ETF|Z|BEMB|Y|100|N|BEMB
+BEMD|BNY Mellon Emerging Markets Debt ETF|Z|BEMD|Y|100|N|BEMD
 BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
 BENJ|Horizon Landmark ETF|P|BENJ|Y|100|N|BENJ
 BEP|Brookfield Renewable Partners L.P. Limited Partnership Units|N|BEP|N|100|N|BEP
@@ -2771,6 +2772,7 @@ GFF|Griffon Corporation Common Stock|N|GFF|N|100|N|GFF
 GFI|Gold Fields Limited American Depositary Shares|N|GFI|N|100|N|GFI
 GFL|GFL Environmental Inc. Subordinate voting shares, no par value|N|GFL|N|100|N|GFL
 GFR|Greenfire Resources Ltd. Common Shares|N|GFR|N|100|N|GFR
+GFR.V|Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued|N|GFRrw|N|100|N|GFR^#
 GFSG|Leverage Shares 2X Long GFS Daily ETF|Z|GFSG|Y|100|N|GFSG
 GGB|Gerdau S.A. Common Stock|N|GGB|N|100|N|GGB
 GGG|Graco Inc. Common Stock|N|GGG|N|100|N|GGG
@@ -3032,6 +3034,7 @@ HASI|HA Sustainable Infrastructure Capital, Inc. Common Stock|N|HASI|N|100|N|HAS
 HAUG|Corgi U.S. Equities 100% Structured Buffer ETF - August Series|Z|HAUG|Y|100|N|HAUG
 HAUS|Residential REIT ETF|Z|HAUS|Y|100|N|HAUS
 HAUZ|Xtrackers International Real Estate ETF|P|HAUZ|Y|100|N|HAUZ
+HAWG|HCM Hedged Equity ETF|P|HAWG|Y|100|N|HAWG
 HAWK|HawkEye 360, Inc. Common Stock|N|HAWK|N|100|N|HAWK
 HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
 HAYW|Hayward Holdings, Inc. Common Stock|N|HAYW|N|100|N|HAYW
@@ -5931,7 +5934,6 @@ SEPW|AllianzIM U.S. Large Cap Buffer20 Sep ETF|Z|SEPW|Y|100|N|SEPW
 SEPZ|TrueShares Structured Outcome (September) ETF|Z|SEPZ|Y|100|N|SEPZ
 SER|Serina Therapeutics, Inc. Common Stock|A|SER|N|100|N|SER
 SES|SES AI Corporation Class A Common Stock|N|SES|N|100|N|SES
-SES.W|SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share|N|SES.WS|N|100|N|SES+
 SETH|ProShares Short Ether ETF|P|SETH|Y|100|N|SETH
 SF|Stifel Financial Corporation Common Stock|N|SF|N|100|N|SF
 SF$B|Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B|N|SFpB|N|100|N|SF-B
@@ -7547,4 +7549,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0813202607:00||||||
+File Creation Time: 0814202607:00||||||

@@ -206,7 +206,7 @@ AISP|Airship AI Holdings, Inc - Class A Common Stock|G|N|N|100|N|N
 AISPW|Airship AI Holdings, Inc - Warrants|S|N|N|100|N|N
 AIX|Defiance US 100 Tech AI Moat ETF|G|N|N|100|Y|N
 AIXC|AIxCrypto Holdings, Inc. - Common Stock|S|N|N|100|N|N
-AIXI|XIAO-I Corporation - American Depositary Shares|G|N|N|100|N|N
+AIXI|XIAO-I Corporation - American Depositary Shares|G|N|D|100|N|N
 AKAM|Akamai Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 AKAN|Akanda Corp. - Common Shares|S|N|D|100|N|N
 AKBA|Akebia Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -483,7 +483,7 @@ AUROW|Aurora Innovation, Inc.  - Warrant|Q|N|N|100|N|N
 AUTL|Autolus Therapeutics plc - American Depositary Shares|Q|N|N|100|N|N
 AUUD|Auddia Inc. - Common Stock|S|N|D|100|N|N
 AVAH|Aveanna Healthcare Holdings Inc. - Common Stock|Q|N|N|100|N|N
-AVAT|Avalanche Treasury Corporation - Class A Common Stock|S|N|N|100|N|N
+AVAT|Avalanche Treasury Corporation - Class A Common Stock|S|N|D|100|N|N
 AVAV|AeroVironment, Inc. - Common Stock|Q|N|N|100|N|N
 AVBH|Avidbank Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 AVBP|ArriVent BioPharma, Inc. - Common Stock|G|N|N|100|N|N
@@ -735,7 +735,6 @@ BNDX|Vanguard Total International Bond ETF|G|N|N|100|Y|N
 BNGO|Bionano Genomics, Inc. - Common Stock|S|N|N|100|N|N
 BNKK|Bonk, Inc. - Common Stock|S|N|N|100|N|N
 BNR|Burning Rock Biotech Limited - American Depositary Shares|G|N|N|100|N|N
-BNRG|Brenmiller Energy Ltd - Ordinary Shares|S|N|N|100|N|N
 BNTC|Benitec Biopharma Inc. - Common Stock|S|N|N|100|N|N
 BNTX|BioNTech SE - American Depositary Shares|Q|N|N|100|N|N
 BODI|The Beachbody Company, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -784,6 +783,7 @@ BRLS|Borealis Foods Inc. - Class A Common Shares|S|N|D|100|N|N
 BRLSW|Borealis Foods Inc. - Warrant|S|N|D|100|N|N
 BRLT|Brilliant Earth Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 BRNS|Barinthus Biotherapeutics plc - American Depositary Shares|S|N|D|100|N|N
+BRNX|BrenX Ltd. - Ordinary Shares|S|N|N|100|N|N
 BRNY|Burney U.S. Factor Rotation ETF|G|N|N|100|Y|N
 BRR|ProCap Financial, Inc. - Common Stock|G|N|N|100|N|N
 BRRR|Coinshares Bitcoin ETF|G|N|N|100|Y|N
@@ -1038,6 +1038,7 @@ CGNT|Cognyte Software Ltd. - Ordinary Shares|Q|N|N|100|N|N
 CGNX|Cognex Corporation - Common Stock|Q|N|N|100|N|N
 CGO|Calamos Global Total Return Fund - Closed End Fund|Q|N|N|100|N|N
 CGON|CG Oncology, Inc. - Common stock|Q|N|N|100|N|N
+CGPT|VegaShares AI Inference ETF|G|N|N|100|Y|N
 CGTL|Creative Global Technology Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 CGTX|Cognition Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CHA|Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share|Q|N|N|100|N|N
@@ -1179,6 +1180,7 @@ CONI|GraniteShares 2x Short COIN Daily ETF|G|N|N|100|Y|N
 CONL|GraniteShares 2x Long COIN Daily ETF|G|N|N|100|Y|N
 CONX|Direxion Daily COIN Bull 2X ETF|G|N|N|100|Y|N
 COO|The Cooper Companies, Inc.  - Common Stock|Q|N|N|100|N|N
+COOL|VegaShares AI Thermal, Cooling & Power Management ETF|G|N|N|100|Y|N
 COOT|Australian Oilseeds Holdings Limited - Ordinary Shares|S|N|D|100|N|N
 COOTW|Australian Oilseeds Holdings Limited - Warrant|S|N|N|100|N|N
 COPJ|Sprott Junior Copper Miners ETF|G|N|N|100|Y|N
@@ -2076,7 +2078,9 @@ GGROW|Gogoro Inc. - Warrant|S|N|N|100|N|N
 GGRP|The Glimpse Group, Inc. - Common Stock|S|N|D|100|N|N
 GH|Guardant Health, Inc. - Common Stock|Q|N|N|100|N|N
 GHRS|GH Research PLC - Ordinary Shares|G|N|N|100|N|N
+GHXI|Gores Holdings XI, Inc. - Class A Ordinary Shares|G|N|N|100|N|N
 GHXIU|Gores Holdings XI, Inc. - Units|G|N|N|100|N|N
+GHXIW|Gores Holdings XI, Inc. - Warrant|G|N|N|100|N|N
 GIBO|GIBO Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 GIBOW|GIBO Holdings Limited - Warrants|S|N|N|100|N|N
 GIEQ|Goldman Sachs Data Enhanced International Equity ETF|G|N|N|100|Y|N
@@ -2924,7 +2928,6 @@ LHSW|Lianhe Sowell International Group Ltd - Class A Ordinary Shares|S|N|N|100|N
 LI|Li Auto Inc. - American Depositary Shares|Q|N|N|100|N|N
 LICN|Lichen International Limited - Class A Ordinary Shares|S|N|N|100|N|N
 LIDR|AEye, Inc. - Class A Common Stock|S|N|N|100|N|N
-LIDRW|AEye, Inc. - Warrant|S|N|N|100|N|N
 LIEN|Chicago Atlantic BDC, Inc. - Common Stock|G|N|N|100|N|N
 LIF|Life360, Inc. - Common Stock|Q|N|N|100|N|N
 LIFE|Ethos Technologies Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -3399,7 +3402,7 @@ NEGG|Newegg Commerce, Inc. - Common Shares|S|N|N|100|N|N
 NEMG|Leverage Shares 2x Long NEM Daily ETF|G|N|N|100|Y|N
 NEO|NeoGenomics, Inc. - Common Stock|S|N|N|100|N|N
 NEOG|Neogen Corporation - Common Stock|Q|N|N|100|N|N
-NEON|Neonode Inc. - Common Stock|S|N|N|100|N|N
+NEON|Neonode Inc. - Common Stock|S|N|D|100|N|N
 NEOV|NeoVolta Inc. - Common Stock|S|N|N|100|N|N
 NEOVW|NeoVolta Inc. - Warrant|S|N|N|100|N|N
 NEPH|Nephros, Inc. - Common Stock|S|N|N|100|N|N
@@ -4090,7 +4093,6 @@ QLYS|Qualys, Inc. - Common Stock|Q|N|N|100|N|N
 QMCO|Quantum Corporation - Common Stock|G|N|N|100|N|N
 QMID|WisdomTree U.S. MidCap Quality Growth Fund|G|N|N|100|Y|N
 QMLS|QumulusAI, Inc. - Common Stock|G|N|N|100|N|N
-QMMM|QMMM Holdings Limited - Class A Ordinary Shares|S|N|H|100|N|N
 QMOM|Alpha Architect U.S. Quantitative Momentum ETF|G|N|N|100|Y|N
 QNCX|Quince Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 QNDX|State Street SPDR Portfolio Nasdaq 100 ETF|G|N|N|100|Y|N
@@ -4283,7 +4285,7 @@ RKLB|Rocket Lab Corporation - Common Stock|Q|N|N|100|N|N
 RKLX|Defiance Daily Target 2X Long RKLB ETF|G|N|N|100|Y|N
 RKLZ|Defiance Daily Target 2x Short RKLB ETF|G|N|N|100|Y|N
 RKNG|Defiance Retail Kings ETF|G|N|N|100|Y|N
-RKTO|Rocket One Inc. - Common Stock|S|N|N|100|N|N
+RKTO|Rocket One Inc. - Common Stock|S|N|D|100|N|N
 RLAY|Relay Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 RLMD|Relmada Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 RLYB|Rallybio Corporation - Common Stock|S|N|N|100|N|N
@@ -4818,6 +4820,7 @@ TAXT|Northern Trust Tax-Exempt Bond ETF|G|N|N|100|Y|N
 TAYD|Taylor Devices, Inc. - Common Stock|S|N|N|100|N|N
 TBBK|The Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 TBCH|Turtle Beach Corporation - Common Stock|G|N|N|100|N|N
+TBCVU|Thunder Bridge Capital Partners V, Ltd. - Units|G|N|N|100|N|N
 TBIL|F/m US Treasury 3 Month Bill Fund|G|N|N|100|Y|N
 TBLA|Taboola.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TBLD|Thornburg Income Builder Opportunities Trust - Closed End Fund|Q|N|N|100|N|N
@@ -5583,4 +5586,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0813202607:00|||||||
+File Creation Time: 0814202607:00|||||||
