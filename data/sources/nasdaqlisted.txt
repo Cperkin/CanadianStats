@@ -75,8 +75,11 @@ ACNT|Ascent Industries Co. - Common Stock|G|N|N|100|N|N
 ACOG|Alpha Cognition Inc. - Common Stock|S|N|N|100|N|N
 ACON|Aclarion, Inc. - Common Stock|S|N|N|100|N|N
 ACONW|Aclarion, Inc. - Warrant|S|N|N|100|N|N
+ACQQ|ProShares Nasdaq-100 Autocallable Income ETF|G|N|N|100|Y|N
 ACRS|Aclaris Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
+ACRT|ProShares Russell 2000 Autocallable Income ETF|G|N|N|100|Y|N
 ACRV|Acrivon Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
+ACSP|ProShares S&P 500 Autocallable Income ETF|G|N|N|100|Y|N
 ACT|Enact Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ACTG|Acacia Research Corporation - Common Stock|Q|N|N|100|N|N
 ACTU|Actuate Therapeutics, Inc. - Common stock|G|N|D|100|N|N
@@ -1258,7 +1261,7 @@ CRWL|GraniteShares 2x Long CRWD Daily ETF|G|N|N|100|Y|N
 CRWS|Crown Crafts, Inc. - Common Stock|S|N|N|100|N|N
 CRWV|CoreWeave, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CRY|GraniteShares YieldBOOST CRCL ETF|G|N|N|100|Y|N
-CSAI|Cloudastructure, Inc. - Class A Common Stock|S|N|D|100|N|N
+CSAI|Cloudastructure, Inc. - Class A Common Stock|S|N|N|100|N|N
 CSB|VictoryShares US Small Cap High Div Volatility Wtd ETF|G|N|N|100|Y|N
 CSBR|Champions Oncology, Inc. - Common Stock|S|N|N|100|N|N
 CSCL|Direxion Daily CSCO Bull 2X ETF|G|N|N|100|Y|N
@@ -1589,7 +1592,7 @@ ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 ELPW|Elong Power Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100|N|N
 ELTX|Elicio Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
-ELUT|Elutia, Inc. - Class A Common Stock|S|N|N|100|N|N
+ELUT|Elutia, Inc. - Class A Common Stock|S|N|D|100|N|N
 ELVA|Electrovaya Inc. - Common Shares|S|N|N|100|N|N
 ELVN|Enliven Therapeutics, Inc.  - Common Stock|Q|N|N|100|N|N
 ELVR|Elevra Lithium Limited - American Depository Shares|S|N|N|100|N|N
@@ -1688,6 +1691,8 @@ EVPF|Eaton Vance Preferred Securities and Income ETF|G|N|N|100|Y|N
 EVRG|Evergy, Inc. - Common Stock|Q|N|N|100|N|N
 EVSD|Eaton Vance Short Duration Income ETF|G|N|N|100|Y|N
 EVYM|Eaton Vance High Income Municipal ETF|G|N|N|100|Y|N
+EWAV|East West Ave Acquisition Corp. - Common Stock|G|N|N|100|N|N
+EWAVR|East West Ave Acquisition Corp. - Rights|G|N|N|100|N|N
 EWAVU|East West Ave Acquisition Corp. - Units|G|N|N|100|N|N
 EWBC|East West Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 EWJV|iShares MSCI Japan Value ETF|G|N|N|100|Y|N
@@ -3221,7 +3226,7 @@ MNST|Monster Beverage Corporation - Common Stock|Q|N|N|100|N|N
 MNTK|Montauk Renewables, Inc. - Common Stock|S|N|N|100|N|N
 MNTS|Momentus Inc. - Class A Common Stock|S|N|N|100|N|N
 MNVT|Moonvest ETF|G|N|N|100|Y|N
-MNY|MoneyHero Limited - Class A Ordinary Shares|G|N|N|100|N|N
+MNY|MoneyHero Limited - Class A Ordinary Shares|G|N|D|100|N|N
 MNYWW|MoneyHero Limited - Warrants|G|N|N|100|N|N
 MNZL|Manzil Russell Halal USA Broad Market ETF|G|N|N|100|Y|N
 MOB|Mobilicom Limited - Ordinary Shares|S|N|N|100|N|N
@@ -4879,6 +4884,8 @@ TGL|Treasure Global Inc. - Common Stock|S|N|N|100|N|N
 TGTX|TG Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 TH|Target Hospitality Corp. - Common Stock|S|N|N|100|N|N
 THCH|TH International Limited - Ordinary shares|S|N|N|100|N|N
+THEO|BOA Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
+THEOR|BOA Acquisition Corp. II - Rights|G|N|N|100|N|N
 THEOU|BOA Acquisition Corp. II - Units|G|N|N|100|N|N
 THFF|First Financial Corporation  - Common Stock|Q|N|N|100|N|N
 THH|TryHard Holdings Limited - Ordinary Shares|S|N|D|100|N|N
@@ -5586,4 +5593,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0814202607:00|||||||
+File Creation Time: 0814202621:31|||||||
