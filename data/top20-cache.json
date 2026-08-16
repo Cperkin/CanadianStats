@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdatedAt": "2026-08-15T11:24:57.720Z",
+    "lastUpdatedAt": "2026-08-16T11:24:41.272Z",
     "source": "custom-universe-cache",
     "universeCount": 6333,
     "scoredCount": 200,
@@ -66,6 +66,20 @@
       "confidenceClass": "high"
     },
     {
+      "symbol": "AAME",
+      "name": "Atlantic American Corporation",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "image": "https://images.financialmodelingprep.com/symbol/AAME.png",
+      "price": "$1.45",
+      "drawdownPct": 60.91644204851752,
+      "finalScore": 69,
+      "tier": "B",
+      "riskCount": 2,
+      "confidenceLabel": "High",
+      "confidenceClass": "high"
+    },
+    {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc.",
       "exchange": "NASDAQ",
@@ -76,20 +90,6 @@
       "finalScore": 69,
       "tier": "B",
       "riskCount": 1,
-      "confidenceLabel": "High",
-      "confidenceClass": "high"
-    },
-    {
-      "symbol": "AAME",
-      "name": "Atlantic American Corporation",
-      "exchange": "NASDAQ",
-      "country": "US",
-      "image": "https://images.financialmodelingprep.com/symbol/AAME.png",
-      "price": "$1.45",
-      "drawdownPct": 60.91644204851752,
-      "finalScore": 68,
-      "tier": "B",
-      "riskCount": 2,
       "confidenceLabel": "High",
       "confidenceClass": "high"
     },
