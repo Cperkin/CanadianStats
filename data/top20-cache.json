@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdatedAt": "2026-08-16T11:24:41.272Z",
+    "lastUpdatedAt": "2026-08-17T11:25:38.730Z",
     "source": "custom-universe-cache",
-    "universeCount": 6333,
+    "universeCount": 6332,
     "scoredCount": 200,
     "budgetUsed": 200,
     "budgetLimit": 200,
@@ -122,6 +122,20 @@
       "confidenceClass": "high"
     },
     {
+      "symbol": "ADSK",
+      "name": "Autodesk, Inc.",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "image": "https://images.financialmodelingprep.com/symbol/ADSK.png",
+      "price": "$251.66",
+      "drawdownPct": 23.528518034580202,
+      "finalScore": 66,
+      "tier": "B",
+      "riskCount": 0,
+      "confidenceLabel": "High",
+      "confidenceClass": "high"
+    },
+    {
       "symbol": "ACB",
       "name": "Aurora Cannabis Inc.",
       "exchange": "NASDAQ",
@@ -132,6 +146,20 @@
       "finalScore": 65,
       "tier": "B",
       "riskCount": 2,
+      "confidenceLabel": "High",
+      "confidenceClass": "high"
+    },
+    {
+      "symbol": "AGYS",
+      "name": "Agilysys, Inc.",
+      "exchange": "NASDAQ",
+      "country": "US",
+      "image": "https://images.financialmodelingprep.com/symbol/AGYS.png",
+      "price": "$114.00",
+      "drawdownPct": 21.514629948364888,
+      "finalScore": 65,
+      "tier": "B",
+      "riskCount": 0,
       "confidenceLabel": "High",
       "confidenceClass": "high"
     },
@@ -206,20 +234,6 @@
       "confidenceClass": "high"
     },
     {
-      "symbol": "AGYS",
-      "name": "Agilysys, Inc.",
-      "exchange": "NASDAQ",
-      "country": "US",
-      "image": "https://images.financialmodelingprep.com/symbol/AGYS.png",
-      "price": "$114.00",
-      "drawdownPct": 21.514629948364888,
-      "finalScore": 64,
-      "tier": "C",
-      "riskCount": 0,
-      "confidenceLabel": "High",
-      "confidenceClass": "high"
-    },
-    {
       "symbol": "AMKR",
       "name": "Amkor Technology, Inc.",
       "exchange": "NASDAQ",
@@ -272,20 +286,6 @@
       "finalScore": 62,
       "tier": "C",
       "riskCount": 1,
-      "confidenceLabel": "High",
-      "confidenceClass": "high"
-    },
-    {
-      "symbol": "AIOT",
-      "name": "PowerFleet, Inc.",
-      "exchange": "NASDAQ",
-      "country": "US",
-      "image": "https://images.financialmodelingprep.com/symbol/AIOT.png",
-      "price": "$3.11",
-      "drawdownPct": 47.10884353741497,
-      "finalScore": 62,
-      "tier": "C",
-      "riskCount": 2,
       "confidenceLabel": "High",
       "confidenceClass": "high"
     }

@@ -469,7 +469,6 @@ AV|Corgi Aerospace & Commercial Aviation ETF|Z|AV|Y|100|N|AV
 AVA|Avista Corporation Common Stock|N|AVA|N|100|N|AVA
 AVAL|Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)|N|AVAL|N|100|N|AVAL
 AVAZ|2x Avalanche ETF|Z|AVAZ|Y|100|N|AVAZ
-AVB|AvalonBay Communities, Inc. Common Stock|N|AVB|N|100|N|AVB
 AVBC|Avidia Bancorp, Inc. Common Stock|N|AVBC|N|100|N|AVBC
 AVD|American Vanguard Corporation Common Stock ($0.10 Par Value)|N|AVD|N|100|N|AVD
 AVDE|Avantis International Equity ETF|P|AVDE|Y|100|N|AVDE
@@ -591,8 +590,6 @@ BBAX|JPMorgan BetaBuilders Developed Asia Pacific-ex Japan ETF|Z|BBAX|Y|100|N|BB
 BBBI|BondBloxx BBB Rated 5-10 Year Corporate Bond ETF|P|BBBI|Y|100|N|BBBI
 BBBL|BondBloxx BBB Rated 10+ Year Corporate Bond ETF|P|BBBL|Y|100|N|BBBL
 BBBS|BondBloxx BBB Rated 1-5 Year Corporate Bond ETF|P|BBBS|Y|100|N|BBBS
-BBBY|Bed Bath & Beyond, Inc. Common Stock|N|BBBY|N|100|N|BBBY
-BBBY.W|Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock|N|BBBY.WS|N|100|N|BBBY+
 BBC|Virtus Biotech Clinical Trials ETF|P|BBC|Y|100|N|BBC
 BBCA|JPMorgan BetaBuilders Canada ETF|Z|BBCA|Y|100|N|BBCA
 BBCB|JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF|Z|BBCB|Y|100|N|BBCB
@@ -634,7 +631,6 @@ BCEM|Baron Emerging Markets Select ETF|N|BCEM|Y|100|N|BCEM
 BCGD|Baron Global Durable Advantage ETF|N|BCGD|Y|100|N|BCGD
 BCGS|Bancreek Global Select ETF|P|BCGS|Y|100|N|BCGS
 BCH|Banco De Chile ADS|N|BCH|N|100|N|BCH
-BCHI|GMO Beyond China ETF|P|BCHI|Y|100|N|BCHI
 BCHP|Principal Focused Blue Chip ETF|Z|BCHP|Y|100|N|BCHP
 BCHT|Birchtech Corp. Common Stock|A|BCHT|N|100|N|BCHT
 BCI|abrdn Bloomberg All Commodity Strategy K-1 Free ETF|P|BCI|Y|100|N|BCI
@@ -676,7 +672,7 @@ BEGS|Rareview 2x Bull Cryptocurrency & Precious Metals ETF|Z|BEGS|Y|100|N|BEGS
 BEKE|KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)|N|BEKE|N|100|N|BEKE
 BEMB|iShares J.P. Morgan Broad USD Emerging Markets Bond ETF|Z|BEMB|Y|100|N|BEMB
 BEMD|BNY Mellon Emerging Markets Debt ETF|Z|BEMD|Y|100|N|BEMD
-BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
+BEN|Franklin Templeton, Inc. Common Stock|N|BEN|N|100|N|BEN
 BENJ|Horizon Landmark ETF|P|BENJ|Y|100|N|BENJ
 BEP|Brookfield Renewable Partners L.P. Limited Partnership Units|N|BEP|N|100|N|BEP
 BEP$A|Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17|N|BEPpA|N|100|N|BEP-A
@@ -855,7 +851,7 @@ BMVP|Invesco Bloomberg MVP Multi-factor ETF|P|BMVP|Y|100|N|BMVP
 BMY|Bristol-Myers Squibb Company Common Stock|N|BMY|N|100|N|BMY
 BN|Brookfield Corporation Class A Limited Voting Shares|N|BN|N|100|N|BN
 BNAV|Amplify Fairlead Tactical Bitcoin ETF|Z|BNAV|Y|100|N|BNAV
-BNDC|FlexShares Core Select Bond Fund|P|BNDC|Y|100|N|BNDC
+BNDC|Northern Trust Core Bond ETF|P|BNDC|Y|100|N|BNDC
 BNDD|Quadratic Deflation ETF|P|BNDD|Y|100|N|BNDD
 BNDI|NEOS Enhanced Income Aggregate Bond ETF|P|BNDI|Y|100|N|BNDI
 BNDS|Infrastructure Capital Bond Income ETF|P|BNDS|Y|100|N|BNDS
@@ -1139,7 +1135,7 @@ CE|Celanese Corporation Common Stock|N|CE|N|100|N|CE
 CEE|The Central and Eastern Europe Fund, Inc. (The) Common Stock|N|CEE|N|100|N|CEE
 CEF|Sprott Physical Gold and Silver Trust Units|P|CEF|Y|100|N|CEF
 CEFD|ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN|P|CEFD|Y|100|N|CEFD
-CEFS|Saba Closed-End Funds ETF|Z|CEFS|Y|100|N|CEFS
+CEFS|Saba Opportunistic Hedged Closed-End Funds ETF|Z|CEFS|Y|100|N|CEFS
 CEFZ|RiverNorth Active Income ETF|Z|CEFZ|Y|100|N|CEFZ
 CEGX|Tradr 2X Long CEG Daily ETF|Z|CEGX|Y|100|N|CEGX
 CELG.R|Bristol-Myers Squibb Company Celegne Contingent Value Rights|N|CELGr|N|100|N|CELG^
@@ -1871,6 +1867,7 @@ DUK|Duke Energy Corporation (Holding Company) Common Stock|N|DUK|N|100|N|DUK
 DUK$A|Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock|N|DUKpA|N|100|N|DUK-A
 DUKB|Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078|N|DUKB|N|100|N|DUKB
 DUKQ|Ocean Park Domestic ETF|P|DUKQ|Y|100|N|DUKQ
+DUKU|Duke Energy Corporation Corporate Units|N|DUKU|N|100|N|DUKU
 DUKZ|Ocean Park Diversified Income ETF|P|DUKZ|Y|100|N|DUKZ
 DULL|MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043|P|DULL|Y|100|N|DULL
 DUNK|Dana Unconstrained Equity ETF|P|DUNK|Y|100|N|DUNK
@@ -2153,8 +2150,8 @@ ESAB|ESAB Corporation Common Stock|N|ESAB|N|100|N|ESAB
 ESBA|Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests|P|ESBA|N|100|N|ESBA
 ESBG|First Trust Enhanced Stocks, Bonds & Gold ETF|P|ESBG|Y|100|N|ESBG
 ESE|ESCO Technologies Inc. Common Stock|N|ESE|N|40|N|ESE
-ESG|FlexShares STOXX US ESG Select Index Fund|Z|ESG|Y|100|N|ESG
-ESGG|FlexShares STOXX Global ESG Select Index Fund|Z|ESGG|Y|100|N|ESGG
+ESG|Northern Trust STOXX US ESG Select ETF|Z|ESG|Y|100|N|ESG
+ESGG|Northern Trust STOXX Global ESG Select ETF|Z|ESGG|Y|100|N|ESGG
 ESGV|Vanguard ESG U.S. Stock ETF|Z|ESGV|Y|100|N|ESGV
 ESI|Element Solutions Inc. Common Stock|N|ESI|N|100|N|ESI
 ESIM|Eventide International ETF|P|ESIM|Y|100|N|ESIM
@@ -2360,10 +2357,10 @@ FEBU|AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF|Z|FEBU|Y|100|N|FEBU
 FEBW|AllianzIM U.S. Large Cap Buffer20 Feb ETF|Z|FEBW|Y|100|N|FEBW
 FEBZ|TrueShares Structured Outcome (February) ETF|Z|FEBZ|Y|100|N|FEBZ
 FECM|First Eagle Core Municipal ETF|P|FECM|Y|100|N|FECM
-FEDM|FlexShares ESG & Climate Developed Markets ex-US Core Index Fund|P|FEDM|Y|100|N|FEDM
+FEDM|Northern Trust ESG & Climate Developed Markets ex-US Core ETF|P|FEDM|Y|100|N|FEDM
 FEDU|Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares|N|FEDU|N|100|N|FEDU
 FEGE|First Eagle Global Equity ETF|N|FEGE|Y|100|N|FEGE
-FEIG|FlexShares ESG & Climate Investment Grade Corporate Core Index Fund|P|FEIG|Y|100|N|FEIG
+FEIG|Northern Trust ESG & Climate Investment Grade Corporate Core ETF|P|FEIG|Y|100|N|FEIG
 FELC|Fidelity Enhanced Large Cap Core ETF|P|FELC|Y|100|N|FELC
 FELG|Fidelity Enhanced Large Cap Growth ETF|P|FELG|Y|100|N|FELG
 FELV|Fidelity Enhanced Large Cap Value ETF|P|FELV|Y|100|N|FELV
@@ -2380,7 +2377,7 @@ FESC|First Eagle Small Cap Equity ETF|P|FESC|Y|100|N|FESC
 FESM|Fidelity Enhanced Small Cap Core ETF|P|FESM|Y|100|N|FESM
 FET|Forum Energy Technologies, Inc. Common Stock|N|FET|N|100|N|FET
 FETH|Fidelity Ethereum Fund|Z|FETH|Y|100|N|FETH
-FEUS|FlexShares ESG & Climate US Large Cap Core Index Fund|P|FEUS|Y|100|N|FEUS
+FEUS|Northern Trust ESG & Climate US Large Cap Core ETF|P|FEUS|Y|100|N|FEUS
 FEZ|State Street SPDR EURO STOXX 50 ETF|P|FEZ|Y|100|N|FEZ
 FF|FutureFuel Corp.  Common shares|N|FF|N|100|N|FF
 FFA|First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest|N|FFA|N|100|N|FFA
@@ -2926,7 +2923,7 @@ GPUS$D|Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Pre
 GPZ|VanEck Alternative Asset Manager ETF|P|GPZ|Y|100|N|GPZ
 GQGU|GQG US Equity ETF|P|GQGU|Y|100|N|GQGU
 GQI|Natixis Gateway Quality Income ETF|P|GQI|Y|100|N|GQI
-GQRE|FlexShares Global Quality Real Estate Index Fund|P|GQRE|Y|100|N|GQRE
+GQRE|Northern Trust Global Quality Real Estate ETF|P|GQRE|Y|100|N|GQRE
 GRBK|Green Brick Partners, Inc. Common Stock|N|GRBK|N|100|N|GRBK
 GRBK$A|Green Brick Partners, Inc. Depositary Shares (each representing a 1/1000th fractional interest in a share of 5.75% Series A Cumulative Perpetual Preferred Stock)|N|GRBKpA|N|100|N|GRBK-A
 GRC|Gorman-Rupp Company (The) Common Stock|N|GRC|N|100|N|GRC
@@ -2990,7 +2987,7 @@ GTOS|Invesco Short Duration Total Return Bond ETF|Z|GTOS|Y|100|N|GTOS
 GTY|Getty Realty Corporation Common Stock|N|GTY|N|100|N|GTY
 GUG|Guggenheim Active Allocation Fund Common Shares of Beneficial Interest|N|GUG|N|100|N|GUG
 GUMI|Goldman Sachs Ultra Short Municipal Income ETF|P|GUMI|Y|100|N|GUMI
-GUNR|FlexShares Global Upstream Natural Resources Index Fund ETF|P|GUNR|Y|100|N|GUNR
+GUNR|Northern Trust Morningstar Global Upstream Natural Resources ETF|P|GUNR|Y|100|N|GUNR
 GURU|Global X Guru Index ETF|P|GURU|Y|100|N|GURU
 GUSA|Goldman Sachs MarketBeta U.S. 1000 Equity ETF|P|GUSA|Y|100|N|GUSA
 GUSH|Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X ETF|P|GUSH|Y|100|N|GUSH
@@ -3208,7 +3205,7 @@ HYGD|MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs|Z|HYGD|Y|100|N|
 HYGH|iShares Interest Rate Hedged High Yield Bond ETF|P|HYGH|Y|100|N|HYGH
 HYGM|Amplify HYG High Yield 10% Target Income ETF|Z|HYGM|Y|100|N|HYGM
 HYGU|MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs|Z|HYGU|Y|100|N|HYGU
-HYGV|FlexShares High Yield Value-Scored Bond Index Fund|P|HYGV|Y|100|N|HYGV
+HYGV|Northern Trust High Yield Value-Scored Bond ETF|P|HYGV|Y|100|N|HYGV
 HYGW|iShares High Yield Corporate Bond BuyWrite Strategy ETF|Z|HYGW|Y|100|N|HYGW
 HYHG|ProShares High Yield Interest Rate Hedged|Z|HYHG|Y|100|N|HYHG
 HYI|Western Asset High Yield Opportunity Fund Inc. Common Stock|N|HYI|N|100|N|HYI
@@ -3472,9 +3469,9 @@ IPB|Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-
 IPI|Intrepid Potash, Inc Common Stock|N|IPI|N|100|N|IPI
 IPO|Renaissance IPO ETF|P|IPO|Y|100|N|IPO
 IPOS|Renaissance Capital Greenwich Fund|P|IPOS|Y|100|N|IPOS
-IQDF|FlexShares International Quality Dividend Index Fund|P|IQDF|Y|100|N|IQDF
+IQDF|Northern Trust International Quality Dividend ETF|P|IQDF|Y|100|N|IQDF
 IQDG|WisdomTree International Quality Dividend Growth Fund|Z|IQDG|Y|100|N|IQDG
-IQDY|FlexShares International Quality Dividend Dynamic Index Fund|P|IQDY|Y|100|N|IQDY
+IQDY|Northern Trust International Quality Dividend Dynamic ETF|P|IQDY|Y|100|N|IQDY
 IQHI|NYLI MacKay High Income ETF|P|IQHI|Y|100|N|IQHI
 IQI|Invesco Quality Municipal Income Trust Common Stock|N|IQI|N|100|N|IQI
 IQLT|iShares MSCI Intl Quality Factor ETF|P|IQLT|Y|100|N|IQLT
@@ -4023,7 +4020,7 @@ LITX|Tradr 2X Long LITE Daily ETF|Z|LITX|Y|100|N|LITX
 LITZ|Tradr 2X Short LITE Daily ETF|Z|LITZ|Y|100|N|LITZ
 LJAN|Innovator Premium Income 15 Buffer ETF - January|Z|LJAN|Y|100|N|LJAN
 LJUL|Innovator Premium Income 15 Buffer ETF - July|Z|LJUL|Y|100|N|LJUL
-LKOR|FlexShares Credit-Scored US Long Corporate Bond Index Fund|Z|LKOR|Y|100|N|LKOR
+LKOR|Northern Trust Credit-Scored US Long Corporate Bond ETF|Z|LKOR|Y|100|N|LKOR
 LLDR|Global X Long-Term Treasury Ladder ETF|P|LLDR|Y|100|N|LLDR
 LLY|Eli Lilly and Company Common Stock|N|LLY|N|40|N|LLY
 LLYX|Defiance Daily Target 2X Long LLY ETF|P|LLYX|Y|100|N|LLYX
@@ -4173,7 +4170,7 @@ MBGL|Mobility Global Inc. Common Stock|N|MBGL|N|100|N|MBGL
 MBI|MBIA Inc. Common Stock|N|MBI|N|100|N|MBI
 MBND|State Street Nuveen Municipal Bond ETF|Z|MBND|Y|100|N|MBND
 MBOX|Freedom Day Dividend ETF|P|MBOX|Y|100|N|MBOX
-MBSD|FlexShares Disciplined Duration MBS Index Fund|P|MBSD|Y|100|N|MBSD
+MBSD|Northern Trust Disciplined Duration MBS ETF|P|MBSD|Y|100|N|MBSD
 MBSF|Regan Floating Rate MBS ETF|P|MBSF|Y|100|N|MBSF
 MBSX|Regan Fixed Rate MBS ETF|P|MBSX|Y|100|N|MBSX
 MC|Moelis & Company Class A Common Stock|N|MC|N|100|N|MC
@@ -4604,7 +4601,7 @@ NFLT|Virtus Newfleet Multi-Sector Bond ETF|P|NFLT|Y|100|N|NFLT
 NFLU|T-Rex 2X Long NFLX Daily Target ETF|Z|NFLU|Y|100|N|NFLU
 NFLW|Roundhill NFLX WeeklyPay ETF|Z|NFLW|Y|100|N|NFLW
 NFLY|YieldMax NFLX Option Income Strategy ETF|P|NFLY|Y|100|N|NFLY
-NFRA|FlexShares STOXX Global Broad Infrastructure Index Fund|P|NFRA|Y|100|N|NFRA
+NFRA|Northern Trust STOXX Global Broad Infrastructure ETF|P|NFRA|Y|100|N|NFRA
 NFX|Corgi NFLX 2x Daily ETF|Z|NFX|Y|100|N|NFX
 NG|Novagold Resources Inc.|A|NG|N|100|N|NG
 NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares|N|NGG|N|100|N|NGG
@@ -5031,7 +5028,6 @@ PBT|Permian Basin Royalty Trust Common Stock|N|PBT|N|100|N|PBT
 PBTP|Invesco 0-5 Yr US TIPS ETF|Z|PBTP|Y|100|N|PBTP
 PBUS|Invesco MSCI USA ETF|Z|PBUS|Y|100|N|PBUS
 PBW|Invesco WilderHill Clean Energy ETF|P|PBW|Y|100|N|PBW
-PCCE|Polen Capital China Growth ETF|P|PCCE|Y|100|N|PCCE
 PCEB|Polen Euro High Yield Bond ETF|P|PCEB|Y|100|N|PCEB
 PCEF|Invesco CEF Income Composite ETF|P|PCEF|Y|100|N|PCEF
 PCF|High Income Securities Fund Common Stock|N|PCF|N|100|N|PCF
@@ -5046,10 +5042,8 @@ PCG$G|Pacific Gas & Electric Co. 4.80% 1st Preferred Stock|A|PCGpG|N|100|N|PCG-G
 PCG$H|Pacific Gas & Electric Co. 4.50% 1st Preferred Stock|A|PCGpH|N|100|N|PCG-H
 PCG$I|Pacific Gas & Electric Co. 4.36% 1st Preferred Stock|A|PCGpI|N|100|N|PCG-I
 PCG$X|PG&E Corp 6.000% Series A Mandatory Convertible Preferred Stock|N|PCGpX|N|100|N|PCG-X
-PCGG|Polen Capital Global Growth ETF|P|PCGG|Y|100|N|PCGG
 PCHI|Polen High Income ETF|P|PCHI|Y|100|N|PCHI
 PCI|PGIM Corporate Bond 5-10 Year ETF|Z|PCI|Y|100|N|PCI
-PCIG|Polen Capital International Growth ETF|P|PCIG|Y|100|N|PCIG
 PCL|PGIM Corporate Bond 10+ Year ETF|Z|PCL|Y|100|N|PCL
 PCLC|Polen 5Perspectives Large Growth ETF|P|PCLC|Y|100|N|PCLC
 PCLG|Polen Focus Growth ETF|P|PCLG|Y|100|N|PCLG
@@ -5407,8 +5401,8 @@ QCJA|FT Vest Nasdaq-100 Conservative Buffer ETF - January|Z|QCJA|Y|100|N|QCJA
 QCJL|FT Vest Nasdaq-100 Conservative Buffer ETF - July|Z|QCJL|Y|100|N|QCJL
 QCOC|FT Vest Nasdaq-100 Conservative Buffer ETF - October|Z|QCOC|Y|100|N|QCOC
 QDEC|FT Vest Nasdaq-100 Buffer ETF - December|Z|QDEC|Y|100|N|QDEC
-QDEF|FlexShares Quality Dividend Defensive Index Fund|P|QDEF|Y|100|N|QDEF
-QDF|FlexShares Quality Dividend Index Fund|P|QDF|Y|100|N|QDF
+QDEF|Northern Trust Quality Dividend Defensive ETF|P|QDEF|Y|100|N|QDEF
+QDF|Northern Trust Quality Dividend ETF|P|QDF|Y|100|N|QDF
 QDIV|Global X S&P 500 Quality Dividend ETF|P|QDIV|Y|100|N|QDIV
 QDPL|Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF|P|QDPL|Y|100|N|QDPL
 QDTE|Roundhill Innovation-100 0DTE Covered Call Strategy ETF|Z|QDTE|Y|100|N|QDTE
@@ -5431,16 +5425,16 @@ QIS|Simplify Multi-QIS Alternative ETF|P|QIS|Y|100|N|QIS
 QJL|Corgi Growth & Technology 10% Structured Buffer ETF - July Series|Z|QJL|Y|100|N|QJL
 QJN|Corgi Growth & Technology 10% Structured Buffer ETF - June Series|Z|QJN|Y|100|N|QJN
 QJUN|FT Vest Nasdaq-100 Buffer ETF - June|Z|QJUN|Y|100|N|QJUN
-QLC|FlexShares US Quality Large Cap Index Fund|Z|QLC|Y|100|N|QLC
+QLC|Northern Trust US Quality Large Cap ETF|Z|QLC|Y|100|N|QLC
 QLD|ProShares Ultra QQQ|P|QLD|Y|100|N|QLD
 QLEP|Quantum Leap Acquisition Corp Class A Ordinary Shares|N|QLEP|N|100|N|QLEP
 QLEP.W|Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share|N|QLEP.WS|N|100|N|QLEP+
 QLTA|iShares Aaa A Rated Corporate Bond ETF|P|QLTA|Y|100|N|QLTA
 QLTI|GMO International Quality ETF|P|QLTI|Y|100|N|QLTI
 QLTY|GMO U.S. Quality ETF|P|QLTY|Y|100|N|QLTY
-QLV|FlexShares US Quality Low Volatility Index Fund|P|QLV|Y|100|N|QLV
-QLVD|FlexShares Developed Markets ex-US Quality Low Volatility Index Fund|P|QLVD|Y|100|N|QLVD
-QLVE|FlexShares Emerging Markets  Quality Low Volatility Index Fund|P|QLVE|Y|100|N|QLVE
+QLV|Northern Trust US Quality Low Volatility ETF|P|QLV|Y|100|N|QLV
+QLVD|Northern Trust Developed Markets ex-US Quality Low Volatility ETF|P|QLVD|Y|100|N|QLVD
+QLVE|Northern Trust Emerging Markets Quality Low Volatility ETF|P|QLVE|Y|100|N|QLVE
 QMAG|FT Vest Nasdaq-100 Moderate Buffer ETF - August|Z|QMAG|Y|100|N|QMAG
 QMAR|FT Vest Nasdaq-100 Buffer ETF - March|Z|QMAR|Y|100|N|QMAR
 QMFE|FT Vest Nasdaq-100 Moderate Buffer ETF - February|Z|QMFE|Y|100|N|QMFE
@@ -5507,7 +5501,7 @@ RAML|Leverage Shares 2X Long Memory Daily ETF|Z|RAML|Y|100|N|RAML
 RAMP|LiveRamp Holdings, Inc. Common Stock|N|RAMP|N|100|N|RAMP
 RAMZ|T-REX 2X Inverse DRAM Daily Target ETF|Z|RAMZ|Y|100|N|RAMZ
 RANK|Defiance KSM TipRanks Analyst ETF|P|RANK|Y|100|N|RANK
-RAVI|FlexShares Ultra-Short Income Fund|P|RAVI|Y|100|N|RAVI
+RAVI|Northern Trust Ultra-Short Fixed Income ETF|P|RAVI|Y|100|N|RAVI
 RB|ProShares Russell 2000 Dynamic Buffer ETF|Z|RB|Y|100|N|RB
 RBA|RB Global, Inc. Common Stock|N|RBA|N|100|N|RBA
 RBC|RBC Bearings Incorporated Common Stock|N|RBC|N|40|N|RBC
@@ -5988,6 +5982,7 @@ SHYG|iShares 0-5 Year High Yield Corporate Bond ETF|P|SHYG|Y|100|N|SHYG
 SHYL|Xtrackers Short Duration High Yield Bond ETF|P|SHYL|Y|100|N|SHYL
 SHYM|iShares Short Duration High Yield Muni Active ETF|Z|SHYM|Y|100|N|SHYM
 SI|Shoulder Innovations, Inc. Common Stock|N|SI|N|100|N|SI
+SIC|Tema Power Semiconductor ETF|Z|SIC|Y|100|N|SIC
 SID|Companhia Siderurgica Nacional S.A. Common Stock|N|SID|N|100|N|SID
 SIF|SIFCO Industries, Inc. Common Stock|A|SIF|N|100|N|SIF
 SIFI|Harbor Ares Systematic Multi-Sector Income ETF|P|SIFI|Y|100|N|SIFI
@@ -6435,8 +6430,8 @@ TDOC|Teladoc Health, Inc. Common Stock|N|TDOC|N|100|N|TDOC
 TDS|Telephone and Data Systems, Inc. Common Shares|N|TDS|N|100|N|TDS
 TDS$U|Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.625% Series UU Cumulative Redeemable Perpetual Preferred Stock|N|TDSpU|N|100|N|TDS-U
 TDS$V|Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.000% Series VV Cumulative Redeemable Perpetual Preferred Stock|N|TDSpV|N|100|N|TDS-V
-TDTF|FlexShares iBoxx 5 Year Target Duration TIPS Index Fund|P|TDTF|Y|100|N|TDTF
-TDTT|FlexShares iBoxx 3 Year Target Duration TIPS Index Fund|P|TDTT|Y|100|N|TDTT
+TDTF|Northern Trust iBoxx 5-Year Target Duration TIPS ETF|P|TDTF|Y|100|N|TDTF
+TDTT|Northern Trust iBoxx 3-Year Target Duration TIPS ETF|P|TDTT|Y|100|N|TDTT
 TDV|ProShares S&P Technology Dividend Aristocrats ETF|Z|TDV|Y|100|N|TDV
 TDVG|T. Rowe Price Dividend Growth ETF|P|TDVG|Y|100|N|TDVG
 TDVI|FT Vest Technology Dividend Target Income ETF|Z|TDVI|Y|100|N|TDVI
@@ -6524,7 +6519,7 @@ TIER|T. Rowe Price International Equity Research ETF|P|TIER|Y|100|N|TIER
 TII|Titan Mining Corporation Common Shares|A|TII|N|100|N|TII
 TIIV|AAM Todd International Intrinsic Value ETF|P|TIIV|Y|100|N|TIIV
 TILL|Teucrium Agricultural Strategy No K-1 ETF|P|TILL|Y|100|N|TILL
-TILT|FlexShares Mornigstar US Market Factors Tilt Index Fund ETF|Z|TILT|Y|100|N|TILT
+TILT|Northern Trust Morningstar US Market Factor Tilt ETF|Z|TILT|Y|100|N|TILT
 TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) |N|TIMB|N|100|N|TIMB
 TIME|Clockwise U.S. Core Equity ETF|P|TIME|Y|100|N|TIME
 TINS|Templeton International Insights ETF|P|TINS|Y|100|N|TINS
@@ -6552,8 +6547,8 @@ TLCI|Touchstone International Equity ETF|P|TLCI|Y|100|N|TLCI
 TLDR|The Laddered T-Bill ETF|Z|TLDR|Y|100|N|TLDR
 TLH|iShares 10-20 Year Treasury Bond ETF|P|TLH|Y|100|N|TLH
 TLK|PT Telekomunikasi Indonesia, Tbk|N|TLK|N|100|N|TLK
-TLTD|FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund|P|TLTD|Y|100|N|TLTD
-TLTE|FlexShares Morningstar Emerging Markets Factor Tilt Index Fund|P|TLTE|Y|100|N|TLTE
+TLTD|Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF|P|TLTD|Y|100|N|TLTD
+TLTE|Northern Trust Morningstar Emerging Markets Factor Tilt ETF|P|TLTE|Y|100|N|TLTE
 TLTI|NEOS Enhanced Income 20+ Year Treasury Bond ETF|Z|TLTI|Y|100|N|TLTI
 TLTP|Amplify TLT U.S. Treasury 12% Option Income ETF|Z|TLTP|Y|100|N|TLTP
 TLTW|iShares 20+ Year Treasury Bond BuyWrite Strategy ETF|Z|TLTW|Y|100|N|TLTW
@@ -7511,6 +7506,7 @@ ZCBF|Global X Zero Coupon Bond 2034 ETF|P|ZCBF|Y|100|N|ZCBF
 ZCBG|Global X Zero Coupon Bond 2035 ETF|P|ZCBG|Y|100|N|ZCBG
 ZDEK|Innovator Equity Defined Protection ETF - 1 Yr December|Z|ZDEK|Y|100|N|ZDEK
 ZDGE|Zedge, Inc. Class B Common Stock |A|ZDGE|N|100|N|ZDGE
+ZDIS|Virtus Zevenbergen Discovery Growth ETF|P|ZDIS|Y|100|N|ZDIS
 ZECP|Zacks Earnings Consistent Portfolio ETF|Z|ZECP|Y|100|N|ZECP
 ZEPP|Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares|N|ZEPP|N|100|N|ZEPP
 ZETA|Zeta Global Holdings Corp. Class A Common Stock|N|ZETA|N|100|N|ZETA
@@ -7524,6 +7520,7 @@ ZIEXT|IEX Test Company Test Symbol One for IEX|V|ZIEXT|N|100|Y|ZIEXT
 ZIG|The Acquirers Fund|P|ZIG|Y|100|N|ZIG
 ZIM|ZIM Integrated Shipping Services Ltd. Ordinary Shares|N|ZIM|N|100|N|ZIM
 ZINC|Zacks Income ETF|P|ZINC|Y|100|N|ZINC
+ZINN|Virtus Zevenbergen Innovative Growth ETF|P|ZINN|Y|100|N|ZINN
 ZIP|ZipRecruiter, Inc. Class A Common Stock|N|ZIP|N|100|N|ZIP
 ZJAN|Innovator Equity Defined Protection ETF - 1 Yr January|Z|ZJAN|Y|100|N|ZJAN
 ZJUL|Innovator Equity Defined Protection ETF - 1 Yr July|Z|ZJUL|Y|100|N|ZJUL
@@ -7549,4 +7546,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0814202621:31||||||
+File Creation Time: 0817202607:00||||||
