@@ -70,7 +70,6 @@ AMGN,Amgen CDR (CAD Hedged),TSX
 APH,Amphenol CDR (CAD Hedged),TSX
 ANRG,Anaergia Inc.,TSX
 APM,Andean Precious Metals Corp.,TSX
-ADW.A,Andrew Peller Limited/Andrew Peller Limitee,TSX
 APTX,Apotex Health Corp.,TSX
 APLI,Appili Therapeutics Inc.,TSX
 AAPL,Apple CDR (CAD Hedged),TSX
@@ -324,7 +323,6 @@ BA,Boeing CDR (CAD Hedged),TSX
 BBD.A,Bombardier Inc.,TSX
 BNE,Bonterra Energy Corp.,TSX
 BKNG,Booking CDR (CAD Hedged),TSX
-BLX,Boralex Inc.,TSX
 BPF.UN,Boston Pizza Royalties Income Fund,TSX
 BYD,Boyd Group Services Inc.,TSX
 BRAG,Bragg Gaming Group Inc.,TSX
@@ -379,7 +377,6 @@ BU,Burcon Nutrascience Corporation,TSX
 CADY,Cadillac Mines Corporation,TSX
 CAE,CAE Inc.,TSX
 CWL,Caldwell Partners International Inc. (The),TSX
-UDA,Caldwell U.S. Dividend Advantage Fund,TSX
 CFW,Calfrac Well Services Ltd.,TSX
 CGY,Calian Group Ltd.,TSX
 CCO,Cameco Corporation,TSX
@@ -2104,6 +2101,7 @@ TBUG.U,TD Target 2027 U.S. Investment Grade Bond ETF,TSX
 TBCH,TD Target 2028 Investment Grade Bond ETF,TSX
 TBCI,TD Target 2029 Investment Grade Bond ETF,TSX
 TBCJ,TD Target 2030 Investment Grade Bond ETF,TSX
+TBCK,TD Target 2031 Investment Grade Bond Fund,TSX
 TUSD.U,TD U.S. Cash Management ETF,TSX
 THU,TD U.S. Equity CAD Hedged Index ETF,TSX
 TPU,TD U.S. Equity Index ETF,TSX
