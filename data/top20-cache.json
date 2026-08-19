@@ -1,12 +1,12 @@
 {
   "meta": {
-    "lastUpdatedAt": "2026-08-18T11:25:50.725Z",
+    "lastUpdatedAt": "2026-08-19T11:23:57.555Z",
     "source": "custom-universe-cache",
-    "universeCount": 6334,
-    "scoredCount": 200,
-    "budgetUsed": 200,
+    "universeCount": 6335,
+    "scoredCount": 0,
+    "budgetUsed": 10,
     "budgetLimit": 200,
-    "status": "Top 20 cache updated from custom universe."
+    "status": "Partial Top 20 update with 10 non-rate-limit fetch errors."
   },
   "stocks": [
     {

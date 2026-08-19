@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-18T11:25:50.771Z",
+  "generatedAt": "2026-08-19T11:23:57.596Z",
   "status": "healthy",
   "freshness": {
-    "universeUpdatedAt": "2026-08-18T11:24:06.186Z",
+    "universeUpdatedAt": "2026-08-19T11:23:51.853Z",
     "universeAgeHours": 0,
-    "top20UpdatedAt": "2026-08-18T11:25:50.725Z",
+    "top20UpdatedAt": "2026-08-19T11:23:57.555Z",
     "top20AgeHours": 0
   },
   "counts": {
-    "universeCount": 6334,
-    "scoredCount": 200,
+    "universeCount": 6335,
+    "scoredCount": 0,
     "displayedTopCount": 20
   },
   "budget": {
-    "date": "2026-08-18",
-    "top20Used": 200,
+    "date": "2026-08-19",
+    "top20Used": 10,
     "top20Limit": 200,
     "trackedUsed": 0,
     "trackedLimit": 50
   },
   "notes": {
     "universeMode": "full-source-build",
-    "top20Status": "Top 20 cache updated from custom universe."
+    "top20Status": "Partial Top 20 update with 10 non-rate-limit fetch errors."
   }
 }
