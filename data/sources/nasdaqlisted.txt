@@ -1,8 +1,5 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size|ETF|NextShares
 AAAP|Pacer Barings CLO Market Flex ETF|G|N|N|100|Y|N
-AACB|Artius II Acquisition Inc. - Class A Ordinary Shares|G|N|D|100|N|N
-AACBR|Artius II Acquisition Inc. - Rights|G|N|N|100|N|N
-AACBU|Artius II Acquisition Inc. - Units|G|N|N|100|N|N
 AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares|S|N|N|100|N|N
 AACI|Armada Acquisition Corp. III - Class A Ordinary Share|G|N|N|100|N|N
 AACIU|Armada Acquisition Corp. III - Units|G|N|N|100|N|N
@@ -558,7 +555,7 @@ BBCP|Concrete Pumping Holdings, Inc.  - Common Stock|S|N|N|100|N|N
 BBCQ|Bleichroeder Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 BBCQU|Bleichroeder Acquisition Corp. II - Units|G|N|N|100|N|N
 BBCQW|Bleichroeder Acquisition Corp. II - Warrants|G|N|N|100|N|N
-BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|S|N|D|100|N|N
+BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|S|N|N|100|N|N
 BBH|VanEck Biotech ETF|G|N|N|100|Y|N
 BBIO|BridgeBio Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 BBLG|Bone Biologics Corp - Common Stock|S|N|N|100|N|N
@@ -858,6 +855,7 @@ BTDL|GraniteShares 2x Long BTDR Daily ETF|G|N|N|100|Y|N
 BTDR|Bitdeer Technologies Group - Ordinary Shares|S|N|N|100|N|N
 BTF|CoinShares Bitcoin and Ether ETF|G|N|N|100|Y|N
 BTGD|STKd 100% Bitcoin & 100% Gold ETF|G|N|N|100|Y|N
+BTLN|Brightline Interactive, Inc. - Common Stock|S|N|D|100|N|N
 BTMD|Biote Corp. - Class A common stock|G|N|N|100|N|N
 BTOC|Armlogi Holding Corp. - common stock|S|N|D|100|N|N
 BTOG|Bit Origin Limited - Class A Ordinary Shares|S|N|N|100|N|N
@@ -2085,7 +2083,6 @@ GGLL|Direxion Daily GOOGL Bull 2X ETF|G|N|N|100|Y|N
 GGLS|Direxion Daily GOOGL Bear 1X ETF|G|N|N|100|Y|N
 GGR|Gogoro Inc. - Ordinary Shares|S|N|N|100|N|N
 GGROW|Gogoro Inc. - Warrant|S|N|N|100|N|N
-GGRP|The Glimpse Group, Inc. - Common Stock|S|N|D|100|N|N
 GH|Guardant Health, Inc. - Common Stock|Q|N|N|100|N|N
 GHRS|GH Research PLC - Ordinary Shares|G|N|N|100|N|N
 GHXI|Gores Holdings XI, Inc. - Class A Ordinary Shares|G|N|N|100|N|N
@@ -2836,6 +2833,7 @@ KRT|Karat Packaging Inc. - Common Stock|Q|N|N|100|N|N
 KRUS|Kura Sushi USA, Inc. - Class A Common Stock|G|N|N|100|N|N
 KRYS|Krystal Biotech, Inc. - Common Stock|Q|N|N|40|N|N
 KSCP|Knightscope, Inc. - Class A Common Stock|S|N|N|100|N|N
+KSMH|xETFs Korea AI Semiconductor|G|N|N|100|Y|N
 KSPI|Joint Stock Company Kaspi.kz - American Depository Shares|Q|N|N|100|N|N
 KTCC|Key Tronic Corporation - Common Stock|G|N|N|100|N|N
 KTOS|Kratos Defense & Security Solutions, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4018,7 +4016,7 @@ PSCU|Invesco S&P SmallCap Utilities & Communication Services ETF|G|N|N|100|Y|N
 PSEC|Prospect Capital Corporation - Closed End Fund|Q|N|N|100|N|N
 PSET|Principal Quality ETF|G|N|N|100|Y|N
 PSHG|Performance Shipping Inc. - Common Shares|S|N|N|100|N|N
-PSIG|PS International Group Ltd. - Ordinary Shares|S|N|N|100|N|N
+PSIG|PS International Group Ltd. - Ordinary Shares|S|N|D|100|N|N
 PSIX|Power Solutions International, Inc. - Common Stock|S|N|N|100|N|N
 PSKY|Paramount Skydance Corporation - Class B Common Stock|Q|N|N|100|N|N
 PSL|Invesco Dorsey Wright Consumer Staples Momentum ETF|G|N|N|100|Y|N
@@ -4324,7 +4322,7 @@ RNTX|Rein Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 RNW|ReNew Energy Global plc - Class A Shares|Q|N|N|100|N|N
 RNWWW|ReNew Energy Global plc - Warrant|Q|N|N|100|N|N
 RNXT|RenovoRx, Inc. - Common Stock|S|N|D|100|N|N
-ROAD|Construction Partners, Inc. - Common Stock|Q|N|N|100|N|N
+ROAD|Construction Partners, Inc. - Common Stock|Q|N|D|100|N|N
 ROBT|First Trust Nasdaq Artificial Intelligence and Robotics ETF|G|N|N|100|Y|N
 ROC|Rank One Computing Corporation - Common stock|S|N|N|100|N|N
 ROCK|Gibraltar Industries, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5482,7 +5480,6 @@ XNDU|Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares|G|N
 XNET|Xunlei Limited - American Depositary Shares|Q|N|N|100|N|N
 XOMX|Direxion Daily XOM Bull 2X ETF|G|N|N|100|Y|N
 XOS|Xos, Inc. - Common Stock|S|N|N|100|N|N
-XOSWW|Xos, Inc. - Warrants|S|N|N|100|N|N
 XOVR|ERShares Private-Public Crossover ETF|G|N|N|100|Y|N
 XP|XP Inc. - Class A Common Stock|Q|N|N|100|N|N
 XPEG|Leverage Shares 2X Long XPEV Daily ETF|G|N|N|100|Y|N
@@ -5601,4 +5598,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0819202607:00|||||||
+File Creation Time: 0820202607:00|||||||
