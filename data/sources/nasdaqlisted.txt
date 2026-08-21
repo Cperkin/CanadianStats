@@ -321,7 +321,7 @@ ANGU|SEI Ang Research Enhanced U.S. Large Cap ETF|G|N|N|100|Y|N
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ANIX|Anixa Biosciences, Inc. - Common Stock|S|N|N|100|N|N
-ANL|Adlai Nortye Ltd. - American Depositary Shares|G|N|N|100|N|N
+ANL|Adlai Nortye Group Ltd. - American Depositary Shares|G|N|N|100|N|N
 ANNA|AleAnna, Inc. - Class A Common Stock|S|N|N|100|N|N
 ANNAW|AleAnna, Inc. - Warrant|S|N|N|100|N|N
 ANNX|Annexon, Inc. - common stock|Q|N|N|100|N|N
@@ -1083,6 +1083,7 @@ CHSCO|CHS Inc - Class B Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 CHSCP|CHS Inc - 8%  Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 CHSN|Chanson International Holding - Class A Ordinary Shares|S|N|N|100|N|N
 CHTR|Charter Communications, Inc. - Class A Common Stock|Q|N|N|100|N|N
+CHTRP|Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 CHW|Calamos Global Dynamic Income Fund - Closed End Fund|Q|N|N|100|N|N
 CHY|Calamos Convertible and High Income Fund - Closed End Fund|Q|N|N|100|N|N
 CHYM|Chime Financial, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -1095,7 +1096,7 @@ CIIT|Tianci International, Inc. - Common Stock|S|N|N|100|N|N
 CINF|Cincinnati Financial Corporation - Common Stock|Q|N|N|100|N|N
 CING|Cingulate Inc. - Common Stock|S|N|N|100|N|N
 CINGW|Cingulate Inc. - Warrants|S|N|N|100|N|N
-CIRC|Circle8 Group, Inc. - Common Stock|G|N|N|100|N|N
+CIRC|Circle8 Group, Inc. - Common Stock|G|N|D|100|N|N
 CISO|CISO Global, Inc. - Common Stock|S|N|D|100|N|N
 CISS|C3is Inc. - Common Stock|S|N|N|100|N|N
 CIVB|Civista Bancshares, Inc.  - Common Stock|S|N|N|100|N|N
@@ -1738,6 +1739,7 @@ FANG|Diamondback Energy, Inc. - Common Stock|Q|N|N|100|N|N
 FAST|Fastenal Company - Common Stock|Q|N|N|100|N|N
 FATE|Fate Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 FATN|FatPipe, Inc. - common stock|S|N|N|100|N|N
+FBDT|First Breach Inc. - Common Stock|S|N|N|100|N|N
 FBGL|FBS Global Limited - Ordinary Shares|S|N|D|100|N|N
 FBIO|Fortress Biotech, Inc. - Common Stock|S|N|N|100|N|N
 FBIOP|Fortress Biotech, Inc. - 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock|S|N|N|100|N|N
@@ -2473,7 +2475,7 @@ ICG|Intchains Group Limited - American Depositary Shares|S|N|N|100|N|N
 ICHR|Ichor Holdings - Ordinary Shares|Q|N|N|100|N|N
 ICLN|iShares Global Clean Energy ETF|G|N|N|100|Y|N
 ICLR|ICON plc - Ordinary Shares|Q|N|N|100|N|N
-ICMB|Investcorp Credit Management BDC, Inc. - Common Stock|Q|N|N|100|N|N
+ICMB|Investcorp Credit Management BDC, Inc. - Common Stock|Q|N|D|100|N|N
 ICON|Icon Energy Corp. - Common stock|S|N|N|100|N|N
 ICOP|iShares Copper and Metals Mining ETF|G|N|N|100|Y|N
 ICU|SeaStar Medical Holding Corporation - Common Stock|S|N|N|100|N|N
@@ -2874,9 +2876,6 @@ LATAW|Galata Acquisition Corp. II - Warrant|G|N|N|100|N|N
 LAUR|Laureate Education, Inc. - Common Stock|Q|N|N|100|N|N
 LAWR|Robot Consulting Co., Ltd. - ADS|S|N|N|100|N|N
 LBGJ|Li Bang International Corporation Inc. - Class A Ordinary Shares|S|N|N|100|N|N
-LBRDA|Liberty Broadband Corporation - Class A Common Stock|Q|N|N|100|N|N
-LBRDK|Liberty Broadband Corporation - Class C Common Stock|Q|N|N|100|N|N
-LBRDP|Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 LBRX|LB Pharmaceuticals Inc - Common Stock|G|N|N|100|N|N
 LBTYA|Liberty Global Ltd. - Class A Common Shares|Q|N|N|100|N|N
 LBTYB|Liberty Global Ltd. - Class B Common Shares|Q|N|N|100|N|N
@@ -4103,6 +4102,7 @@ QMCO|Quantum Corporation - Common Stock|G|N|N|100|N|N
 QMID|WisdomTree U.S. MidCap Quality Growth Fund|G|N|N|100|Y|N
 QMLS|QumulusAI, Inc. - Common Stock|G|N|N|100|N|N
 QMOM|Alpha Architect U.S. Quantitative Momentum ETF|G|N|N|100|Y|N
+QNBC|QNB Corp. - Common Stock|S|N|N|100|N|N
 QNCX|Quince Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 QNDX|State Street SPDR Portfolio Nasdaq 100 ETF|G|N|N|100|Y|N
 QNME|Quanome Technologies, Inc. - Common Stock|S|N|D|100|N|N
@@ -4321,7 +4321,7 @@ RNRG|Global X Renewable Energy Producers ETF|G|N|N|100|Y|N
 RNTX|Rein Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 RNW|ReNew Energy Global plc - Class A Shares|Q|N|N|100|N|N
 RNWWW|ReNew Energy Global plc - Warrant|Q|N|N|100|N|N
-RNXT|RenovoRx, Inc. - Common Stock|S|N|D|100|N|N
+RNXT|RenovoRx, Inc. - Common Stock|S|N|N|100|N|N
 ROAD|Construction Partners, Inc. - Common Stock|Q|N|D|100|N|N
 ROBT|First Trust Nasdaq Artificial Intelligence and Robotics ETF|G|N|N|100|Y|N
 ROC|Rank One Computing Corporation - Common stock|S|N|N|100|N|N
@@ -4471,6 +4471,7 @@ SENEA|Seneca Foods Corp. - Class A Common Stock|Q|N|N|100|N|N
 SENEB|Seneca Foods Corp. - Class B Common Stock|Q|N|N|100|N|N
 SENS|Senseonics Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SEPN|Septerna, Inc. - Common Stock|G|N|N|100|N|N
+SEPQ|STF Tactical Growth & Income ETF|G|N|N|100|Y|N
 SERA|Sera Prognostics, Inc. - Class A Common Stock|G|N|N|100|N|N
 SERV|Serve Robotics Inc. - Common Stock|S|N|N|100|N|N
 SETM|Sprott Critical Materials ETF|G|N|N|100|Y|N
@@ -4746,7 +4747,7 @@ STRT|STRATTEC SECURITY CORPORATION - Common Stock|G|N|N|100|N|N
 STRZ|Starz Entertainment Corp. - Common Shares|Q|N|N|100|N|N
 STTK|Shattuck Labs, Inc. - Common Stock|Q|N|N|100|N|N
 STX|Seagate Technology Holdings PLC - Ordinary Shares (Ireland)|Q|N|N|40|N|N
-SUGP|SU Group Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
+SUGP|SU Group Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 SUIG|Sui Group Holdings Limited - Common Stock|S|N|N|100|N|N
 SUIS|Canary Staked SUI ETF|G|N|N|100|Y|N
 SUJA|Suja Life, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -4974,6 +4975,7 @@ TRAX|First Tracks Biotherapeutics, Inc. - Ordinary Shares|Q|N|N|100|N|N
 TRBF|Angel Oak Total Return ETF|G|N|N|100|Y|N
 TRDA|Entrada Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 TREE|LendingTree, Inc. - Common Stock|Q|N|N|100|N|N
+TREO|Tactical Resources Corp. - Common Shares|S|N|N|100|N|N
 TRGS|TRG Latin America Acquisitions Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 TRGSR|TRG Latin America Acquisitions Corp. - Rights|G|N|N|100|N|N
 TRGSU|TRG Latin America Acquisitions Corp. - Units|G|N|N|100|N|N
@@ -5040,7 +5042,6 @@ TTMI|TTM Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 TTRX|Turn Therapeutics Inc. - Common Stock|G|N|N|100|N|N
 TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100|N|N
 TUG|STF Tactical Growth ETF|G|N|N|100|Y|N
-TUGN|STF Tactical Growth & Income ETF|G|N|N|100|Y|N
 TULP|Bloomia Holdings, Inc. - Common Stock|S|N|N|100|N|N
 TUR|iShares MSCI Turkey ETF|G|N|N|100|Y|N
 TURB|Turbo Energy, S.A. - American Depositary Shares|S|N|N|100|N|N
@@ -5381,7 +5382,7 @@ WISE|Themes Generative Artificial Intelligence ETF|G|N|N|100|Y|N
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 WKEY|WISeKey International Holding Ltd - American Depositary Shares|G|N|N|100|N|N
 WKHS|Workhorse Group, Inc. - Common Stock|S|N|N|100|N|N
-WKSP|Worksport, Ltd. - Common Stock|S|N|N|100|N|N
+WKSP|Worksport, Ltd. - Common Stock|S|N|D|100|N|N
 WLCO|Wilco 63 Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 WLCOU|Wilco 63 Corporation - Units|G|N|N|100|N|N
 WLCOW|Wilco 63 Corporation - Warrant|G|N|N|100|N|N
@@ -5512,7 +5513,6 @@ XYZG|Leverage Shares 2X Long XYZ Daily ETF|G|N|N|100|Y|N
 YAAS|Youxin Technology Ltd - Class A Ordinary shares|S|N|N|100|N|N
 YARW|Yarrow Bioscience, Inc. - Common Stock|S|N|N|100|N|N
 YB|Yuanbao Inc. - American Depositary Shares|G|N|N|100|N|N
-YBMN|Defiance BMNR Option Income ETF|G|N|N|100|Y|N
 YBST|GraniteShares YieldBoost Single Stock Universe ETF|G|N|N|100|Y|N
 YBTY|GraniteShares YieldBoost TopYielders ETF|G|N|N|100|Y|N
 YDDL|One and One Green Technologies. INC - Class A Ordinary Shares|S|N|N|100|N|N
@@ -5598,4 +5598,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0820202607:00|||||||
+File Creation Time: 0821202607:00|||||||

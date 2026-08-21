@@ -3103,6 +3103,7 @@ HGRO|Hedgeye Quality Growth ETF|P|HGRO|Y|100|N|HGRO
 HGTY|Hagerty, Inc. Class A Common Stock|N|HGTY|N|100|N|HGTY
 HGV|Hilton Grand Vacations Inc. Common Stock |N|HGV|N|100|N|HGV
 HHH|Howard Hughes Holdings Inc. Common Stock|N|HHH|N|100|N|HHH
+HIAI|Ai Funds High Conviction US Equity AI-Managed ETF|Z|HIAI|Y|100|N|HIAI
 HIBL|Direxion Daily S&P 500 High Beta Bull 3X ETF|P|HIBL|Y|100|N|HIBL
 HIBS|Direxion Daily S&P 500 High Beta Bear 3X ETF|P|HIBS|Y|100|N|HIBS
 HIDV|AB US High Dividend ETF|P|HIDV|Y|100|N|HIDV
@@ -3198,6 +3199,9 @@ HVAC|AdvisorShares HVAC and Industrials ETF|P|HVAC|Y|100|N|HVAC
 HVT|Haverty Furniture Companies, Inc. Common Stock|N|HVT|N|100|N|HVT
 HVT.A|Haverty Furniture Companies, Inc. Common Stock|N|HVT.A|N|100|N|HVT.A
 HWM|Howmet Aerospace Inc. Common Stock|N|HWM|N|100|N|HWM
+HXA|Mast HedgeIndex Corporate Arbitrage ETF|P|HXA|Y|100|N|HXA
+HXC|Mast HedgeIndex Strategic Commodities ETF|P|HXC|Y|100|N|HXC
+HXE|Mast HedgeIndex Adaptive Equities ETF|P|HXE|Y|100|N|HXE
 HXL|Hexcel Corporation Common Stock|N|HXL|N|100|N|HXL
 HY|Hyster-Yale, Inc. Class A common stock|N|HY|N|100|N|HY
 HYBB|iShares BB Rated Corporate Bond ETF|P|HYBB|Y|100|N|HYBB
@@ -3335,7 +3339,6 @@ IDVZ|Polen International Dividend Income Fund|Z|IDVZ|Y|100|N|IDVZ
 IDX|VanEck Indonesia Index ETF|P|IDX|Y|100|N|IDX
 IDYN|iShares International Equity Factor Rotation Active ETF|P|IDYN|Y|100|N|IDYN
 IE|Ivanhoe Electric Inc. Common Stock|A|IE|N|100|N|IE
-IEDI|iShares U.S. Consumer Focused ETF|Z|IEDI|Y|100|N|IEDI
 IEFA|iShares Core MSCI EAFE ETF|Z|IEFA|Y|100|N|IEFA
 IEMG|iShares Core MSCI Emerging Markets ETF|P|IEMG|Y|100|N|IEMG
 IEO|iShares U.S. Oil & Gas Exploration & Production ETF|Z|IEO|Y|100|N|IEO
@@ -4217,6 +4220,7 @@ MEC|Mayville Engineering Company, Inc. Common Stock|N|MEC|N|100|N|MEC
 MED|MEDIFAST INC Common Stock|N|MED|N|100|N|MED
 MEDI|Harbor Health Care ETF|P|MEDI|Y|100|N|MEDI
 MEGI|NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares|N|MEGI|N|100|N|MEGI
+MEGX|Corgi U.S. Mega-Cap Growth 2x Daily ETF|Z|MEGX|Y|100|N|MEGX
 MEI|Methode Electronics, Inc. Common Stock|N|MEI|N|100|N|MEI
 MEIB|Direxion META Defined Income Boost ETF|Z|MEIB|Y|100|N|MEIB
 MEM|Matthews Emerging Markets Equity Active ETF|P|MEM|Y|100|N|MEM
@@ -4257,7 +4261,6 @@ MGA|Magna International, Inc. Common Stock|N|MGA|N|100|N|MGA
 MGC|Vanguard Morningstar Mega Cap ETF|P|MGC|Y|100|N|MGC
 MGF|Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest|N|MGF|N|100|N|MGF
 MGK|Vanguard Morningstar Mega Cap Growth ETF|P|MGK|Y|40|N|MGK
-MGKX|Corgi U.S. Mega-Cap Growth 2x Daily ETF|Z|MGKX|Y|100|N|MGKX
 MGLD|The Marygold Companies, Inc. Common Stock|A|MGLD|N|100|N|MGLD
 MGM|MGM Resorts International Common Stock|N|MGM|N|100|N|MGM
 MGMT|Ballast Small/Mid Cap ETF|P|MGMT|Y|100|N|MGMT
@@ -6893,13 +6896,16 @@ USFD|US Foods Holding Corp. Common Stock|N|USFD|N|100|N|USFD
 USFE|First Eagle US Equity ETF|P|USFE|Y|100|N|USFE
 USFR|WisdomTree Floating Rate Treasury Fund|P|USFR|Y|100|N|USFR
 USG|USCF Gold Strategy Plus Income Fund|P|USG|Y|100|N|USG
+USGX|Corgi U.S. Growth 2x Daily ETF|Z|USGX|Y|100|N|USGX
 USHY|iShares Broad USD High Yield Corporate Bond ETF|Z|USHY|Y|100|N|USHY
 USL|United States 12 Month Oil|P|USL|Y|100|N|USL
 USLN|iShares Broad USD Floating Rate Loan ETF|Z|USLN|Y|100|N|USLN
 USLV|Direxion Daily Silver Bull 2X ETF|P|USLV|Y|100|N|USLV
+USLX|Corgi U.S. Large-Cap 2x Daily ETF|Z|USLX|Y|100|N|USLX
 USMD|CoreValues America First Technology ETF|P|USMD|Y|100|N|USMD
 USMF|WisdomTree U.S. Multifactor Fund|Z|USMF|Y|100|N|USMF
 USMV|iShares MSCI USA Min Vol Factor ETF|Z|USMV|Y|100|N|USMV
+USMX|Corgi U.S. Mid-Cap 2x Daily ETF|Z|USMX|Y|100|N|USMX
 USNA|USANA Health Sciences, Inc. Common Stock|N|USNA|N|100|N|USNA
 USNG|Amplify Samsung U.S. Natural Gas Infrastructure ETF|P|USNG|Y|100|N|USNG
 USNZ|Xtrackers Net Zero Pathway Paris Aligned US Equity ETF|P|USNZ|Y|100|N|USNZ
@@ -6909,6 +6915,7 @@ USPX|Franklin U.S. Equity Index ETF|P|USPX|Y|100|N|USPX
 USRT|iShares Core U.S. REIT ETF|P|USRT|Y|100|N|USRT
 USSE|Segall Bryant & Hamill Trust Segall Bryant & Hamill Select Equity ETF|P|USSE|Y|100|N|USSE
 USSG|Xtrackers MSCI USA Selection Equity ETF|P|USSG|Y|100|N|USSG
+USSX|Corgi U.S. Small-Cap 2x Daily ETF|Z|USSX|Y|100|N|USSX
 UST|ProShares Ultra 7-10 Year Treasury|P|UST|Y|100|N|UST
 USX|Corgi Total U.S. Market 2x Daily ETF|Z|USX|Y|100|N|USX
 UTES|Virtus Reaves Utilities ETF|P|UTES|Y|100|N|UTES
@@ -6960,7 +6967,6 @@ VBF|Invesco Bond Fund Common Stock|N|VBF|N|100|N|VBF
 VBK|Vanguard Morningstar Small-Cap Growth ETF|P|VBK|Y|40|N|VBK
 VBND|Vident U.S. Bond Strategy ETF|P|VBND|Y|100|N|VBND
 VBR|Vanguard Morningstar Small-Cap Value ETF|P|VBR|Y|100|N|VBR
-VBX|Corgi U.S. Small-Cap 2x Daily ETF|Z|VBX|Y|100|N|VBX
 VCEB|Vanguard ESG U.S. Corporate Bond ETF|Z|VCEB|Y|100|N|VCEB
 VCHY|Vanguard U.S. High-Yield Corporate Bond Index ETF|Z|VCHY|Y|100|N|VCHY
 VCLN|Virtus Duff & Phelps Clean Energy ETF|P|VCLN|Y|100|N|VCLN
@@ -7070,7 +7076,6 @@ VOE|Vanguard Morningstar Mid-Cap Value ETF|P|VOE|Y|100|N|VOE
 VOO|Vanguard S&P 500 ETF|P|VOO|Y|40|N|VOO
 VOOG|Vanguard S&P 500 Growth ETF|P|VOOG|Y|40|N|VOOG
 VOOV|Vanguard S&P 500 Value ETF|P|VOOV|Y|100|N|VOOV
-VOOX|Corgi U.S. Large-Cap 2x Daily ETF|Z|VOOX|Y|100|N|VOOX
 VOT|Vanguard Morningstar Mid-Cap Growth ETF|P|VOT|Y|40|N|VOT
 VOX|Vanguard Communication Services  ETF|P|VOX|Y|100|N|VOX
 VOXP|Vox Populi ETF|Z|VOXP|Y|100|N|VOXP
@@ -7451,9 +7456,7 @@ XUSP|Innovator Uncapped Accelerated U.S. Equity ETF|Z|XUSP|Y|100|N|XUSP
 XV|Simplify Target 15 Distribution ETF|P|XV|Y|100|N|XV
 XVAP|FT Vest AAPL & Target Income ETF|Z|XVAP|Y|100|N|XVAP
 XVNV|FT Vest NVDA & Target Income ETF|Z|XVNV|Y|100|N|XVNV
-XVO|Corgi U.S. Mid-Cap 2x Daily ETF|Z|XVO|Y|100|N|XVO
 XVTS|FT Vest TSLA & Target Income ETF|Z|XVTS|Y|100|N|XVTS
-XVUG|Corgi U.S. Growth 2x Daily ETF|Z|XVUG|Y|100|N|XVUG
 XVV|iShares ESG Select Screened S&P 500 ETF|Z|XVV|Y|100|N|XVV
 XW|Corgi Ex-U.S. Equities 2x Daily ETF|Z|XW|Y|100|N|XW
 XWNG|Amplify Top 10 Space ETF|P|XWNG|Y|100|N|XWNG
@@ -7564,4 +7567,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0820202607:00||||||
+File Creation Time: 0821202607:00||||||
