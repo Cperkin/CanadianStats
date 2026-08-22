@@ -2330,7 +2330,7 @@ HLMN|Hillman Solutions Corp. - Common Stock|G|N|N|100|N|N
 HLNE|Hamilton Lane Incorporated - Class A Common Stock|Q|N|N|100|N|N
 HLP|Hongli Group Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 HLTH|Tema Healthcare AI ETF|G|N|N|100|Y|N
-HLXC|Helix Acquisition Corp. III - Class A Ordinary Shares|G|N|N|100|N|N
+HLXC|Helix Acquisition Corp. III - Class A Ordinary Shares|G|N|D|100|N|N
 HMH|HMH Holding Inc. - Common Stock|Q|N|N|100|N|N
 HMR|Heidmar Maritime Holdings Corp. - Common Stock|S|N|N|100|N|N
 HMYY|GraniteShares YieldBoost HIMS ETF|G|N|N|100|Y|N
@@ -3713,7 +3713,9 @@ OSBC|Old Second Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 OSCX|Defiance Daily Target 2x Long OSCR ETF|G|N|N|100|Y|N
 OSIS|OSI Systems, Inc. - Common Stock|Q|N|N|40|N|N
 OSPN|OneSpan Inc. - Common Stock|S|N|N|100|N|N
+OSPR|Osprey Acquisition Corp. III - Class A Ordinary Shares|G|N|N|100|N|N
 OSPRU|Osprey Acquisition Corp. III - Units|G|N|N|100|N|N
+OSPRW|Osprey Acquisition Corp. III - Warrants|G|N|N|100|N|N
 OSRH|OSR Health, Inc. - Common Stock|S|N|D|100|N|N
 OSRHW|OSR Health, Inc. - Warrant|S|N|N|100|N|N
 OSS|One Stop Systems, Inc. - Common Stock|S|N|N|100|N|N
@@ -5598,4 +5600,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0821202607:00|||||||
+File Creation Time: 0821202621:31|||||||
