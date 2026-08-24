@@ -4227,7 +4227,7 @@ RDZN|Roadzen, Inc. - Ordinary Shares|G|N|N|100|N|N
 RDZNW|Roadzen, Inc. - Warrants|S|N|N|100|N|N
 REAI|Intelligent Real Estate ETF|G|N|N|100|Y|N
 REAL|The RealReal, Inc. - Common Stock|Q|N|N|100|N|N
-REAX|The Real Brokerage, Inc. - Common Shares|S|N|N|100|N|N
+REAX|The Real Brokerage, Inc. - Common Stock|S|N|N|100|N|N
 REBN|Reborn Coffee, Inc. - Common Stock|S|N|N|100|N|N
 RECT|Rectitude Holdings Ltd - Ordinary Shares|S|N|N|100|N|N
 REFI|Chicago Atlantic Real Estate Finance, Inc. - Common Stock|G|N|N|100|N|N
@@ -4322,7 +4322,6 @@ RNIN|Bushido Capital US SMID Cap Equity ETF|G|N|N|100|Y|N
 RNRG|Global X Renewable Energy Producers ETF|G|N|N|100|Y|N
 RNTX|Rein Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 RNW|ReNew Energy Global plc - Class A Shares|Q|N|N|100|N|N
-RNWWW|ReNew Energy Global plc - Warrant|Q|N|N|100|N|N
 RNXT|RenovoRx, Inc. - Common Stock|S|N|N|100|N|N
 ROAD|Construction Partners, Inc. - Common Stock|Q|N|D|100|N|N
 ROBT|First Trust Nasdaq Artificial Intelligence and Robotics ETF|G|N|N|100|Y|N
@@ -5600,4 +5599,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0821202621:31|||||||
+File Creation Time: 0824202607:00|||||||

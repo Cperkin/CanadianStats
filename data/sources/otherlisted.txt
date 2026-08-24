@@ -670,7 +670,6 @@ BEBE|TGE Value Creative Solutions Corp Class A Ordinary Shares|N|BEBE|N|100|N|BE
 BEBE.U|TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|BEBE.U|N|100|N|BEBE=
 BEBE.W|TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share|N|BEBE.WS|N|100|N|BEBE+
 BEC|Corgi BE 2x Daily ETF|Z|BEC|Y|100|N|BEC
-BEDZ|AdvisorShares Hotel ETF|P|BEDZ|Y|100|N|BEDZ
 BEGS|Rareview 2x Bull Cryptocurrency & Precious Metals ETF|Z|BEGS|Y|100|N|BEGS
 BEKE|KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)|N|BEKE|N|100|N|BEKE
 BEMB|iShares J.P. Morgan Broad USD Emerging Markets Bond ETF|Z|BEMB|Y|100|N|BEMB
@@ -1961,6 +1960,7 @@ EDOG|ALPS Emerging Sector Dividend Dogs ETF|P|EDOG|Y|100|N|EDOG
 EDOW|First Trust Dow 30 Equal Weight ETF|P|EDOW|Y|100|N|EDOW
 EDU|New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)|N|EDU|N|100|N|EDU
 EDV|Vanguard Extended Duration Treasury ETF|P|EDV|Y|100|N|EDV
+EDVA|Endovia Health Sciences, Inc. Common Stock|A|EDVA|N|100|N|EDVA
 EDZ|Direxion Emerging Markets Bear 3X ETF|P|EDZ|Y|100|N|EDZ
 EE|Excelerate Energy, Inc. Class A Common Stock|N|EE|N|100|N|EE
 EEA|The European Equity Fund, Inc. Common Stock|N|EEA|N|100|N|EEA
@@ -2010,8 +2010,8 @@ EHC|Encompass Health Corporation Common Stock|N|EHC|N|100|N|EHC
 EHCC|Global X Ethereum Covered Call ETF|Z|EHCC|Y|100|N|EHCC
 EHI|Western Asset Global High Income Fund Inc Common Stock|N|EHI|N|100|N|EHI
 EHY|Amplify Ethereum Max Income Covered Call ETF|Z|EHY|Y|100|N|EHY
-EIC|Eagle Point Income Company Inc. Common Stock|N|EIC|N|100|N|EIC
-EICA|Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026|N|EICA|N|100|N|EICA
+EIC|Eagle Point Income Company Common Shares of Beneficial Interest|N|EIC|N|100|N|EIC
+EICA|Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026|N|EICA|N|100|N|EICA
 EIDO|iShares MSCI Indonesia ETF|P|EIDO|Y|100|N|EIDO
 EIG|Employers Holdings Inc Common Stock|N|EIG|N|100|N|EIG
 EIIA|Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029|N|EIIA|N|100|N|EIIA
@@ -4570,7 +4570,6 @@ NBXG|Neuberger Next Generation Connectivity Fund Inc. Common Stock|N|NBXG|N|100|
 NC|NACCO Industries, Inc. Common Stock|N|NC|N|100|N|NC
 NCA|Nuveen California Municipal Value Fund|N|NCA|N|100|N|NCA
 NCDL|Nuveen Churchill Direct Lending Corp. Common Stock|N|NCDL|N|100|N|NCDL
-NCL|Northann Corp. Common Stock|A|NCL|N|100|N|NCL
 NCLH|Norwegian Cruise Line Holdings Ltd. Ordinary Shares|N|NCLH|N|100|N|NCLH
 NCLO|Nuveen AA-BBB CLO ETF|P|NCLO|Y|100|N|NCLO
 NCV|Virtus Convertible & Income Fund Common Shares of Beneficial Interest|N|NCV|N|100|N|NCV
@@ -5817,7 +5816,6 @@ SB$C|Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marsh
 SB$D|Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)|N|SBpD|N|100|N|SB-D
 SBAR|Simplify Barrier Income ETF|P|SBAR|Y|100|N|SBAR
 SBB|ProShares Short SmallCap600|P|SBB|Y|100|N|SBB
-SBEV|Splash Beverage Group, Inc. (NV) Common Stock|A|SBEV|N|100|N|SBEV
 SBH|Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock|N|SBH|N|100|N|SBH
 SBI|Western Asset Intermediate Muni Fund Inc Common Stock|N|SBI|N|100|N|SBI
 SBIL|Simplify Government Money Market ETF|P|SBIL|Y|100|N|SBIL
@@ -6261,6 +6259,7 @@ SPYT|Defiance S&P 500 Target Income ETF|P|SPYT|Y|100|N|SPYT
 SPYU|MAX S&P 500 4X Leveraged ETNs due October 30, 2043|P|SPYU|Y|100|N|SPYU
 SPYV|State Street SPDR Portfolio S&P 500 Value ETF|P|SPYV|Y|100|N|SPYV
 SPYX|State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF|P|SPYX|Y|100|N|SPYX
+SQBA|FT Vest U.S. Equity Quarterly 15 Buffer ETF|Z|SQBA|Y|100|N|SQBA
 SQLT|iShares MSCI USA Small-Cap Quality Factor ETF|Z|SQLT|Y|100|N|SQLT
 SQM|Sociedad Quimica y Minera S.A. Common Stock|N|SQM|N|100|N|SQM
 SQMX|FT Vest U.S. Equity Quarterly Max Buffer ETF|Z|SQMX|Y|100|N|SQMX
@@ -7021,7 +7020,6 @@ VHI|Valhi, Inc. Common Stock|N|VHI|N|100|N|VHI
 VHT|Vanguard Health Care ETF|P|VHT|Y|40|N|VHT
 VIA|Via Transportation, Inc. Class A Common Stock|N|VIA|N|100|N|VIA
 VIAG|Leverage Shares 2X Long VIAV Daily ETF|Z|VIAG|Y|100|N|VIAG
-VICE|AdvisorShares Vice ETF|P|VICE|Y|100|N|VICE
 VICI|VICI Properties Inc. Common Stock|N|VICI|N|100|N|VICI
 VIDA|VIDA Global Inc. Class A Common Stock|A|VIDA|N|100|N|VIDA
 VIDI|Vident International Equity Strategy ETF|P|VIDI|Y|100|N|VIDI
@@ -7567,4 +7565,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0821202621:31||||||
+File Creation Time: 0824202607:00||||||
