@@ -1658,7 +1658,7 @@ ESEA|Euroseas Ltd. - Common Stock|S|N|N|100|N|N
 ESGD|iShares ESG Aware MSCI EAFE ETF|G|N|N|100|Y|N
 ESGE|iShares ESG Aware MSCI EM ETF|G|N|N|100|Y|N
 ESGU|iShares ESG Aware MSCI USA ETF|G|N|N|100|Y|N
-ESLA|Estrella Immunopharma, Inc. - Common Stock|S|N|N|100|N|N
+ESLA|Estrella Immunopharma, Inc. - Common Stock|S|N|D|100|N|N
 ESLAW|Estrella Immunopharma, Inc. - Warrant|S|N|N|100|N|N
 ESLT|Elbit Systems Ltd. - Ordinary Shares|Q|N|N|40|N|N
 ESMV|iShares ESG Optimized MSCI USA Min Vol Factor ETF|G|N|N|100|Y|N
@@ -2801,6 +2801,7 @@ KLRA|Kailera Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
 KLRS|Kalaris Therapeutics, Inc.  - Common Stock|G|N|N|100|N|N
 KLTR|Kaltura, Inc. - Common Stock|Q|N|N|100|N|N
 KLXE|KLX Energy Services Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
+KLXER|KLX Energy Services Holdings, Inc.  - Rights|Q|N|N|100|N|N
 KMB|Kimberly-Clark Corporation - Common Stock|Q|N|N|100|N|N
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100|N|N
 KMLI|KraneShares 2x Long MELI Daily ETF|G|N|N|100|Y|N
@@ -3173,7 +3174,9 @@ MGRX|Mangoceuticals, Inc. - Common Stock|S|N|D|100|N|N
 MGTX|MeiraGTx Holdings plc - Ordinary Shares|Q|N|N|100|N|N
 MGX|Metagenomi Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 MGYR|Magyar Bancorp, Inc. - Common Stock|G|N|N|100|N|N
+MIAC|Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
 MIACU|Meridian3 Industrials Acquisition Corp - Units|G|N|N|100|N|N
+MIACW|Meridian3 Industrials Acquisition Corp - Warrant|G|N|N|100|N|N
 MIDD|The Middleby Corporation - Common Stock|Q|N|N|100|N|N
 MILN|Global X Millennial Consumer ETF|G|N|N|100|Y|N
 MIMI|Mint Incorporation Limited - Class A Ordinary Shares|S|N|N|100|N|N
@@ -3577,7 +3580,7 @@ NXL|Nexalin Technology, Inc. - Common Stock|S|N|D|100|N|N
 NXPI|NXP Semiconductors N.V. - Common Stock|Q|N|N|100|N|N
 NXPL|NextPlat Corp - Common Stock|S|N|N|100|N|N
 NXST|Nexstar Media Group, Inc. - Common Stock|Q|N|N|100|N|N
-NXT|Nextpower Inc. - Class A Common Stock|Q|N|N|100|N|N
+NXT|Nextpower Inc. - Common Stock|Q|N|N|100|N|N
 NXTC|NextCure, Inc. - Common Stock|Q|N|N|100|N|N
 NXTG|First Trust Indxx NextG ETF|G|N|N|100|Y|N
 NXTS|Nexentis Technologies Inc. - Common Stock|S|N|N|100|N|N
@@ -3927,7 +3930,7 @@ PLUT|Plutus Financial Group Limited - Ordinary Shares|S|N|N|100|N|N
 PLXS|Plexus Corp. - Common Stock|Q|N|N|100|N|N
 PLYX|Polaryx Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 PLYY|GraniteShares YieldBOOST PLTR ETF|G|N|N|100|Y|N
-PMA|Ming Shing Group Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+PMA|Ming Shing Group Holdings Limited - Ordinary Shares|S|N|D|100|N|N
 PMAX|Powell Max Limited - Class A Ordinary Shares|S|N|N|100|N|N
 PMBS|PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund|G|N|N|100|Y|N
 PMCB|PharmaCyte  Biotech, Inc. - Common Stock|S|N|D|100|N|N
@@ -4227,7 +4230,7 @@ RDZN|Roadzen, Inc. - Ordinary Shares|G|N|N|100|N|N
 RDZNW|Roadzen, Inc. - Warrants|S|N|N|100|N|N
 REAI|Intelligent Real Estate ETF|G|N|N|100|Y|N
 REAL|The RealReal, Inc. - Common Stock|Q|N|N|100|N|N
-REAX|The Real Brokerage, Inc. - Common Stock|S|N|N|100|N|N
+REAX|Real REMAX Group Inc. - Common Stock|S|N|N|100|N|N
 REBN|Reborn Coffee, Inc. - Common Stock|S|N|N|100|N|N
 RECT|Rectitude Holdings Ltd - Ordinary Shares|S|N|N|100|N|N
 REFI|Chicago Atlantic Real Estate Finance, Inc. - Common Stock|G|N|N|100|N|N
@@ -4952,7 +4955,7 @@ TMYY|GraniteShares YieldBOOST TSM ETF|G|N|N|100|Y|N
 TNDM|Tandem Diabetes Care, Inc. - Common Stock|G|N|N|100|N|N
 TNGX|Tango Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 TNMG|TNL Mediagene - Ordinary Shares|S|N|D|100|N|N
-TNON|Tenon Medical, Inc. - Common Stock|S|N|D|100|N|N
+TNON|Tenon Medical, Inc. - Common Stock|S|N|N|100|N|N
 TNONW|Tenon Medical, Inc. - Warrant|S|N|N|100|N|N
 TNXP|Tonix Pharmaceuticals Holding Corp. - Common Stock|Q|N|N|100|N|N
 TNXT|T. Rowe Price Innovation Leaders ETF|G|N|N|100|Y|N
@@ -5247,7 +5250,7 @@ VISN|Vistance Networks, Inc.  - Common Stock|Q|N|N|100|N|N
 VITL|Vital Farms, Inc. - Common Stock|G|N|N|100|N|N
 VIVK|Vivakor, Inc. - Common Stock|S|N|N|100|N|N
 VIVO|VivoPower PLC - Class A Ordinary Shares|S|N|N|100|N|N
-VIVS|VivoSim Labs, Inc. - Common Stock|S|N|N|100|N|N
+VIVS|VivoSim Labs, Inc. - Common Stock|S|N|D|100|N|N
 VKTX|Viking Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 VLGEA|Village Super Market, Inc. - Class A Common Stock|Q|N|N|100|N|N
 VLOS|Velos Acquisition I Corp. - Class A Ordinary shares|G|N|N|100|N|N
@@ -5599,4 +5602,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0824202607:00|||||||
+File Creation Time: 0825202607:00|||||||
