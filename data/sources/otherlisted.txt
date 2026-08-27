@@ -6,7 +6,9 @@ AAAA|Amplius Aggressive Asset Allocation ETF|Z|AAAA|Y|100|N|AAAA
 AAAC|Columbia AAA CLO ETF|P|AAAC|Y|100|N|AAAC
 AAAD|PGIM AAA CLO Aggregate Duration ETF|P|AAAD|Y|100|N|AAAD
 AAAU|Goldman Sachs Physical Gold ETF Shares|Z|AAAU|Y|100|N|AAAU
+AAC|Ares Acquisition Corporation III Class A Ordinary Shares|N|AAC|N|100|N|AAC
 AAC.U|Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant|N|AAC.U|N|100|N|AAC=
+AAC.W|Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|AAC.WS|N|100|N|AAC+
 AADX|Applied Aerospace & Defense, Inc. Common Stock|N|AADX|N|100|N|AADX
 AAMI|Acadian Asset Management Inc. Common Stock|N|AAMI|N|100|N|AAMI
 AAOG|Leverage Shares 2X Long AAOI Daily ETF|Z|AAOG|Y|100|N|AAOG
@@ -107,12 +109,18 @@ AEFC|Aegon Funding Company LLC 5.10% Subordinated Notes due 2049|N|AEFC|N|100|N|
 AEG|Aegon Ltd. New York Registry Shares|N|AEG|N|100|N|AEG
 AEHG|Leverage Shares 2X Long AEHR Daily ETF|Z|AEHG|Y|100|N|AEHG
 AEM|Agnico Eagle Mines Limited Common Stock|N|AEM|N|100|N|AEM
+AEMC|Harbor AlphaEdge Mid Cap Core ETF|P|AEMC|Y|100|N|AEMC
+AEMG|Harbor AlphaEdge Mid Cap Growth ETF|P|AEMG|Y|100|N|AEMG
+AEMV|Harbor AlphaEdge Mid Cap Value ETF|P|AEMV|Y|100|N|AEMV
 AEO|American Eagle Outfitters, Inc. Common Stock|N|AEO|N|100|N|AEO
 AEON|AEON Biopharma, Inc. Class A Common Stock|A|AEON|N|100|N|AEON
 AER|AerCap Holdings N.V. Ordinary Shares|N|AER|N|100|N|AER
 AERO|Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)|N|AERO|N|100|N|AERO
 AES|The AES Corporation Common Stock|N|AES|N|100|N|AES
+AESB|Harbor AlphaEdge Small Cap Core ETF|P|AESB|Y|100|N|AESB
+AESG|Harbor AlphaEdge Small Cap Growth ETF|P|AESG|Y|100|N|AESG
 AESI|Atlas Energy Solutions Inc. Common Stock|N|AESI|N|100|N|AESI
+AESL|Harbor AlphaEdge Small Cap Value ETF|P|AESL|Y|100|N|AESL
 AESR|Anfield U.S. Equity Sector Rotation ETF|Z|AESR|Y|100|N|AESR
 AETH|Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF|P|AETH|Y|100|N|AETH
 AEXA|American Exceptionalism Acquisition Corp. A Class A Ordinary Shares|N|AEXA|N|100|N|AEXA
@@ -1845,6 +1853,7 @@ DSI|iShares ESG MSCI KLD 400 ETF|P|DSI|Y|100|N|DSI
 DSL|DoubleLine Income Solutions Fund Common Shares of Beneficial Interests|N|DSL|N|100|N|DSL
 DSM|BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock|N|DSM|N|100|N|DSM
 DSMC|Distillate Small/Mid Cash Flow ETF|N|DSMC|Y|100|N|DSMC
+DSPC|Leverage Shares 1X Short SPCX Daily ETF|Z|DSPC|Y|100|N|DSPC
 DSPY|Tema S&P 500 Historical Weight ETF Strategy|P|DSPY|Y|100|N|DSPY
 DSS|DSS, Inc. Common Stock|A|DSS|N|100|N|DSS
 DSTL|Distillate U.S. Fundamental Stability & Value ETF|P|DSTL|Y|100|N|DSTL
@@ -3047,6 +3056,7 @@ HAWX|iShares Currency Hedged MSCI ACWI ex U.S. ETF|P|HAWX|Y|100|N|HAWX
 HAYW|Hayward Holdings, Inc. Common Stock|N|HAYW|N|100|N|HAYW
 HBB|Hamilton Beach Brands Holding Company Class A Common Stock |N|HBB|N|100|N|HBB
 HBIL|Harbor Short Term Treasury ETF|P|HBIL|Y|100|N|HBIL
+HBIT|Hedgeye Hedged Bitcoin ETF|P|HBIT|Y|100|N|HBIT
 HBM|Hudbay Minerals Inc. Ordinary Shares (Canada)|N|HBM|N|100|N|HBM
 HBMX|Tuttle Capital Concentrated Memory Stack ETF|Z|HBMX|Y|100|N|HBMX
 HBRD|Invesco U.S. Hybrid Bond ETF|P|HBRD|Y|100|N|HBRD
@@ -3986,7 +3996,6 @@ LDRI|iShares iBonds 1-5 Year TIPS Ladder ETF|P|LDRI|Y|100|N|LDRI
 LDRT|iShares iBonds 1-5 Year Treasury Ladder ETF|P|LDRT|Y|100|N|LDRT
 LDUR|PIMCO Enhanced Low Duration Active Exchange-Traded Fund|P|LDUR|Y|100|N|LDUR
 LEA|Lear Corporation Common Stock|N|LEA|N|100|N|LEA
-LEG|Leggett & Platt, Incorporated Common Stock|N|LEG|N|100|N|LEG
 LEGO|Legato Merger Corp. IV Ordinary Shares|A|LEGO|N|100|N|LEGO
 LEGO.U|Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant|A|LEGO.U|N|100|N|LEGO=
 LEGO.W|Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share|A|LEGO.WS|N|100|N|LEGO+
@@ -4359,6 +4368,7 @@ MMTM|State Street SPDR S&P 1500 Momentum Tilt ETF|P|MMTM|Y|40|N|MMTM
 MMU|Western Asset Managed Municipals Fund, Inc. Common Stock|N|MMU|N|100|N|MMU
 MNA|NYLI Merger Arbitrage ETF|P|MNA|Y|100|N|MNA
 MNBD|ALPS BBH Intermediate Municipal Bond ETF|P|MNBD|Y|100|N|MNBD
+MNGU|MicroSectors 3x Long MANGOS+ ex Private Companies ETNs|P|MNGU|Y|100|N|MNGU
 MNR|Mach Natural Resources LP Common Units representing Limited Partner Interests|N|MNR|N|100|N|MNR
 MNRS|Grayscale Bitcoin Miners ETF|P|MNRS|Y|100|N|MNRS
 MNSO|MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares|N|MNSO|N|100|N|MNSO
@@ -4748,7 +4758,6 @@ NTSE|WisdomTree Emerging Markets Efficient Core Fund|P|NTSE|Y|100|N|NTSE
 NTSI|WisdomTree International Efficient Core Fund|P|NTSI|Y|100|N|NTSI
 NTST|NetSTREIT Corp. Common Stock|N|NTST|N|100|N|NTST
 NTSX|WisdomTree U.S. Efficient Core Fund|P|NTSX|Y|100|N|NTSX
-NTZ|Natuzzi, S.p.A.|N|NTZ|N|100|N|NTZ
 NU|Nu Holdings Ltd. Class A Ordinary Shares|N|NU|N|100|N|NU
 NUAG|Nuveen Enhanced Yield U.S. Aggregate Bond ETF|P|NUAG|Y|100|N|NUAG
 NUBD|Nuveen ESG U.S. Aggregate Bond ETF|P|NUBD|Y|100|N|NUBD
@@ -5271,6 +5280,7 @@ PQXX|PGIM S&P 500 Quarterly Buffer 20 ETF|Z|PQXX|Y|100|N|PQXX
 PR|Permian Resources Corporation Class A Common Stock|N|PR|N|100|N|PR
 PRAB|State Street IG Public & Private ABS ETF|P|PRAB|Y|100|N|PRAB
 PRAE|PlanRock Alternative Growth ETF|P|PRAE|Y|100|N|PRAE
+PRAM|Defiance Memory & Photonics ETF|Z|PRAM|Y|100|N|PRAM
 PRAY|FIS Christian Stock Fund|P|PRAY|Y|100|N|PRAY
 PRCS|Parnassus Core Select ETF|N|PRCS|Y|100|N|PRCS
 PREF|Principal Spectrum Preferred Securities Active ETF|P|PREF|Y|100|N|PREF
@@ -5818,6 +5828,7 @@ SAUG|FT Vest U.S. Small Cap Moderate Buffer ETF - August|Z|SAUG|Y|100|N|SAUG
 SAV|Saratoga Investment Corp 7.50% Notes due 2031|N|SAV|N|100|N|SAV
 SAWG|AAM Sawgrass US Large Cap Quality Growth ETF|P|SAWG|Y|100|N|SAWG
 SAWS|AAM Sawgrass US Small Cap Quality Growth ETF|P|SAWS|Y|100|N|SAWS
+SAX|Saratoga Investment Corp 8.00% Notes due 2031|N|SAX|N|100|N|SAX
 SAY|Saratoga Investment Corp 8.125% Notes due 2027|N|SAY|N|100|N|SAY
 SAZ|Saratoga Investment Corp 8.50% Notes due 2028|N|SAZ|N|100|N|SAZ
 SB|Safe Bulkers, Inc Common Stock ($0.001 par value)|N|SB|N|100|N|SB
@@ -7578,4 +7589,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0826202607:00||||||
+File Creation Time: 0827202610:01||||||
