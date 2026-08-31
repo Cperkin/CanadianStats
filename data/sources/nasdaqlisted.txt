@@ -459,6 +459,10 @@ ATLCL|Atlanticus Holdings Corporation - 6.125% Senior Notes due 2026|G|N|N|100|N
 ATLCP|Atlanticus Holdings Corporation - 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share|Q|N|N|100|N|N
 ATLCZ|Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029|G|N|N|100|N|N
 ATLO|Ames National Corporation - Common Stock|S|N|N|100|N|N
+ATLQ|JAB Acquisition Corp I - Class A Ordinary Shares|G|N|N|100|N|N
+ATLQR|JAB Acquisition Corp I - Rights|G|N|N|100|N|N
+ATLQU|JAB Acquisition Corp I - Units|G|N|N|100|N|N
+ATLQW|JAB Acquisition Corp I - Warrants|G|N|N|100|N|N
 ATLX|Atlas Lithium Corporation - Common Stock|S|N|N|100|N|N
 ATNI|ATN International, Inc. - Common Stock|Q|N|N|100|N|N
 ATOM|Atomera Incorporated - Common Stock|S|N|N|100|N|N
@@ -561,7 +565,6 @@ BBOT|BridgeBio Oncology Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 BBSI|Barrett Business Services, Inc. - Common Stock|Q|N|N|100|N|N
 BBUL|GraniteShares 2x Long BB Daily ETF|G|N|N|100|Y|N
 BBYY|GraniteShares YieldBOOST BABA ETF|G|N|N|100|Y|N
-BCAB|BioAtla, Inc. - Common Stock|S|N|N|100|N|N
 BCAL|California BanCorp - Common Stock|S|N|N|100|N|N
 BCAX|Bicara Therapeutics Inc. - Common Stock|G|N|N|100|N|N
 BCBP|BCB Bancorp, Inc. (NJ) - Common Stock|G|N|N|100|N|N
@@ -1913,9 +1916,9 @@ FSBW|FS Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FSCS|First Trust SMID Capital Strength ETF|G|N|N|100|Y|N
 FSEA|First Seacoast Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FSGS|First Trust SMID Growth Strength ETF|G|N|N|100|Y|N
-FSHP|Flag Ship Acquisition Corp. - Ordinary Shares|G|N|N|100|N|N
-FSHPR|Flag Ship Acquisition Corp. - Right|G|N|N|100|N|N
-FSHPU|Flag Ship Acquisition Corp. - Unit|G|N|N|100|N|N
+FSHP|Flag Ship Acquisition Corp. - Ordinary Shares|S|N|N|100|N|N
+FSHPR|Flag Ship Acquisition Corp. - Right|S|N|N|100|N|N
+FSHPU|Flag Ship Acquisition Corp. - Unit|S|N|N|100|N|N
 FSLR|First Solar, Inc. - Common Stock|Q|N|N|100|N|N
 FSLY|Fastly, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FSTB|Fidelity Short-Term Bond ETF|G|N|N|100|Y|N
@@ -2661,10 +2664,6 @@ IXHL|Incannex Healthcare Inc. - Common Stock|S|N|N|100|N|N
 IXUS|iShares Core MSCI Total International Stock ETF|G|N|N|100|Y|N
 IZEA|IZEA Worldwide, Inc. - Common Stock|S|N|N|100|N|N
 IZM|ICZOOM Group Inc. - Class A Ordinary Shares|S|N|H|100|N|N
-JAB|JAB Acquisition Corp I - Class A Ordinary Shares|G|N|N|100|N|N
-JABRR|JAB Acquisition Corp I - Rights|G|N|N|100|N|N
-JABRU|JAB Acquisition Corp I - Units|G|N|N|100|N|N
-JABRW|JAB Acquisition Corp I - Warrants|G|N|N|100|N|N
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100|N|N
 JAGX|Jaguar Health, Inc. - Common Stock|S|N|N|100|N|N
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3053,7 +3052,7 @@ MAXI|Simplify Bitcoin Strategy ETF|G|N|N|100|Y|N
 MAYS|J. W. Mays, Inc. - Common Stock|S|N|N|100|N|N
 MAZE|Maze Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 MB|MasterBeef Group - Ordinary Shares|S|N|N|100|N|N
-MBAI|Check-Cap Ltd. - Ordinary Share|S|N|N|100|N|N
+MBAI|MBody AI Ltd. - Ordinary Share|S|N|N|100|N|N
 MBB|iShares MBS ETF|G|N|N|100|Y|N
 MBBC|Marathon Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 MBIN|Merchants Bancorp - Common Stock|S|N|N|100|N|N
@@ -4762,7 +4761,7 @@ SVIVW|Spring Valley Acquisition Corp. IV - Warrants|G|N|N|100|N|N
 SVRA|Savara, Inc. - Common Stock|Q|N|N|100|N|N
 SVRE|SaverOne 2014 Ltd. - American Depositary Shares|S|N|N|100|N|N
 SVREW|SaverOne 2014 Ltd. - Warrant|S|N|N|100|N|N
-SVRN|OceanPal Inc. - Common Stock|S|N|E|100|N|N
+SVRN|SVRN, Inc. - Common Stock|S|N|E|100|N|N
 SWAG|Stran & Company, Inc. - Common Stock|S|N|N|100|N|N
 SWAGW|Stran & Company, Inc. - Warrant|S|N|N|100|N|N
 SWBI|Smith & Wesson Brands, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5588,4 +5587,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0828202621:31|||||||
+File Creation Time: 0831202607:00|||||||
