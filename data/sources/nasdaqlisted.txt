@@ -1529,7 +1529,7 @@ ECOW|Pacer Emerging Markets Cash Cows 100 ETF|G|N|N|100|Y|N
 ECPG|Encore Capital Group Inc - Common Stock|Q|N|N|100|N|N
 ECX|ECARX Holdings Inc. - Class A Ordinary shares|G|N|N|100|N|N
 ECXWW|ECARX Holdings Inc. - Warrants|S|N|N|100|N|N
-EDBL|Edible Garden AG Incorporated - Common Stock|S|N|D|100|N|N
+EDBL|Edible Garden AG Incorporated - Common Stock|S|N|N|100|N|N
 EDBLW|Edible Garden AG Incorporated - Warrant|S|N|N|100|N|N
 EDHL|Everbright Digital Holding Limited - Ordinary Shares|S|N|N|100|N|N
 EDIT|Editas Medicine, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3371,8 +3371,8 @@ NCOOR|Southern Cross Acquisition I Corp. - Rights|G|N|N|100|N|N
 NCOOU|Southern Cross Acquisition I Corp. - Units|G|N|N|100|N|N
 NCOOW|Southern Cross Acquisition I Corp. - Warrants|G|N|N|100|N|N
 NCPB|Nuveen Core Plus Bond ETF|G|N|N|100|Y|N
-NCPL|Netcapital Inc. - Common Stock|S|N|D|100|N|N
-NCPLW|Netcapital Inc. - warrants|S|N|N|100|N|N
+NCPL|Netcapital Inc. - Common Stock|S|N|H|100|N|N
+NCPLW|Netcapital Inc. - warrants|S|N|E|100|N|N
 NCRA|Nocera, Inc. - common stock|S|N|N|100|N|N
 NCSM|NCS Multistage Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NCT|Intercont (Cayman) Limited - Class A Ordinary shares|S|N|N|100|N|N
@@ -3653,6 +3653,7 @@ ONFO|Onfolio Holdings Inc. - Common Stock|S|N|D|100|N|N
 ONFOW|Onfolio Holdings Inc. - Warrant|S|N|D|100|N|N
 ONMD|OneMedNet Corp - Class A Common Stock|S|N|D|100|N|N
 ONMDW|OneMedNet Corp - Warrant|S|N|N|100|N|N
+OPAD|Offerpad Solutions Inc.  - Class A Common Stock|S|N|N|100|N|N
 OPAL|OPAL Fuels Inc. - Class A Common Stock|S|N|N|100|N|N
 OPBK|OP Bancorp - Common Stock|G|N|N|100|N|N
 OPCH|Option Care Health, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4957,6 +4958,7 @@ TQQY|GraniteShares YieldBOOST QQQ ETF|G|N|N|100|Y|N
 TRAW|Traws Pharma, Inc. - Common Stock|S|N|D|100|N|N
 TRAX|First Tracks Biotherapeutics, Inc. - Ordinary Shares|Q|N|N|100|N|N
 TRBF|Angel Oak Total Return ETF|G|N|N|100|Y|N
+TRBG|TurboGen Ltd. - Ordinary Shares|S|N|N|100|N|N
 TRDA|Entrada Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 TREE|LendingTree, Inc. - Common Stock|Q|N|N|100|N|N
 TREO|Tactical Resources Corp. - Common Shares|S|N|N|100|N|N
@@ -5535,7 +5537,7 @@ YSWY|Yesway, Inc. - Class A Common Stock|Q|N|N|100|N|N
 YSXT|YSX Tech. Co., Ltd  - Class A Ordinary Shares|S|N|N|100|N|N
 YTRA|Yatra Online, Inc. - Ordinary Shares|S|N|D|100|N|N
 YXT|YXT.COM GROUP HOLDING LIMITED - American Depository Shares|G|N|N|100|N|N
-YYAI|AiRWA Inc. - Common Stock|S|N|N|100|N|N
+YYAI|AiRWA Inc. - Common Stock|S|N|E|100|N|N
 YYGH|YY Group Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 Z|Zillow Group, Inc. - Class C Capital Stock|Q|N|N|100|N|N
 ZAP|Global X U.S. Electrification ETF|G|N|N|100|Y|N
@@ -5587,4 +5589,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0831202607:00|||||||
+File Creation Time: 0901202607:00|||||||
