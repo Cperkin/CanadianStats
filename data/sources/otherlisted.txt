@@ -1759,6 +1759,7 @@ DIV|Global X Super Dividend ETF|P|DIV|Y|100|N|DIV
 DIVB|iShares Core Dividend ETF|Z|DIVB|Y|100|N|DIVB
 DIVE|Dana Concentrated Dividend ETF|P|DIVE|Y|100|N|DIVE
 DIVG|Invesco S&P 500 High Dividend Growers ETF|P|DIVG|Y|100|N|DIVG
+DIVH|Integrity Dividend Harvest ETF|P|DIVH|Y|100|N|DIVH
 DIVI|Franklin International Core Dividend Tilt Index ETF|P|DIVI|Y|100|N|DIVI
 DIVL|Madison Dividend Value ETF|P|DIVL|Y|100|N|DIVL
 DIVN|Horizon Dividend Income ETF|Z|DIVN|Y|100|N|DIVN
@@ -3142,7 +3143,6 @@ HLIO|Helios Technologies, Inc. Common Stock|N|HLIO|N|100|N|HLIO
 HLLY|Holley Inc. Common Stock|N|HLLY|N|100|N|HLLY
 HLN|Haleon plc American Depositary Shares (Each representing two Ordinary Shares)|N|HLN|N|100|N|HLN
 HLT|Hilton Worldwide Holdings Inc. Common Stock |N|HLT|N|40|N|HLT
-HLX|Helix Energy Solutions Group, Inc. Common Stock|N|HLX|N|100|N|HLX
 HMAY|Corgi U.S. Equities 100% Structured Buffer ETF - May Series|Z|HMAY|Y|100|N|HMAY
 HMC|Honda Motor Company, Ltd. Common Stock|N|HMC|N|100|N|HMC
 HMN|Horace Mann Educators Corporation Common Stock|N|HMN|N|100|N|HMN
@@ -3160,6 +3160,7 @@ HONG|Leverage Shares 2X Long HON Daily ETF|Z|HONG|Y|100|N|HONG
 HOOC|Corgi HOOD 2x Daily ETF|Z|HOOC|Y|100|N|HOOC
 HOOW|Roundhill HOOD WeeklyPay ETF|Z|HOOW|Y|100|N|HOOW
 HOOY|YieldMax HOOD Option Income Strategy ETF|P|HOOY|Y|100|N|HOOY
+HOS|Hornbeck Offshore Services, Inc. Common Stock|N|HOS|N|100|N|HOS
 HOV|Hovnanian Enterprises, Inc. Class A Common Stock|N|HOV|N|100|N|HOV
 HP|Helmerich & Payne, Inc. Common Stock|N|HP|N|100|N|HP
 HPE|Hewlett Packard Enterprise Company Common Stock|N|HPE|N|100|N|HPE
@@ -6054,6 +6055,7 @@ SKF|ProShares UltraShort Financials|P|SKF|Y|100|N|SKF
 SKHA|Tradr 2X Long SK hynix Daily ETF|Z|SKHA|Y|100|N|SKHA
 SKHL|Direxion Daily SK Hynix Bull 2X ETF|P|SKHL|Y|100|N|SKHL
 SKHN|Tradr 2X Short SK hynix Daily ETF|Z|SKHN|Y|100|N|SKHN
+SKHQ|Leverage Shares 2X Short Sk Hynix Daily ETF|Z|SKHQ|Y|100|N|SKHQ
 SKHU|ProShares Ultra SK hynix|P|SKHU|Y|100|N|SKHU
 SKHX|Leverage Shares 2X Long SK Hynix Daily ETF|Z|SKHX|Y|100|N|SKHX
 SKHZ|Leverage Shares 1X Short SK Hynix Daily ETF|Z|SKHZ|Y|100|N|SKHZ
@@ -6808,6 +6810,7 @@ UBR|ProShares Ultra MSCI Brazil Capped|P|UBR|Y|100|N|UBR
 UBS|UBS Group AG Registered Ordinary Shares|N|UBS|N|100|N|UBS
 UBT|ProShares Ultra 20+ Year Treasury|P|UBT|Y|100|N|UBT
 UCB|United Community Banks, Inc. Common Stock|N|UCB|N|100|N|UCB
+UCBG|State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF|P|UCBG|Y|100|N|UCBG
 UCC|ProShares Ultra Consumer Discretionary|P|UCC|Y|100|N|UCC
 UCIB|ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038|P|UCIB|N|100|N|UCIB
 UCO|ProShares Ultra Bloomberg Crude Oil|P|UCO|Y|100|N|UCO
@@ -7095,6 +7098,7 @@ VOE|Vanguard Morningstar Mid-Cap Value ETF|P|VOE|Y|100|N|VOE
 VOO|Vanguard S&P 500 ETF|P|VOO|Y|40|N|VOO
 VOOG|Vanguard S&P 500 Growth ETF|P|VOOG|Y|40|N|VOOG
 VOOV|Vanguard S&P 500 Value ETF|P|VOOV|Y|100|N|VOOV
+VOOY|XFUNDS Large Cap Income ETF|P|VOOY|Y|100|N|VOOY
 VOT|Vanguard Morningstar Mid-Cap Growth ETF|P|VOT|Y|40|N|VOT
 VOX|Vanguard Communication Services  ETF|P|VOX|Y|100|N|VOX
 VOXP|Vox Populi ETF|Z|VOXP|Y|100|N|VOXP
@@ -7587,4 +7591,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0901202607:00||||||
+File Creation Time: 0902202607:00||||||

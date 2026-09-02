@@ -1241,7 +1241,6 @@ CRMT|America's Car-Mart, Inc. - Common Stock|Q|N|N|100|N|N
 CRMU|Leverage Shares 2x Long CRML Daily ETF|G|N|N|100|Y|N
 CRNC|Cerence Inc. - Common Stock|Q|N|N|100|N|N
 CRNT|Ceragon Networks Ltd. - Ordinary Shares|Q|N|N|100|N|N
-CRNX|Crinetics Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 CROB|Defiance China Robotics ETF|G|N|N|100|Y|N
 CRON|Cronos Group Inc. - Common Share|G|N|N|100|N|N
 CROX|Crocs, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2084,6 +2083,7 @@ GIW|GigCapital8 Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 GIWWR|GigCapital8 Corp. - Rights|G|N|N|100|N|N
 GIWWU|GigCapital8 Corp. - Units|G|N|N|100|N|N
 GIX|GigCapital9 Corp. - Class A Ordinary Share|G|N|N|100|N|N
+GIXI|Gix Internet Ltd. - Ordinary Shares|S|N|N|100|N|N
 GIXXR|GigCapital9 Corp. - Rights|G|N|N|100|N|N
 GIXXU|GigCapital9 Corp. - Units|G|N|N|100|N|N
 GKAT|Scharf Global Opportunity ETF|G|N|N|100|Y|N
@@ -2635,6 +2635,7 @@ ISNRW|Snow Rothschild Acquisition Corp. - Warrants|G|N|N|100|N|N
 ISPC|iSpecimen Inc. - Common Stock|S|N|D|100|N|N
 ISPR|Ispire Technology Inc. - Common Stock|S|N|N|100|N|N
 ISRG|Intuitive Surgical, Inc. - Common Stock|Q|N|N|40|N|N
+ISRL|Defiance KSM Israel 120 ETF|G|N|N|100|Y|N
 ISTB|iShares Core 1-5 Year USD Bond ETF|G|N|N|100|Y|N
 ISTM|iShares Strategic Metals ETF|G|N|N|100|Y|N
 ISTR|Investar Holding Corporation - Common Stock|G|N|N|100|N|N
@@ -3323,7 +3324,7 @@ MYMK|State Street My2031 Municipal Bond ETF|G|N|N|100|Y|N
 MYPS|PLAYSTUDIOS, Inc.  - Class A Common Stock|S|N|D|100|N|N
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|40|N|N
 MYSE|Myseum.AI, Inc. - Common Stock|S|N|N|100|N|N
-MYSZ|My Size, Inc. - Common Stock|S|N|N|100|N|N
+MYSZ|My Size, Inc. - Common Stock|S|N|D|100|N|N
 MYX|Maywood Acquisition Corp. 2 - Class A Ordinary Share|G|N|N|100|N|N
 MYXXR|Maywood Acquisition Corp. 2 - Rights|G|N|N|100|N|N
 MYXXU|Maywood Acquisition Corp. 2 - Units|G|N|N|100|N|N
@@ -3374,7 +3375,6 @@ NCPB|Nuveen Core Plus Bond ETF|G|N|N|100|Y|N
 NCPL|Netcapital Inc. - Common Stock|S|N|H|100|N|N
 NCPLW|Netcapital Inc. - warrants|S|N|E|100|N|N
 NCRA|Nocera, Inc. - common stock|S|N|N|100|N|N
-NCSM|NCS Multistage Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NCT|Intercont (Cayman) Limited - Class A Ordinary shares|S|N|N|100|N|N
 NCTY|The9 Limited - American Depository Shares|S|N|N|100|N|N
 NDAA|Ned Davis Research 360 Dynamic Allocation ETF|G|N|N|100|Y|N
@@ -4475,6 +4475,7 @@ SFWL|Shengfeng Development Limited - Class A Ordinary Shares|S|N|N|100|N|N
 SGA|Saga Communications, Inc. - Class A Common Stock|G|N|N|100|N|N
 SGC|Superior Group of Companies, Inc. - Common Stock|G|N|N|100|N|N
 SGHT|Sight Sciences, Inc. - Common Stock|Q|N|N|100|N|N
+SGLD|Scorpio Gold Corporation - Common Stock|S|N|N|100|N|N
 SGLY|Singularity Future Technology Ltd. - Common Stock|S|N|N|100|N|N
 SGML|Sigma Lithium Corporation - common shares|S|N|N|100|N|N
 SGMT|Sagimet Biosciences Inc. - Series A Common Stock|G|N|N|100|N|N
@@ -4898,6 +4899,7 @@ TKLF|Tokyo Lifestyle Co., Ltd. - American Depositary Shares|S|N|N|100|N|N
 TKNO|Alpha Teknova, Inc. - Common Stock|G|N|N|100|N|N
 TKNS|21Shares Active Crypto ETF|G|N|N|100|Y|N
 TLA|GraniteShares Autocallable TSLA ETF|G|N|N|100|Y|N
+TLACU|Three Lions Acquisition Corp. - Units|G|N|N|100|N|N
 TLF|Tandy Leather Factory, Inc. - common stock|S|N|N|100|N|N
 TLG|Touchstone Large Company Growth ETF|G|N|N|100|Y|N
 TLIH|Ten-League International Holdings Limited - Ordinary Shares|S|N|N|100|N|N
@@ -5509,6 +5511,7 @@ YDDL|One and One Green Technologies. INC - Class A Ordinary Shares|S|N|N|100|N|N
 YDES|YD Bio Limited - Ordinary Shares|G|N|N|100|N|N
 YDESW|YD Bio Limited - Warrants|G|N|N|100|N|N
 YDKG|Yueda Digital Holding - Class A Ordinary Share|S|N|N|100|N|N
+YFOR|YYForce Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 YHC|LQR House Inc. - Common Stock|S|N|N|100|N|N
 YHGJ|Yunhong Green CTI Ltd. - Common Stock|S|N|N|100|N|N
 YHNA|YHN Acquisition I Limited - Ordinary Shares|G|N|D|100|N|N
@@ -5538,7 +5541,6 @@ YSXT|YSX Tech. Co., Ltd  - Class A Ordinary Shares|S|N|N|100|N|N
 YTRA|Yatra Online, Inc. - Ordinary Shares|S|N|D|100|N|N
 YXT|YXT.COM GROUP HOLDING LIMITED - American Depository Shares|G|N|N|100|N|N
 YYAI|AiRWA Inc. - Common Stock|S|N|E|100|N|N
-YYGH|YY Group Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 Z|Zillow Group, Inc. - Class C Capital Stock|Q|N|N|100|N|N
 ZAP|Global X U.S. Electrification ETF|G|N|N|100|Y|N
 ZAZZT|Tick Pilot Test Stock Class A Common Stock|G|Y|N|100|N|N
@@ -5574,7 +5576,6 @@ ZOOZW|ZOOZ Strategy Ltd. - Warrant|S|N|N|100|N|N
 ZS|Zscaler, Inc. - Common Stock|Q|N|N|100|N|N
 ZSQR|Z Squared Inc. - Common Stock|G|N|N|100|N|N
 ZSTK|ZeroStack Corp. - Common Stock|S|N|N|100|N|N
-ZTEK|Zentek Ltd. - common stock|S|N|D|100|N|N
 ZTEN|F/m 10-Year Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
 ZTG|Zenta Group Company Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZTOP|F/m High Yield 100 ETF|G|N|N|100|Y|N
@@ -5589,4 +5590,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0901202607:00|||||||
+File Creation Time: 0902202607:00|||||||
