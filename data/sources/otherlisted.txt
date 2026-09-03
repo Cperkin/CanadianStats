@@ -5184,6 +5184,7 @@ PJFM|PGIM Jennison Focused Mid-Cap ETF|Z|PJFM|Y|100|N|PJFM
 PJFV|PGIM Jennison Focused Value ETF|P|PJFV|Y|100|N|PJFV
 PJIO|PGIM Jennison Focused International Equity ETF|P|PJIO|Y|100|N|PJIO
 PJP|Invesco Pharmaceuticals ETF|P|PJP|Y|100|N|PJP
+PJSM|PGIM Jennison Small-Mid Cap Core Equity ETF|P|PJSM|Y|100|N|PJSM
 PJT|PJT Partners Inc. Class A Common Stock|N|PJT|N|100|N|PJT
 PJUL|Innovator U.S. Equity Power Buffer ETF - July|Z|PJUL|Y|100|N|PJUL
 PJUN|Innovator U.S. Equity Power Buffer ETF - June|Z|PJUN|Y|100|N|PJUN
@@ -5307,7 +5308,6 @@ PRT|PermRock Royalty Trust Units of Beneficial Interest|N|PRT|N|100|N|PRT
 PRTO|RCN Pareto Strategic Allocation ETF|P|PRTO|Y|100|N|PRTO
 PRU|Prudential Financial, Inc. Common Stock|N|PRU|N|100|N|PRU
 PRVS|Parnassus Value Select ETF|N|PRVS|Y|100|N|PRVS
-PRVT|Tema Alternative Asset Managers ETF|Z|PRVT|Y|100|N|PRVT
 PRXG|Praxis Impact Large Cap Growth ETF|P|PRXG|Y|100|N|PRXG
 PRXI|Praxis Impact International ETF|P|PRXI|Y|100|N|PRXI
 PRXV|Praxis Impact Large Cap Value ETF|P|PRXV|Y|100|N|PRXV
@@ -6713,6 +6713,7 @@ TRV|The Travelers Companies, Inc. Common Stock|N|TRV|N|40|N|TRV
 TRX|TRX Gold Corporation Common Stock|A|TRX|N|100|N|TRX
 TS|Tenaris S.A. American Depositary Shares|N|TS|N|100|N|TS
 TSCV|Thrivent Small Cap Value ETF|P|TSCV|Y|100|N|TSCV
+TSCZ|T. Rowe Price Securitized Income ETF|P|TSCZ|Y|100|N|TSCZ
 TSEC|Touchstone Securitized Income ETF|P|TSEC|Y|100|N|TSEC
 TSEG|Leverage Shares 2X Long TSEM Daily ETF|Z|TSEG|Y|100|N|TSEG
 TSEP|FT Vest Emerging Market Buffer ETF - September|Z|TSEP|Y|100|N|TSEP
@@ -7591,4 +7592,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0902202607:00||||||
+File Creation Time: 0903202607:00||||||
