@@ -2161,7 +2161,7 @@ GRFS|Grifols, S.A. - American Depositary Shares|Q|N|N|100|N|N
 GRI|GRI Bio, Inc. - Common Stock|S|N|N|100|N|N
 GRID|First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund|G|N|N|100|Y|N
 GRIN|VictoryShares International Free Cash Flow Growth ETF|G|N|N|100|Y|N
-GRML|Greenland Mines Ltd - Common Stock|S|N|D|100|N|N
+GRML|Greenland Mines Ltd - Common Stock|S|N|N|100|N|N
 GRMLW|Greenland Mines Ltd - Warrants|S|N|N|100|N|N
 GRNQ|Greenpro Capital Corp. - Common Stock|S|N|N|100|N|N
 GROW|U.S. Global Investors, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -2334,6 +2334,7 @@ HPAI|Helport AI Limited - Ordinary Shares|S|N|D|100|N|N
 HPAIW|Helport AI Limited - Warrants|S|N|N|100|N|N
 HPK|HighPeak Energy, Inc. - Common Stock|G|N|N|100|N|N
 HQ|Horizon Quantum Holdings Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
+HQDG|Raub Brock Dividend Growth ETF|G|N|N|100|Y|N
 HQGO|Hartford US Quality Growth ETF|G|N|N|100|Y|N
 HQI|HireQuest, Inc. - Common Stock|S|N|N|100|N|N
 HQWWW|Horizon Quantum Holdings Ltd. - Warrant|S|N|N|100|N|N
@@ -4499,7 +4500,7 @@ SHOP|Shopify Inc. - Class A Subordinate Voting Shares|Q|N|N|100|N|N
 SHOT|RMG ML Sports Holdings - Class A Ordinary Shares|G|N|N|100|N|N
 SHOTR|RMG ML Sports Holdings - Rights|G|N|N|100|N|N
 SHOTU|RMG ML Sports Holdings - Unit|G|N|N|100|N|N
-SHPH|Shuttle Pharmaceuticals Holdings, Inc. - common stock|S|N|N|100|N|N
+SHPH|Shuttle Pharmaceuticals Holdings, Inc. - common stock|S|N|E|100|N|N
 SHPU|Direxion Daily SHOP Bull 2X ETF|G|N|N|100|Y|N
 SHRY|First Trust Bloomberg Shareholder Yield ETF|G|N|N|100|Y|N
 SHY|iShares 1-3 Year Treasury Bond ETF|G|N|N|100|Y|N
@@ -5590,4 +5591,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0904202607:00|||||||
+File Creation Time: 0904202621:31|||||||
