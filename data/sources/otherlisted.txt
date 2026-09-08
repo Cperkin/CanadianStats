@@ -475,6 +475,7 @@ AUNA|Auna SA Class A Ordinary Shares|N|AUNA|N|100|N|AUNA
 AUSF|Global X Adaptive U.S. Factor ETF|P|AUSF|Y|100|N|AUSF
 AUSM|Allspring Ultra Short Municipal ETF|P|AUSM|Y|100|N|AUSM
 AUST|Austin Gold Corp. Common Shares|A|AUST|N|100|N|AUST
+AUXX|Gold X2 Mining Inc. Common Shares|A|AUXX|N|100|N|AUXX
 AV|Corgi Aerospace & Commercial Aviation ETF|Z|AV|Y|100|N|AV
 AVA|Avista Corporation Common Stock|N|AVA|N|100|N|AVA
 AVAL|Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)|N|AVAL|N|100|N|AVAL
@@ -7595,4 +7596,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0904202621:31||||||
+File Creation Time: 0908202607:00||||||
