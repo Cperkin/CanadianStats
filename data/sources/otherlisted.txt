@@ -1743,6 +1743,7 @@ DHX|DHI Group, Inc. Common Stock|N|DHX|N|100|N|DHX
 DHY|UBS Asset Management High Yield Credit Fund Common Stock|A|DHY|N|100|N|DHY
 DIA|State Street SPDR Dow Jones Industrial Average ETF Trust|P|DIA|Y|40|N|DIA
 DIAL|Columbia Diversified Fixed Income Allocation ETF|P|DIAL|Y|100|N|DIAL
+DICE|Tema Trading & Prediction Markets ETF|Z|DICE|Y|100|N|DICE
 DIEM|Franklin Emerging Market Core Dividend Tilt Index ETF|P|DIEM|Y|100|N|DIEM
 DIG|ProShares Ultra Energy|P|DIG|Y|100|N|DIG
 DIHP|Dimensional International High Profitability ETF|Z|DIHP|Y|100|N|DIHP
@@ -3802,6 +3803,7 @@ KAMO|Kensington Credit Opportunities ETF|Z|KAMO|Y|100|N|KAMO
 KAPA|Kairos Pharma, Ltd. Common Stock|A|KAPA|N|100|N|KAPA
 KAPR|Innovator U.S. Small Cap Power Buffer ETF - April|Z|KAPR|Y|100|N|KAPR
 KARS|KraneShares Electric Vehicles and Future Mobility Index ETF|P|KARS|Y|100|N|KARS
+KATT|T-REX 2X Long PURR Daily Target ETF|Z|KATT|Y|100|N|KATT
 KAUG|Innovator US Small Cap Power Buffer ETF - August|Z|KAUG|Y|100|N|KAUG
 KB|KB Financial Group Inc|N|KB|N|100|N|KB
 KBA|KraneShares Bosera MSCI China A 50 Connect Index ETF|P|KBA|Y|100|N|KBA
@@ -5154,7 +5156,7 @@ PH|Parker-Hannifin Corporation Common Stock|N|PH|N|40|N|PH
 PHDG|Invesco S&P 500 Downside Hedged ETF|P|PHDG|Y|100|N|PHDG
 PHEQ|Parametric Hedged Equity ETF|P|PHEQ|Y|100|N|PHEQ
 PHG|Koninklijke Philips N.V. NY Registry Shares|N|PHG|N|100|N|PHG
-PHGE|BiomX Inc. COmmon Stock|A|PHGE|N|100|N|PHGE
+PHGE|BiomX Inc. Common Stock|A|PHGE|N|100|N|PHGE
 PHI|PLDT Inc. Sponsored ADR|N|PHI|N|100|N|PHI
 PHIN|PHINIA Inc. Common Stock|N|PHIN|N|100|N|PHIN
 PHK|Pimco High Income Fund|N|PHK|N|100|N|PHK
@@ -6714,6 +6716,7 @@ TRTY|Cambria Trinity ETF|Z|TRTY|Y|100|N|TRTY
 TRU|TransUnion Common Stock|N|TRU|N|100|N|TRU
 TRV|The Travelers Companies, Inc. Common Stock|N|TRV|N|40|N|TRV
 TRX|TRX Gold Corporation Common Stock|A|TRX|N|100|N|TRX
+TRXS|Canary Staked TRX ETF|Z|TRXS|Y|100|N|TRXS
 TS|Tenaris S.A. American Depositary Shares|N|TS|N|100|N|TS
 TSCV|Thrivent Small Cap Value ETF|P|TSCV|Y|100|N|TSCV
 TSCZ|T. Rowe Price Securitized Income ETF|P|TSCZ|Y|100|N|TSCZ
@@ -7596,4 +7599,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0908202607:00||||||
+File Creation Time: 0909202607:00||||||

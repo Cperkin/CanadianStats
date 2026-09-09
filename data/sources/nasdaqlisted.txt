@@ -268,7 +268,9 @@ ALVOW|Alvotech - Warrant|G|N|N|100|N|N
 ALXO|ALX Oncology Holdings Inc. - Common Stock|Q|N|N|100|N|N
 ALZN|Alzamend Neuro, Inc. - Common Stock|S|N|D|100|N|N
 AMA|Defiance Daily Target 2X Long AMAT ETF|G|N|N|100|Y|N
+AMAC|AMR Resources Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
 AMACU|AMR Resources Acquisition Corp - Units|G|N|N|100|N|N
+AMACW|AMR Resources Acquisition Corp - Warrants|G|N|N|100|N|N
 AMAL|Amalgamated Financial Corp. - Common Stock|G|N|N|100|N|N
 AMAN|Amanat Acquisition Corp - Class A Ordinary Shares|S|N|N|100|N|N
 AMAT|Applied Materials, Inc. - Common Stock|Q|N|N|40|N|N
@@ -409,8 +411,8 @@ ARVN|Arvinas, Inc. - Common Stock|Q|N|N|100|N|N
 ARVR|First Trust Indxx Metaverse ETF|G|N|N|100|Y|N
 ARWR|Arrowhead Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 ARXS|Arxis, Inc. - Class A Common Stock|Q|N|N|100|N|N
-ASBP|Aspire Biopharma Holdings, Inc.  - Common Stock|S|N|N|100|N|N
-ASBPW|Aspire Biopharma Holdings, Inc.  - Warrant|S|N|N|100|N|N
+ASBP|Aspire-Lakewood Holdings, Inc. - Common Stock|S|N|N|100|N|N
+ASBPW|Aspire-Lakewood Holdings, Inc. - Warrant|S|N|N|100|N|N
 ASCI|abrdn International Small Cap Active ETF|G|N|N|100|Y|N
 ASD|Defiance Autism Impact ETF|G|N|N|100|Y|N
 ASEC|American Century Securitized Credit ETF|G|N|N|100|Y|N
@@ -647,8 +649,8 @@ BHFAO|Brighthouse Financial, Inc. - Depositary Shares, each representing a 1/1,0
 BHFAP|Brighthouse Financial, Inc. - Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A|Q|N|N|100|N|N
 BHRB|Burke & Herbert Financial Services Corp. - Common Stock|S|N|N|100|N|N
 BHST|BioHarvest Sciences Inc. - Common Stock|G|N|N|100|N|N
-BIAF|bioAffinity Technologies, Inc. - Common Stock|S|N|D|100|N|N
-BIAFW|bioAffinity Technologies, Inc. - Warrant|S|N|D|100|N|N
+BIAF|bioAffinity Technologies, Inc. - Common Stock|S|N|N|100|N|N
+BIAFW|bioAffinity Technologies, Inc. - Warrant|S|N|N|100|N|N
 BIB|ProShares Ultra Nasdaq Biotechnology|G|N|N|100|Y|N
 BID|Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BIDG|Leverage Shares 2X Long BIDU Daily ETF|G|N|N|100|Y|N
@@ -779,7 +781,6 @@ BRKU|Direxion Daily BRKB Bull 2X ETF|G|N|N|100|Y|N
 BRLS|Borealis Foods Inc. - Class A Common Shares|S|N|H|100|N|N
 BRLSW|Borealis Foods Inc. - Warrant|S|N|H|100|N|N
 BRLT|Brilliant Earth Group, Inc. - Class A Common Stock|G|N|N|100|N|N
-BRNS|Barinthus Biotherapeutics plc - American Depositary Shares|S|N|D|100|N|N
 BRNX|BrenX Ltd. - Ordinary Shares|S|N|N|100|N|N
 BRNY|Burney U.S. Factor Rotation ETF|G|N|N|100|Y|N
 BRR|ProCap Financial, Inc. - Common Stock|G|N|N|100|N|N
@@ -1039,6 +1040,7 @@ CGPT|VegaShares AI Inference ETF|G|N|N|100|Y|N
 CGTL|Creative Global Technology Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 CGTX|Cognition Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CHA|Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share|Q|N|N|100|N|N
+CHAD|DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock|S|N|N|100|N|N
 CHAI|Core AI Holdings, Inc. - Common Shares|S|N|D|100|N|N
 CHAR|Charlton Aria Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 CHARR|Charlton Aria Acquisition Corporation - Rights|G|N|N|100|N|N
@@ -1318,7 +1320,6 @@ CXIIU|Churchill Capital Corp XII - Units|G|N|N|100|N|N
 CXIIW|Churchill Capital Corp XII - Warrants|G|N|N|100|N|N
 CXSE|WisdomTree China ex-State-Owned Enterprises Fund|G|N|N|100|Y|N
 CYAB|Cyabra, Inc. - Common Stock|G|N|D|100|N|N
-CYCN|Cyclerion Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CYCU|Cycurion, Inc. - Common Stock|G|N|D|100|N|N
 CYCUW|Cycurion, Inc. - Warrants|S|N|N|100|N|N
 CYN|Cyngn Inc. - Common stock|S|N|N|100|N|N
@@ -1997,7 +1998,7 @@ GAING|Gladstone Investment Corporation - 7.125% Notes due 2031|Q|N|N|100|N|N
 GAINI|Gladstone Investment Corporation - 7.875% Notes due 2030|Q|N|N|100|N|N
 GAINZ|Gladstone Investment Corporation - 4.875% Notes due 2028|Q|N|N|100|N|N
 GALT|Galectin Therapeutics Inc. - Common Stock|S|N|N|100|N|N
-GAME|GameSquare Holdings, Inc. - Common stock|S|N|D|100|N|N
+GAME|GameSquare Holdings, Inc. - Common stock|S|N|N|100|N|N
 GANX|Gain Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 GARY|Mango Growth ETF|G|N|N|100|Y|N
 GASS|StealthGas, Inc. - common stock|Q|N|N|100|N|N
@@ -2531,7 +2532,7 @@ INBK|First Internet Bancorp - Common Stock|Q|N|N|100|N|N
 INBKZ|First Internet Bancorp - Fixed-to-Floating Rate Subordinated Notes Due 2029|Q|N|N|100|N|N
 INBS|Intelligent Bio Solutions Inc.  - Common Stock|S|N|N|100|N|N
 INBX|Inhibrx Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
-INCR|Intercure Ltd. - ordinary shares|G|N|D|100|N|N
+INCR|Intercure Ltd. - ordinary shares|G|N|N|100|N|N
 INCY|Incyte Corporation - Common Stock|Q|N|N|100|N|N
 IND|Xtrackers Nifty 500 India ETF|G|N|N|100|Y|N
 INDB|Independent Bank Corp. - Common Stock|Q|N|N|100|N|N
@@ -2808,6 +2809,7 @@ KRNY|Kearny Financial - Common Stock|Q|N|N|100|N|N
 KROP|Global X AgTech & Food Innovation ETF|G|N|N|100|Y|N
 KROS|Keros Therapeutics, Inc. - common stock|G|N|N|100|N|N
 KRRO|Korro Bio, Inc. - Common Stock|S|N|N|100|N|N
+KRSA|Korsana Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 KRT|Karat Packaging Inc. - Common Stock|Q|N|N|100|N|N
 KRUS|Kura Sushi USA, Inc. - Class A Common Stock|G|N|N|100|N|N
 KRYS|Krystal Biotech, Inc. - Common Stock|Q|N|N|40|N|N
@@ -2824,8 +2826,6 @@ KTWOU|K2 Capital Acquisition Corporation - Units|G|N|N|100|N|N
 KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100|N|N
 KUST|Kustom Entertainment, Inc. - Common Stock|S|N|N|100|N|N
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100|N|N
-KWM|K Wave Media, Ltd. - Ordinary Shares|S|N|N|100|N|N
-KWMWW|K Wave Media, Ltd. - Warrant|S|N|N|100|N|N
 KXIN|Kaixin Holdings - Ordinary Shares|S|N|N|100|N|N
 KYIV|Kyivstar Group Ltd. - Common Shares|Q|N|N|100|N|N
 KYIVW|Kyivstar Group Ltd. - Warrant|S|N|N|100|N|N
@@ -3548,6 +3548,8 @@ NWPX|NWPX Infrastructure, Inc. - Common Stock|Q|N|N|100|N|N
 NWS|News Corporation - Class B Common Stock|Q|N|N|100|N|N
 NWSA|News Corporation - Class A Common Stock|Q|N|N|100|N|N
 NWTG|Newton Golf Company, Inc. - Common Stock|S|N|D|100|N|N
+NXAT|Nexus Advanced Technologies Inc. - Ordinary Shares|S|N|N|100|N|N
+NXATW|Nexus Advanced Technologies Inc. - Warrant|S|N|N|100|N|N
 NXGL|NexGel, Inc - Common Stock|S|N|D|100|N|N
 NXGLW|NexGel, Inc - Warrant|S|N|N|100|N|N
 NXH|Neighborhood Intelligence, Inc.  - Common Stock|Q|N|N|100|N|N
@@ -3558,7 +3560,7 @@ NXST|Nexstar Media Group, Inc. - Common Stock|Q|N|N|100|N|N
 NXT|Nextpower Inc. - Common Stock|Q|N|N|100|N|N
 NXTC|NextCure, Inc. - Common Stock|Q|N|N|100|N|N
 NXTG|First Trust Indxx NextG ETF|G|N|N|100|Y|N
-NXTS|Nexentis Technologies Inc. - Common Stock|S|N|N|100|N|N
+NXTS|Nexentis Technologies Inc. - Common Stock|S|N|D|100|N|N
 NXTT|Next Technology Holding Inc. - Ordinary Shares|S|N|N|100|N|N
 NXXT|NextNRG, Inc. - Common Stock|S|N|D|100|N|N
 NYAX|Nayax Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -4084,7 +4086,7 @@ QMID|WisdomTree U.S. MidCap Quality Growth Fund|G|N|N|100|Y|N
 QMLS|QumulusAI, Inc. - Common Stock|G|N|N|100|N|N
 QMOM|Alpha Architect U.S. Quantitative Momentum ETF|G|N|N|100|Y|N
 QNBC|QNB Corp. - Common Stock|S|N|N|100|N|N
-QNCX|Quince Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
+QNCX|Quince Therapeutics, Inc. - Common Stock|Q|N|D|100|N|N
 QNDX|State Street SPDR Portfolio Nasdaq 100 ETF|G|N|N|100|Y|N
 QNME|Quanome Technologies, Inc. - Common Stock|S|N|D|100|N|N
 QNRX|Quoin Pharmaceuticals, Ltd. - American Depositary Shares|S|N|N|100|N|N
@@ -5441,7 +5443,7 @@ XBTY|GraniteShares YieldBOOST Bitcoin ETF|G|N|N|100|Y|N
 XCBE|X3 Acquisition Corp. Ltd. - Class A Ordinary Shares|G|N|N|100|N|N
 XCBEU|X3 Acquisition Corp. Ltd. - Unit|G|N|N|100|N|N
 XCBEW|X3 Acquisition Corp. Ltd. - Warrant|G|N|N|100|N|N
-XCH|XCHG Limited - ADS|G|N|D|100|N|N
+XCH|XCHG Limited - ADS|G|N|N|100|N|N
 XCNY|State Street SPDR S&P Emerging Markets ex-China ETF|G|N|N|100|Y|N
 XCSH|XFUNDS 1-3 Month BOX ETF|G|N|N|100|Y|N
 XCUR|Exicure, Inc. - Common Stock|S|N|D|100|N|N
@@ -5588,4 +5590,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0908202607:00|||||||
+File Creation Time: 0909202607:00|||||||
