@@ -472,6 +472,7 @@ ATRA|Atara Biotherapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 ATRC|AtriCure, Inc. - Common Stock|G|N|N|100|N|N
 ATRO|Astronics Corporation - Common Stock|Q|N|N|100|N|N
 ATTO|Attovia Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
+ATTT|Atlas Trinity Tech Limited - Ordinary Shares|S|N|N|100|N|N
 ATXG|Addentax Group Corp. - Common Stock|S|N|N|100|N|N
 ATYR|aTyr Pharma, Inc. - Common Stock|S|N|D|100|N|N
 AUBN|Auburn National Bancorporation, Inc. - Common Stock|G|N|N|100|N|N
@@ -966,6 +967,7 @@ CCII|Cohen Circle Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 CCIIU|Cohen Circle Acquisition Corp. II - Unit|G|N|N|100|N|N
 CCIIW|Cohen Circle Acquisition Corp. II - Warrant|G|N|N|100|N|N
 CCLD|CareCloud, Inc. - Common Stock|G|N|N|100|N|N
+CCML|Roundhill MLCC & Electronic Components ETF|G|N|N|100|Y|N
 CCNE|CNB Financial Corporation - Common Stock|Q|N|N|100|N|N
 CCNEP|CNB Financial Corporation - Depositary shares, each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed- Rate Non-Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
 CCNR|ALPS/CoreCommodity Natural Resources ETF|G|N|N|100|Y|N
@@ -1610,6 +1612,7 @@ ENTX|Entera Bio Ltd. - Ordinary Shares|S|N|N|100|N|N
 ENVB|Enveric Biosciences, Inc.  - Common Stock|S|N|N|100|N|N
 ENVX|Enovix Corporation - Common Stock|Q|N|N|100|N|N
 ENZL|iShares MSCI New Zealand ETF|G|N|N|100|Y|N
+EOCN|Eocene Ltd. - Ordinary Shares|S|N|N|100|N|N
 EOLS|Evolus, Inc. - Common Stock|G|N|N|100|N|N
 EOSE|Eos Energy Enterprises, Inc. - Common Stock|S|N|N|100|N|N
 EOSEW|Eos Energy Enterprises, Inc. - Warrant|S|N|N|100|N|N
@@ -1635,7 +1638,7 @@ ESGD|iShares ESG Aware MSCI EAFE ETF|G|N|N|100|Y|N
 ESGE|iShares ESG Aware MSCI EM ETF|G|N|N|100|Y|N
 ESGU|iShares ESG Aware MSCI USA ETF|G|N|N|100|Y|N
 ESLA|Estrella Immunopharma, Inc. - Common Stock|S|N|D|100|N|N
-ESLAW|Estrella Immunopharma, Inc. - Warrant|S|N|N|100|N|N
+ESLAW|Estrella Immunopharma, Inc. - Warrant|S|N|D|100|N|N
 ESLT|Elbit Systems Ltd. - Ordinary Shares|Q|N|N|40|N|N
 ESMV|iShares ESG Optimized MSCI USA Min Vol Factor ETF|G|N|N|100|Y|N
 ESN|Essential 40 Stock ETF|G|N|N|100|Y|N
@@ -2093,7 +2096,6 @@ GLE|Global Engine Group Holding Limited - Class A Ordinary Shares|S|N|D|100|N|N
 GLGG|Leverage Shares 2X Long GLXY Daily ETF|G|N|N|100|Y|N
 GLIBA|Liberty Capital Corporation - Series A GCI Group Common Stock|Q|N|N|100|N|N
 GLIBK|Liberty Capital Corporation - Series C GCI Group Common Stock|Q|N|N|100|N|N
-GLMD|Galmed Pharmaceuticals Ltd. - Ordinary Shares|S|N|N|100|N|N
 GLND|Greenland Energy Company - Common Stock|G|N|N|100|N|N
 GLNDW|Greenland Energy Company - Warrant|G|N|N|100|N|N
 GLNG|Golar LNG Limited - Common Shares|Q|N|N|100|N|N
@@ -3432,7 +3434,7 @@ NIU|Niu Technologies - American Depositary Shares|G|N|N|100|N|N
 NIVF|NewGenIvf Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 NIVFW|NewGenIvf Group Limited - Warrants|S|N|N|100|N|N
 NIXT|Research Affiliates Deletions ETF|G|N|N|100|Y|N
-NIXX|Nixxy, Inc. - Common Stock|S|N|N|100|N|N
+NIXX|Nixxy, Inc. - Common Stock|S|N|D|100|N|N
 NKLR|Terra Innovatum Global N.V. - Ordinary shares|G|N|N|100|N|N
 NKSH|National Bankshares, Inc. - Common Stock|S|N|N|100|N|N
 NKTR|Nektar Therapeutics - Common Stock|S|N|N|100|N|N
@@ -3841,7 +3843,7 @@ PFI|Invesco Dorsey Wright Financial Momentum ETF|G|N|N|100|Y|N
 PFIS|Peoples Financial Services Corp.  - Common Stock|Q|N|N|100|N|N
 PFM|Invesco Dividend Achievers ETF|G|N|N|100|Y|N
 PFOE|Pathfinder Focused Opportunities ETF|G|N|N|100|Y|N
-PFSA|Profusa, Inc. - Common Stock|S|N|D|100|N|N
+PFSA|Profusa, Inc. - Common Stock|S|N|N|100|N|N
 PFX|PhenixFIN Corporation  - Common Stock|G|N|N|100|N|N
 PFXNZ|PhenixFIN Corporation  - 5.25% Notes due 2028|G|N|N|100|N|N
 PGAC|Pantages Capital Acquisition Corporation - Class A Ordinary Shares|G|N|D|100|N|N
@@ -3906,7 +3908,7 @@ PLUT|Plutus Financial Group Limited - Ordinary Shares|S|N|N|100|N|N
 PLXS|Plexus Corp. - Common Stock|Q|N|N|100|N|N
 PLYX|Polaryx Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 PLYY|GraniteShares YieldBOOST PLTR ETF|G|N|N|100|Y|N
-PMA|Ming Shing Group Holdings Limited - Ordinary Shares|S|N|D|100|N|N
+PMA|PMA Graphene Technology Group Inc. - Class A Ordinary Shares|S|N|D|100|N|N
 PMAX|Powell Max Limited - Class A Ordinary Shares|S|N|N|100|N|N
 PMBS|PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund|G|N|N|100|Y|N
 PMCB|PharmaCyte  Biotech, Inc. - Common Stock|S|N|D|100|N|N
@@ -4167,7 +4169,6 @@ RAPP|Rapport Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 RARE|Ultragenyx Pharmaceutical Inc. - Common Stock|Q|N|N|100|N|N
 RAUS|RACWI US ETF|G|N|N|100|Y|N
 RAVE|Rave Restaurant Group, Inc. - Common Stock|S|N|N|100|N|N
-RAY|Raytech Holding Limited - Ordinary Shares|S|N|N|100|N|N
 RAYA|Erayak Power Solution Group Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 RBB|RBB Bancorp - Common Stock|Q|N|N|100|N|N
 RBBN|Ribbon Communications Inc.  - Common Stock|Q|N|N|100|N|N
@@ -4286,6 +4287,7 @@ RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|S|N|N|100|N|N
 RMCO|Royalty Management Holding Corporation - Class A Common Stock|S|N|N|100|N|N
 RMCOW|Royalty Management Holding Corporation - Warrant|S|N|N|100|N|N
 RMIX|Suncrete, Inc. - Class A Common Stock|G|N|N|100|N|N
+RML|Resolution Minerals Ltd - American Depositary Shares|S|N|N|100|N|N
 RMNI|Rimini Street, Inc. - Common Stock|G|N|N|100|N|N
 RMR|The RMR Group Inc. - Class A Common Stock|S|N|N|100|N|N
 RMSG|Real Messenger Corporation - Ordinary Shares|S|N|D|100|N|N
@@ -4919,7 +4921,6 @@ TMB|Thornburg Multi Sector Bond ETF|G|N|N|100|Y|N
 TMC|TMC the metals company Inc. - Common Stock|Q|N|N|100|N|N
 TMCI|Treace Medical Concepts, Inc. - Common Stock|Q|N|N|100|N|N
 TMCR|The Metals Royalty Company Inc. - Common Stock|S|N|N|100|N|N
-TMCWW|TMC the metals company Inc. - Warrant|Q|N|N|100|N|N
 TMDX|TransMedics Group, Inc. - Common Stock|G|N|N|100|N|N
 TMED|T. Rowe Price Health Care ETF|G|N|N|100|Y|N
 TMNL|T. Rowe Price Long Municipal Income ETF|G|N|N|100|Y|N
@@ -5222,7 +5223,7 @@ VHC|VirnetX Holding Corp - Common Stock|S|N|N|100|N|N
 VHCP|Vine Hill Capital Investment Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 VHCPU|Vine Hill Capital Investment Corp. II - Units|G|N|N|100|N|N
 VHCPW|Vine Hill Capital Investment Corp. II - Warrants|G|N|N|100|N|N
-VHUB|VenHub Global, Inc. - Common Stock|G|N|N|100|N|N
+VHUB|VenHub Global, Inc. - Common Stock|G|N|D|100|N|N
 VIAV|Viavi Solutions Inc. - Common Stock|Q|N|N|100|N|N
 VICR|Vicor Corporation - Common Stock|Q|N|N|100|N|N
 VIGI|Vanguard International Dividend Appreciation ETF|G|N|N|100|Y|N
@@ -5590,4 +5591,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0909202607:00|||||||
+File Creation Time: 0910202607:00|||||||
