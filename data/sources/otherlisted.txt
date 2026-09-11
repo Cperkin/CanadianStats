@@ -3144,6 +3144,7 @@ HLI|Houlihan Lokey, Inc. Class A Common Stock|N|HLI|N|100|N|HLI
 HLIO|Helios Technologies, Inc. Common Stock|N|HLIO|N|100|N|HLIO
 HLLY|Holley Inc. Common Stock|N|HLLY|N|100|N|HLLY
 HLN|Haleon plc American Depositary Shares (Each representing two Ordinary Shares)|N|HLN|N|100|N|HLN
+HLSQ|Tessera Defense and Homeland Security Inc. Common Stock|A|HLSQ|N|100|N|HLSQ
 HLT|Hilton Worldwide Holdings Inc. Common Stock |N|HLT|N|40|N|HLT
 HMAY|Corgi U.S. Equities 100% Structured Buffer ETF - May Series|Z|HMAY|Y|100|N|HMAY
 HMC|Honda Motor Company, Ltd. Common Stock|N|HMC|N|100|N|HMC
@@ -4338,6 +4339,7 @@ MKC.V|McCormick & Company, Incorporated Common Stock|N|MKC.V|N|100|N|MKC.V
 MKL|Markel Group Inc. Common Stock|N|MKL|N|10|N|MKL
 MKOR|Matthews Korea Active ETF|P|MKOR|Y|100|N|MKOR
 MKTN|Federated Hermes MDT Market Neutral ETF|P|MKTN|Y|100|N|MKTN
+MLCC|Global X MLCC & Electronic Components ETF|Z|MLCC|Y|100|N|MLCC
 MLDR|Global X Intermediate-Term Treasury Ladder ETF|P|MLDR|Y|100|N|MLDR
 MLI|Mueller Industries, Inc. Common Stock|N|MLI|N|100|N|MLI
 MLM|Martin Marietta Materials, Inc. Common Stock|N|MLM|N|40|N|MLM
@@ -5159,7 +5161,6 @@ PH|Parker-Hannifin Corporation Common Stock|N|PH|N|40|N|PH
 PHDG|Invesco S&P 500 Downside Hedged ETF|P|PHDG|Y|100|N|PHDG
 PHEQ|Parametric Hedged Equity ETF|P|PHEQ|Y|100|N|PHEQ
 PHG|Koninklijke Philips N.V. NY Registry Shares|N|PHG|N|100|N|PHG
-PHGE|BiomX Inc. Common Stock|A|PHGE|N|100|N|PHGE
 PHI|PLDT Inc. Sponsored ADR|N|PHI|N|100|N|PHI
 PHIN|PHINIA Inc. Common Stock|N|PHIN|N|100|N|PHIN
 PHK|Pimco High Income Fund|N|PHK|N|100|N|PHK
@@ -7607,4 +7608,4 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-File Creation Time: 0910202607:00||||||
+File Creation Time: 0911202607:00||||||

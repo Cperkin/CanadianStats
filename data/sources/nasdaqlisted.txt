@@ -49,6 +49,8 @@ ACAAU|Averin Capital Acquisition Corp. - Units|G|N|N|100|N|N
 ACAAW|Averin Capital Acquisition Corp. - Warrants|G|N|N|100|N|N
 ACAD|ACADIA Pharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 ACB|Aurora Cannabis Inc. - Common Shares|S|N|N|100|N|N
+ACBE|Pacer Metaurus Enhanced Core Income Autocallable ETF|G|N|N|100|Y|N
+ACBH|Pacer Metaurus High Income Autocallable ETF|G|N|N|100|Y|N
 ACCL|Acco Group Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ACDC|ProFrac Holding Corp. - Class A Common Stock|Q|N|N|100|N|N
 ACEP|ARS Core Equity Portfolio ETF|G|N|N|100|Y|N
@@ -181,12 +183,14 @@ AIFA|All In FutureTech Alliance, Inc. - Common Stock|S|N|N|100|N|N
 AIFC|AI Financial Corporation - Common Stock|S|N|D|100|N|N
 AIFD|TCW Artificial Intelligence ETF|G|N|N|100|Y|N
 AIFF|Firefly Neuroscience, Inc.  - Common Stock|S|N|N|100|N|N
+AIFR|Defiance Global Foundries ETF|G|N|N|100|Y|N
 AIFU|AIFU Inc. - Class A Ordinary Share|Q|N|N|100|N|N
 AIIO|Robo.ai Inc. - Class B Ordinary Shares|S|N|N|100|N|N
 AIIOW|Robo.ai Inc. - Warrant|S|N|N|100|N|N
 AIIR|Air Global PLC - Ordinary shares|S|N|N|100|N|N
 AIMD|Ainos, Inc. - Common Stock|S|N|N|100|N|N
 AIMDW|Ainos, Inc. - warrants|S|N|N|100|N|N
+AIMG|Defiance AI Magnificent 10 ETF|G|N|N|100|Y|N
 AIMS|Acuitas Small Cap Active ETF|G|N|N|100|Y|N
 AINF|Defiance Inference AI Chip ETF|G|N|N|100|Y|N
 AIOS|AIOS Tech Inc. - Class A Common Shares|S|N|N|100|N|N
@@ -446,7 +450,7 @@ ATAT|Atour Lifestyle Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
 ATC|GraniteShares Autocallable COIN ETF|G|N|N|100|Y|N
 ATCX|Atlas Critical Minerals Corporation - Common Stock|S|N|N|100|N|N
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-ATER|Aterian, Inc. - Common Stock|S|N|N|100|N|N
+ATER|Aterian, Inc. - Common Stock|S|N|D|100|N|N
 ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
 ATGL|Alpha Technology Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
@@ -787,7 +791,9 @@ BRNY|Burney U.S. Factor Rotation ETF|G|N|N|100|Y|N
 BRR|ProCap Financial, Inc. - Common Stock|G|N|N|100|N|N
 BRRR|Coinshares Bitcoin ETF|G|N|N|100|Y|N
 BRRWW|ProCap Financial, Inc. - Warrant.|S|N|N|100|N|N
+BRTM|B&R Technology Merger Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BRTMU|B&R Technology Merger Corp. - Units|G|N|N|100|N|N
+BRTMW|B&R Technology Merger Corp. - Warrants|G|N|N|100|N|N
 BRTR|iShares Total Return Active ETF|G|N|N|100|Y|N
 BRTX|BioRestorative Therapies, Inc. - Common Stock|S|N|H|100|N|N
 BRUN|Boost Run Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -855,7 +861,7 @@ BTOC|Armlogi Holding Corp. - common stock|S|N|D|100|N|N
 BTQ|BTQ Technologies Corp. - Common Stock|G|N|N|100|N|N
 BTSG|BrightSpring Health Services, Inc. - Common Stock|Q|N|N|100|N|N
 BTSGU|BrightSpring Health Services, Inc. - Tangible Equity Unit|Q|N|N|100|N|N
-BTTC|Black Titan Corp - Ordinary Shares|S|N|N|100|N|N
+BTTC|Black Titan Corp - Ordinary Shares|S|N|D|100|N|N
 BUFC|AB Conservative Buffer ETF|G|N|N|100|Y|N
 BUFI|AB International Buffer ETF|G|N|N|100|Y|N
 BUFM|AB Moderate Buffer ETF|G|N|N|100|Y|N
@@ -1214,6 +1220,7 @@ CRACR|Crown Reserve Acquisition Corp. I - Rights|G|N|N|100|N|N
 CRACU|Crown Reserve Acquisition Corp. I - Unit|G|N|N|100|N|N
 CRACW|Crown Reserve Acquisition Corp. I - Warrant|G|N|N|100|N|N
 CRAI|CRA International,Inc. - Common Stock|Q|N|N|100|N|N
+CRAM|Defiance China Memory ETF|G|N|N|100|Y|N
 CRAN|Crane Harbor Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 CRANR|Crane Harbor Acquisition Corp. II - Rights|G|N|N|100|N|N
 CRANU|Crane Harbor Acquisition Corp. II - Units|G|N|N|100|N|N
@@ -2077,7 +2084,7 @@ GILT|Gilat Satellite Networks Ltd. - Ordinary Shares|Q|N|N|100|N|N
 GIND|Goldman Sachs India Equity ETF|G|N|N|100|Y|N
 GINX|SGI Enhanced Global Income ETF|G|N|N|100|Y|N
 GIPR|Generation Income Properties Inc. - Common stock|S|N|D|100|N|N
-GITS|Global Interactive Technologies, Inc. Common Stock - Common Stock|S|N|E|100|N|N
+GITS|Global Interactive Technologies, Inc. Common Stock - Common Stock|S|N|N|100|N|N
 GIW|GigCapital8 Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 GIWWR|GigCapital8 Corp. - Rights|G|N|N|100|N|N
 GIWWU|GigCapital8 Corp. - Units|G|N|N|100|N|N
@@ -4586,7 +4593,7 @@ SMSI|Smith Micro Software, Inc. - Common Stock|S|N|N|100|N|N
 SMST|Defiance Daily Target 2x Short MSTR ETF|G|N|N|100|Y|N
 SMTC|Semtech Corporation - Common Stock|Q|N|N|100|N|N
 SMTI|Sanara MedTech Inc. - Common Stock|S|N|N|100|N|N
-SMTK|SmartKem, Inc. - Common Stock|S|N|D|100|N|N
+SMTK|SmartKem, Inc. - Common Stock|S|N|N|100|N|N
 SMX|SMX (Security Matters) Public Limited Company - Ordinary Shares|S|N|N|100|N|N
 SMXT|Solarmax Technology Inc. - Common Stock|S|N|H|100|N|N
 SMXWW|SMX (Security Matters) Public Limited Company - Warrant|S|N|N|100|N|N
@@ -4774,6 +4781,7 @@ SWKHL|SWK Holdings Corporation - 9.00% Senior Notes due 2027|G|N|N|100|N|N
 SWKS|Skyworks Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 SWMR|Swarmer, Inc - common stock|S|N|N|100|N|N
 SWP|SWP Growth & Income ETF|G|N|N|100|Y|N
+SWRD|Stewards Inc - Common Stock|S|N|N|100|N|N
 SWVL|Swvl Holdings Corp - Ordinary Shares|S|N|N|100|N|N
 SWVLW|Swvl Holdings Corp - Warrant|S|N|N|100|N|N
 SXTC|China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares|S|N|N|100|N|N
@@ -5201,6 +5209,7 @@ VECO|Veeco Instruments Inc. - Common Stock|Q|N|N|100|N|N
 VEEA|Veea Inc. - Common Stock|S|N|D|100|N|N
 VEEAW|Veea Inc. - Warrant|S|N|D|100|N|N
 VEEE|Twin Vee PowerCats Co. - Common Stock|S|N|N|100|N|N
+VEEM|VanEck MSCI EM Analyst Sentiment ETF|G|N|N|100|Y|N
 VEFA|VanEck MSCI EAFE Analyst Sentiment ETF|G|N|N|100|Y|N
 VELO|Velo3D, Inc. - Common stock|S|N|N|100|N|N
 VEON|VEON Ltd. - American Depositary Shares|Q|N|N|100|N|N
@@ -5591,4 +5600,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0910202607:00|||||||
+File Creation Time: 0911202607:00|||||||
