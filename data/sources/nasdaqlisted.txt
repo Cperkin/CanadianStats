@@ -1009,7 +1009,7 @@ CEFA|Global X S&P Catholic Values Developed ex-U.S. ETF|G|N|N|100|Y|N
 CEG|Constellation Energy Corporation - Common Stock When-Issued|Q|N|N|40|N|N
 CELC|Celcuity Inc. - Common Stock|S|N|N|100|N|N
 CELH|Celsius Holdings, Inc. - Common Stock|S|N|N|100|N|N
-CELU|Celularity Inc. - Class A Common Stock|S|N|H|100|N|N
+CELU|Celularity Inc. - Class A Common Stock|S|N|E|100|N|N
 CELZ|Creative Medical Technology Holdings, Inc. - Common Stock|S|N|N|100|N|N
 CENN|Cenntro Inc. - Common Stock|S|N|N|100|N|N
 CENT|Central Garden & Pet Company - Common Stock|Q|N|N|100|N|N
@@ -2045,6 +2045,7 @@ GELS|Gelteq Limited - Ordinary Shares|S|N|D|100|N|N
 GEME|Pacific North of South EM Equity Active ETF|G|N|N|100|Y|N
 GEMG|Leverage Shares 2X Long GEMI Daily ETF|G|N|N|100|Y|N
 GEMI|Gemini Space Station, Inc. - Class A Common Stock|Q|N|N|100|N|N
+GEMQ|Goldman Sachs Data Enhanced Emerging Markets Equity ETF|G|N|N|100|Y|N
 GEN|Gen Digital Inc. - Common Stock|Q|N|N|100|N|N
 GENB|Generate Biomedicines, Inc. - Common Stock|Q|N|N|100|N|N
 GENK|GEN Restaurant Group, Inc. - Class A Common Stock|G|N|N|100|N|N
@@ -2912,7 +2913,7 @@ LGN|Legence Corp. - Class A Common stock|Q|N|N|100|N|N
 LGND|Ligand Pharmaceuticals Incorporated - Common Stock|G|N|N|100|N|N
 LGO|Largo Inc. - Common Shares|Q|N|D|100|N|N
 LGRO|Level Four Large Cap Growth Active ETF|G|N|N|100|Y|N
-LGVN|Longeveron Inc. - Class A Common stock|S|N|D|100|N|N
+LGVN|Longeveron Inc. - Class A Common stock|S|N|N|100|N|N
 LHAI|Linkhome Holdings Inc. - Common stock|S|N|D|100|N|N
 LHSW|Lianhe Sowell International Group Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 LI|Li Auto Inc. - American Depositary Shares|Q|N|N|100|N|N
@@ -3546,7 +3547,7 @@ NVNIW|Nvni Group Limited - Warrants|S|N|D|100|N|N
 NVNO|enVVeno Medical Corporation - Common Stock|S|N|N|100|N|N
 NVPS|PurePlay Nvidia Ecosystem Picks & Shovels Index ETF|G|N|N|100|Y|N
 NVTS|Navitas Semiconductor Corporation - Common Stock|G|N|N|100|N|N
-NVX|NOVONIX Limited - American Depository Shares|G|N|D|100|N|N
+NVX|NOVONIX Limited - American Depository Shares|G|N|N|100|N|N
 NVYY|GraniteShares YieldBOOST NVDA ETF|G|N|N|100|Y|N
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 NWE|NorthWestern Energy Group, Inc.  - Common Stock|Q|N|N|100|N|N
@@ -3596,7 +3597,10 @@ OCCIN|OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due 2026|S|
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100|N|N
 OCG|Oriental Culture Holding LTD - Ordinary Shares|S|N|N|100|N|N
 OCGN|Ocugen, Inc. - Common Stock|S|N|N|100|N|N
+OCLT|OceanLight Acquisition Corporation - Ordinary Shares|G|N|N|100|N|N
+OCLTR|OceanLight Acquisition Corporation - Rights|G|N|N|100|N|N
 OCLTU|OceanLight Acquisition Corporation - Units|G|N|N|100|N|N
+OCLTW|OceanLight Acquisition Corporation - Warrants|G|N|N|100|N|N
 OCS|Oculis Holding AG - Ordinary shares|G|N|N|100|N|N
 OCSAW|Oculis Holding AG - Warrants|G|N|N|100|N|N
 OCSL|Oaktree Specialty Lending Corporation - Closed End Fund|Q|N|N|100|N|N
@@ -5600,4 +5604,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0911202607:00|||||||
+File Creation Time: 0911202621:31|||||||
