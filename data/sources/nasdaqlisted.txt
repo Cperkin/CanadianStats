@@ -140,6 +140,8 @@ AESPW|Aeon Acquisition I Corp. - Warrants|G|N|N|100|N|N
 AEVA|Aeva Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 AEYE|AudioEye, Inc. - Common Stock|S|N|N|100|N|N
 AFCG|Advanced Flower Capital Inc. - Common Stock|G|N|N|100|N|N
+AFDM|First Trust Active Factor International ETF|G|N|N|100|Y|N
+AFEM|First Trust Active Factor Emerging Markets ETF|G|N|N|100|Y|N
 AFJK|Aimei Health Technology Co., Ltd - Ordinary Share|G|N|D|100|N|N
 AFJKR|Aimei Health Technology Co., Ltd - Right|G|N|D|100|N|N
 AFJKU|Aimei Health Technology Co., Ltd - Unit|G|N|D|100|N|N
@@ -445,7 +447,6 @@ ASTLW|Algoma Steel Group Inc. - Warrant|G|N|N|100|N|N
 ASTS|AST SpaceMobile, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ASUR|Asure Software Inc - Common Stock|S|N|N|100|N|N
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100|N|N
-ATAI|AtaiBeckley Inc. - Common Stock|G|N|N|100|N|N
 ATAT|Atour Lifestyle Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
 ATC|GraniteShares Autocallable COIN ETF|G|N|N|100|Y|N
 ATCX|Atlas Critical Minerals Corporation - Common Stock|S|N|N|100|N|N
@@ -2772,7 +2773,6 @@ KFIIR|K&F Growth Acquisition Corp. II - Rights|G|N|N|100|N|N
 KFIIU|K&F Growth Acquisition Corp. II - Unit|G|N|N|100|N|N
 KG|Kestrel Group, Ltd. - Common Stock|S|N|N|100|N|N
 KGEI|Kolibri Global Energy Inc. - Common stock|S|N|N|100|N|N
-KHC|The Kraft Heinz Company - Common Stock|Q|N|N|100|N|N
 KIDS|OrthoPediatrics Corp. - Common Stock|G|N|N|100|N|N
 KIDZ|KIDZ AI Inc. - Class B Common Stock|S|N|N|100|N|N
 KIDZW|KIDZ AI Inc. - Warrants|S|N|N|100|N|N
@@ -4247,8 +4247,6 @@ RFAIU|RF Acquisition Corp II - Unit|G|N|N|100|N|N
 RFAM|RF Acquisition Corp III - Ordinary Shares|G|N|N|100|N|N
 RFAMR|RF Acquisition Corp III - Rights|G|N|N|100|N|N
 RFAMU|RF Acquisition Corp III - Units|G|N|N|100|N|N
-RFDI|First Trust RiverFront Dynamic Developed International ETF|G|N|N|100|Y|N
-RFEM|First Trust RiverFront Dynamic Emerging Markets ETF|G|N|N|100|Y|N
 RFIL|RF Industries, Ltd. - Common Stock|G|N|N|100|N|N
 RGC|Regencell Bioscience Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 RGCO|RGC Resources Inc. - Common Stock|G|N|N|100|N|N
@@ -5604,4 +5602,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0911202621:31|||||||
+File Creation Time: 0914202607:00|||||||
