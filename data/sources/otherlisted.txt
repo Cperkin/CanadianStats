@@ -55,7 +55,6 @@ ACGO|Hartford Alpha Capture Growth ETF|Z|ACGO|Y|100|N|ACGO
 ACGR|American Century Large Cap Growth ETF|P|ACGR|Y|100|N|ACGR
 ACH|Accendra Health, Inc. Common Stock|N|ACH|N|100|N|ACH
 ACHR|Archer Aviation Inc. Class A Common Stock|N|ACHR|N|100|N|ACHR
-ACHR.W|Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50|N|ACHR.WS|N|100|N|ACHR+
 ACHX|Corgi ACHR 2x Daily ETF|Z|ACHX|Y|100|N|ACHX
 ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
 ACII|Innovator Index Autocallable Income Strategy ETF|P|ACII|Y|100|N|ACII
@@ -438,6 +437,7 @@ ASTX|Tradr 2X Long ASTS Daily ETF|Z|ASTX|Y|100|N|ASTX
 ASTY|Defiance Daily Target 2X Long ASTS ETF|Z|ASTY|Y|100|N|ASTY
 ASUP|T-REX 2X Long ASTS Daily Target ETF|Z|ASUP|Y|100|N|ASUP
 ASX|ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) |N|ASX|N|100|N|ASX
+AT|Defiance Robotics Actuators ETF|Z|AT|Y|100|N|AT
 ATCH|AtlasClear Holdings, Inc. Common Stock|A|ATCH|N|100|N|ATCH
 ATCL|REX Autocallable Income ETF|P|ATCL|Y|100|N|ATCL
 ATEN|A10 Networks, Inc. Common Stock|N|ATEN|N|100|N|ATEN
@@ -1466,6 +1466,7 @@ CRWX|Corgi CRWV 2x Daily ETF|Z|CRWX|Y|100|N|CRWX
 CRXP|Columbia Core Plus Bond ETF|P|CRXP|Y|100|N|CRXP
 CSAN|Cosan S.A. ADS|N|CSAN|N|100|N|CSAN
 CSD|Invesco S&P Spin-Off ETF|P|CSD|Y|100|N|CSD
+CSEP|Corgi U.S. Equities 15% Structured Buffer ETF - September Series|Z|CSEP|Y|100|N|CSEP
 CSEX|Tradr 2X Long CLS Daily ETF|Z|CSEX|Y|100|N|CSEX
 CSHI|NEOS Enhanced Income 1-3 Month T-Bill ETF|P|CSHI|Y|100|N|CSHI
 CSHP|iShares Dynamic Short-Term Active ETF|P|CSHP|Y|100|N|CSHP
@@ -1513,6 +1514,7 @@ CTOS|Custom Truck One Source, Inc. Common Stock|N|CTOS|N|100|N|CTOS
 CTRE|CareTrust REIT, Inc. Common Stock|N|CTRE|N|100|N|CTRE
 CTRI|Centuri Holdings, Inc. Common Stock|N|CTRI|N|100|N|CTRI
 CTS|CTS Corporation Common Stock|N|CTS|N|100|N|CTS
+CTSE|Corgi U.S. Equities 30% Structured Buffer ETF - September Series|Z|CTSE|Y|100|N|CTSE
 CTVA|Corteva, Inc. Common Stock |N|CTVA|N|100|N|CTVA
 CTWO|Common units|P|CTWO|Y|100|N|CTWO
 CUBB|Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034|N|CUBB|N|100|N|CUBB
@@ -2090,6 +2092,7 @@ EMP|Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2
 EMPB|Efficient Market Portfolio Plus ETF|P|EMPB|Y|100|N|EMPB
 EMQQ|EMQQ The Emerging Markets Internet ETF|P|EMQQ|Y|100|N|EMQQ
 EMR|Emerson Electric Company Common Stock|N|EMR|N|100|N|EMR
+EMSE|Corgi Emerging Markets Equities 15% Structured Buffer ETF - September Series|Z|EMSE|Y|100|N|EMSE
 EMSF|Matthews Emerging Markets Sustainable Future Active ETF|P|EMSF|Y|100|N|EMSF
 EMTY|ProShares Decline of the Retail Store ETF|P|EMTY|Y|100|N|EMTY
 EMXX|Corgi Emerging Markets 2x Daily ETF|Z|EMXX|Y|100|N|EMXX
@@ -3187,6 +3190,7 @@ HRTG|Heritage Insurance Holdings, Inc. Common Stock|N|HRTG|N|100|N|HRTG
 HSBC|HSBC Holdings, plc. Common Stock|N|HSBC|N|100|N|HSBC
 HSBH|HSBC Holdings plc ADRhedged|P|HSBH|Y|100|N|HSBH
 HSCZ|iShares Currency Hedged MSCI EAFE Small-Cap ETF|P|HSCZ|Y|100|N|HSCZ
+HSEP|Corgi U.S. Equities 100% Structured Buffer ETF - September Series|Z|HSEP|Y|100|N|HSEP
 HSHP|Himalaya Shipping Ltd. Common Shares|N|HSHP|N|100|N|HSHP
 HSLV|Highlander Silver Corp. Common Shares|A|HSLV|N|100|N|HSLV
 HSMV|First Trust Horizon Managed Volatility Small/Mid ETF|P|HSMV|Y|100|N|HSMV
@@ -3346,6 +3350,7 @@ IDNA|iShares Genomics Immunology and Healthcare ETF|P|IDNA|Y|100|N|IDNA
 IDOG|ALPS International Sector Dividend Dogs ETF|P|IDOG|Y|100|N|IDOG
 IDR|Idaho Strategic Resources, Inc. Common Stock|A|IDR|N|100|N|IDR
 IDRV|iShares Self-Driving EV and Tech ETF|P|IDRV|Y|100|N|IDRV
+IDSE|Corgi International Developed Equities 15% Structured Buffer ETF - September Series|Z|IDSE|Y|100|N|IDSE
 IDT|IDT Corporation Class B Common Stock|N|IDT|N|100|N|IDT
 IDU|iShares U.S. Utilities ETF|P|IDU|Y|100|N|IDU
 IDUB|Aptus International Enhanced Yield ETF|Z|IDUB|Y|100|N|IDUB
@@ -3821,6 +3826,7 @@ KCAC.W|Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each
 KCAI|KraneShares China Alpha Index ETF|P|KCAI|Y|100|N|KCAI
 KCCA|KraneShares California Carbon Allowance Strategy ETF|P|KCCA|Y|100|N|KCCA
 KCE|State Street SPDR S&P Capital Markets ETF|P|KCE|Y|100|N|KCE
+KCHP|KICK Korea Semiconductor Index ETF|P|KCHP|Y|100|N|KCHP
 KCOP|Kurv Copper & Mining Enhanced Income ETF|Z|KCOP|Y|100|N|KCOP
 KCSH|KraneShares Sustainable Ultra Short Duration Index ETF|P|KCSH|Y|100|N|KCSH
 KD|Kyndryl Holdings, Inc. Common Stock|N|KD|N|100|N|KD
@@ -4086,6 +4092,7 @@ LPA|Logistic Properties of the Americas Ordinary Shares|A|LPA|N|100|N|LPA
 LPG|Dorian LPG Ltd. Common Stock|N|LPG|N|100|N|LPG
 LPL|LG Display Co, Ltd AMERICAN DEPOSITORY SHARES|N|LPL|N|100|N|LPL
 LPRE|Long Pond Real Estate Select ETF|P|LPRE|Y|100|N|LPRE
+LPSV|Lone Peak SMID Value ETF|P|LPSV|Y|100|N|LPSV
 LPX|Louisiana-Pacific Corporation Common Stock|N|LPX|N|100|N|LPX
 LQAI|LG QRAFT AI-Powered U.S. Large Cap Core ETF|P|LQAI|Y|100|N|LQAI
 LQD|iShares iBoxx $ Investment Grade Corporate Bond ETF|P|LQD|Y|100|N|LQD
@@ -5092,6 +5099,7 @@ PCM|PCM Fund, Inc. Common Stock|N|PCM|N|100|N|PCM
 PCN|Pimco Corporate & Income Strategy Fund Common Stock|N|PCN|N|100|N|PCN
 PCOR|Procore Technologies, Inc. Common Stock|N|PCOR|N|100|N|PCOR
 PCOV|Principal Equity Premium Income ETF|Z|PCOV|Y|100|N|PCOV
+PCPC|Porter & Company Property & Casualty Index ETF|Z|PCPC|Y|100|N|PCPC
 PCPP|Porter & Company Porter Portfolio Index ETF|Z|PCPP|Y|100|N|PCPP
 PCQ|PIMCO California Municipal Income Fund Common Stock|N|PCQ|N|100|N|PCQ
 PCR|Simplify VettaFi Private Credit Strategy ETF|P|PCR|Y|100|N|PCR
@@ -5493,9 +5501,11 @@ QQJN|Corgi Growth & Technology 15% Structured Buffer ETF - June Series|Z|QQJN|Y|
 QQMY|Corgi Growth & Technology 15% Structured Buffer ETF - May Series|Z|QQMY|Y|100|N|QQMY
 QQQD|Direxion Daily Magnificent 7 Bear 1X ETF|P|QQQD|Y|100|N|QQQD
 QQQU|Direxion Daily Magnificent 7 Bull 2X ETF|P|QQQU|Y|100|N|QQQU
+QQSE|Corgi Growth & Technology 15% Structured Buffer ETF - September Series|Z|QQSE|Y|100|N|QQSE
 QRED|QuasarEdge Acquisition Corporation Ordinary Shares|N|QRED|N|100|N|QRED
 QRED.R|QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share|N|QREDr|N|100|N|QRED^
 QRED.U|QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share|N|QRED.U|N|100|N|QRED=
+QSE|Corgi Growth & Technology 10% Structured Buffer ETF - September Series|Z|QSE|Y|100|N|QSE
 QSIG|WisdomTree U.S. Short Term Corporate Bond Fund|Z|QSIG|Y|100|N|QSIG
 QSOL|Invesco Galaxy Solana ETF|Z|QSOL|Y|100|N|QSOL
 QSPT|FT Vest Nasdaq-100 Buffer ETF - September|Z|QSPT|Y|100|N|QSPT
@@ -5821,6 +5831,7 @@ SAGU.U|Shreya Acquisition Group Units, each consisting of one Class A Ordinary S
 SAGU.W|Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share|N|SAGU.WS|N|100|N|SAGU+
 SAH|Sonic Automotive, Inc. Common Stock|N|SAH|N|100|N|SAH
 SAJ|Saratoga Investment Corp 8.00% Notes due 2027|N|SAJ|N|100|N|SAJ
+SALI|Schroders US Autocallable Ladder Income ETF|P|SALI|Y|100|N|SALI
 SAM|Boston Beer Company, Inc. (The) Common Stock|N|SAM|N|100|N|SAM
 SAMM|Strategas Macro Momentum ETF|P|SAMM|Y|100|N|SAMM
 SAMO|Samos Energy Acquisition Corporation Class A Ordinary Shares|N|SAMO|N|100|N|SAMO
@@ -5921,6 +5932,7 @@ SCO|ProShares UltraShort Bloomberg Crude Oil|P|SCO|Y|100|N|SCO
 SCOP|Sprott Physical Copper Trust Units|P|SCOP|Y|100|N|SCOP
 SCOW|Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF|Z|SCOW|Y|100|N|SCOW
 SCSB|Sterling Capital Short Duration Bond ETF|Z|SCSB|Y|100|N|SCSB
+SCSE|Corgi U.S. Small-Cap 15% Structured Buffer ETF - September Series|Z|SCSE|Y|100|N|SCSE
 SCUB|Sterling Capital Ultra Short Bond ETF|Z|SCUB|Y|100|N|SCUB
 SCUS|Schwab Ultra-Short Income ETF|P|SCUS|Y|100|N|SCUS
 SCYB|Schwab High Yield Bond ETF|P|SCYB|Y|100|N|SCYB
@@ -5962,6 +5974,7 @@ SEIX|Virtus Seix Senior Loan ETF|P|SEIX|Y|100|N|SEIX
 SELV|SEI Enhanced Low Volatility U.S. Large Cap ETF|Z|SELV|Y|100|N|SELV
 SEMG|Suncoast Select Growth ETF|P|SEMG|Y|100|N|SEMG
 SEMI|Columbia Select Technology ETF|P|SEMI|Y|100|N|SEMI
+SEPC|Corgi U.S. Equities 10% Structured Buffer ETF - September Series|Z|SEPC|Y|100|N|SEPC
 SEPI|Shelton Equity Premium Income ETF|P|SEPI|Y|100|N|SEPI
 SEPM|FT Vest U.S. Equity Max Buffer ETF - September|Z|SEPM|Y|100|N|SEPM
 SEPP|PGIM S&P 500 Buffer 12 ETF - September|Z|SEPP|Y|100|N|SEPP
@@ -7610,9 +7623,9 @@ ZVOL|Volatility Premium Plus ETF|Z|ZVOL|Y|100|N|ZVOL
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZWS|Zurn Elkay Water Solutions Corporation Common Stock|N|ZWS|N|100|N|ZWS
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
-ZZZTA|TXSE Test Stk 1 Common Stock|TXSE|ZZZTA|N|10|Y|ZZZTA
-ZZZTE|TXSE Test Stk 2 ETF|TXSE|ZZZTE|Y|100|Y|ZZZTE
-ZZZTS|TXSE Test Stk 3 Common Stock|TXSE|ZZZTS|N|1|Y|ZZZTS
-ZZZTT|ETF|TXSE|ZZZTT|Y|100|Y|ZZZTT
-ZZZTX|TXSE Test Stk 5 Common Stock|TXSE|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 0914202607:00||||||
+ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
+ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
+ZZZTS|TXSE Test Stk 3 Common Stock|F|ZZZTS|N|1|Y|ZZZTS
+ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
+ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
+File Creation Time: 0915202607:00||||||

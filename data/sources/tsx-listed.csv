@@ -482,7 +482,6 @@ SOLX,CI Galaxy Solana ETF,TSX
 CINV,CI Global Alpha Innovators ETF,TSX
 CIAI,CI Global Artificial Intelligence Fund,TSX
 CGAA,CI Global Asset Allocation Private Pool,TSX
-CLML,CI Global Climate Leaders Fund,TSX
 ONEQ,CI Global Core Plus Equity ETF,TSX
 CGDI,CI Global Dividend Private Pool,TSX
 FSF,CI Global Financial Sector ETF,TSX
@@ -526,7 +525,9 @@ ZXM,CI Morningstar International Momentum Index ETF,TSX
 VXM,CI Morningstar International Value Index ETF,TSX
 QXM,CI Morningstar National Bank Quebec Index ETF,TSX
 CMAG,CI Munro Alternative Global Growth Fund,TSX
+CLML,CI Munro Global Energy Transition Fund,TSX
 CMGG,CI Munro Global Growth Equity Fund,TSX
+CMIG,CI Munro International Growth Equity Fund,TSX
 QQEQ,CI NASDAQ 100 Equal Weight Index ETF,TSX
 ONEB,CI North American Core Plus Bond ETF,TSX
 FPR,CI Preferred Share ETF,TSX
@@ -1695,6 +1696,7 @@ NBND,Ninepoint Diversified Bond Fund,TSX
 ENHI,Ninepoint Enbridge HighShares ETF,TSX
 NNRG,Ninepoint Energy Fund,TSX
 NRGI,Ninepoint Energy Income Fund,TSX
+EDHI,Ninepoint Enhanced Aerospace and Defense HighShares ETF,TSX
 ECHI,Ninepoint Enhanced Canadian HighShares ETF,TSX
 USHI,Ninepoint Enhanced U.S. Equity HighShares ETF,TSX
 INFR,Ninepoint Global Infrastructure Fund,TSX
