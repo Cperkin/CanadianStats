@@ -911,7 +911,7 @@ CAIIU|Collective Acquisition Corp. II - Units|G|N|N|100|N|N
 CAIIW|Collective Acquisition Corp. II - Warrants|G|N|N|100|N|N
 CAIQ|Calamos Nasdaq Autocallable Income ETF|G|N|N|100|Y|N
 CAKE|The Cheesecake Factory Incorporated - Common Stock|Q|N|N|100|N|N
-CALC|CalciMedica, Inc. - Common Stock|S|N|D|100|N|N
+CALC|CalciMedica, Inc. - Common Stock|S|N|N|100|N|N
 CALI|iShares Short-Term California Muni Active ETF|G|N|N|100|Y|N
 CALM|Cal-Maine Foods, Inc. - Common Stock|Q|N|N|100|N|N
 CAMP|CAMP4 Therapeutics Corporation - Common Stock|G|N|N|100|N|N
@@ -1061,7 +1061,7 @@ CHEC|Chenghe Acquisition III Co. - Class A Ordinary Shares|G|N|N|100|N|N
 CHECU|Chenghe Acquisition III Co. - Units|G|N|N|100|N|N
 CHECW|Chenghe Acquisition III Co. - Warrants|G|N|N|100|N|N
 CHEF|The Chefs' Warehouse, Inc. - Common Stock|Q|N|N|100|N|N
-CHGA|Change Agents Corporation  - Common Stock|S|N|D|100|N|N
+CHGA|Change Agents Corporation  - Common Stock|S|N|N|100|N|N
 CHGX|Stance Sustainable Beta ETF|G|N|N|100|Y|N
 CHI|Calamos Convertible Opportunities and Income Fund - Closed End Fund|Q|N|N|100|N|N
 CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -1779,7 +1779,6 @@ FDTX|Fidelity Disruptive Technology ETF|G|N|N|100|Y|N
 FDUS|Fidus Investment Corporation - Closed End Fund|Q|N|N|100|N|N
 FEAM|5E Advanced Materials, Inc. - Common Stock|Q|N|N|100|N|N
 FEBO|Fenbo Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
-FEED|ENvue Medical, Inc. - Common Stock|S|N|D|100|N|N
 FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100|N|N
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100|N|N
 FEM|First Trust Emerging Markets AlphaDEX Fund|G|N|N|100|Y|N
@@ -2768,9 +2767,9 @@ KEYY|Keystone Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 KEYYU|Keystone Acquisition Corp. - Unit|G|N|N|100|N|N
 KEYYW|Keystone Acquisition Corp. - Warrants|G|N|N|100|N|N
 KFFB|Kentucky First Federal Bancorp - Common Stock|G|N|N|100|N|N
-KFII|K&F Growth Acquisition Corp. II - Class A Ordinary shares|G|N|D|100|N|N
-KFIIR|K&F Growth Acquisition Corp. II - Rights|G|N|N|100|N|N
-KFIIU|K&F Growth Acquisition Corp. II - Unit|G|N|N|100|N|N
+KFII|K - Class A Ordinary shares|S|N|D|100|N|N
+KFIIR|K - Rights|S|N|N|100|N|N
+KFIIU|K - Unit|S|N|N|100|N|N
 KG|Kestrel Group, Ltd. - Common Stock|S|N|N|100|N|N
 KGEI|Kolibri Global Energy Inc. - Common stock|S|N|N|100|N|N
 KIDS|OrthoPediatrics Corp. - Common Stock|G|N|N|100|N|N
@@ -3465,10 +3464,10 @@ NNE|Nano Nuclear Energy Inc. - common stock|S|N|N|100|N|N
 NNNN|Anbio Biotechnology - Class A Ordinary Shares|G|N|N|100|N|N
 NNOX|NANO-X IMAGING LTD - Ordinary Shares|G|N|N|100|N|N
 NODK|NI Holdings, Inc. - Common Stock|S|N|N|100|N|N
-NOEM|CO2 Energy Transition Corp. - Common Stock|G|N|N|100|N|N
-NOEMR|CO2 Energy Transition Corp. - Right|G|N|N|100|N|N
-NOEMU|CO2 Energy Transition Corp. - Unit|G|N|N|100|N|N
-NOEMW|CO2 Energy Transition Corp. - Warrant|G|N|N|100|N|N
+NOEM|CO2 Energy Transition Corp. - Common Stock|S|N|N|100|N|N
+NOEMR|CO2 Energy Transition Corp. - Right|S|N|N|100|N|N
+NOEMU|CO2 Energy Transition Corp. - Unit|S|N|N|100|N|N
+NOEMW|CO2 Energy Transition Corp. - Warrant|S|N|N|100|N|N
 NOMA|NOMADAR Corp. - Class A Common Stock|S|N|N|100|N|N
 NOVT|Novanta Inc. - Common Shares|Q|N|N|100|N|N
 NOVTU|Novanta Inc. - Tangible Equity Units|Q|N|N|100|N|N
@@ -3526,6 +3525,7 @@ NUCL|Eagle Nuclear Energy Corp. - Common stock|S|N|N|100|N|N
 NUCLW|Eagle Nuclear Energy Corp. - Warrants|S|N|N|100|N|N
 NUG|Leverage Shares 2X Long NU Daily ETF|G|N|N|100|Y|N
 NUGY|GraniteShares YieldBOOST Gold Miners ETF|G|N|N|100|Y|N
+NUIB|Nuveen Impact Bond ETF|G|N|N|100|Y|N
 NUIF|Nuveen US Infrastructure ETF|G|N|N|100|Y|N
 NUR|Nuran Wireless Inc. - Common Shares|S|N|N|100|N|N
 NUSB|Nuveen Ultra Short Income ETF|G|N|N|100|Y|N
@@ -3646,7 +3646,7 @@ OMCL|Omnicell, Inc. - Common Stock|Q|N|N|100|N|N
 OMDA|Omada Health, Inc. - Common Stock|Q|N|N|100|N|N
 OMER|Omeros Corporation - Common Stock|G|N|N|100|N|N
 OMEX|Odyssey Marine Exploration, Inc. - Common Stock|S|N|D|100|N|N
-OMH|Ohmyhome Limited - Class A Ordinary Shares|S|N|D|100|N|N
+OMH|Ohmyhome Limited - Class A Ordinary Shares|S|N|N|100|N|N
 OMSE|OMS Energy Technologies Inc. - Ordinary Shares|S|N|N|100|N|N
 ON|ON Semiconductor Corporation - Common Stock|Q|N|N|100|N|N
 ONB|Old National Bancorp - Common Stock|Q|N|N|100|N|N
@@ -4305,7 +4305,9 @@ RMSGW|Real Messenger Corporation - Warrants|S|N|D|100|N|N
 RMTI|Rockwell Medical, Inc. - Common Stock|S|N|N|100|N|N
 RNA|Atrium Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 RNAC|Cartesian Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
+RNAQ|Rainier Acquisition Corporation - Class A Ordinary Shares|S|N|N|100|N|N
 RNAQU|Rainier Acquisition Corporation - Units|S|N|N|100|N|N
+RNAQW|Rainier Acquisition Corporation - Warrants|S|N|N|100|N|N
 RNAZ|TransCode Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 RNEM|Emerging Markets Equity Select ETF|G|N|N|100|Y|N
 RNGT|Range Capital Acquisition Corp II - Class A Ordinary Shares|G|N|N|100|N|N
@@ -4620,7 +4622,6 @@ SNTI|Senti Biosciences Holdings, Inc. - Common Stock|S|N|D|100|N|N
 SNWV|SANUWAVE Health, Inc. - Common Stock|G|N|N|100|N|N
 SNY|Sanofi - American Depositary Shares|Q|N|N|100|N|N
 SNYR|Synergy CHC Corp. - Common Stock|S|N|H|100|N|N
-SOBR|SOBR Safe, Inc. - Common Stock|S|N|D|100|N|N
 SOCA|Solarius Capital Acquisition Corp. - Class A Ordinary Share|G|N|N|100|N|N
 SOCAU|Solarius Capital Acquisition Corp. - Units|G|N|N|100|N|N
 SOCAW|Solarius Capital Acquisition Corp. - Warrant|G|N|N|100|N|N
@@ -5195,7 +5196,7 @@ VBCH|Vanguard Target Maturity 2034 Corporate Bond ETF|G|N|N|100|Y|N
 VBCI|Vanguard Target Maturity 2035 Corporate Bond ETF|G|N|N|100|Y|N
 VBCJ|Vanguard Target Maturity 2036 Corporate Bond ETF|G|N|N|100|Y|N
 VBIL|Vanguard 0-3 Month Treasury Bill ETF|G|N|N|100|Y|N
-VBIO|Valion Bio, Inc. - Common stock|S|N|D|100|N|N
+VBIO|Valion Bio, Inc. - Common stock|S|N|N|100|N|N
 VBNB|VanEck BNB ETF|G|N|N|100|Y|N
 VBNK|VersaBank - Common Shares|Q|N|N|100|N|N
 VC|Visteon Corporation - Common Stock|Q|N|N|100|N|N
@@ -5511,6 +5512,7 @@ XTERU|Karman Line Acquisition Corp. - Units|G|N|N|100|N|N
 XTERW|Karman Line Acquisition Corp. - Warrants|G|N|N|100|N|N
 XTIA|XTI Aerospace, Inc. Common Stock  - Common Stock|S|N|E|100|N|N
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
+XUSM|MarketDesk International Momentum ETF|G|N|N|100|Y|N
 XWEL|XWELL, Inc. - Common Stock|S|N|N|100|N|N
 XXII|22nd Century Group, Inc - Common Stock|S|N|N|100|N|N
 XXX|CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF|G|N|N|100|Y|N
@@ -5603,4 +5605,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0915202607:00|||||||
+File Creation Time: 0916202607:00|||||||
