@@ -1708,13 +1708,13 @@ KGHI,Ninepoint Kinross Gold HighShares ETF,TSX
 NMNG,Ninepoint Mining Evolution Fund,TSX
 NVHI,Ninepoint NVIDIA HighShares ETF,TSX
 PLHI,Ninepoint Palantir HighShares ETF,TSX
-RYHI,Ninepoint Royal Bank HighShares ETF,TSX
+RYHI,Ninepoint RY-Linked HighShares ETF,TSX
 SHHI,Ninepoint Shopify HighShares ETF,TSX
 SBUL,Ninepoint Silver Bullion Fund,TSX
 SXHI,Ninepoint SpaceX HighShares ETF,TSX
 SUHI,Ninepoint Suncor HighShares ETF,TSX
 TIF,Ninepoint Target Income Fund,TSX
-TDHI,Ninepoint TD HighShares ETF,TSX
+TDHI,Ninepoint TD-Linked HighShares ETF,TSX
 TSHI,Ninepoint Tesla HighShares ETF,TSX
 NOA,North American Construction Group Ltd.,TSX
 FFN,North American Financial 15 Split Corp.,TSX
@@ -2095,6 +2095,7 @@ TQCD,TD Q Canadian Dividend ETF,TSX
 TCLV,TD Q Canadian Low Volatility ETF,TSX
 TQGD,TD Q Global Dividend ETF,TSX
 TQGM,TD Q Global Multifactor ETF,TSX
+TQID,TD Q International Dividend ETF,TSX
 TILV,TD Q International Low Volatility ETF,TSX
 TULV,TD Q U.S. Low Volatility ETF,TSX
 TQSM,TD Q U.S. Small-Mid-Cap Equity ETF,TSX
