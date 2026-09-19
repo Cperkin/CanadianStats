@@ -1663,6 +1663,7 @@ ETHA|iShares Ethereum Trust ETF|G|N|N|100|Y|N
 ETHB|iShares Staked Ethereum Trust ETF|G|N|N|100|Y|N
 ETON|Eton Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ETOR|eToro Group Ltd. - Class A Common Shares|Q|N|N|100|N|N
+ETRA|Electra Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
 ETS|Elite Express Holding Inc. - Class A Common Stock|S|N|N|100|N|N
 EU|enCore Energy Corp. - Common Stock|S|N|N|100|N|N
 EUDA|Euda Health Holdings Limited - Ordinary Shares|S|N|N|100|N|N
@@ -2432,7 +2433,7 @@ IBB|iShares Biotechnology ETF|G|N|N|100|Y|N
 IBBQ|Invesco Nasdaq Biotechnology ETF|G|N|N|100|Y|N
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100|N|N
 IBEX|IBEX Limited - Common Share|G|N|N|100|N|N
-IBG|Innovation Beverage Group Limited - Ordinary Shares|S|N|E|100|N|N
+IBG|Innovation Beverage Group Limited - Ordinary Shares|S|N|N|100|N|N
 IBGA|iShares iBonds Dec 2044 Term Treasury ETF|G|N|N|100|Y|N
 IBGB|iShares iBonds Dec 2045 Term Treasury ETF|G|N|N|100|Y|N
 IBGC|iShares iBonds Dec 2046 Term Treasury ETF|G|N|N|100|Y|N
@@ -2885,6 +2886,7 @@ LDRX|SGI Enhanced Market Leaders ETF|G|N|N|100|Y|N
 LDSF|First Trust Low Duration Strategic Focus ETF|G|N|N|100|Y|N
 LE|Lands' End, Inc. - Common Stock|S|N|N|100|N|N
 LECO|Lincoln Electric Holdings, Inc. - Common Shares|Q|N|N|40|N|N
+LEDRU|Leader's Advantage Acquisition Corp. - Units|G|N|N|100|N|N
 LEDS|SemiLEDS Corporation - Common Stock|S|N|N|100|N|N
 LEE|Lee Enterprises, Incorporated - Common Stock|Q|N|N|100|N|N
 LEGH|Legacy Housing Corporation - Common Stock|Q|N|N|100|N|N
@@ -2918,7 +2920,7 @@ LGND|Ligand Pharmaceuticals Incorporated - Common Stock|G|N|N|100|N|N
 LGO|Largo Inc. - Common Shares|Q|N|D|100|N|N
 LGRO|Level Four Large Cap Growth Active ETF|G|N|N|100|Y|N
 LGVN|Longeveron Inc. - Class A Common stock|S|N|N|100|N|N
-LHAI|Linkhome Holdings Inc. - Common stock|S|N|D|100|N|N
+LHAI|Linkhome Holdings Inc. - Common stock|S|N|N|100|N|N
 LHSW|Lianhe Sowell International Group Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 LI|Li Auto Inc. - American Depositary Shares|Q|N|N|100|N|N
 LICN|Lichen International Limited - Class A Ordinary Shares|S|N|N|100|N|N
@@ -3632,6 +3634,7 @@ OGI|Organigram Global Inc. - Common Shares|Q|N|N|100|N|N
 OHAC|Oceanhawk Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 OHACR|Oceanhawk Acquisition Corp. - Rights|S|N|N|100|N|N
 OHACU|Oceanhawk Acquisition Corp. - Units|S|N|N|100|N|N
+OIG|Orion180 Insurance Group Inc. - Class A Common Stock|Q|N|N|100|N|N
 OIM|OneIM Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 OIMAU|OneIM Acquisition Corp. - Units|G|N|N|100|N|N
 OIMAW|OneIM Acquisition Corp. - Warrant|G|N|N|100|N|N
@@ -4180,7 +4183,7 @@ RAIL|Freightcar America, Inc. - Common Stock|Q|N|N|100|N|N
 RAIN|Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock|S|N|D|100|N|N
 RAINW|Rain Enhancement Technologies Holdco, Inc. - Warrants|S|N|D|100|N|N
 RAND|Rand Capital Corporation - Closed End Fund|S|N|N|100|N|N
-RANG|Range Capital Acquisition Corp. - Ordinary Shares|G|N|N|100|N|N
+RANG|Range Capital Acquisition Corp. - Ordinary Shares|G|N|D|100|N|N
 RANGR|Range Capital Acquisition Corp. - Rights|G|N|N|100|N|N
 RANGU|Range Capital Acquisition Corp. - Units|G|N|N|100|N|N
 RANI|Rani Therapeutics Holdings, Inc. - Class A Common Stock|G|N|D|100|N|N
@@ -4433,7 +4436,7 @@ SCIIU|SC II Acquisition Corp. - Units|G|N|N|100|N|N
 SCKT|Socket Mobile, Inc. - Common Stock|S|N|D|100|N|N
 SCLX|Scilex Holding Company - Common Stock|S|N|N|100|N|N
 SCLXW|Scilex Holding Company - Warrant|S|N|N|100|N|N
-SCNI|Scinai Immunotherapeutics Ltd. - American Depositary Shares|S|N|D|100|N|N
+SCNI|Scinai Immunotherapeutics Ltd. - American Depositary Shares|S|N|N|100|N|N
 SCNX|Scienture Holdings, Inc. - Common Stock|S|N|D|100|N|N
 SCOR|comScore, Inc. - Common Stock|Q|N|N|100|N|N
 SCPQ|Social Commerce Partners Corporation - Class A Ordinary Shares|G|N|N|100|N|N
@@ -5485,7 +5488,9 @@ XFOR|X4 Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 XGN|Exagen Inc. - Common Stock|G|N|N|100|N|N
 XHG|XChange TEC.INC - American Depositary Shares|S|N|N|100|N|N
 XHLD|TEN Holdings, Inc. - Common Stock|S|N|N|100|N|N
+XIII|Churchill Capital Corp XIII - Class A Ordinary Shares|G|N|N|100|N|N
 XIIIU|Churchill Capital Corp XIII - Units|G|N|N|100|N|N
+XIIIW|Churchill Capital Corp XIII - Warrants|G|N|N|100|N|N
 XLAB|Exascale Labs Holdings Inc. - Class A Common Stock|G|N|N|100|N|N
 XLABW|Exascale Labs Holdings Inc. - Warrant|G|N|N|100|N|N
 XLO|Xilio Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -5617,4 +5622,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0918202607:00|||||||
+File Creation Time: 0918202621:31|||||||
