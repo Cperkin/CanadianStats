@@ -624,7 +624,6 @@ CVO,Coveo Solutions Inc.,TSX
 CRR.UN,Crombie Real Estate Investment Trust,TSX
 CRON,Cronos Group Inc.,TSX
 CRWD,CrowdStrike CDR (CAD Hedged),TSX
-CRWN,Crown Capital Partners Inc.,TSX
 CRT.UN,CT Real Estate Investment Trust,TSX
 CIU.PR.A,CU Inc.,TSX
 CURA,"Curaleaf Holdings, Inc.",TSX
@@ -929,8 +928,10 @@ GEC,Global Education Communities Corp.,TSX
 GLRA.PR.A,Global Real Assets Trust,TSX
 CBIL,Global X 0-3 Month T-Bill ETF,TSX
 UBIL.U,Global X 0-3 Month U.S. T-Bill ETF,TSX
+GCIG,Global X 1-10 Year Canadian Corporate Bond Index ETF,TSX
 TSTX,Global X 1-3 Year U.S. Treasury Bond Index ETF,TSX
 TLTX,Global X 20+ Year U.S. Treasury Bond Index ETF,TSX
+TMTX,Global X 3-10 Year U.S. Treasury Bond Index ETF,TSX
 HAD,Global X Active Canadian Bond ETF,TSX
 HAL,Global X Active Canadian Dividend ETF,TSX
 HMP,Global X Active Canadian Municipal Bond ETF,TSX
@@ -947,12 +948,15 @@ CMCC,Global X All-In-One Commodity Producers Equity Covered Call ETF,TSX
 COMX,Global X All-In-One Commodity Producers Equity ETF,TSX
 AIQ,Global X Artificial Intelligence & Technology Index ETF,TSX
 MTRX,Global X Artificial Intelligence Infrastructure Index ETF,TSX
+DRAM,Global X Artificial Intelligence Memory Index ETF,TSX
 CHPS,Global X Artificial Intelligence Semiconductor Index ETF,TSX
+ACHP,Global X Asia Semiconductor Index ETF,TSX
 HBAL,Global X Balanced Asset Allocation ETF,TSX
 HBGD,Global X Big Data & Hardware Index ETF,TSX
 HXH,Global X Canadian High Dividend Index Corporate Class ETF,TSX
 ENCC,Global X Canadian Oil and Gas Equity Covered Call ETF,TSX
 HBB,Global X Canadian Select Universe Bond Index Corporate Class ETF,TSX
+AGGX,Global X Canadian Universe Bond Index ETF,TSX
 HSAV,Global X Cash Maximizer Corporate Class ETF,TSX
 CHQQ,Global X China Hang Seng TECH Index ETF,TSX
 HCON,Global X Conservative Asset Allocation ETF,TSX
@@ -1003,6 +1007,7 @@ CASH,Global X High Interest Savings ETF,TSX
 TTTX,Global X Innovative Bluechip Top 10 Index ETF,TSX
 INOC,Global X Inovestor Canadian Equity Index ETF,TSX
 HXDM,Global X Intl Developed Markets Equity Index Corporate Class ETF,TSX
+KORX,Global X Korea KOSPI 200 Index ETF,TSX
 HLPR,Global X Laddered Canadian Preferred Share Index Corporate Class ETF,TSX
 HLIT,Global X Lithium Producers Index ETF,TSX
 PAYL,Global X Long-Term Government Bond Premium Yield ETF,TSX
@@ -1024,6 +1029,7 @@ CNCC,Global X S&P/TSX  60 Covered Call ETF,TSX
 HXT,Global X S&P/TSX 60 Index Corporate Class ETF,TSX
 CNDX,Global X S&P/TSX 60 Index ETF,TSX
 HXCN,Global X S&P/TSX Capped Composite Index Corporate Class ETF,TSX
+CNDC,Global X S&P/TSX Capped Composite Index ETF,TSX
 HXE,Global X S&P/TSX Capped Energy Index Corporate Class ETF,TSX
 HXF,Global X S&P/TSX Capped Financials Index Corporate Class ETF,TSX
 HAC,Global X Seasonal Rotation ETF,TSX
@@ -1191,7 +1197,6 @@ HBF,Harvest US Equity Leaders Income ETF,TSX
 HUTE,Harvest Utilities Leaders Enhanced Income ETF,TSX
 HUTL,Harvest Utilities Leaders Income ETF,TSX
 HWX,Headwater Exploration Inc.,TSX
-MDS.UN,Healthcare Special Opportunities Fund,TSX
 AIDX,HealWELL AI Inc.,TSX
 HFPC.U,Helios Fairfax Partners Corporation,TSX
 HBP,Helix BioPharma Corp.,TSX

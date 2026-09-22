@@ -577,7 +577,7 @@ BCBP|BCB Bancorp, Inc. (NJ) - Common Stock|G|N|N|100|N|N
 BCCQ|Bleichroeder Acquisition Corp. III - Class A Ordinary Shares|G|N|N|100|N|N
 BCCQU|Bleichroeder Acquisition Corp. III - Units|G|N|N|100|N|N
 BCCQW|Bleichroeder Acquisition Corp. III - Warrant|G|N|N|100|N|N
-BCDA|BioCardia, Inc. - Common Stock|S|N|D|100|N|N
+BCDA|BioCardia, Inc. - Common Stock|S|N|N|100|N|N
 BCFN|Baron Financials ETF|G|N|N|100|Y|N
 BCG|Binah Capital Group, Inc. - Common Stock|G|N|N|100|N|N
 BCGWW|Binah Capital Group, Inc. - Warrants|S|N|N|100|N|N
@@ -789,9 +789,7 @@ BRLSW|Borealis Foods Inc. - Warrant|S|N|H|100|N|N
 BRLT|Brilliant Earth Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 BRNX|BrenX Ltd. - Ordinary Shares|S|N|N|100|N|N
 BRNY|Burney U.S. Factor Rotation ETF|G|N|N|100|Y|N
-BRR|ProCap Financial, Inc. - Common Stock|G|N|N|100|N|N
 BRRR|Coinshares Bitcoin ETF|G|N|N|100|Y|N
-BRRWW|ProCap Financial, Inc. - Warrant.|S|N|N|100|N|N
 BRTM|B&R Technology Merger Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BRTMU|B&R Technology Merger Corp. - Units|G|N|N|100|N|N
 BRTMW|B&R Technology Merger Corp. - Warrants|G|N|N|100|N|N
@@ -1111,7 +1109,7 @@ CLBK|Columbia Financial, Inc. - Common Stock|Q|N|N|100|N|N
 CLBT|Cellebrite DI Ltd. - Ordinary Shares|Q|N|N|100|N|N
 CLDX|Celldex Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 CLFD|Clearfield, Inc. - Common Stock|G|N|N|100|N|N
-CLGN|CollPlant Biotechnologies Ltd. - Ordinary Shares|S|N|D|100|N|N
+CLGN|CollPlant Biotechnologies Ltd. - Ordinary Shares|S|N|N|100|N|N
 CLIK|Click Holdings Limited - Ordinary Share|S|N|N|100|N|N
 CLIR|ClearSign Technologies Corporation - Common Stock|S|N|N|100|N|N
 CLLS|Cellectis S.A. - American Depositary Shares|G|N|N|100|N|N
@@ -1658,6 +1656,7 @@ ESOA|Energy Services of America Corporation - Common Stock|S|N|N|100|N|N
 ESPO|VanEck Video Gaming and eSports ETF|G|N|N|100|Y|N
 ESQ|Esquire Financial Holdings, Inc. - Common Stock|S|N|N|100|N|N
 ESTA|Establishment Labs Holdings Inc. - Common Shares|S|N|N|100|N|N
+ESYN|EnerSyn Global Inc. - Common Stock|S|N|N|100|N|N
 ETEC|iShares Breakthrough Environmental Solutions ETF|G|N|N|100|Y|N
 ETHA|iShares Ethereum Trust ETF|G|N|N|100|Y|N
 ETHB|iShares Staked Ethereum Trust ETF|G|N|N|100|Y|N
@@ -1794,7 +1793,7 @@ FENC|Fennec Pharmaceuticals Inc. - Common Stock|S|N|N|100|N|N
 FEP|First Trust Europe AlphaDEX Fund|G|N|N|100|Y|N
 FEPI|REX FANG & Innovation Equity Premium Income ETF|G|N|N|100|Y|N
 FER|Ferrovial N.V. - Ordinary Shares|Q|N|N|100|N|N
-FERA|Fifth Era Acquisition Corp I - Class A Ordinary Shares|G|N|N|100|N|N
+FERA|Fifth Era Acquisition Corp I - Class A Ordinary Shares|G|N|D|100|N|N
 FERAR|Fifth Era Acquisition Corp I - Rights|G|N|N|100|N|N
 FERAU|Fifth Era Acquisition Corp I - Units|G|N|N|100|N|N
 FEUZ|First Trust Eurozone AlphaDEX ETF|G|N|N|100|Y|N
@@ -2398,7 +2397,6 @@ HWBK|Hawthorn Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 HWC|Hancock Whitney Corporation - Common Stock|Q|N|N|100|N|N
 HWCPZ|Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060|Q|N|N|100|N|N
 HWGV|Hotchkis & Wiley Global Value Fund|G|N|N|100|Y|N
-HWH|HWH International Inc. - Common Stock|S|N|N|100|N|N
 HWIV|Hotchkis & Wiley International Value Fund|G|N|N|100|Y|N
 HWKN|Hawkins, Inc. - Common Stock|Q|N|N|100|N|N
 HWO|Hotchkis & Wiley Opportunities Fund|G|N|N|100|Y|N
@@ -2910,7 +2908,6 @@ LFTO|Liftoff Mobile, Inc. - Common Stock|Q|N|N|100|N|N
 LFUS|Littelfuse, Inc. - Common Stock|Q|N|N|40|N|N
 LFVN|Lifevantage Corporation - Common Stock|S|N|N|100|N|N
 LFWD|Lifeward Ltd. - Ordinary Shares|S|N|N|100|N|N
-LGCF|Themes US Cash Flow Champions ETF|G|N|N|100|Y|N
 LGCL|Lucas GC Limited - Class A Ordinary Shares|S|N|N|100|N|N
 LGDS|JPMorgan Fundamental Data Science Large Growth ETF|G|N|N|100|Y|N
 LGHL|Lion Group Holding Ltd. - American Depositary Share|S|N|N|100|N|N
@@ -3431,9 +3428,6 @@ NFXS|Direxion Daily NFLX Bear 1X ETF|G|N|N|100|Y|N
 NGEN|NervGen Pharma Corp. - Common stock|S|N|N|100|N|N
 NGHT|Nicholas Bitcoin and Treasuries AfterDark ETF|G|N|N|100|Y|N
 NGNE|Neurogene Inc. - Common Stock|G|N|N|100|N|N
-NHIC|NewHold Investment Corp III - Class A Ordinary shares|G|N|N|100|N|N
-NHICU|NewHold Investment Corp III - Units|G|N|N|100|N|N
-NHICW|NewHold Investment Corp III - Warrants|G|N|N|100|N|N
 NHIV|NewHold Investment Corp IV - Class A Ordinary Shares|G|N|N|100|N|N
 NHIVU|NewHold Investment Corp IV - Units|G|N|N|100|N|N
 NHIVW|NewHold Investment Corp IV - Warrants|G|N|N|100|N|N
@@ -3808,7 +3802,7 @@ PBQQ|PGIM Laddered Nasdaq-100 Buffer 12 ETF|G|N|N|100|Y|N
 PBRG|Leverage Shares 2X Long PBR Daily ETF|G|N|N|100|Y|N
 PBSC|Pacer Barings Secured Credit Flex ETF|G|N|N|100|Y|N
 PBYI|Puma Biotechnology Inc - Common Stock|Q|N|N|100|N|N
-PC|Premium Catering (Holdings) Limited - Ordinary Shares|S|N|E|100|N|N
+PC|Premium Catering (Holdings) Limited - Ordinary Shares|S|N|N|100|N|N
 PCAP|ProCap Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
 PCAPU|ProCap Acquisition Corp - Unit|G|N|N|100|N|N
 PCAPW|ProCap Acquisition Corp - Warrant|G|N|N|100|N|N
@@ -4588,7 +4582,6 @@ SLVR|Sprott Silver Miners & Physical Silver ETF|G|N|N|100|Y|N
 SLXN|Silexion Therapeutics Corp - Ordinary Shares|S|N|D|100|N|N
 SLXNW|Silexion Therapeutics Corp - Warrant|S|N|D|100|N|N
 SMBC|Southern Missouri Bancorp, Inc. - Common Stock|G|N|N|100|N|N
-SMCF|Themes US Small Cap Cash Flow Champions ETF|G|N|N|100|Y|N
 SMCI|Super Micro Computer, Inc. - Common Stock|Q|N|N|100|N|N
 SMCIP|Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock|Q|N|N|100|N|N
 SMCL|GraniteShares 2x Long SMCI Daily ETF|G|N|N|100|Y|N
@@ -4778,6 +4771,8 @@ SVCC|Stellar V Capital Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 SVCCU|Stellar V Capital Corp. - Unit|G|N|N|100|N|N
 SVCCW|Stellar V Capital Corp. - Warrant|G|N|N|100|N|N
 SVCO|Silvaco Group, Inc. - Common Stock|Q|N|N|100|N|N
+SVIA|Silvia, Inc. - Common Stock|G|N|N|100|N|N
+SVIAW|Silvia, Inc. - Warrant.|S|N|N|100|N|N
 SVIV|Spring Valley Acquisition Corp. IV - Class A Ordinary Shares|G|N|N|100|N|N
 SVIVU|Spring Valley Acquisition Corp. IV - Units|G|N|N|100|N|N
 SVIVW|Spring Valley Acquisition Corp. IV - Warrants|G|N|N|100|N|N
@@ -4816,7 +4811,7 @@ TACO|Berto Acquisition Corp. - Ordinary Shares|G|N|N|100|N|N
 TACOU|Berto Acquisition Corp. - unit|G|N|N|100|N|N
 TACOW|Berto Acquisition Corp. - Warrant|G|N|N|100|N|N
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100|N|N
-TANH|Tantech Holdings Ltd. - Class A Common Shares|S|N|D|100|N|N
+TANH|Tantech Holdings Ltd. - Class A Common Shares|S|N|N|100|N|N
 TAOP|Taoping Inc. - Ordinary Shares|S|N|N|100|N|N
 TAOX|Tao Synergies Inc. - Common Stock|S|N|N|100|N|N
 TAOZ|Thornburg American Opportunities Fund|G|N|N|100|Y|N
@@ -5359,7 +5354,7 @@ WAY|Waystar Holding Corp. - Common Stock|Q|N|N|100|N|N
 WB|Weibo Corporation - American Depositary Shares|Q|N|N|100|N|N
 WBD|Warner Bros. Discovery, Inc. - Series A Common Stock|Q|N|N|100|N|N
 WBTN|WEBTOON Entertainment Inc. - Common stock|Q|N|N|100|N|N
-WBUY|WEBUY GLOBAL LTD. - Class A Ordinary Shares|S|N|N|100|N|N
+WBUY|WEBUY GLOBAL LTD. - Class A Ordinary Shares|S|N|D|100|N|N
 WCBR|WisdomTree Cybersecurity Fund|G|N|N|100|Y|N
 WCCB|West Coast Community Bancorp - Common Stock|S|N|N|100|N|N
 WCLD|WisdomTree Cloud Computing Fund|G|N|N|100|Y|N
@@ -5622,4 +5617,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0921202607:00|||||||
+File Creation Time: 0922202607:00|||||||
