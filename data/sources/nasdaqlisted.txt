@@ -258,7 +258,7 @@ ALOV|Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares|G|N
 ALOVU|Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units|G|N|N|100|N|N
 ALOVW|Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants|G|N|N|100|N|N
 ALOY|REalloys Inc. - Common Stock|S|N|N|100|N|N
-ALP|Alpha Compute Corp  - Ordinary Shares|S|N|D|100|N|N
+ALP|Alpha Compute Corp  - Ordinary Shares|S|N|N|100|N|N
 ALPS|ALPS Group Inc - Ordinary Share|G|N|D|100|N|N
 ALPX|Alpex Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 ALPXR|Alpex Acquisition Corporation - Rights|G|N|N|100|N|N
@@ -1065,6 +1065,7 @@ CHEF|The Chefs' Warehouse, Inc. - Common Stock|Q|N|N|100|N|N
 CHGA|Change Agents Corporation  - Common Stock|S|N|N|100|N|N
 CHGX|Stance Sustainable Beta ETF|G|N|N|100|Y|N
 CHI|Calamos Convertible Opportunities and Income Fund - Closed End Fund|Q|N|N|100|N|N
+CHIP|REX AI Chipmaking ETF|G|N|N|100|Y|N
 CHKP|Check Point Software Technologies Ltd. - Ordinary Shares|Q|N|N|100|N|N
 CHMG|Chemung Financial Corp  - Common Stock|Q|N|N|100|N|N
 CHNR|China Natural Resources, Inc. - Common Shares|S|N|N|100|N|N
@@ -1439,7 +1440,6 @@ DNUT|Krispy Kreme, Inc. - Common Stock|Q|N|N|100|N|N
 DOCU|DocuSign, Inc. - Common Stock|Q|N|N|100|N|N
 DOGZ|Dogness (International) Corporation - Class A Common Stock|S|N|N|100|N|N
 DOMH|Dominari Holdings Inc. - Common Stock|S|N|N|100|N|N
-DOMO|Domo, Inc. - Class B Common Stock|G|N|N|100|N|N
 DOO|BRP Inc. - Common Subordinate Voting Shares|Q|N|N|100|N|N
 DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100|N|N
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100|N|N
@@ -1810,7 +1810,7 @@ FGII|FG Imperii Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 FGIIU|FG Imperii Acquisition Corp. - Units|G|N|N|100|N|N
 FGIIW|FG Imperii Acquisition Corp. - Warrants|G|N|N|100|N|N
 FGIWW|FGI Industries Ltd. - warrant|S|N|N|100|N|N
-FGL|Founder Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
+FGL|Founder Group Limited - Class A Ordinary Shares|S|N|D|100|N|N
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
 FGNX|FG Nexus Inc. - Common Stock|G|N|N|100|N|N
 FGNXP|FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock|G|N|N|100|N|N
@@ -2240,7 +2240,7 @@ HACQ|HCM IV Acquisition Corp. - Class A Ordinary Share|G|N|N|100|N|N
 HACQU|HCM IV Acquisition Corp. - Unit|G|N|N|100|N|N
 HACQW|HCM IV Acquisition Corp. - Warrants|G|N|N|100|N|N
 HAFC|Hanmi Financial Corporation - Common Stock|Q|N|N|100|N|N
-HAIN|The Hain Celestial Group, Inc. - Common Stock|Q|N|D|100|N|N
+HAIN|The Hain Celestial Group, Inc. - Common Stock|S|N|D|100|N|N
 HALO|Halozyme Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 HAO|Haoxi Health Technology Limited - Class A Ord Share|S|N|N|100|N|N
 HAPN|Happen, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2378,6 +2378,7 @@ HUBC|Hub Cyber Security Ltd. - Ordinary Shares|S|N|N|100|N|N
 HUBCW|Hub Cyber Security Ltd. - Warrant expiring 2/27/28|S|N|N|100|N|N
 HUBCZ|Hub Cyber Security Ltd. - Warrant|S|N|N|100|N|N
 HUBG|Hub Group, Inc. - Class A Common Stock|Q|N|E|100|N|N
+HUCK|Huckleberry.ai, Inc. - Class B Common Stock|G|N|N|100|N|N
 HUDI|Huadi International Group Co., Ltd. - Ordinary Shares|S|N|D|100|N|N
 HUHU|HUHUTECH International Group Inc. - Ordinary Shares|S|N|N|100|N|N
 HUIZ|Huize Holding Limited - American Depositary Shares|G|N|N|100|N|N
@@ -2387,9 +2388,6 @@ HURC|Hurco Companies, Inc. - Common Stock|Q|N|N|100|N|N
 HURN|Huron Consulting Group Inc. - Common Stock|Q|N|N|100|N|N
 HUT|Hut 8 Corp. - Common Stock|Q|N|N|100|N|N
 HUTG|Leverage Shares 2X Long HUT Daily ETF|G|N|N|100|Y|N
-HVII|Hennessy Capital Investment Corp. VII - Ordinary Shares|G|N|N|100|N|N
-HVIIR|Hennessy Capital Investment Corp. VII - Rights|G|N|N|100|N|N
-HVIIU|Hennessy Capital Investment Corp. VII - Unit|G|N|N|100|N|N
 HVMC|Highview Merger Corp. - Class A Ordinary Share|G|N|N|100|N|N
 HVMCU|Highview Merger Corp. - Units|G|N|N|100|N|N
 HVMCW|Highview Merger Corp. - Warrants|G|N|N|100|N|N
@@ -2514,7 +2512,7 @@ ILLUW|Illumination Acquisition Corp I - Warrant|G|N|N|100|N|N
 ILMN|Illumina, Inc. - Common Stock|Q|N|N|100|N|N
 ILPT|Industrial Logistics Properties Trust - Common Shares of Beneficial Interest|Q|N|N|100|N|N
 IMA|ImageneBio, Inc. - Common Stock|S|N|N|100|N|N
-IMCC|IM Cannabis Corp. - Common Shares|S|N|D|100|N|N
+IMCC|IM Cannabis Corp. - Common Shares|S|N|N|100|N|N
 IMCR|Immunocore Holdings plc - American Depositary Shares|Q|N|N|100|N|N
 IMCV|iShares Morningstar Mid-Cap Value ETF|G|N|N|100|Y|N
 IMDX|Insight Molecular Diagnostics Inc. - Common Stock|S|N|N|100|N|N
@@ -2561,7 +2559,7 @@ INHD|Inno Holdings Inc. - Common Stock|S|N|N|100|N|N
 INIO|INNIO N.V. - Ordinary Shares|Q|N|N|100|N|N
 INKT|MiNK Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 INLF|INLIF LIMITED - Class A Ordinary shares|S|N|N|100|N|N
-INM|InMed Pharmaceuticals Inc. - Common Shares|S|N|N|100|N|N
+INM|InMed Pharmaceuticals Inc. - Common Shares|S|N|D|100|N|N
 INMB|INmune Bio Inc. - Common stock|S|N|N|100|N|N
 INMD|InMode Ltd.  - Ordinary Shares|Q|N|N|100|N|N
 INNV|InnovAge Holding Corp. - Common Stock|Q|N|N|100|N|N
@@ -2870,9 +2868,9 @@ LBRX|LB Pharmaceuticals Inc - Common Stock|G|N|N|100|N|N
 LBTYA|Liberty Global Ltd. - Class A Common Shares|Q|N|N|100|N|N
 LBTYB|Liberty Global Ltd. - Class B Common Shares|Q|N|N|100|N|N
 LBTYK|Liberty Global Ltd. - Class C Common Shares|Q|N|N|100|N|N
-LCCC|Lakeshore Acquisition III Corp. - Ordinary Shares|G|N|N|100|N|N
-LCCCR|Lakeshore Acquisition III Corp. - Rights|G|N|N|100|N|N
-LCCCU|Lakeshore Acquisition III Corp. - Unit|G|N|N|100|N|N
+LCCC|Lakeshore Acquisition III Corp. - Ordinary Shares|S|N|N|100|N|N
+LCCCR|Lakeshore Acquisition III Corp. - Rights|S|N|N|100|N|N
+LCCCU|Lakeshore Acquisition III Corp. - Unit|S|N|N|100|N|N
 LCDS|JPMorgan Fundamental Data Science Large Core ETF|G|N|N|100|Y|N
 LCFY|Locafy Limited - Ordinary Share|S|N|N|100|N|N
 LCFYW|Locafy Limited - Warrant|S|N|N|100|N|N
@@ -2976,6 +2974,7 @@ LOT|Lotus Technology Inc. - American Depositary Shares|Q|N|N|100|N|N
 LOTI|Liberty One Tactical Income ETF|G|N|N|100|Y|N
 LOTWW|Lotus Technology Inc. - Warrants|S|N|N|100|N|N
 LOVE|The Lovesac Company - Common Stock|G|N|N|100|N|N
+LOVIU|Live Oak Acquisition Corp. VI - Units|G|N|N|100|N|N
 LPAA|Launch One Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 LPAAU|Launch One Acquisition Corp. - Unit|G|N|N|100|N|N
 LPAAW|Launch One Acquisition Corp. - Warrant|G|N|N|100|N|N
@@ -3319,6 +3318,7 @@ MYCL|State Street My2032 Corporate Bond ETF|G|N|N|100|Y|N
 MYCM|State Street My2033 Corporate Bond ETF|G|N|N|100|Y|N
 MYCN|State Street My2034 Corporate Bond ETF|G|N|N|100|Y|N
 MYCO|State Street My2035 Corporate Bond ETF|G|N|N|100|Y|N
+MYCP|State Street My2036 Corporate Bond ETF|G|N|N|100|Y|N
 MYFW|First Western Financial, Inc. - Common Stock|Q|N|N|100|N|N
 MYGN|Myriad Genetics, Inc. - Common Stock|Q|N|N|100|N|N
 MYHA|State Street My2027 High Yield Corporate Bond ETF|G|N|N|100|Y|N
@@ -3326,12 +3326,14 @@ MYHB|State Street My2028 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 MYHC|State Street My2029 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 MYHD|State Street My2030 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 MYHE|State Street My2031 High Yield Corporate Bond ETF|G|N|N|100|Y|N
+MYHF|State Street My2032 High Yield Corporate Bond ETF|G|N|N|100|Y|N
 MYMF|State Street My2026 Municipal Bond ETF|G|N|N|100|Y|N
 MYMG|State Street My2027 Municipal Bond ETF|G|N|N|100|Y|N
 MYMH|State Street My2028 Municipal Bond ETF|G|N|N|100|Y|N
 MYMI|State Street My2029 Municipal Bond ETF|G|N|N|100|Y|N
 MYMJ|State Street My2030 Municipal Bond ETF|G|N|N|100|Y|N
 MYMK|State Street My2031 Municipal Bond ETF|G|N|N|100|Y|N
+MYML|State Street My2032 Municipal Bond ETF|G|N|N|100|Y|N
 MYPS|PLAYSTUDIOS, Inc.  - Class A Common Stock|S|N|D|100|N|N
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|40|N|N
 MYSE|Myseum.AI, Inc. - Common Stock|S|N|N|100|N|N
@@ -3667,6 +3669,7 @@ ONCY|Oncolytics Biotech Inc. - Common Stock|S|N|D|100|N|N
 ONDG|Leverage Shares 2X Long ONDS Daily ETF|G|N|N|100|Y|N
 ONDS|Ondas Inc - Common Stock|S|N|N|100|N|N
 ONEG|OneConstruction Group Limited - Ordinary Shares|S|N|N|100|N|N
+ONEN|ONE Nuclear Energy Inc. - Common Stock|G|N|N|100|N|N
 ONEQ|Fidelity Nasdaq Composite Index ETF|G|N|N|100|Y|N
 ONEW|OneWater Marine Inc. - Class A Common Stock|G|N|N|100|N|N
 ONFO|Onfolio Holdings Inc. - Common Stock|S|N|D|100|N|N
@@ -4119,6 +4122,7 @@ QQA|Invesco QQQ Income Advantage ETF|G|N|N|100|Y|N
 QQDN|ProShares UltraShort QQQ Mega|G|N|N|100|Y|N
 QQEW|First Trust Nasdaq-100 Select Equal Weight ETF|G|N|N|100|Y|N
 QQHG|Invesco QQQ Hedged Advantage ETF|G|N|N|100|Y|N
+QQI|Invesco Nasdaq International Innovators 100 ETF|G|N|N|100|Y|N
 QQLV|Invesco QQQ Low Volatility ETF|G|N|N|100|Y|N
 QQMG|Invesco ESG NASDAQ 100 ETF|G|N|N|100|Y|N
 QQQ|Invesco QQQ Trust, Series 1|G|N|N|40|Y|N
@@ -4227,7 +4231,7 @@ RDZNW|Roadzen, Inc. - Warrants|S|N|N|100|N|N
 REAI|Intelligent Real Estate ETF|G|N|N|100|Y|N
 REAL|The RealReal, Inc. - Common Stock|Q|N|N|100|N|N
 REAX|Real REMAX Group Inc. - Common Stock|S|N|N|100|N|N
-REBN|Reborn Coffee, Inc. - Common Stock|S|N|N|100|N|N
+REBN|Reborn Coffee, Inc. - Common Stock|S|N|D|100|N|N
 RECT|Rectitude Holdings Ltd - Ordinary Shares|S|N|N|100|N|N
 REFI|Chicago Atlantic Real Estate Finance, Inc. - Common Stock|G|N|N|100|N|N
 REFR|Research Frontiers Incorporated - Common Stock|S|N|D|100|N|N
@@ -4837,7 +4841,6 @@ TBCVU|Thunder Bridge Capital Partners V, Ltd. - Units|G|N|N|100|N|N
 TBIL|F/m US Treasury 3 Month Bill Fund|G|N|N|100|Y|N
 TBLA|Taboola.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TBLD|Thornburg Income Builder Opportunities Trust - Closed End Fund|Q|N|N|100|N|N
-TBPH|Theravance Biopharma, Inc. - Ordinary Shares|G|N|N|100|N|N
 TC|Token Cat Limited - American Depositary Shares|S|N|N|100|N|N
 TCAN|21Shares Canton Network ETF|G|N|N|100|Y|N
 TCBI|Texas Capital Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5081,9 +5084,11 @@ TWLV|Twelve Seas Investment Company III - Class A Ordinary Shares|G|N|N|100|N|N
 TWLVR|Twelve Seas Investment Company III - Rights|G|N|N|100|N|N
 TWLVU|Twelve Seas Investment Company III - Units|G|N|N|100|N|N
 TWST|Twist Bioscience Corporation - Common Stock|Q|N|N|100|N|N
+TXCA|Northern Trust California Intermediate Tax-Exempt Bond ETF|G|N|N|100|Y|N
 TXG|10x Genomics, Inc. - Common Stock|Q|N|N|100|N|N
 TXMD|TherapeuticsMD, Inc. - Common Stock|Q|N|N|100|N|N
 TXN|Texas Instruments Incorporated - Common Stock|Q|N|N|100|N|N
+TXNY|Northern Trust New York Intermediate Tax-Exempt Bond ETF|G|N|N|100|Y|N
 TXRH|Texas Roadhouse, Inc. - Common Stock|Q|N|N|100|N|N
 TXUE|Thornburg International Equity ETF|G|N|N|100|Y|N
 TXUG|Thornburg International Growth Fund ETF|G|N|N|100|Y|N
@@ -5274,6 +5279,8 @@ VMAR|Vision Marine Technologies Inc. - Common Shares|S|N|N|100|N|N
 VMBS|Vanguard Mortgage-Backed Securities ETF|G|N|N|100|Y|N
 VMD|Viemed Healthcare, Inc. - Common Shares|S|N|N|100|N|N
 VMET|Versamet Royalties Corporation - Common Stock|S|N|N|100|N|N
+VMHY|VictoryShares Municipal High Yield ETF|G|N|N|100|Y|N
+VMSD|VictoryShares Short-Duration Municipal ETF|G|N|N|100|Y|N
 VNCE|Vince Holding Corp. - Common Stock|S|N|N|100|N|N
 VNDA|Vanda Pharmaceuticals Inc. - Common Stock|G|N|N|100|N|N
 VNET|VNET Group, Inc. - American Depositary Shares|Q|N|N|100|N|N
@@ -5568,9 +5575,9 @@ YSAU|Y'all Street Physical Gold ETF|G|N|N|100|Y|N
 YSPY|GraniteShares YieldBOOST SPY ETF|G|N|N|100|Y|N
 YSWY|Yesway, Inc. - Class A Common Stock|Q|N|N|100|N|N
 YSXT|YSX Tech. Co., Ltd  - Class A Ordinary Shares|S|N|N|100|N|N
-YTRA|Yatra Online, Inc. - Ordinary Shares|S|N|D|100|N|N
+YTRA|Yatra Online, Inc. - Ordinary Shares|S|N|N|100|N|N
 YXT|YXT.COM GROUP HOLDING LIMITED - American Depository Shares|G|N|N|100|N|N
-YYAI|AiRWA Inc. - Common Stock|S|N|E|100|N|N
+YYAI|AiRWA Inc. - Common Stock|S|N|N|100|N|N
 Z|Zillow Group, Inc. - Class C Capital Stock|Q|N|N|100|N|N
 ZAP|Global X U.S. Electrification ETF|G|N|N|100|Y|N
 ZAZZT|Tick Pilot Test Stock Class A Common Stock|G|Y|N|100|N|N
@@ -5620,4 +5627,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0923202607:00|||||||
+File Creation Time: 0924202607:00|||||||

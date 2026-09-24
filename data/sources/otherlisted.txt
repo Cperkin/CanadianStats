@@ -418,7 +418,7 @@ ASCE|Allspring SMID Core ETF|P|ASCE|Y|100|N|ASCE
 ASEA|Global X FTSE Southeast Asia ETF|P|ASEA|Y|100|N|ASEA
 ASG|Liberty All-Star Growth Fund, Inc.|N|ASG|N|100|N|ASG
 ASGI|abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest|N|ASGI|N|100|N|ASGI
-ASGI.V|abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued|N|ASGIrw|N|100|N|ASGI^#
+ASGI.R|abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights|N|ASGIr|N|100|N|ASGI^
 ASGM|Virtus AlphaSimplex Global Macro ETF|P|ASGM|Y|100|N|ASGM
 ASH|Ashland Inc. Common Stock|N|ASH|N|100|N|ASH
 ASHR|Xtrackers Harvest CSI 300 China A-Shares ETF|P|ASHR|Y|100|N|ASHR
@@ -640,6 +640,7 @@ BBY|Best Buy Co., Inc. Common Stock|N|BBY|N|100|N|BBY
 BC|Brunswick Corporation Common Stock|N|BC|N|100|N|BC
 BC$C|Brunswick Corporation 6.375% Notes due 2049|N|BCpC|N|100|N|BC-C
 BCAT|BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest|N|BCAT|N|100|N|BCAT
+BCAT.V|BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued|N|BCATrw|N|100|N|BCAT^#
 BCC|Boise Cascade, L.L.C. Common Stock|N|BCC|N|100|N|BCC
 BCCC|Global X Bitcoin Covered Call ETF|Z|BCCC|Y|100|N|BCCC
 BCD|abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF|P|BCD|Y|100|N|BCD
@@ -976,7 +977,6 @@ BTGO|BitGo Holdings, Inc. Class A Common Stock|N|BTGO|N|100|N|BTGO
 BTI|British American Tobacco  Industries, p.l.c. Common Stock ADR|N|BTI|N|100|N|BTI
 BTO|John Hancock Financial Opportunities Fund Common Stock|N|BTO|N|100|N|BTO
 BTOT|iShares Total USD Fixed Income Market ETF|P|BTOT|Y|100|N|BTOT
-BTR|Beacon Tactical Risk ETF|P|BTR|Y|100|N|BTR
 BTRN|Global X Bitcoin Trend Strategy ETF|P|BTRN|Y|100|N|BTRN
 BTT|BlackRock Municipal 2030 Target Term Trust|N|BTT|N|100|N|BTT
 BTU|Peabody Energy Corporation Common Stock |N|BTU|N|100|N|BTU
@@ -1610,6 +1610,7 @@ DBRG$H|DigitalBridge Group, Inc. 7.125% Series H |N|DBRGpH|N|100|N|DBRG-H
 DBRG$I|DigitalBridge Group, Inc. 7.15% Series I |N|DBRGpI|N|100|N|DBRG-I
 DBRG$J|DigitalBridge Group, Inc. 7.125% Series J |N|DBRGpJ|N|100|N|DBRG-J
 DC|Dakota Gold Corp. Common Stock|A|DC|N|100|N|DC
+DCAP|T-Strive Digital Credit Preferred Income ETF|Z|DCAP|Y|100|N|DCAP
 DCBG|Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes|N|DCBG|N|100|N|DCBG
 DCH|Dauch Corporation Common Stock|N|DCH|N|100|N|DCH
 DCI|Donaldson Company, Inc. Common Stock|N|DCI|N|100|N|DCI
@@ -4298,6 +4299,7 @@ MG|Mistras Group Inc Common Stock|N|MG|N|100|N|MG
 MGA|Magna International, Inc. Common Stock|N|MGA|N|100|N|MGA
 MGC|Vanguard Morningstar Mega Cap ETF|P|MGC|Y|100|N|MGC
 MGF|Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest|N|MGF|N|100|N|MGF
+MGIN|Man Active Global Infrastructure ETF|P|MGIN|Y|100|N|MGIN
 MGK|Vanguard Morningstar Mega Cap Growth ETF|P|MGK|Y|40|N|MGK
 MGLD|The Marygold Companies, Inc. Common Stock|A|MGLD|N|100|N|MGLD
 MGM|MGM Resorts International Common Stock|N|MGM|N|100|N|MGM
@@ -6625,6 +6627,7 @@ TKR|Timken Company (The) Common Stock|N|TKR|N|100|N|TKR
 TLCI|Touchstone International Equity ETF|P|TLCI|Y|100|N|TLCI
 TLDR|The Laddered T-Bill ETF|Z|TLDR|Y|100|N|TLDR
 TLH|iShares 10-20 Year Treasury Bond ETF|P|TLH|Y|100|N|TLH
+TLIE|American Beacon The London Company Income Equity ETF|P|TLIE|Y|100|N|TLIE
 TLK|PT Telekomunikasi Indonesia, Tbk|N|TLK|N|100|N|TLK
 TLTD|Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF|P|TLTD|Y|100|N|TLTD
 TLTE|Northern Trust Morningstar Emerging Markets Factor Tilt ETF|P|TLTE|Y|100|N|TLTE
@@ -7016,6 +7019,7 @@ VAC|Marriott Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
 VACI|Viking Acquisition Corp. I Class A Ordinary Shares|N|VACI|N|100|N|VACI
 VACI.U|Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant|N|VACI.U|N|100|N|VACI=
 VACI.W|Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share|N|VACI.WS|N|100|N|VACI+
+VAIC|VegaShares US Equity Autocallable Conservative Income ETF|P|VAIC|Y|100|N|VAIC
 VAIE|VegaShares US Equity Autocallable Income ETF|P|VAIE|Y|100|N|VAIE
 VAL|Valaris Limited Common Shares|N|VAL|N|100|N|VAL
 VAL.W|Valaris Limited Warrants|N|VAL.WS|N|100|N|VAL+
@@ -7645,4 +7649,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 0923202607:00||||||
+File Creation Time: 0924202607:00||||||
