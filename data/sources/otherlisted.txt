@@ -5274,6 +5274,8 @@ PMTL|First Trust Indxx Quality Precious Metals Miners ETF|P|PMTL|Y|100|N|PMTL
 PMTU|PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028|N|PMTU|N|100|N|PMTU
 PMTV|PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030|N|PMTV|N|100|N|PMTV
 PMTW|PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030|N|PMTW|N|100|N|PMTW
+PNAQ|Pinnacle Acquisition Corporation Class A Ordinary Shares|N|PNAQ|N|100|N|PNAQ
+PNAQ.R|Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share|N|PNAQr|N|100|N|PNAQ^
 PNAQ.U|Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right|N|PNAQ.U|N|100|N|PNAQ=
 PNC|PNC Financial Services Group, Inc. (The) Common Stock|N|PNC|N|100|N|PNC
 PNFP|Pinnacle Financial Partners, Inc. Common stock|N|PNFP|N|100|N|PNFP
@@ -7649,4 +7651,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 0924202607:00||||||
+File Creation Time: 0925202607:00||||||

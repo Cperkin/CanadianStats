@@ -888,7 +888,7 @@ BYAH|Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares|S|N|N|100
 BYFC|Broadway Financial Corporation - Class A Common Stock|S|N|N|100|N|N
 BYND|Beyond Meat, Inc. - Common stock|Q|N|N|100|N|N
 BYRN|Byrna Technologies, Inc. - Common Stock|S|N|N|100|N|N
-BYSI|BeyondSpring, Inc. - Ordinary Shares|S|N|N|100|N|N
+BYSI|BeyondSpring, Inc. - Ordinary Shares|S|N|D|100|N|N
 BZ|KANZHUN LIMITED - American Depository Shares|Q|N|N|100|N|N
 BZAI|Blaize Holdings, Inc. - Common Stock|G|N|N|100|N|N
 BZAIW|Blaize Holdings, Inc. - Warrant|S|N|N|100|N|N
@@ -1839,7 +1839,10 @@ FIVN|Five9, Inc. - Common Stock|G|N|N|100|N|N
 FIXD|First Trust Smith Opportunistic Fixed Income ETF|G|N|N|100|Y|N
 FIYY|GraniteShares YieldBOOST 20Y Treasuries ETF|G|N|N|100|Y|N
 FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100|N|N
+FJDI|ARC Group Securities Acquisition I - Class A Ordinary Shares|G|N|N|100|N|N
+FJDIR|ARC Group Securities Acquisition I - Rights|G|N|N|100|N|N
 FJDIU|ARC Group Securities Acquisition I - Units|G|N|N|100|N|N
+FJDIW|ARC Group Securities Acquisition I - Warrants|G|N|N|100|N|N
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100|Y|N
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100|Y|N
 FKWL|Franklin Wireless Corp. - common stock|S|N|N|100|N|N
@@ -1850,7 +1853,7 @@ FLEX|Flex Ltd. - Ordinary Shares|Q|N|N|100|N|N
 FLGT|Fulgent Genetics, Inc. - Common Stock|G|N|N|100|N|N
 FLL|Full House Resorts, Inc. - Common Stock|S|N|N|100|N|N
 FLN|First Trust Latin America AlphaDEX Fund|G|N|N|100|Y|N
-FLNA|Filana Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+FLNA|Filana Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 FLNC|Fluence Energy, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FLNT|Fluent, Inc. - Common Stock|S|N|N|100|N|N
 FLUX|Flux Power Holdings, Inc. - Common Stock|S|N|D|100|N|N
@@ -2397,6 +2400,7 @@ HWCPZ|Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060|Q|N|N|100|
 HWGV|Hotchkis & Wiley Global Value Fund|G|N|N|100|Y|N
 HWIV|Hotchkis & Wiley International Value Fund|G|N|N|100|Y|N
 HWKN|Hawkins, Inc. - Common Stock|Q|N|N|100|N|N
+HWMV|Hotchkis & Wiley Mid-Cap Value Fund|G|N|N|100|Y|N
 HWO|Hotchkis & Wiley Opportunities Fund|G|N|N|100|Y|N
 HWSM|Hotchkis & Wiley SMID Cap Diversified Value Fund|G|N|N|100|Y|N
 HXHX|Haoxin Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
@@ -2410,7 +2414,7 @@ HYNE|Hoyne Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 HYP|Golden Eagle Dynamic Hypergrowth ETF|G|N|N|100|Y|N
 HYPD|Hyperion DeFi, Inc. - Common Stock|S|N|N|100|N|N
 HYPG|Grayscale Hyperliquid Staking ETF|G|N|N|100|Y|N
-HYPR|Hyperfine, Inc.  - Class A Common Stock|G|N|N|100|N|N
+HYPR|Hyperfine, Inc.  - Class A Common Stock|G|N|D|100|N|N
 HYXF|iShares ESG Advanced High Yield Corporate Bond ETF|G|N|N|100|Y|N
 HYZD|WisdomTree Interest Rate Hedged High Yield Bond Fund|G|N|N|100|Y|N
 IA|Innovative Solutions and Support, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2725,7 +2729,6 @@ JSM|Navient Corporation - 6% Senior Notes due December 15, 2043|Q|N|N|100|N|N
 JSMD|Janus Henderson Small/Mid Cap Growth Alpha ETF|G|N|N|100|Y|N
 JSML|Janus Henderson Small Cap Growth Alpha ETF|G|N|N|100|Y|N
 JSPR|Jasper Therapeutics, Inc. - Class A Common Stock|S|N|D|100|N|N
-JSPRW|Jasper Therapeutics, Inc. - Warrant|S|N|D|100|N|N
 JTAI|Jet.AI Inc. - Common Stock|S|N|N|100|N|N
 JTEK|JPMorgan U.S. Tech Leaders ETF|G|N|N|100|Y|N
 JTTT|JATT III Acquisition Corp - Ordinary Shares|S|N|N|100|N|N
@@ -2790,7 +2793,6 @@ KLRA|Kailera Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
 KLRS|Kalaris Therapeutics, Inc.  - Common Stock|G|N|N|100|N|N
 KLTR|Kaltura, Inc. - Common Stock|Q|N|N|100|N|N
 KLXE|KLX Energy Services Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
-KLXER|KLX Energy Services Holdings, Inc.  - Rights|Q|N|N|100|N|N
 KMB|Kimberly-Clark Corporation - Common Stock|Q|N|N|100|N|N
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100|N|N
 KMLI|KraneShares 2x Long MELI Daily ETF|G|N|N|100|Y|N
@@ -2927,7 +2929,7 @@ LILA|Liberty Latin America Ltd. - Class A Common Stock|Q|N|N|100|N|N
 LILAK|Liberty Latin America Ltd. - Class C Common Stock|Q|N|N|100|N|N
 LILAP|Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares|Q|N|N|100|N|N
 LIME|Neutron Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-LIMN|Liminatus Pharma, Inc. - Class A Common Stock|S|N|D|100|N|N
+LIMN|Liminatus Pharma, Inc. - Class A Common Stock|S|N|N|100|N|N
 LIMNW|Liminatus Pharma, Inc. - Warrants|S|N|N|100|N|N
 LIN|Linde plc - Ordinary Shares|Q|N|N|40|N|N
 LINC|Lincoln Educational Services Corporation - Common Stock|Q|N|N|100|N|N
@@ -4971,6 +4973,7 @@ TNYA|Tenaya Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 TOMZ|TOMI Environmental Solutions, Inc. - Common Stock|S|N|D|100|N|N
 TONX|TON Strategy Company - Common Stock|S|N|N|100|N|N
 TOP|TOP Financial Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
+TORK|KraneShares Actuator ETF|G|N|N|100|Y|N
 TORO|Toro Corp. - Common stock|S|N|N|100|N|N
 TOUR|Tuniu Corporation - American Depositary Shares|S|N|N|100|N|N
 TOWN|Towne Bank - Common Stock|Q|N|N|100|N|N
@@ -5627,4 +5630,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0924202607:00|||||||
+File Creation Time: 0925202607:00|||||||
