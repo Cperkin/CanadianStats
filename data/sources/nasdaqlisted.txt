@@ -109,6 +109,7 @@ ADIL|Adial Pharmaceuticals, Inc - Common Stock|S|N|D|100|N|N
 ADMA|ADMA Biologics Inc - Common Stock|G|N|N|100|N|N
 ADP|Automatic Data Processing, Inc. - Common Stock|Q|N|N|100|N|N
 ADPT|Adaptive Biotechnologies Corporation - Common Stock|Q|N|N|100|N|N
+ADRX|ADARx Pharmaceuticals, Inc. - Common stock|Q|N|N|100|N|N
 ADSE|ADS-TEC ENERGY PLC - Ordinary Shares|S|N|N|100|N|N
 ADSEW|ADS-TEC ENERGY PLC - Warrant|S|N|N|100|N|N
 ADSK|Autodesk, Inc. - Common Stock|Q|N|N|100|N|N
@@ -789,6 +790,7 @@ BRLSW|Borealis Foods Inc. - Warrant|S|N|H|100|N|N
 BRLT|Brilliant Earth Group, Inc. - Class A Common Stock|G|N|N|100|N|N
 BRNX|BrenX Ltd. - Ordinary Shares|S|N|N|100|N|N
 BRNY|Burney U.S. Factor Rotation ETF|G|N|N|100|Y|N
+BRRKU|Bluerock Acquisition Corp. II - Units|G|N|N|100|N|N
 BRRR|Coinshares Bitcoin ETF|G|N|N|100|Y|N
 BRTM|B&R Technology Merger Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BRTMU|B&R Technology Merger Corp. - Units|G|N|N|100|N|N
@@ -2146,7 +2148,7 @@ GOOG|Alphabet Inc. - Class C Capital Stock|Q|N|N|40|N|N
 GOOGL|Alphabet Inc. - Class A Common Stock|Q|N|N|40|N|N
 GOOGM|Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock|Q|N|N|100|N|N
 GOOGN|Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock|Q|N|N|100|N|N
-GOSS|Gossamer Bio, Inc. - Common Stock|Q|N|D|100|N|N
+GOSS|Gossamer Bio, Inc. - Common Stock|Q|N|N|100|N|N
 GOU|GraniteShares 2x Long GOOGL Daily ETF|G|N|N|100|Y|N
 GOVI|Invesco Equal Weight 0-30 Year Treasury ETF|G|N|N|100|Y|N
 GOVX|GeoVax Labs, Inc. - Common Stock|S|N|D|100|N|N
@@ -3796,6 +3798,7 @@ PAYP|PayPay Corporation - American Depository Shares|Q|N|N|100|N|N
 PAYS|Paysign, Inc. - Common Stock|S|N|N|100|N|N
 PAYX|Paychex, Inc. - Common Stock|Q|N|N|100|N|N
 PBAM|Private Bancorp of America, Inc. - Common Stock|Q|N|N|100|N|N
+PBCS|Portfolio Building Block World Consumer Staples ETF|G|N|N|100|Y|N
 PBEU|Portfolio Building Block European Banks Index ETF|G|N|N|100|Y|N
 PBFS|Pioneer Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 PBHC|Pathfinder Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -3808,6 +3811,8 @@ PBPH|Portfolio Building Block World Pharma and Biotech Index ETF|G|N|N|100|Y|N
 PBQQ|PGIM Laddered Nasdaq-100 Buffer 12 ETF|G|N|N|100|Y|N
 PBRG|Leverage Shares 2X Long PBR Daily ETF|G|N|N|100|Y|N
 PBSC|Pacer Barings Secured Credit Flex ETF|G|N|N|100|Y|N
+PBUB|Portfolio Building Block US Banks ETF|G|N|N|100|Y|N
+PBWN|Portfolio Building Block World Ex US Industrials ETF|G|N|N|100|Y|N
 PBYI|Puma Biotechnology Inc - Common Stock|Q|N|N|100|N|N
 PC|Premium Catering (Holdings) Limited - Ordinary Shares|S|N|N|100|N|N
 PCAP|ProCap Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
@@ -5630,4 +5635,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0925202607:00|||||||
+File Creation Time: 0925202621:31|||||||
