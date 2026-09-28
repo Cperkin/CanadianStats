@@ -1807,6 +1807,8 @@ FFIV|F5, Inc. - Common Stock|Q|N|N|40|N|N
 FFUT|Fidelity Managed Futures ETF|G|N|N|100|Y|N
 FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FGBIP|First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
+FGC|FG Communities Holdings Inc. - Common Stock|G|N|N|100|N|N
+FGCPP|FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock|G|N|N|100|N|N
 FGI|FGI Industries Ltd. - Ordinary Shares|S|N|N|100|N|N
 FGII|FG Imperii Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 FGIIU|FG Imperii Acquisition Corp. - Units|G|N|N|100|N|N
@@ -1814,8 +1816,6 @@ FGIIW|FG Imperii Acquisition Corp. - Warrants|G|N|N|100|N|N
 FGIWW|FGI Industries Ltd. - warrant|S|N|N|100|N|N
 FGL|Founder Group Limited - Class A Ordinary Shares|S|N|D|100|N|N
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
-FGNX|FG Nexus Inc. - Common Stock|G|N|N|100|N|N
-FGNXP|FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock|G|N|N|100|N|N
 FGSI|FT Vest Growth Strength & Target Income ETF|G|N|N|100|Y|N
 FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
 FHTX|Foghorn Therapeutics Inc. - Common Stock|G|N|N|100|N|N
@@ -2600,9 +2600,6 @@ IOVA|Iovance Biotherapeutics, Inc. - Common Stock|G|N|N|100|N|N
 IOYY|GraniteShares YieldBOOST IONQ ETF|G|N|N|100|Y|N
 IPAR|Interparfums, Inc. - Common Stock|Q|N|N|100|N|N
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|D|100|N|N
-IPEX|Inflection Point Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
-IPEXR|Inflection Point Acquisition Corp. - Right|G|N|N|100|N|N
-IPEXU|Inflection Point Acquisition Corp. - Unit|G|N|N|100|N|N
 IPFX|Inflection Point Acquisition Corp. VI - Class A Ordinary Shares|G|N|N|100|N|N
 IPFXU|Inflection Point Acquisition Corp. VI - Units|G|N|N|100|N|N
 IPFXW|Inflection Point Acquisition Corp. VI - Warrant|G|N|N|100|N|N
@@ -3842,7 +3839,6 @@ PDLB|Ponce Financial Group, Inc. - Common Stock|G|N|N|100|N|N
 PDP|Invesco Dorsey Wright Momentum ETF|G|N|N|100|Y|N
 PDSB|PDS Biotechnology Corporation - Common Stock|S|N|D|100|N|N
 PDYN|Palladyne AI Corp. - Common stock|G|N|N|100|N|N
-PDYNW|Palladyne AI Corp. - Warrant|G|N|N|100|N|N
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100|N|N
 PEBO|Peoples Bancorp Inc. - Common Stock|Q|N|N|100|N|N
 PECE|Peace Acquisition Corp - Ordinary Shares|S|N|N|100|N|N
@@ -5635,4 +5631,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0925202621:31|||||||
+File Creation Time: 0928202607:00|||||||

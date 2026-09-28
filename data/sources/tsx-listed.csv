@@ -1653,8 +1653,11 @@ NBIV,NBI International Value Fund,TSX
 NALT,NBI Liquid Alternatives ETF,TSX
 NBQC,NBI Quebec Growth Fund,TSX
 NSDC,NBI SmartData Canadian Equity Fund,TSX
+NSUY,NBI SmartData Enhanced Yield U.S. Equity Fund,TSX
 NSDG,NBI SmartData Global Equity Fund,TSX
+NICC,NBI SmartData International Equity Covered Call Fund,TSX
 NSDI,NBI SmartData International Equity Fund,TSX
+NUCC,NBI SmartData U.S. Equity Covered Call Fund,TSX
 NSDU,NBI SmartData U.S. Equity Fund,TSX
 NSCB,NBI Sustainable Canadian Bond ETF,TSX
 NSCC,NBI Sustainable Canadian Corporate Bond ETF,TSX
@@ -1667,9 +1670,11 @@ NTGC,NBI Target 2028 Investment Grade Bond Fund,TSX
 NTGD,NBI Target 2029 Investment Grade Bond Fund,TSX
 NTGE,NBI Target 2030 Investment Grade Bond Fund,TSX
 NTGF,NBI Target 2031 Investment Grade Bond Fund,TSX
+NTGG,NBI Target 2032 Investment Grade Bond Fund,TSX
 NTHM,NBI Thematic Rotation ETF,TSX
 NBUE,NBI U.S. Equity Fund,TSX
 NBUX,NBI U.S. Equity Index Fund,TSX
+NUST,NBI Ultra Short-Term Fixed Income Fund,TSX
 NUBF,NBI Unconstrained Fixed Income ETF,TSX
 NEO,Neo Performance Materials Inc.,TSX
 NSTL,Nestlé CDR (CAD Hedged),TSX
