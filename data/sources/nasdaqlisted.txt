@@ -1214,7 +1214,7 @@ CPHC|Canterbury Park Holding Corporation - Common Stock|G|N|N|100|N|N
 CPHY|F/m Compoundr High Yield Bond ETF|G|N|N|100|Y|N
 CPIX|Cumberland Pharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 CPLS|AB Core Plus Bond ETF|G|N|N|100|Y|N
-CPOP|Pop Culture Group Co., Ltd - Class A Ordinary Shares|S|N|D|100|N|N
+CPOP|Pop Culture Group Co., Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 CPRT|Copart, Inc. - Common Stock|Q|N|N|100|N|N
 CPSH|CPS Technologies Corp. - Common Stock|S|N|N|100|N|N
 CPSS|Consumer Portfolio Services, Inc. - Common Stock|G|N|N|100|N|N
@@ -2152,6 +2152,7 @@ GOSS|Gossamer Bio, Inc. - Common Stock|Q|N|N|100|N|N
 GOU|GraniteShares 2x Long GOOGL Daily ETF|G|N|N|100|Y|N
 GOVI|Invesco Equal Weight 0-30 Year Treasury ETF|G|N|N|100|Y|N
 GOVX|GeoVax Labs, Inc. - Common Stock|S|N|D|100|N|N
+GOW|GOWell Energy Technology - Ordinary shares|G|N|N|100|N|N
 GP|GreenPower Motor Company Inc. - Common Shares|S|N|N|100|N|N
 GPAC|General Purpose Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 GPACU|General Purpose Acquisition Corp. - Units|G|N|N|100|N|N
@@ -2599,7 +2600,7 @@ IOTR|iOThree Limited - Ordinary Shares|S|N|N|100|N|N
 IOVA|Iovance Biotherapeutics, Inc. - Common Stock|G|N|N|100|N|N
 IOYY|GraniteShares YieldBOOST IONQ ETF|G|N|N|100|Y|N
 IPAR|Interparfums, Inc. - Common Stock|Q|N|N|100|N|N
-IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|D|100|N|N
+IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100|N|N
 IPFX|Inflection Point Acquisition Corp. VI - Class A Ordinary Shares|G|N|N|100|N|N
 IPFXU|Inflection Point Acquisition Corp. VI - Units|G|N|N|100|N|N
 IPFXW|Inflection Point Acquisition Corp. VI - Warrant|G|N|N|100|N|N
@@ -3704,7 +3705,7 @@ ORCU|Direxion Daily ORCL Bull 2X ETF|G|N|N|100|Y|N
 ORCX|Defiance Daily Target 2X Long ORCL ETF|G|N|N|100|Y|N
 ORGO|Organogenesis Holdings Inc.  - Class A |S|N|N|100|N|N
 ORIC|Oric Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
-ORIO|Orion Digital Corp. - Common Shares|S|N|D|100|N|N
+ORIO|Orion Digital Corp. - Common Shares|S|N|N|100|N|N
 ORIQ|Origin Investment Corp I - Ordinary Shares|G|N|N|100|N|N
 ORIQU|Origin Investment Corp I - Units|G|N|N|100|N|N
 ORIQW|Origin Investment Corp I - Redeemable Warrant|G|N|N|100|N|N
@@ -4021,7 +4022,7 @@ PSCU|Invesco S&P SmallCap Utilities & Communication Services ETF|G|N|N|100|Y|N
 PSEC|Prospect Capital Corporation - Closed End Fund|Q|N|N|100|N|N
 PSET|Principal Quality ETF|G|N|N|100|Y|N
 PSHG|Performance Shipping Inc. - Common Shares|S|N|N|100|N|N
-PSIG|PS International Group Ltd. - Ordinary Shares|S|N|D|100|N|N
+PSIG|PS International Group Ltd. - Ordinary Shares|S|N|N|100|N|N
 PSIX|Power Solutions International, Inc. - Common Stock|S|N|N|100|N|N
 PSKY|Paramount Skydance Corporation - Class B Common Stock|Q|N|N|100|N|N
 PSL|Invesco Dorsey Wright Consumer Staples Momentum ETF|G|N|N|100|Y|N
@@ -4284,7 +4285,6 @@ RIGL|Rigel Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 RILY|BRC Group Holdings, Inc. - Common Stock|G|N|N|100|N|N
 RILYG|BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026|G|N|N|100|N|N
 RILYL|BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
-RILYN|BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026|G|N|N|100|N|N
 RILYP|BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 RILYT|BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028|G|N|N|100|N|N
 RILYZ|BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028|G|N|N|100|N|N
@@ -4525,7 +4525,7 @@ SHOP|Shopify Inc. - Class A Subordinate Voting Shares|Q|N|N|100|N|N
 SHOT|RMG ML Sports Holdings - Class A Ordinary Shares|G|N|N|100|N|N
 SHOTR|RMG ML Sports Holdings - Rights|G|N|N|100|N|N
 SHOTU|RMG ML Sports Holdings - Unit|G|N|N|100|N|N
-SHPH|Shuttle Pharmaceuticals Holdings, Inc. - common stock|S|N|E|100|N|N
+SHPH|Shuttle Pharmaceuticals Holdings, Inc. - common stock|S|N|N|100|N|N
 SHPU|Direxion Daily SHOP Bull 2X ETF|G|N|N|100|Y|N
 SHRY|First Trust Bloomberg Shareholder Yield ETF|G|N|N|100|Y|N
 SHY|iShares 1-3 Year Treasury Bond ETF|G|N|N|100|Y|N
@@ -4907,6 +4907,7 @@ THFF|First Financial Corporation  - Common Stock|Q|N|N|100|N|N
 THH|TryHard Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 THMZ|Lazard Equity Megatrends ETF|G|N|N|100|Y|N
 THRM|Gentherm Inc - Common Stock|Q|N|N|100|N|N
+THRMV|Gentherm Inc - Gentherm Inc Common Stock When-Issued|Q|N|N|100|N|N
 THRV|Prospera Income ETF|G|N|N|100|Y|N
 THRY|Thryv Holdings, Inc. - Common Stock|S|N|N|100|N|N
 THYM|T. Rowe Price High Income Municipal ETF|G|N|N|100|Y|N
@@ -4975,7 +4976,7 @@ TOMZ|TOMI Environmental Solutions, Inc. - Common Stock|S|N|D|100|N|N
 TONX|TON Strategy Company - Common Stock|S|N|N|100|N|N
 TOP|TOP Financial Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 TORK|KraneShares Actuator ETF|G|N|N|100|Y|N
-TORO|Toro Corp. - Common stock|S|N|N|100|N|N
+TORO|Toro Corp. - Common Shares|S|N|N|100|N|N
 TOUR|Tuniu Corporation - American Depositary Shares|S|N|N|100|N|N
 TOWN|Towne Bank - Common Stock|Q|N|N|100|N|N
 TOYO|TOYO Co., Ltd - Ordinary Shares|S|N|N|100|N|N
@@ -5072,7 +5073,7 @@ TVACW|Texas Ventures Acquisition III Corp - Warrants|G|N|N|100|N|N
 TVAI|Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares|G|N|N|100|N|N
 TVAIR|Thayer Ventures Acquisition Corporation II - Rights|G|N|N|100|N|N
 TVAIU|Thayer Ventures Acquisition Corporation II - Unit|G|N|N|100|N|N
-TVGN|Tevogen Inc. - Common Stock|G|N|D|100|N|N
+TVGN|Tevogen Inc. - Common Stock|G|N|N|100|N|N
 TVGNW|Tevogen Inc. - Warrant|S|N|N|100|N|N
 TVIV|Texas Ventures Acquisition IV Corp - Class A Ordinary Shares|G|N|N|100|N|N
 TVIVU|Texas Ventures Acquisition IV Corp - Units|G|N|N|100|N|N
@@ -5631,4 +5632,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0928202607:00|||||||
+File Creation Time: 0929202607:00|||||||

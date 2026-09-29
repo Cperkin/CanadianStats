@@ -2742,7 +2742,6 @@ GBIL|Goldman Sachs Access Treasury 0-1 Year ETF|P|GBIL|Y|100|N|GBIL
 GBND|Goldman Sachs Core Bond ETF|P|GBND|Y|100|N|GBND
 GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
 GBTC|Grayscale Bitcoin Trust (BTC)|P|GBTC|Y|100|N|GBTC
-GBTG|Global Business Travel Group, Inc. Class A Common Stock|N|GBTG|N|100|N|GBTG
 GBX|Greenbrier Companies, Inc. (The) Common Stock|N|GBX|N|100|N|GBX
 GCAD|Gabelli Commercial Aerospace and Defense ETF|P|GCAD|Y|100|N|GCAD
 GCAL|Goldman Sachs Dynamic California Municipal Income ETF|P|GCAL|Y|100|N|GCAL
@@ -3500,7 +3499,6 @@ IOCT|Innovator International Developed Power Buffer ETF - October|P|IOCT|Y|100|N
 ION|ProShares S&P Global Core Battery Metals ETF|P|ION|Y|100|N|ION
 IONC|Corgi IONQ 2x Daily ETF|Z|IONC|Y|100|N|IONC
 IONQ|IonQ, Inc. Common Stock|N|IONQ|N|100|N|IONQ
-IONQ.W|IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share|N|IONQ.WS|N|100|N|IONQ+
 IOO|iShares Global 100 ETF|P|IOO|Y|100|N|IOO
 IOPP|Simplify Tara India Opportunities ETF|P|IOPP|Y|100|N|IOPP
 IOR|Income Opportunity Realty Investors, Inc. Common Stock|A|IOR|N|100|N|IOR
@@ -4001,7 +3999,6 @@ LBRT|Liberty Energy Inc. Class A common stock|N|LBRT|N|100|N|LBRT
 LCAP|Principal Capital Appreciation Select ETF|Z|LCAP|Y|100|N|LCAP
 LCF|Touchstone US Large Cap Focused ETF|Z|LCF|Y|100|N|LCF
 LCII|LCI Industries|N|LCII|N|100|N|LCII
-LCIV|Logan Capital International ETF|N|LCIV|Y|100|N|LCIV
 LCLG|Logan Capital Large Cap Growth ETF|P|LCLG|Y|100|N|LCLG
 LCLN|Lincoln International, Inc. Class A Common Stock|N|LCLN|N|100|N|LCLN
 LCO|LOGIQ Contrarian Opportunities ETF|P|LCO|Y|100|N|LCO
@@ -4147,6 +4144,7 @@ LUCK|Lucky Strike Entertainment Corporation Class A Common Stock|N|LUCK|N|100|N|
 LUD|Luda Technology Group Limited Ordinary Shares|A|LUD|N|100|N|LUD
 LUMA|KraneShares Photonic and Optical ETF|P|LUMA|Y|100|N|LUMA
 LUMN|Lumen Technologies, Inc. Common Stock|N|LUMN|N|100|N|LUMN
+LUNC|Longnook Uncommon Compounders ETF|P|LUNC|Y|100|N|LUNC
 LUNL|Defiance Daily Target 2X Long LUNR ETF|Z|LUNL|Y|100|N|LUNL
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
 LUXE|LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share|N|LUXE|N|100|N|LUXE
@@ -4765,6 +4763,7 @@ NRGV|Energy Vault Holdings, Inc. Common Stock|N|NRGV|N|100|N|NRGV
 NRK|Nuveen New York AMT-Free Quality Municipal Income Fund |N|NRK|N|100|N|NRK
 NRO|Neuberger Real Estate Securities Income Fund Inc. Common Stock|A|NRO|N|100|N|NRO
 NRP|Natural Resource Partners LP Limited Partnership|N|NRP|N|100|N|NRP
+NRR|Common Shares of Beneficial Interest of Bitwise NEAR ETF|P|NRR|Y|100|N|NRR
 NRSH|Aztlan North America Nearshoring Stock Selection ETF|P|NRSH|Y|100|N|NRSH
 NRT|North European Oil Royality Trust Common Stock|N|NRT|N|100|N|NRT
 NRUC|National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)|N|NRUC|N|100|N|NRUC
@@ -7647,4 +7646,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 0928202607:00||||||
+File Creation Time: 0929202607:00||||||

@@ -1531,10 +1531,13 @@ NICU,Magna Mining Inc.,TSX
 MEQ,Mainstreet Equity Corp.,TSX
 MDI,Major Drilling Group International Inc.,TSX
 MAK.U,MAK Acquisition Corp.,TSX
+MEQP,Manulife All-Equity ETF Portfolio,TSX
+MBND,Manulife All-Fixed Income ETF Portfolio,TSX
 MBAP,Manulife Balanced ETF Portfolio,TSX
 MCAN,Manulife Canadian Equity Class,TSX
 MCAP,Manulife Conservative ETF Portfolio,TSX
 MCOR,Manulife Core Plus Bond Fund,TSX
+CORB,Manulife Corporate Bond Fund,TSX
 MMAC,Manulife CQS Multi Asset Credit Fund,TSX
 MDIF,Manulife Dividend Income Fund,TSX
 MFC,Manulife Financial Corporation,TSX
@@ -1553,6 +1556,7 @@ CDEF,Manulife Smart Defensive Equity ETF,TSX
 CDIV,Manulife Smart Dividend ETF,TSX
 IDEF.B,Manulife Smart International Defensive Equity ETF,TSX
 IDIV.B,Manulife Smart International Dividend ETF,TSX
+IDUV.U,Manulife Smart International Dividend ETF - USD,TSX
 TERM,Manulife Smart Short-Term Bond ETF,TSX
 UDEF,Manulife Smart U.S. Defensive Equity ETF,TSX
 UDIV,Manulife Smart U.S. Dividend ETF,TSX
@@ -1599,8 +1603,10 @@ MBX,Microbix Biosystems Inc.,TSX
 MU,Micron CDR (CAD Hedged),TSX
 MSFT,Microsoft CDR (CAD Hedged),TSX
 MAEC,Middlefield ActivEnergy Dividend Class,TSX
+MAGF,Middlefield Alternative Global Fixed Income Fund,TSX
 MDIV,Middlefield Global Dividend Growers ETF,TSX
 MINF,Middlefield Global Infrastructure Dividend ETF,TSX
+MGFI,Middlefield Global Multi-Sector Fixed Income Fund,TSX
 MHCD,Middlefield Healthcare Dividend ETF,TSX
 MIPC,Middlefield Income Plus Class,TSX
 MREL,Middlefield Real Estate Dividend ETF,TSX
