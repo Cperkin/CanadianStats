@@ -215,7 +215,6 @@ AIRTP|Air T, Inc. - Trust Preferred Securities|G|N|N|100|N|N
 AISP|Airship AI Holdings, Inc - Class A Common Stock|G|N|N|100|N|N
 AISPW|Airship AI Holdings, Inc - Warrants|S|N|N|100|N|N
 AIX|Defiance US 100 Tech AI Moat ETF|G|N|N|100|Y|N
-AIXC|AIxCrypto Holdings, Inc. - Common Stock|S|N|N|100|N|N
 AIXI|XIAO-I Corporation - American Depositary Shares|G|N|D|100|N|N
 AKAM|Akamai Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 AKAN|Akanda Corp. - Common Shares|S|N|D|100|N|N
@@ -731,9 +730,9 @@ BMRC|Bank of Marin Bancorp - Common Stock|Q|N|N|100|N|N
 BMRN|BioMarin Pharmaceutical Inc. - Common Stock|Q|N|N|100|N|N
 BNAI|Brand Engagement Network Inc. - Common Stock|S|N|N|100|N|N
 BNAIW|Brand Engagement Network Inc. - Warrant|S|N|N|100|N|N
-BNC|CEA Industries Inc. - Common Stock|S|N|N|100|N|N
-BNCWW|CEA Industries Inc. - Warrant|S|N|N|100|N|N
-BNCWZ|CEA Industries Inc. - Warrants|S|N|N|100|N|N
+BNC|BNB Standard Corporation - Common Stock|S|N|N|100|N|N
+BNCWW|BNB Standard Corporation - Warrant|S|N|N|100|N|N
+BNCWZ|BNB Standard Corporation - Warrants|S|N|N|100|N|N
 BND|Vanguard Total Bond Market ETF|G|N|N|100|Y|N
 BNDP|Vanguard Core-Plus Bond Index ETF|G|N|N|100|Y|N
 BNDW|Vanguard Total World Bond ETF|G|N|N|100|Y|N
@@ -1804,6 +1803,7 @@ FFAI|Faraday Future Intelligent Electric Inc. - Class A Common Stock|S|N|N|100|N
 FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100|N|N
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 FFIV|F5, Inc. - Common Stock|Q|N|N|40|N|N
+FFR|FF EAI Robotics Ecosystem Inc. - Common Stock|S|N|N|100|N|N
 FFUT|Fidelity Managed Futures ETF|G|N|N|100|Y|N
 FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FGBIP|First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
@@ -1865,9 +1865,9 @@ FLXS|Flexsteel Industries, Inc. - Common Stock|Q|N|N|100|N|N
 FLY|Firefly Aerospace Inc. - Common Stock|G|N|N|100|N|N
 FLYE|Fly-E Group, Inc. - Common Stock|S|N|N|100|N|N
 FLYW|Flywire Corporation - Voting Common Stock|Q|N|N|100|N|N
-FMAC|Future Money Acquisition Corporation - Ordinary Shares|G|N|N|100|N|N
-FMACR|Future Money Acquisition Corporation - Rights|G|N|N|100|N|N
-FMACU|Future Money Acquisition Corporation - Units|G|N|N|100|N|N
+FMAC|Future Money Acquisition Corporation - Ordinary Shares|G|N|E|100|N|N
+FMACR|Future Money Acquisition Corporation - Rights|G|N|E|100|N|N
+FMACU|Future Money Acquisition Corporation - Units|G|N|E|100|N|N
 FMAO|Farmers & Merchants Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FMB|First Trust Managed Municipal ETF|G|N|N|100|Y|N
 FMBH|First Mid Bancshares, Inc. - Common Stock|G|N|N|100|N|N
@@ -2436,7 +2436,7 @@ IBB|iShares Biotechnology ETF|G|N|N|100|Y|N
 IBBQ|Invesco Nasdaq Biotechnology ETF|G|N|N|100|Y|N
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100|N|N
 IBEX|IBEX Limited - Common Share|G|N|N|100|N|N
-IBG|Innovation Beverage Group Limited - Ordinary Shares|S|N|N|100|N|N
+IBG|Innovation Beverage Group Limited - Ordinary Shares|S|N|D|100|N|N
 IBGA|iShares iBonds Dec 2044 Term Treasury ETF|G|N|N|100|Y|N
 IBGB|iShares iBonds Dec 2045 Term Treasury ETF|G|N|N|100|Y|N
 IBGC|iShares iBonds Dec 2046 Term Treasury ETF|G|N|N|100|Y|N
@@ -2468,6 +2468,7 @@ ICHR|Ichor Holdings - Ordinary Shares|Q|N|N|100|N|N
 ICLN|iShares Global Clean Energy ETF|G|N|N|100|Y|N
 ICLR|ICON plc - Ordinary Shares|Q|N|N|100|N|N
 ICMB|Investcorp Credit Management BDC, Inc. - Common Stock|Q|N|D|100|N|N
+ICMO|Symmetry Panoramic International Country Momentum ETF|G|N|N|100|Y|N
 ICON|Icon Energy Corp. - Common stock|S|N|N|100|N|N
 ICOP|iShares Copper and Metals Mining ETF|G|N|N|100|Y|N
 ICU|SeaStar Medical Holding Corporation - Common Stock|S|N|N|100|N|N
@@ -3297,6 +3298,7 @@ MUD|Direxion Daily MU Bear 1X ETF|G|N|N|100|Y|N
 MULL|GraniteShares 2x Long MU Daily ETF|G|N|N|100|Y|N
 MULT|Franklin Multisector Income ETF|G|N|N|100|Y|N
 MUU|Direxion Daily MU Bull 2X ETF|G|N|N|100|Y|N
+MUY|YieldMax MU Option Income Strategy ETF|G|N|N|100|Y|N
 MUYY|GraniteShares YieldBOOST MU ETF|G|N|N|100|Y|N
 MUZE|Muzero Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
 MUZEU|Muzero Acquisition Corp - Unit|G|N|N|100|N|N
@@ -3812,7 +3814,7 @@ PBSC|Pacer Barings Secured Credit Flex ETF|G|N|N|100|Y|N
 PBUB|Portfolio Building Block US Banks ETF|G|N|N|100|Y|N
 PBWN|Portfolio Building Block World Ex US Industrials ETF|G|N|N|100|Y|N
 PBYI|Puma Biotechnology Inc - Common Stock|Q|N|N|100|N|N
-PC|Premium Catering (Holdings) Limited - Ordinary Shares|S|N|N|100|N|N
+PC|Premium Catering (Holdings) Limited - Ordinary Shares|S|N|D|100|N|N
 PCAP|ProCap Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
 PCAPU|ProCap Acquisition Corp - Unit|G|N|N|100|N|N
 PCAPW|ProCap Acquisition Corp - Warrant|G|N|N|100|N|N
@@ -4390,6 +4392,7 @@ RYET|Ruanyun Edai Technology Inc. - Ordinary shares|S|N|N|100|N|N
 RYM|RYTHM, Inc. - Common Stock|S|N|N|100|N|N
 RYOJ|rYojbaba Co., Ltd. - Common Shares|S|N|N|100|N|N
 RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
+RZAI|Roze AI Inc. - Common Shares|S|N|N|100|N|N
 RZLT|Rezolute, Inc. - Common Stock (NV)|S|N|N|100|N|N
 RZLV|Rezolve AI PLC - Ordinary Shares|G|N|N|100|N|N
 RZLVW|Rezolve AI PLC - Warrants|S|N|N|100|N|N
@@ -5632,4 +5635,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0929202607:00|||||||
+File Creation Time: 0930202607:00|||||||
