@@ -52,6 +52,7 @@ ACB|Aurora Cannabis Inc. - Common Shares|S|N|N|100|N|N
 ACBE|Pacer Metaurus Enhanced Core Income Autocallable ETF|G|N|N|100|Y|N
 ACBH|Pacer Metaurus High Income Autocallable ETF|G|N|N|100|Y|N
 ACCL|Acco Group Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
+ACCV|Accelevation Holdings Corp. - Class A ordinary shares|Q|N|N|100|N|N
 ACDC|ProFrac Holding Corp. - Class A Common Stock|Q|N|N|100|N|N
 ACEP|ARS Core Equity Portfolio ETF|G|N|N|100|Y|N
 ACET|Adicet Bio, Inc. - Common Stock|S|N|N|100|N|N
@@ -1608,6 +1609,7 @@ ENDW|Cambria Endowment Style ETF|G|N|N|100|Y|N
 ENGN|enGene Therapeutics Inc. - Common Stock|S|N|N|100|N|N
 ENGNW|enGene Therapeutics Inc. - Warrants|S|N|N|100|N|N
 ENGS|Energys Group Limited - Ordinary Shares|S|N|N|100|N|N
+ENHE|iShares Enhanced Emerging Markets Active ETF|G|N|N|100|Y|N
 ENHI|iShares Enhanced International Active ETF|G|N|N|100|Y|N
 ENHU|iShares Enhanced Large Cap Core Active ETF|G|N|N|100|Y|N
 ENLT|Enlight Renewable Energy Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -2291,7 +2293,7 @@ HDSN|Hudson Technologies, Inc. - Common Stock|S|N|N|100|N|N
 HEAL|Global X HealthTech ETF|G|N|N|100|Y|N
 HECO|State Street Galaxy Hedged Digital Asset Ecosystem ETF|G|N|N|100|Y|N
 HELE|Helen of Troy Limited - Common Stock|Q|N|N|100|N|N
-HELP|Cybin Inc. - Common Stock|G|N|N|100|N|N
+HELP|Helus Pharma Inc.  - Common Stock|G|N|N|100|N|N
 HEPS|D-Market Electronic Services & Trading - American Depositary Shares|Q|N|N|100|N|N
 HEQQ|JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF|G|N|N|100|Y|N
 HERD|Pacer Cash Cows Fund of Funds ETF|G|N|N|100|Y|N
@@ -2380,9 +2382,9 @@ HTO|H2O America  - Common Stock|Q|N|N|100|N|N
 HTOO|Fusion Fuel Green PLC - Ordinary Shares|S|N|N|100|N|N
 HTZ|Hertz Global Holdings, Inc - Common Stock|Q|N|N|100|N|N
 HTZWW|Hertz Global Holdings, Inc - Warrant|Q|N|N|100|N|N
-HUBC|Hub Cyber Security Ltd. - Ordinary Shares|S|N|N|100|N|N
-HUBCW|Hub Cyber Security Ltd. - Warrant expiring 2/27/28|S|N|N|100|N|N
-HUBCZ|Hub Cyber Security Ltd. - Warrant|S|N|N|100|N|N
+HUBC|Hub Cyber Security Ltd. - Ordinary Shares|S|N|D|100|N|N
+HUBCW|Hub Cyber Security Ltd. - Warrant expiring 2/27/28|S|N|D|100|N|N
+HUBCZ|Hub Cyber Security Ltd. - Warrant|S|N|D|100|N|N
 HUBG|Hub Group, Inc. - Class A Common Stock|Q|N|E|100|N|N
 HUCK|Huckleberry.ai, Inc. - Class B Common Stock|G|N|N|100|N|N
 HUDI|Huadi International Group Co., Ltd. - Ordinary Shares|S|N|D|100|N|N
@@ -2678,7 +2680,7 @@ IVVD|Invivyd, Inc. - Common Stock|G|N|D|100|N|N
 IXHL|Incannex Healthcare Inc. - Common Stock|S|N|N|100|N|N
 IXUS|iShares Core MSCI Total International Stock ETF|G|N|N|100|Y|N
 IZEA|IZEA Worldwide, Inc. - Common Stock|S|N|N|100|N|N
-IZM|ICZOOM Group Inc. - Class A Ordinary Shares|S|N|H|100|N|N
+IZM|ICZOOM Group Inc. - Class A Ordinary Shares|S|N|E|100|N|N
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100|N|N
 JAGX|Jaguar Health, Inc. - Common Stock|S|N|N|100|N|N
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3424,7 +3426,7 @@ NEXN|Nexxen International Ltd. - Ordinary Shares|G|N|N|100|N|N
 NEXR|Nexera Technologies Ltd - Ordinary Shares|S|N|N|100|N|N
 NEXRW|Nexera Technologies Ltd - Warrant|S|N|N|100|N|N
 NEXT|NextDecade Corporation - Common Stock|S|N|N|100|N|N
-NFE|New Fortress Energy Inc. - Class A Common Stock|Q|N|D|100|N|N
+NFE|New Fortress Energy Inc. - Class A Common Stock|Q|N|N|100|N|N
 NFEGP|New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock|Q|N|N|100|N|N
 NFLX|Netflix, Inc. - Common Stock|Q|N|N|100|N|N
 NFRX|Harrison Street Infrastructure Active ETF|G|N|N|100|Y|N
@@ -3519,7 +3521,6 @@ NTLA|Intellia Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 NTNX|Nutanix, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NTRA|Natera, Inc. - Common Stock|Q|N|N|100|N|N
 NTRB|Nutriband Inc. - Common Stock|S|N|N|100|N|N
-NTRBW|Nutriband Inc. - Warrant|S|N|N|100|N|N
 NTRP|NextTrip, Inc. - Common Stock|S|N|N|100|N|N
 NTRS|Northern Trust Corporation - Common Stock|Q|N|N|100|N|N
 NTRSO|Northern Trust Corporation - Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock|Q|N|N|100|N|N
@@ -3691,6 +3692,7 @@ OPENW|Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercis
 OPENZ|Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant|Q|N|N|100|N|N
 OPI|Office Properties Income Trust - Common shares of beneficial interest|S|N|N|100|N|N
 OPK|Opko Health, Inc. - Common Stock|Q|N|N|100|N|N
+OPNW|OpenWorld, Inc. - Common Stock|S|N|D|100|N|N
 OPPJ|WisdomTree Japan Opportunities Fund|G|N|N|100|Y|N
 OPRA|Opera Limited - American Depositary Shares|Q|N|N|100|N|N
 OPRT|Oportun Financial Corporation - common stock|Q|N|N|100|N|N
@@ -3802,7 +3804,7 @@ PBCS|Portfolio Building Block World Consumer Staples ETF|G|N|N|100|Y|N
 PBEU|Portfolio Building Block European Banks Index ETF|G|N|N|100|Y|N
 PBFS|Pioneer Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 PBHC|Pathfinder Bancorp, Inc. - Common Stock|S|N|N|100|N|N
-PBK|PowerBank Corporation - Common Stock|G|N|D|100|N|N
+PBK|PowerBank Corporation - Common Stock|S|N|D|100|N|N
 PBLS|Parabilis Medicines, Inc. - Common Stock|Q|N|N|100|N|N
 PBM|Psyence Biomedical Ltd. - Common Shares|S|N|N|100|N|N
 PBMWW|Psyence Biomedical Ltd. - Warrant|S|N|N|100|N|N
@@ -4633,7 +4635,7 @@ SNSR|Global X Internet of Things ETF|G|N|N|100|Y|N
 SNT|Senstar Technologies Corporation - Common Shares|G|N|N|100|N|N
 SNTG|Sentage Holdings Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 SNTI|Senti Biosciences Holdings, Inc. - Common Stock|S|N|D|100|N|N
-SNWV|SANUWAVE Health, Inc. - Common Stock|G|N|N|100|N|N
+SNWV|SANUWAVE Health, Inc. - Common Stock|G|N|D|100|N|N
 SNY|Sanofi - American Depositary Shares|Q|N|N|100|N|N
 SOCA|Solarius Capital Acquisition Corp. - Class A Ordinary Share|G|N|N|100|N|N
 SOCAU|Solarius Capital Acquisition Corp. - Units|G|N|N|100|N|N
@@ -5315,7 +5317,6 @@ VRDN|Viridian Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
 VREX|Varex Imaging Corporation - Common Stock|Q|N|N|100|N|N
 VRIG|Invesco Variable Rate Investment Grade ETF|G|N|N|100|Y|N
 VRM|Vroom, Inc. - Common Stock|G|N|N|100|N|N
-VRME|VerifyMe, Inc. - Common Stock|S|N|D|100|N|N
 VRNS|Varonis Systems, Inc. - Common Stock|Q|N|N|100|N|N
 VRRM|Verra Mobility Corporation - Class A Common Stock|S|N|N|100|N|N
 VRSK|Verisk Analytics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5534,7 +5535,7 @@ XRXDW|Xerox Holdings Corporation - Warrants|Q|N|N|100|N|N
 XSLL|Xsolla SPAC 1 - Class A Ordinary Shares|G|N|N|100|N|N
 XSLLU|Xsolla SPAC 1 - Units|G|N|N|100|N|N
 XSLLW|Xsolla SPAC 1 - Warrants|G|N|N|100|N|N
-XSPC|VegaShares SpaceX & Beyond Earth ETF|G|N|N|100|Y|N
+XSPC|VegaShares Space & AI ETF|G|N|N|100|Y|N
 XSPI|NEOS Boosted S&P 500 High Income ETF|G|N|N|100|Y|N
 XT|iShares Future Exponential Technologies ETF|G|N|N|100|Y|N
 XTER|Karman Line Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
@@ -5635,4 +5636,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 0930202607:00|||||||
+File Creation Time: 1001202607:00|||||||

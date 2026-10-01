@@ -826,6 +826,7 @@ FGEP,Fidelity Global Equity+ Fund,TSX
 FMPG,Fidelity Global Growth Portfolio,TSX
 FMPI,Fidelity Global Income Portfolio,TSX
 FLSE,Fidelity Global Opportunities Long/Short Fund,TSX
+FGQE,Fidelity Global Quant Equity ETF,TSX
 FGSM,Fidelity Global Small-Mid Cap Equity Fund,TSX
 FCID,Fidelity International High Dividend ETF,TSX
 FCIQ,Fidelity International High Quality ETF,TSX
@@ -1124,14 +1125,17 @@ UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX
 HMM.A,Hammond Manufacturing Company Limited,TSX
 HPS.A,Hammond Power Solutions Inc.,TSX
 AEME,Harvest Agnico Eagle Enhanced High Income Shares ETF,TSX
+HONE,Harvest All-In-One High Income Shares ETF,TSX
 GOGY,Harvest Alphabet Enhanced High Income Shares ETF,TSX
 AMHE,Harvest Amazon Enhanced High Income Shares ETF,TSX
 AMZH,Harvest Amazon High Income Shares ETF,TSX
 AMDY,Harvest AMD Enhanced High Income Shares ETF,TSX
 APLE,Harvest Apple Enhanced High Income Shares ETF,TSX
+ASME,Harvest ASML Enhanced High Income Shares ETF,TSX
 HBIE,Harvest Balanced Income & Growth Enhanced ETF,TSX
 HBIG,Harvest Balanced Income & Growth ETF,TSX
 BCEE,Harvest BCE Enhanced High Income Shares ETF,TSX
+BRKE,Harvest Berkshire Hathaway Enhanced High Income Shares ETF,TSX
 BLKY,Harvest Block Enhanced High Income Shares ETF,TSX
 AVGY,Harvest Broadcom Enhanced High Income Shares ETF,TSX
 CCOE,Harvest Cameco Enhanced High Income Shares ETF,TSX
@@ -1159,12 +1163,14 @@ HHLE,Harvest Healthcare Leaders Enhanced Income ETF,TSX
 HHL,Harvest Healthcare Leaders Income ETF,TSX
 HHIH,Harvest High Income Equity Shares ETF,TSX
 HIND,Harvest Industrial Leaders Income ETF,TSX
+INTE,Harvest Intel Enhanced High Income Shares ETF,TSX
 HHII,Harvest International High Income Shares ETF,TSX
 JNJY,Harvest JnJ Enhanced High Income Shares ETF,TSX
 JPHE,Harvest JPHE Enhanced High Income Shares ETF,TSX
 HVOL,Harvest Low Volatility Canadian Equity ETF,TSX
 HVOI,Harvest Low Volatility Canadian Equity Income ETF,TSX
 METE,Harvest Meta Enhanced High Income Shares ETF,TSX
+MUHE,Harvest Micron Enhanced High Income Shares ETF,TSX
 MSHE,Harvest Microsoft Enhanced High Income Shares ETF,TSX
 MSFH,Harvest Microsoft High Income Shares ETF,TSX
 NFLY,Harvest Netflix Enhanced High Income Shares ETF,TSX
@@ -1476,7 +1482,6 @@ MNXT,Mackenzie Bluewater Next Gen Growth ETF,TSX
 QBB,Mackenzie Canadian Aggregate Bond Index ETF,TSX
 QCN,Mackenzie Canadian Equity Index ETF,TSX
 QLB,Mackenzie Canadian Government Long Bond Index ETF,TSX
-MHDC,Mackenzie Canadian High Dividend Yield ETF,TSX
 QCE,Mackenzie Canadian Large Cap Equity Index ETF,TSX
 MCSB,Mackenzie Canadian Short Term Fixed Income ETF,TSX
 QSB,Mackenzie Canadian Short-Term Bond Index ETF,TSX
@@ -1485,8 +1490,6 @@ QASH,Mackenzie Canadian Ultra Short Bond Index ETF,TSX
 MCON,Mackenzie Conservative Allocation ETF,TSX
 MGB,Mackenzie Core Plus Global Fixed Income ETF,TSX
 MORE,Mackenzie Core Resources ETF,TSX
-MCYC,Mackenzie Cyclical Tilt ETF,TSX
-MDEF,Mackenzie Defensive Tilt ETF,TSX
 QDXB,Mackenzie Developed ex-North America Aggregate Bond Index ETF (CAD-Hedged),TSX
 QRET,Mackenzie Developed Markets Real Estate Index ETF,TSX
 QEBH,Mackenzie Emerging Markets Bond Index ETF (CAD-Hedged),TSX
@@ -1494,6 +1497,7 @@ QEE,Mackenzie Emerging Markets Equity Index ETF,TSX
 QEBL,Mackenzie Emerging Markets Local Currency Bond Index ETF,TSX
 MFT,Mackenzie Floating Rate Income ETF,TSX
 MGDV,Mackenzie Global Dividend ETF,TSX
+MGEG,Mackenzie Global Equity & Gold Overlay ETF,TSX
 MGAB,Mackenzie Global Fixed Income Allocation ETF,TSX
 QINF,Mackenzie Global Infrastructure Index ETF,TSX
 MAGV,Mackenzie Global Value ETF,TSX
@@ -1509,6 +1513,13 @@ QDX,Mackenzie International Equity Index ETF,TSX
 QDXH,Mackenzie International Equity Index ETF (CAD-Hedged),TSX
 MIVG,Mackenzie Ivy Global Equity ETF,TSX
 MKZ.UN,Mackenzie Master Limited Partnership,TSX
+MMDC,Mackenzie Modus Canadian High Dividend Yield ETF,TSX
+MMCY,Mackenzie Modus Cyclical Tilt ETF,TSX
+MMDF,Mackenzie Modus Defensive Tilt ETF,TSX
+MMGL,Mackenzie Modus Global Equity ETF,TSX
+MMSD,Mackenzie Modus Global Small-Mid Cap Equity ETF,TSX
+MMEA,Mackenzie Modus International Equity ETF,TSX
+MMDU,Mackenzie Modus US High Dividend Yield ETF,TSX
 QQQQ,Mackenzie NASDAQ 100 Index ETF,TSX
 MTBA,Mackenzie Target 2027 North American IG Corporate Bond ETF,TSX
 MTBB,Mackenzie Target 2029 North American IG Corporate Bond ETF,TSX
@@ -1516,7 +1527,6 @@ QUB,Mackenzie U.S. Aggregate Bond Index ETF (CAD-Hedged),TSX
 MUB,Mackenzie Unconstrained Bond ETF,TSX
 MAUG,Mackenzie US All Cap Growth ETF,TSX
 QTLT,Mackenzie US Government Long Bond Index ETF,TSX
-MHDU,Mackenzie US High Dividend Yield ETF,TSX
 QHY,Mackenzie US High Yield Bond Index ETF (CAD-Hedged),TSX
 QUIG,Mackenzie US Investment Grade Corporate Bond Index ETF (CAD-Hedged),TSX
 QUU,Mackenzie US Large Cap Equity Index ETF,TSX
