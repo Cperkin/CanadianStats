@@ -658,6 +658,7 @@ BCI|abrdn Bloomberg All Commodity Strategy K-1 Free ETF|P|BCI|Y|100|N|BCI
 BCIL|Bancreek International Large Cap ETF|P|BCIL|Y|100|N|BCIL
 BCKT|LifeX 2030 Income Bucket ETF|Z|BCKT|Y|100|N|BCKT
 BCO|Brinks Company (The) Common Stock|N|BCO|N|100|N|BCO
+BCOM|Rareview Bloomberg Commodity Index ETF|Z|BCOM|Y|100|N|BCOM
 BCOR|Grayscale Bitcoin Adopters ETF|P|BCOR|Y|100|N|BCOR
 BCPL|BNY Mellon Core Plus ETF|P|BCPL|Y|100|N|BCPL
 BCS|Barclays PLC Common Stock|N|BCS|N|100|N|BCS
@@ -1924,6 +1925,7 @@ DWWN|Principal Long Duration ETF|Z|DWWN|Y|100|N|DWWN
 DWX|State Street SPDR S&P International Dividend ETF|P|DWX|Y|100|N|DWX
 DX|Dynex Capital, Inc. Common Stock|N|DX|N|100|N|DX
 DX$C|Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|DXpC|N|100|N|DX-C
+DX$D|Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock|N|DXpD|N|100|N|DX-D
 DXC|DXC Technology Company Common Stock |N|DXC|N|100|N|DXC
 DXD|ProShares UltraShort Dow30|P|DXD|Y|100|N|DXD
 DXF|Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)|A|DXF|N|100|N|DXF
@@ -4399,6 +4401,7 @@ MMSD|NYLIM MacKay Muni Short Duration ETF|P|MMSD|Y|100|N|MMSD
 MMT|Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest|N|MMT|N|100|N|MMT
 MMTM|State Street SPDR S&P 1500 Momentum Tilt ETF|P|MMTM|Y|40|N|MMTM
 MMU|Western Asset Managed Municipals Fund, Inc. Common Stock|N|MMU|N|100|N|MMU
+MN|Corgi MANGOS ETF|Z|MN|Y|100|N|MN
 MNA|NYLIM Merger Arbitrage ETF|P|MNA|Y|100|N|MNA
 MNBD|ALPS BBH Intermediate Municipal Bond ETF|P|MNBD|Y|100|N|MNBD
 MNGB|Yorkville America 2X Inverse MANGOS Plus Daily Target ETF|P|MNGB|Y|100|N|MNGB
@@ -4780,6 +4783,8 @@ NSIG|North Square Growth Opportunities ETF|P|NSIG|Y|100|N|NSIG
 NSIV|North Square Disciplined Value ETF|P|NSIV|Y|100|N|NSIV
 NSP|Insperity, Inc. Common Stock|N|NSP|N|100|N|NSP
 NSRX|Nasus Pharma Ltd. Ordinary Shares|A|NSRX|N|100|N|NSRX
+NSTR|NorthStar Earth & Space Enterprises, Inc. Common Shares|A|NSTR|N|100|N|NSTR
+NSTR.W|NorthStar Earth & Space Enterprises, Inc. Warrants|A|NSTR.WS|N|100|N|NSTR+
 NTB|Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares|N|NTB|N|100|N|NTB
 NTEST|NYSE Tick Pilot Test Sym-Control|N|NTEST|N|100|Y|NTEST
 NTEST.A|NYSE Tick Pilot Test Sym-G1|N|NTEST.A|N|100|Y|NTEST.A
@@ -7023,9 +7028,6 @@ UZF|Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070|N|UZF|N|100|
 V|Visa Inc.|N|V|N|40|N|V
 VABS|Virtus Newfleet ABS/MBS ETF|P|VABS|Y|100|N|VABS
 VAC|Marriott Vacations Worldwide Corporation Common Stock|N|VAC|N|100|N|VAC
-VACI|Viking Acquisition Corp. I Class A Ordinary Shares|N|VACI|N|100|N|VACI
-VACI.U|Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant|N|VACI.U|N|100|N|VACI=
-VACI.W|Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share|N|VACI.WS|N|100|N|VACI+
 VAIC|VegaShares US Equity Autocallable Conservative Income ETF|P|VAIC|Y|100|N|VAIC
 VAIE|VegaShares US Equity Autocallable Income ETF|P|VAIE|Y|100|N|VAIE
 VAL|Valaris Limited Common Shares|N|VAL|N|100|N|VAL
@@ -7658,4 +7660,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1001202607:00||||||
+File Creation Time: 1002202607:00||||||

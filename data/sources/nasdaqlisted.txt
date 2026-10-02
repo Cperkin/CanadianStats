@@ -298,8 +298,8 @@ AMID|Argent Mid Cap ETF|G|N|N|100|Y|N
 AMIX|Autonomix Medical, Inc. - Common Stock|S|N|N|100|N|N
 AMKR|Amkor Technology, Inc. - Common Stock|Q|N|N|100|N|N
 AMLX|Amylyx Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
-AMOD|Alpha Modus Holdings, Inc. - Class A Common Stock|S|N|D|100|N|N
-AMODW|Alpha Modus Holdings, Inc. - Warrant|S|N|D|100|N|N
+AMOD|Alpha Modus Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
+AMODW|Alpha Modus Holdings, Inc. - Warrant|S|N|N|100|N|N
 AMPG|Amplitech Group, Inc. - Common Stock|S|N|N|100|N|N
 AMPGZ|Amplitech Group, Inc. - Series B Right|S|N|N|100|N|N
 AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1091,6 +1091,7 @@ CHSN|Chanson International Holding - Class A Ordinary Shares|S|N|N|100|N|N
 CHTR|Charter Communications, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CHTRP|Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 CHW|Calamos Global Dynamic Income Fund - Closed End Fund|Q|N|N|100|N|N
+CHWM|Chilwa Minerals Limited - American Depository Shares|S|N|N|100|N|N
 CHY|Calamos Convertible and High Income Fund - Closed End Fund|Q|N|N|100|N|N
 CHYM|Chime Financial, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CIBR|First Trust NASDAQ Cybersecurity ETF|G|N|N|100|Y|N
@@ -1179,9 +1180,6 @@ COHU|Cohu, Inc. - Common Stock|Q|N|N|100|N|N
 COIG|Leverage Shares 2X Long COIN Daily ETF|G|N|N|100|Y|N
 COIN|Coinbase Global, Inc. - Class A Common Stock|Q|N|N|100|N|N
 COKE|Coca-Cola Consolidated, Inc. - Common Stock|Q|N|N|100|N|N
-COLA|Columbus Acquisition Corp - Ordinary Shares|G|N|D|100|N|N
-COLAR|Columbus Acquisition Corp - Rights|G|N|N|100|N|N
-COLAU|Columbus Acquisition Corp - Unit|G|N|N|100|N|N
 COLB|Columbia Banking System, Inc. - Common Stock|Q|N|N|100|N|N
 COLL|Collegium Pharmaceutical, Inc. - Common Stock|Q|N|N|100|N|N
 COLM|Columbia Sportswear Company - Common Stock|Q|N|N|100|N|N
@@ -1334,7 +1332,7 @@ CXIIU|Churchill Capital Corp XII - Units|G|N|N|100|N|N
 CXIIW|Churchill Capital Corp XII - Warrants|G|N|N|100|N|N
 CXSE|WisdomTree China ex-State-Owned Enterprises Fund|G|N|N|100|Y|N
 CYAB|Cyabra, Inc. - Common Stock|G|N|D|100|N|N
-CYCU|Cycurion, Inc. - Common Stock|G|N|D|100|N|N
+CYCU|Cycurion, Inc. - Common Stock|G|N|N|100|N|N
 CYCUW|Cycurion, Inc. - Warrants|S|N|N|100|N|N
 CYN|Cyngn Inc. - Common stock|S|N|N|100|N|N
 CYPH|Cypherpunk Technologies Inc. - Common Stock|S|N|N|100|N|N
@@ -1571,7 +1569,7 @@ EHLD|Euroholdings Ltd. - Common Stock|S|N|N|100|N|N
 EHLS|Even Herd Long Short ETF|G|N|N|100|Y|N
 EHTH|eHealth, Inc. - Common Stock|Q|N|N|100|N|N
 EIKN|Eikon Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
-EJH|E-Home Household Service Holdings Limited - Ordinary shares|S|N|D|100|N|N
+EJH|E-Home Household Service Holdings Limited - Ordinary shares|S|N|N|100|N|N
 EKG|First Trust Nasdaq Lux Digital Health Solutions ETF|G|N|N|100|Y|N
 ELAB|PMGC Holdings Inc. - Common Stock|S|N|N|100|N|N
 ELBM|Electra Battery Materials Corporation - Common Stock|S|N|D|100|N|N
@@ -1931,7 +1929,6 @@ FRWD|Nomura Transformational Technologies ETF|G|N|N|100|Y|N
 FSBC|Five Star Bancorp - Common Stock|Q|N|N|100|N|N
 FSBW|FS Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FSCS|First Trust SMID Capital Strength ETF|G|N|N|100|Y|N
-FSEA|First Seacoast Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FSGS|First Trust SMID Growth Strength ETF|G|N|N|100|Y|N
 FSHP|Flag Ship Acquisition Corp. - Ordinary Shares|S|N|N|100|N|N
 FSHPR|Flag Ship Acquisition Corp. - Right|S|N|N|100|N|N
@@ -2069,7 +2066,6 @@ GEVG|Leverage Shares 2X Long GEV Daily ETF|G|N|N|100|Y|N
 GEVO|Gevo, Inc. - Common Stock|S|N|N|100|N|N
 GEW|Cambria Global EW ETF|G|N|N|100|Y|N
 GFAI|Guardforce AI Co., Limited - Ordinary Shares|S|N|D|100|N|N
-GFAIW|Guardforce AI Co., Limited - Warrant|S|N|N|100|N|N
 GFGF|Guru Favorite Stocks ETF|G|N|N|100|Y|N
 GFLW|VictoryShares Free Cash Flow Growth ETF|G|N|N|100|Y|N
 GFS|GlobalFoundries Inc. - Ordinary Share|Q|N|N|100|N|N
@@ -2232,7 +2228,7 @@ GTX|Garrett Motion Inc. - Common Stock|Q|N|N|100|N|N
 GUAC|Berto Acquisition Corp. II - Ordinary Shares|G|N|N|100|N|N
 GUACU|Berto Acquisition Corp. II - Units|G|N|N|100|N|N
 GUACW|Berto Acquisition Corp. II - Warrants|G|N|N|100|N|N
-GURE|Gulf Resources, Inc. - Common Stock|S|N|E|100|N|N
+GURE|Gulf Resources, Inc. - Common Stock|S|N|N|100|N|N
 GUSE|Goldman Sachs Enhanced U.S. Equity ETF|G|N|N|100|Y|N
 GUTS|Fractyl Health, Inc. - Common Stock|G|N|D|100|N|N
 GVH|Globavend Holdings Limited - Ord Shares|S|N|N|100|N|N
@@ -3155,7 +3151,7 @@ MFP|Midera Food Processing, Inc. - Common Stock|Q|N|N|100|N|N
 MFVL|Motley Fool Value Factor ETF|G|N|N|100|Y|N
 MGEE|MGE Energy Inc. - Common Stock|Q|N|N|100|N|N
 MGIH|Millennium Group International Holdings Limited - Ordinary Shares|S|N|N|100|N|N
-MGN|Megan Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
+MGN|Megan Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MGNI|Magnite, Inc. - Common Stock|Q|N|N|100|N|N
 MGNX|MacroGenics, Inc. - Common Stock|Q|N|N|100|N|N
 MGPI|MGP Ingredients, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3200,6 +3196,7 @@ MLKN|MillerKnoll, Inc. - Common Stock|Q|N|N|100|N|N
 MLTX|MoonLake Immunotherapeutics - Class A Ordinary Shares|S|N|N|100|N|N
 MLYS|Mineralys Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 MMED|MiniMed Group, Inc. - Common Stock|Q|N|N|100|N|N
+MMEDV|MiniMed Group, Inc. - Common Stock When Issued|Q|N|N|100|N|N
 MMLP|Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 MMSI|Merit Medical Systems, Inc. - Common Stock|Q|N|N|100|N|N
 MMTX|Miluna Acquisition Corp - Class A Ordinary Shares|G|N|N|100|N|N
@@ -3507,7 +3504,6 @@ NSLR|Neostellar Capital Corp. - Closed End Fund|Q|N|N|100|N|N
 NSLRL|Neostellar Capital Corp. - 6.00% Notes due 2026|G|N|N|100|N|N
 NSPR|InspireMD Inc. - Common Stock|S|N|D|100|N|N
 NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|N|100|N|N
-NSTS|NSTS Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 NSYS|Nortech Systems Incorporated - Common Stock|S|N|N|100|N|N
 NTAL|GraniteShares 2x Long NTAP Daily ETF|G|N|N|100|Y|N
 NTAP|NetApp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3692,7 +3688,7 @@ OPENW|Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercis
 OPENZ|Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant|Q|N|N|100|N|N
 OPI|Office Properties Income Trust - Common shares of beneficial interest|S|N|N|100|N|N
 OPK|Opko Health, Inc. - Common Stock|Q|N|N|100|N|N
-OPNW|OpenWorld, Inc. - Common Stock|S|N|D|100|N|N
+OPNW|OpenWorld, Inc. - Common Stock|S|N|N|100|N|N
 OPPJ|WisdomTree Japan Opportunities Fund|G|N|N|100|Y|N
 OPRA|Opera Limited - American Depositary Shares|Q|N|N|100|N|N
 OPRT|Oportun Financial Corporation - common stock|Q|N|N|100|N|N
@@ -4063,7 +4059,7 @@ PUL|GraniteShares 2x Long P Daily ETF|G|N|N|100|Y|N
 PULM|Pulmatrix, Inc. - Common Stock|S|N|N|100|N|N
 PUR|Defiance Daily Target 2X Long PURR ETF|G|N|N|100|Y|N
 PURR|Hyperliquid Strategies Inc - Common Stock|S|N|N|100|N|N
-PUSA|Aureus Greenway Holdings Inc. - Common Stock|S|N|N|100|N|N
+PUSA|Powerus Corporation - Common Stock|S|N|N|100|N|N
 PVLA|Palvella Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 PWCM|PowerCompute, Inc. - Common Stock|S|N|N|100|N|N
 PWP|Perella Weinberg Partners - Class A Common Stock|Q|N|N|100|N|N
@@ -4867,6 +4863,7 @@ TDAC|Translational Development Acquisition Corp. - Ordinary Shares|G|N|N|100|N|N
 TDACU|Translational Development Acquisition Corp. - Units|G|N|N|100|N|N
 TDACW|Translational Development Acquisition Corp. - Warrants|G|N|N|100|N|N
 TDCL|GraniteShares 2x Long TDC Daily ETF|G|N|N|100|Y|N
+TDEM|T. Rowe Price Dynamic Emerging Markets Bond ETF|G|N|N|100|Y|N
 TDI|Touchstone Dynamic International ETF|G|N|N|100|Y|N
 TDIC|Dreamland Limited - Class A Ordinary Shares|S|N|N|100|N|N
 TDIV|First Trust NASDAQ Technology Dividend Index Fund|G|N|N|100|Y|N
@@ -4912,7 +4909,6 @@ THFF|First Financial Corporation  - Common Stock|Q|N|N|100|N|N
 THH|TryHard Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 THMZ|Lazard Equity Megatrends ETF|G|N|N|100|Y|N
 THRM|Gentherm Inc - Common Stock|Q|N|N|100|N|N
-THRMV|Gentherm Inc - Gentherm Inc Common Stock When-Issued|Q|N|N|100|N|N
 THRV|Prospera Income ETF|G|N|N|100|Y|N
 THRY|Thryv Holdings, Inc. - Common Stock|S|N|N|100|N|N
 THYM|T. Rowe Price High Income Municipal ETF|G|N|N|100|Y|N
@@ -5636,4 +5632,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1001202607:00|||||||
+File Creation Time: 1002202607:00|||||||
