@@ -1447,7 +1447,7 @@ DOYU|DouYu International Holdings Limited - American Depositary Shares|Q|N|N|100
 DPRO|Draganfly Inc. - Common Shares|S|N|N|100|N|N
 DPU|Top KingWin Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 DPZ|Domino's Pizza Inc - Common Stock|Q|N|N|40|N|N
-DRCT|Direct Digital Holdings, Inc. - Class A Common Stock|S|N|D|100|N|N
+DRCT|Direct Digital Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
 DRDB|Roman DBDR Acquisition Corp. II - Ordinary shares|G|N|D|100|N|N
 DRDBU|Roman DBDR Acquisition Corp. II - Unit|G|N|N|100|N|N
 DRDBW|Roman DBDR Acquisition Corp. II - Warrants|G|N|N|100|N|N
@@ -1510,7 +1510,7 @@ DXLG|Destination XL Group, Inc. - Common Stock|S|N|D|100|N|N
 DXPE|DXP Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
 DXR|Daxor Corporation - Closed End Fund|S|N|N|100|N|N
 DXST|Decent Holding Inc. - Class A Ordinary Shares|S|N|N|100|N|N
-DYAI|Dyadic International, Inc. - Common Stock|S|N|N|100|N|N
+DYAI|Dyadic International, Inc. - Common Stock|S|N|D|100|N|N
 DYFI|IDX Dynamic Fixed Income ETF|G|N|N|100|Y|N
 DYN|Dyne Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 DYNB|Hartford Dynamic Bond ETF|G|N|N|100|Y|N
@@ -2891,7 +2891,7 @@ LEGN|Legend Biotech Corporation - American Depositary Shares|Q|N|N|100|N|N
 LEGR|First Trust Indxx Innovative Transaction & Process ETF|G|N|N|100|Y|N
 LEND|SEI High Yield Bond & Alternative Credit ETF|G|N|N|100|Y|N
 LENZ|LENZ Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
-LESL|Leslie's, Inc. - Common Stock|Q|N|N|100|N|N
+LESL|Leslie's, Inc. - Common Stock|Q|N|D|100|N|N
 LEXI|Alexis Practical Tactical ETF|G|N|N|100|Y|N
 LEXX|Lexaria Bioscience Corp. - Common Stock|S|N|N|100|N|N
 LFAC|Leapfrog Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
@@ -3009,7 +3009,7 @@ LTGO|Latigo Biotherapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 LTGR|Long Table Growth Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 LTGRU|Long Table Growth Corp. - Units|G|N|N|100|N|N
 LTGRW|Long Table Growth Corp. - Warrants|G|N|N|100|N|N
-LTRN|Lantern Pharma Inc. - Common Stock|S|N|N|100|N|N
+LTRN|Lantern Pharma Inc. - Common Stock|S|N|D|100|N|N
 LTRX|Lantronix, Inc. - Common Stock|S|N|N|100|N|N
 LTRYW|Sports Entertainment Gaming Global Corporation  - Warrant|G|N|E|100|N|N
 LUCD|Lucid Diagnostics Inc. - Common Stock|S|N|N|100|N|N
@@ -3731,7 +3731,7 @@ OTGA|OTG Acquisition Corp. I - Class A Ordinary Share|G|N|N|100|N|N
 OTGAU|OTG Acquisition Corp. I - Unit|G|N|N|100|N|N
 OTGAW|OTG Acquisition Corp. I - Warrants|G|N|N|100|N|N
 OTGL|OTG Latin America ETF|G|N|N|100|Y|N
-OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+OTLK|Outlook Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 OTLY|Oatly Group AB - American Depositary Shares|Q|N|N|100|N|N
 OTTR|Otter Tail Corporation - Common Stock|Q|N|N|100|N|N
 OUST|Ouster, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4408,6 +4408,7 @@ SAIC|Science Applications International Corporation - Common Stock|Q|N|N|100|N|N
 SAIH|SAIHEAT Limited - Class A Ordinary Shares|S|N|N|100|N|N
 SAIHW|SAIHEAT Limited - Warrant|S|N|N|100|N|N
 SAIL|SailPoint, Inc. - Common Stock|Q|N|N|100|N|N
+SAIQ|WISeSat.Space Holdings Corp. - Ordinary Shares|S|N|N|100|N|N
 SAMG|Silvercrest Asset Management Group Inc. - Common Stock|G|N|N|100|N|N
 SANA|Sana Biotechnology, Inc. - Common Stock|Q|N|N|100|N|N
 SANG|Sangoma Technologies Corporation - Common Shares|Q|N|N|100|N|N
@@ -5632,4 +5633,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1002202607:00|||||||
+File Creation Time: 1002202621:31|||||||
