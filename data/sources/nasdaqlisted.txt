@@ -1447,7 +1447,6 @@ DOYU|DouYu International Holdings Limited - American Depositary Shares|Q|N|N|100
 DPRO|Draganfly Inc. - Common Shares|S|N|N|100|N|N
 DPU|Top KingWin Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 DPZ|Domino's Pizza Inc - Common Stock|Q|N|N|40|N|N
-DRCT|Direct Digital Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
 DRDB|Roman DBDR Acquisition Corp. II - Ordinary shares|G|N|D|100|N|N
 DRDBU|Roman DBDR Acquisition Corp. II - Unit|G|N|N|100|N|N
 DRDBW|Roman DBDR Acquisition Corp. II - Warrants|G|N|N|100|N|N
@@ -5358,8 +5357,6 @@ WABF|Western Asset Bond ETF|G|N|N|100|Y|N
 WAFD|WaFd, Inc. - Common Stock|Q|N|N|100|N|N
 WAFDP|WaFd, Inc. - Depositary Shares|Q|N|N|100|N|N
 WAFU|Wah Fu Education Group Limited - Ordinary Shares|S|N|N|100|N|N
-WALD|Waldencast plc - Class A Ordinary Share|S|N|N|100|N|N
-WALDW|Waldencast plc - Warrant|S|N|N|100|N|N
 WAMA|WisdomTree US Adaptive Moving Average Fund|G|N|N|100|Y|N
 WARP|VanEck Space ETF|G|N|N|100|Y|N
 WASH|Washington Trust Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5408,7 +5405,6 @@ WINA|Winmark Corporation - Common Stock|G|N|N|40|N|N
 WING|Wingstop Inc. - Common Stock|Q|N|N|100|N|N
 WISE|Themes Generative Artificial Intelligence ETF|G|N|N|100|Y|N
 WIX|Wix.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
-WKEY|WISeKey International Holding Ltd - American Depositary Shares|G|N|N|100|N|N
 WKHS|Workhorse Group, Inc. - Common Stock|S|N|N|100|N|N
 WKSP|Worksport, Ltd. - Common Stock|S|N|D|100|N|N
 WLCO|Wilco 63 Corporation - Class A Ordinary Shares|G|N|N|100|N|N
@@ -5430,6 +5426,7 @@ WOK|WORK Medical Technology Group LTD - Class A Ordinary Shares|S|N|N|100|N|N
 WOOD|iShares Global Timber & Forestry ETF|G|N|N|100|Y|N
 WOOF|Petco Health and Wellness Company, Inc. - Class A Common Stock|Q|N|N|100|N|N
 WPRT|Westport Fuel Systems Inc - Common Shares|Q|N|N|100|N|N
+WQEY|WISeQey Corp - Ordinary Shares|G|N|N|100|N|N
 WRAP|Wrap Technologies, Inc. - Common Stock|S|N|N|100|N|N
 WRD|WeRide Inc. - American Depositary Shares|G|N|N|100|N|N
 WRLD|World Acceptance Corporation - Common Stock|Q|N|N|100|N|N
@@ -5633,4 +5630,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1002202621:31|||||||
+File Creation Time: 1005202607:00|||||||
