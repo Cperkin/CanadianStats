@@ -892,7 +892,7 @@ BYND|Beyond Meat, Inc. - Common stock|Q|N|N|100|N|N
 BYRN|Byrna Technologies, Inc. - Common Stock|S|N|N|100|N|N
 BYSI|BeyondSpring, Inc. - Ordinary Shares|S|N|D|100|N|N
 BZ|KANZHUN LIMITED - American Depository Shares|Q|N|N|100|N|N
-BZAI|Blaize Holdings, Inc. - Common Stock|G|N|N|100|N|N
+BZAI|Blaize Holdings, Inc. - Common Stock|G|N|D|100|N|N
 BZAIW|Blaize Holdings, Inc. - Warrant|S|N|N|100|N|N
 BZFD|BuzzFeed, Inc. - Class A Common Stock|S|N|N|100|N|N
 BZFDW|BuzzFeed, Inc. - Warrant|S|N|N|100|N|N
@@ -944,7 +944,7 @@ CATL|Catalyst Acquisition Corp. - Class A Ordinary Share|G|N|N|100|N|N
 CATLR|Catalyst Acquisition Corp. - Rights|G|N|N|100|N|N
 CATLU|Catalyst Acquisition Corp. - Units|G|N|N|100|N|N
 CATY|Cathay General Bancorp - Common Stock|Q|N|N|100|N|N
-CBAT|CBAK Energy Technology Limited - Ordinary Shares|S|N|D|100|N|N
+CBAT|CBAK Energy Technology Limited - Ordinary Shares|S|N|N|100|N|N
 CBC|Central Bancompany, Inc. - Class A Common Stock|Q|N|N|100|N|N
 CBFV|CB Financial Services, Inc. - Common Stock|G|N|N|100|N|N
 CBIO|Crescent Biopharma, Inc. - Common Stock|S|N|N|100|N|N
@@ -1626,7 +1626,7 @@ EOCN|Eocene Ltd. - Ordinary Shares|S|N|N|100|N|N
 EOLS|Evolus, Inc. - Common Stock|G|N|N|100|N|N
 EOSE|Eos Energy Enterprises, Inc. - Common Stock|S|N|N|100|N|N
 EOSEW|Eos Energy Enterprises, Inc. - Warrant|S|N|N|100|N|N
-EPOW|E-Power Inc. - Class A Ordinary Shares|S|N|D|100|N|N
+EPOW|E-Power Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 EPRX|Eupraxia Pharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 EPSM|Epsium Enterprise Limited - Class A Ordinary Shares|S|N|N|100|N|N
 EPSN|Epsilon Energy Ltd. - Common Shares|G|N|N|100|N|N
@@ -2234,7 +2234,7 @@ GVH|Globavend Holdings Limited - Ord Shares|S|N|N|100|N|N
 GVLE|Goldman Sachs Value Opportunities ETF|G|N|N|100|Y|N
 GWAV|Greenwave Technology Solutions, Inc. - Common Stock|S|N|N|100|N|N
 GWRS|Global Water Resources, Inc. - common stock|G|N|N|100|N|N
-GXAI|Gaxos.ai Inc. - Common Stock|S|N|N|100|N|N
+GXAI|Gaxos.ai Inc. - Common Stock|S|N|D|100|N|N
 GXDW|Global X Dorsey Wright Thematic ETF|G|N|N|100|Y|N
 GYGY|Game Your Game, Inc. - Common Stock|S|N|N|100|N|N
 GYRE|Gyre Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -2604,7 +2604,9 @@ IPFXU|Inflection Point Acquisition Corp. VI - Units|G|N|N|100|N|N
 IPFXW|Inflection Point Acquisition Corp. VI - Warrant|G|N|N|100|N|N
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100|N|N
 IPHA|Innate Pharma S.A. - American Depositary Shares|Q|N|N|100|N|N
+IPHX|Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares|G|N|N|100|N|N
 IPHXU|Inflection Point Acquisition Corp. VIII - Unit|G|N|N|100|N|N
+IPHXW|Inflection Point Acquisition Corp. VIII - Warrant|G|N|N|100|N|N
 IPKW|Invesco International BuyBack Achievers ETF|G|N|N|100|Y|N
 IPM|Intelligent Protection Management Corp.  - Common Stock|S|N|N|100|N|N
 IPSC|Century Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -2890,7 +2892,6 @@ LEGN|Legend Biotech Corporation - American Depositary Shares|Q|N|N|100|N|N
 LEGR|First Trust Indxx Innovative Transaction & Process ETF|G|N|N|100|Y|N
 LEND|SEI High Yield Bond & Alternative Credit ETF|G|N|N|100|Y|N
 LENZ|LENZ Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
-LESL|Leslie's, Inc. - Common Stock|Q|N|D|100|N|N
 LEXI|Alexis Practical Tactical ETF|G|N|N|100|Y|N
 LEXX|Lexaria Bioscience Corp. - Common Stock|S|N|N|100|N|N
 LFAC|Leapfrog Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
@@ -3436,7 +3437,6 @@ NHIV|NewHold Investment Corp IV - Class A Ordinary Shares|G|N|N|100|N|N
 NHIVU|NewHold Investment Corp IV - Units|G|N|N|100|N|N
 NHIVW|NewHold Investment Corp IV - Warrants|G|N|N|100|N|N
 NHP|National Healthcare Properties, Inc. - Class A Common Stock|G|N|N|100|N|N
-NHPBP|National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
 NHTC|Natural Health Trends Corp. - Common Stock|S|N|N|100|N|N
 NICE|NICE Ltd - American Depositary Shares each representing one Ordinary Share|Q|N|N|100|N|N
 NICM|Nicola Mining Inc. - American Depositary Shares|S|N|N|100|N|N
@@ -3469,7 +3469,7 @@ NNBR|NN, Inc. - Common Stock|Q|N|N|100|N|N
 NNDM|Nano Dimension Ltd. - American Depositary Shares|S|N|N|100|N|N
 NNE|Nano Nuclear Energy Inc. - common stock|S|N|N|100|N|N
 NNNN|Anbio Biotechnology - Class A Ordinary Shares|G|N|N|100|N|N
-NNOX|NANO-X IMAGING LTD - Ordinary Shares|G|N|N|100|N|N
+NNOX|NANO-X IMAGING LTD - Ordinary Shares|G|N|D|100|N|N
 NODK|NI Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NOEM|CO2 Energy Transition Corp. - Common Stock|S|N|N|100|N|N
 NOEMR|CO2 Energy Transition Corp. - Right|S|N|N|100|N|N
@@ -4023,7 +4023,6 @@ PSET|Principal Quality ETF|G|N|N|100|Y|N
 PSHG|Performance Shipping Inc. - Common Shares|S|N|N|100|N|N
 PSIG|PS International Group Ltd. - Ordinary Shares|S|N|N|100|N|N
 PSIX|Power Solutions International, Inc. - Common Stock|S|N|N|100|N|N
-PSKY|Paramount Skydance Corporation - Class B Common Stock|Q|N|N|100|N|N
 PSL|Invesco Dorsey Wright Consumer Staples Momentum ETF|G|N|N|100|Y|N
 PSMT|PriceSmart, Inc. - Common Stock|Q|N|N|100|N|N
 PSNL|Personalis, Inc. - Common Stock|G|N|N|100|N|N
@@ -4148,7 +4147,6 @@ QQXL|ProShares Ultra QQQ Top 30|G|N|N|100|Y|N
 QQXT|First Trust NASDAQ-100 Ex-Technology Sector Index Fund|G|N|N|100|Y|N
 QRHC|Quest Resource Holding Corporation - Common Stock|S|N|N|100|N|N
 QRMI|Global X NASDAQ 100 Risk Managed Income ETF|G|N|N|100|Y|N
-QRVO|Qorvo, Inc. - Common Stock|Q|N|N|100|N|N
 QS|QuantumScape Corporation - Common Stock|Q|N|N|100|N|N
 QSEA|Quartzsea Acquisition Corporation - Ordinary Shares|G|N|N|100|N|N
 QSEAR|Quartzsea Acquisition Corporation - Rights|G|N|N|100|N|N
@@ -4380,6 +4378,7 @@ RVSNW|Rail Vision Ltd. - Warrant|S|N|N|100|N|N
 RWAY|Runway Growth Finance Corp. - Common Stock|Q|N|N|100|N|N
 RWAYI|Runway Growth Finance Corp. - 7.25% Notes due 2031|Q|N|N|100|N|N
 RWAYL|Runway Growth Finance Corp. - 7.50% Notes due 2027|Q|N|N|100|N|N
+RWAYM|Runway Growth Finance Corp. - 7.75% Notes Due 2031|Q|N|N|100|N|N
 RWIN|Rayliant NxtGen Multifactor International Equity ETF|G|N|N|100|Y|N
 RXRX|Recursion Pharmaceuticals, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RXST|RxSight, Inc. - Common Stock|G|N|N|100|N|N
@@ -4841,7 +4840,9 @@ TAXT|Northern Trust Tax-Exempt Bond ETF|G|N|N|100|Y|N
 TAYD|Taylor Devices, Inc. - Common Stock|S|N|N|100|N|N
 TBBK|The Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 TBCH|Turtle Beach Corporation - Common Stock|G|N|N|100|N|N
+TBCV|Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares|G|N|N|100|N|N
 TBCVU|Thunder Bridge Capital Partners V, Ltd. - Units|G|N|N|100|N|N
+TBCVW|Thunder Bridge Capital Partners V, Ltd. - Warrants|G|N|N|100|N|N
 TBIL|F/m US Treasury 3 Month Bill Fund|G|N|N|100|Y|N
 TBLA|Taboola.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TBLD|Thornburg Income Builder Opportunities Trust - Closed End Fund|Q|N|N|100|N|N
@@ -5630,4 +5631,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1005202607:00|||||||
+File Creation Time: 1006202607:00|||||||

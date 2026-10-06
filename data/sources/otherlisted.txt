@@ -1508,9 +1508,7 @@ CTEST.S|NYSE Test Six Common Stock|N|CTEST.S|N|100|Y|CTEST.S
 CTEST.V|NYSE Test One Common Stock|N|CTEST.V|N|100|Y|CTEST.V
 CTEV|Claritev Corporation Class A Common Stock|N|CTEV|N|100|N|CTEV
 CTEX|ProShares S&P Kensho Cleantech ETF|P|CTEX|Y|100|N|CTEX
-CTGG|Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)|N|CTGG|N|100|N|CTGG
 CTGO|Contango Silver & Gold Inc. Common Stock|A|CTGO|N|100|N|CTGO
-CTHH|Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)|N|CTHH|N|100|N|CTHH
 CTIF|Castellan Targeted Income ETF|Z|CTIF|Y|100|N|CTIF
 CTJL|Corgi U.S. Equities 30% Structured Buffer ETF - July Series|Z|CTJL|Y|100|N|CTJL
 CTJN|Corgi U.S. Equities 30% Structured Buffer ETF - June Series|Z|CTJN|Y|100|N|CTJN
@@ -2884,6 +2882,7 @@ GLW|Corning Incorporated Common Stock|N|GLW|N|100|N|GLW
 GLX|Corgi GLXY 2x Daily ETF|Z|GLX|Y|100|N|GLX
 GLXU|T-REX 2X Long GLXY Daily Target ETF|Z|GLXU|Y|100|N|GLXU
 GM|General Motors Company Common Stock|N|GM|N|100|N|GM
+GMAC|Simplify Brookwood Global Macro ETF|P|GMAC|Y|100|N|GMAC
 GMAR|FT Vest U.S. Equity Moderate Buffer ETF - March|Z|GMAR|Y|100|N|GMAR
 GMAY|FT Vest U.S. Equity Moderate Buffer ETF - May|Z|GMAY|Y|100|N|GMAY
 GME|GameStop Corporation Common Stock|N|GME|N|100|N|GME
@@ -3114,6 +3113,7 @@ HF|DGA Core Plus Absolute Return ETF|N|HF|Y|100|N|HF
 HFEQ|Unlimited HFEQ Equity Long/Short ETF|N|HFEQ|Y|100|N|HFEQ
 HFGM|Unlimited HFGM Global Macro ETF|N|HFGM|Y|100|N|HFGM
 HFGO|Hartford Large Cap Growth ETF|Z|HFGO|Y|100|N|HFGO
+HFIX|Nomura High Yield Total Return ETF|P|HFIX|Y|100|N|HFIX
 HFMF|Unlimited HFMF Managed Futures ETF|N|HFMF|Y|100|N|HFMF
 HFND|Unlimited HFND Multi-Strategy Return Tracker ETF|N|HFND|Y|100|N|HFND
 HFRO|Highland Opportunities and Income Fund Common Shares of Beneficial Interest|N|HFRO|N|100|N|HFRO
@@ -4144,7 +4144,6 @@ LU|Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordin
 LUCK|Lucky Strike Entertainment Corporation Class A Common Stock|N|LUCK|N|100|N|LUCK
 LUD|Luda Technology Group Limited Ordinary Shares|A|LUD|N|100|N|LUD
 LUMA|KraneShares Photonic and Optical ETF|P|LUMA|Y|100|N|LUMA
-LUMN|Lumen Technologies, Inc. Common Stock|N|LUMN|N|100|N|LUMN
 LUNC|Longnook Uncommon Compounders ETF|P|LUNC|Y|100|N|LUNC
 LUNL|Defiance Daily Target 2X Long LUNR ETF|Z|LUNL|Y|100|N|LUNL
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
@@ -6109,6 +6108,7 @@ SKIL|Skillsoft Corp. Class A Common Stock|N|SKIL|N|100|N|SKIL
 SKM|SK Telecom Co., Ltd. Common Stock|N|SKM|N|100|N|SKM
 SKT|Tanger Inc. Common Stock|N|SKT|N|100|N|SKT
 SKY|Champion Homes, Inc. Common Stock|N|SKY|N|100|N|SKY
+SKYD|Skydance Corporation Class B Common Stock|N|SKYD|N|100|N|SKYD
 SKYH|Sky Harbour Group Corporation Class A Common Stock|N|SKYH|N|100|N|SKYH
 SKYH.W|Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|SKYH.WS|N|100|N|SKYH+
 SLB|SLB Limited Common Shares|N|SLB|N|100|N|SLB
@@ -6851,6 +6851,7 @@ UAUG|Innovator U.S. Equity Ultra Buffer ETF - August|Z|UAUG|Y|100|N|UAUG
 UAVS|AgEagle Aerial Systems, Inc. Common Stock|A|UAVS|N|100|N|UAVS
 UBER|Uber Technologies, Inc. Common Stock|N|UBER|N|100|N|UBER
 UBEW|Roundhill UBER WeeklyPay ETF|Z|UBEW|Y|100|N|UBEW
+UBIQ|AAM Ubiquitous ETF|P|UBIQ|Y|100|N|UBIQ
 UBOT|Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF|P|UBOT|Y|100|N|UBOT
 UBR|ProShares Ultra MSCI Brazil Capped|P|UBR|Y|100|N|UBR
 UBS|UBS Group AG Registered Ordinary Shares|N|UBS|N|100|N|UBS
@@ -7006,7 +7007,6 @@ UVV|Universal Corporation Common Stock|N|UVV|N|100|N|UVV
 UVXY|ProShares Ultra VIX Short Term Futures ETF|Z|UVXY|Y|100|N|UVXY
 UWM|ProShares Ultra Russell2000|P|UWM|Y|100|N|UWM
 UWMC|UWM Holdings Corporation Class A Common Stock|N|UWMC|N|100|N|UWMC
-UWMC.V|UWM Holdings Corporation Rights (November 12, 2026) Rights when issued|N|UWMCrw|N|100|N|UWMC^#
 UX|Roundhill Uranium ETF|Z|UX|Y|100|N|UX
 UXAP|FT Vest U.S. Equity Uncapped Accelerator ETF - April|Z|UXAP|Y|100|N|UXAP
 UXI|ProShares Ultra Industrials|P|UXI|Y|100|N|UXI
@@ -7652,4 +7652,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1005202607:00||||||
+File Creation Time: 1006202607:00||||||
