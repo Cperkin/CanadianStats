@@ -1,6 +1,6 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size|ETF|NextShares
 AAAP|Pacer Barings CLO Market Flex ETF|G|N|N|100|Y|N
-AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares|S|N|N|100|N|N
+AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares|S|N|D|100|N|N
 AACI|Armada Acquisition Corp. III - Class A Ordinary Share|G|N|N|100|N|N
 AACIU|Armada Acquisition Corp. III - Units|G|N|N|100|N|N
 AACIW|Armada Acquisition Corp. III - Warrant|G|N|N|100|N|N
@@ -380,7 +380,6 @@ ARAI|Arrive AI Inc. - Common Stock|G|N|D|100|N|N
 ARAY|Accuray Incorporated - Common Stock|S|N|D|100|N|N
 ARBB|ARB IOT Group Limited - Ordinary Shares|S|N|N|100|N|N
 ARBE|Arbe Robotics Ltd. - Ordinary Shares|S|N|D|100|N|N
-ARBEW|Arbe Robotics Ltd. - Warrant|S|N|N|100|N|N
 ARBK|Argo Blockchain plc - American Depositary Shares|S|N|N|100|N|N
 ARCB|ArcBest Corporation - Common Stock|Q|N|N|100|N|N
 ARCC|Ares Capital Corporation - Closed End Fund|Q|N|N|100|N|N
@@ -560,9 +559,8 @@ BASV|Brown Advisory Sustainable Value ETF|G|N|N|100|Y|N
 BATRA|Atlanta Braves Holdings, Inc. - Series A Common Stock|Q|N|N|100|N|N
 BATRK|Atlanta Braves Holdings, Inc. - Series C Common Stock|Q|N|N|100|N|N
 BBB|CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF|G|N|N|100|Y|N
-BBBYW|Neighborhood Intelligence, Inc.  - Warrant|Q|N|N|100|N|N
 BBCP|Concrete Pumping Holdings, Inc.  - Common Stock|S|N|N|100|N|N
-BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|S|N|N|100|N|N
+BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|S|N|D|100|N|N
 BBH|VanEck Biotech ETF|G|N|N|100|Y|N
 BBIO|BridgeBio Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 BBLG|Bone Biologics Corp - Common Stock|S|N|D|100|N|N
@@ -696,7 +694,6 @@ BL|BlackLine, Inc. - Common Stock|Q|N|N|100|N|N
 BLBD|Blue Bird Corporation - Common Stock|G|N|N|100|N|N
 BLCR|iShares Large Cap Core Active ETF|G|N|N|100|Y|N
 BLDP|Ballard Power Systems, Inc. - Common Shares|G|N|N|100|N|N
-BLFS|BioLife Solutions, Inc. - Common Stock|S|N|N|100|N|N
 BLIN|Bridgeline Digital, Inc. - Common Stock|S|N|N|100|N|N
 BLIV|BeLive Holdings - ordinary shares|S|N|N|100|N|N
 BLKB|Blackbaud, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1290,6 +1287,8 @@ CTAAU|ClearThink 1 Acquisition Corp. - Units|G|N|N|100|N|N
 CTAS|Cintas Corporation - Common Stock|Q|N|N|100|N|N
 CTBI|Community Trust Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 CTEC|Global X ClimateTech ETF|G|N|N|100|Y|N
+CTGG|Qwest Corporation - 6.500% Notes due 2051|Q|N|N|100|N|N
+CTHH|Qwest Corporation - 6.750% Notes due 2052|Q|N|N|100|N|N
 CTKB|Cytek Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
 CTMX|CytomX Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 CTNM|Contineum Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
@@ -2509,8 +2508,6 @@ IJT|iShares S&P SmallCap 600 Growth ETF|G|N|N|100|Y|N
 IKT|Inhibikase Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 ILAG|Intelligent Living Application Group Inc. - Ordinary Shares|S|N|N|100|N|N
 ILIT|iShares Lithium Miners and Producers ETF|G|N|N|100|Y|N
-ILLR|Triller Group Inc. - Common Stock|S|N|D|100|N|N
-ILLRW|Triller Group Inc. - Warrant|S|N|D|100|N|N
 ILLU|Illumination Acquisition Corp I - Class A Ordinary Shares|G|N|N|100|N|N
 ILLUU|Illumination Acquisition Corp I - Units|G|N|N|100|N|N
 ILLUW|Illumination Acquisition Corp I - Warrant|G|N|N|100|N|N
@@ -3017,6 +3014,7 @@ LUCY|Innovative Eyewear, Inc. - Common Stock|S|N|N|100|N|N
 LUCYW|Innovative Eyewear, Inc. - Warrants|S|N|N|100|N|N
 LULG|Leverage Shares 2X Long LULU Daily ETF|G|N|N|100|Y|N
 LULU|lululemon athletica inc. - Common Stock|Q|N|N|100|N|N
+LUMN|Lumen Technologies, Inc.  - Common Stock|Q|N|N|100|N|N
 LUNG|Pulmonx Corporation - Common Stock|Q|N|N|100|N|N
 LUNR|Intuitive Machines, Inc. - Class A Common Stock|G|N|N|100|N|N
 LVDS|JPMorgan Fundamental Data Science Large Value ETF|G|N|N|100|Y|N
@@ -3790,6 +3788,7 @@ PATN|Pacer Nasdaq International Patent Leaders ETF|G|N|N|100|Y|N
 PAVM|PAVmed Inc. - Common Stock|S|N|N|100|N|N
 PAVS|Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 PAX|Patria Investments Limited - Class A Common Shares|Q|N|N|100|N|N
+PAXGU|Pine Tree Acquisition Corp. - Units|G|N|N|100|N|N
 PAYO|Payoneer Global Inc. - Common Stock|G|N|N|100|N|N
 PAYP|PayPay Corporation - American Depository Shares|Q|N|N|100|N|N
 PAYS|Paysign, Inc. - Common Stock|S|N|N|100|N|N
@@ -4310,7 +4309,7 @@ RML|Resolution Minerals Ltd - American Depositary Shares|S|N|N|100|N|N
 RMNI|Rimini Street, Inc. - Common Stock|G|N|N|100|N|N
 RMR|The RMR Group Inc. - Class A Common Stock|S|N|N|100|N|N
 RMSG|Real Messenger Corporation - Ordinary Shares|S|N|D|100|N|N
-RMSGW|Real Messenger Corporation - Warrants|S|N|D|100|N|N
+RMSGW|Real Messenger Corporation - Warrants|S|N|N|100|N|N
 RMTI|Rockwell Medical, Inc. - Common Stock|S|N|N|100|N|N
 RNA|Atrium Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 RNAC|Cartesian Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -4581,11 +4580,10 @@ SLN|Silence Therapeutics Plc - American Depository Share|G|N|N|100|N|N
 SLNG|Stabilis Solutions, Inc. - Common Stock|S|N|N|100|N|N
 SLNH|Soluna Holdings, Inc. - Common Stock|S|N|N|100|N|N
 SLNHP|Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock|S|N|N|100|N|N
-SLP|Simulations Plus, Inc. - Common Stock|Q|N|N|100|N|N
 SLQD|iShares 0-5 Year Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
 SLRC|SLR Investment Corp. - Closed End Fund|Q|N|N|100|N|N
 SLS|SELLAS Life Sciences Group, Inc.  - Common Stock|S|N|N|100|N|N
-SLSN|Solesence, Inc. - Common stock|S|N|N|100|N|N
+SLSN|Solesence, Inc. - Common stock|S|N|D|100|N|N
 SLVO|ETRACS Silver Shares Covered Call ETNs due April 21, 2033|G|N|N|100|Y|N
 SLVR|Sprott Silver Miners & Physical Silver ETF|G|N|N|100|Y|N
 SLXN|Silexion Therapeutics Corp - Ordinary Shares|S|N|D|100|N|N
@@ -4673,9 +4671,6 @@ SPEGU|Silver Pegasus Acquisition Corp - Unit|G|N|N|100|N|N
 SPFI|South Plains Financial, Inc. - Common Stock|Q|N|N|100|N|N
 SPHL|Springview Holdings Ltd - Ordinary shares|S|N|N|100|N|N
 SPIT|F/m Emerald Special Situations ETF|G|N|N|100|Y|N
-SPKL|Spark I Acquisition Corp. - Class A Ordinary Share|G|N|D|100|N|N
-SPKLU|Spark I Acquisition Corp. - Unit|G|N|N|100|N|N
-SPKLW|Spark I Acquisition Corp. - Warrant|G|N|N|100|N|N
 SPOG|Leverage Shares 2X Long SPOT Daily ETF|G|N|N|100|Y|N
 SPOK|Spok Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SPPL|SIMPPLE LTD. - Ordinary Shares|S|N|N|100|N|N
@@ -5366,7 +5361,6 @@ WATT|Energous Corporation - Common Stock|S|N|N|100|N|N
 WAVE|Eco Wave Power Global AB (publ) - American Depositary Shares|S|N|N|100|N|N
 WAY|Waystar Holding Corp. - Common Stock|Q|N|N|100|N|N
 WB|Weibo Corporation - American Depositary Shares|Q|N|N|100|N|N
-WBD|Warner Bros. Discovery, Inc. - Series A Common Stock|Q|N|N|100|N|N
 WBTN|WEBTOON Entertainment Inc. - Common stock|Q|N|N|100|N|N
 WBUY|WEBUY GLOBAL LTD. - Class A Ordinary Shares|S|N|D|100|N|N
 WCBR|WisdomTree Cybersecurity Fund|G|N|N|100|Y|N
@@ -5488,7 +5482,7 @@ XCUR|Exicure, Inc. - Common Stock|S|N|D|100|N|N
 XDEF|Xtrackers Europe Defense Technologies ETF|G|N|N|100|Y|N
 XE|X-Energy, Inc. - Class A Common Stock|Q|N|N|100|N|N
 XEL|Xcel Energy Inc. - Common Stock|Q|N|N|100|N|N
-XELB|Xcel Brands, Inc - Common Stock|S|N|N|100|N|N
+XELB|Xcel Brands, Inc - Common Stock|S|N|D|100|N|N
 XELLL|Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085|G|N|N|100|N|N
 XENE|Xenon Pharmaceuticals Inc. - Common Shares|G|N|N|100|N|N
 XERS|Xeris Biopharma Holdings, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5631,4 +5625,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1006202607:00|||||||
+File Creation Time: 1007202607:00|||||||
