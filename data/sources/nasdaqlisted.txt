@@ -494,7 +494,7 @@ AUROW|Aurora Innovation, Inc.  - Warrant|Q|N|N|100|N|N
 AUTL|Autolus Therapeutics plc - American Depositary Shares|Q|N|N|100|N|N
 AUUD|Auddia Inc. - Common Stock|S|N|D|100|N|N
 AVAH|Aveanna Healthcare Holdings Inc. - Common Stock|Q|N|N|100|N|N
-AVAT|Avalanche Treasury Corporation - Class A Common Stock|S|N|D|100|N|N
+AVAT|Avalanche Treasury Corporation - Class A Common Stock|S|N|N|100|N|N
 AVAV|AeroVironment, Inc. - Common Stock|Q|N|N|100|N|N
 AVBH|Avidbank Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 AVBP|ArriVent BioPharma, Inc. - Common Stock|G|N|N|100|N|N
@@ -559,6 +559,8 @@ BASV|Brown Advisory Sustainable Value ETF|G|N|N|100|Y|N
 BATRA|Atlanta Braves Holdings, Inc. - Series A Common Stock|Q|N|N|100|N|N
 BATRK|Atlanta Braves Holdings, Inc. - Series C Common Stock|Q|N|N|100|N|N
 BBB|CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF|G|N|N|100|Y|N
+BBCI|Bradbury Capital Inc. - Ordinary Shares|G|N|N|100|N|N
+BBCIW|Bradbury Capital Inc. - Warrants|S|N|N|100|N|N
 BBCP|Concrete Pumping Holdings, Inc.  - Common Stock|S|N|N|100|N|N
 BBGI|Beasley Broadcast Group, Inc. - Class A Common Stock|S|N|D|100|N|N
 BBH|VanEck Biotech ETF|G|N|N|100|Y|N
@@ -3386,7 +3388,7 @@ NCOOR|Southern Cross Acquisition I Corp. - Rights|G|N|N|100|N|N
 NCOOU|Southern Cross Acquisition I Corp. - Units|G|N|N|100|N|N
 NCOOW|Southern Cross Acquisition I Corp. - Warrants|G|N|N|100|N|N
 NCPB|Nuveen Core Plus Bond ETF|G|N|N|100|Y|N
-NCPL|Netcapital Inc. - Common Stock|S|N|H|100|N|N
+NCPL|Netcapital Inc. - Common Stock|S|N|E|100|N|N
 NCPLW|Netcapital Inc. - warrants|S|N|E|100|N|N
 NCRA|Nocera, Inc. - common stock|S|N|N|100|N|N
 NCT|Intercont (Cayman) Limited - Class A Ordinary shares|S|N|N|100|N|N
@@ -3998,7 +4000,7 @@ PROF|Profound Medical Corp. - common stock|S|N|N|100|N|N
 PROK|ProKidney Corp. - Class A Ordinary Shares|S|N|N|100|N|N
 PROP|Prairie Operating Co. - Common Stock|S|N|D|100|N|N
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-PRPL|Purple Innovation, Inc. - Common Stock|Q|N|N|100|N|N
+PRPL|Purple Innovation, Inc. - Common Stock|Q|N|D|100|N|N
 PRPO|Precipio, Inc. - Common Stock|S|N|N|100|N|N
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|S|N|N|100|N|N
 PRSO|Peraso Inc. - Common Stock|S|N|D|100|N|N
@@ -4562,7 +4564,7 @@ SKYE|Skye Bioscience, Inc. - Common Stock|S|N|D|100|N|N
 SKYQ|Sky Quarry Inc. - Common Stock|S|N|N|100|N|N
 SKYU|ProShares Ultra Cloud Computing|G|N|N|100|Y|N
 SKYW|SkyWest, Inc. - Common Stock|Q|N|N|100|N|N
-SKYX|SKYX Platforms Corp. - Common Stock|S|N|N|100|N|N
+SKYX|SKYX Platforms Corp. - Common Stock|S|N|D|100|N|N
 SKYY|First Trust Cloud Computing ETF|G|N|N|100|Y|N
 SLAB|Silicon Laboratories, Inc. - Common Stock|Q|N|N|100|N|N
 SLBT|SL Science Holding Limited - Ordinary Shares|G|N|N|100|N|N
@@ -4843,8 +4845,6 @@ TBLA|Taboola.com Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TBLD|Thornburg Income Builder Opportunities Trust - Closed End Fund|Q|N|N|100|N|N
 TC|Token Cat Limited - American Depositary Shares|S|N|N|100|N|N
 TCAN|21Shares Canton Network ETF|G|N|N|100|Y|N
-TCBI|Texas Capital Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
-TCBIO|Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B|Q|N|N|100|N|N
 TCBK|TriCo Bancshares - Common Stock|Q|N|N|100|N|N
 TCBS|Texas Community Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 TCGX|TCGX Acquisition Corp. - Class A Ordinary Shares|S|N|N|100|N|N
@@ -5333,7 +5333,7 @@ VTC|Vanguard Total Corporate Bond ETF|G|N|N|100|Y|N
 VTGN|Vistagen Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 VTHR|Vanguard Russell 3000 ETF|G|N|N|40|Y|N
 VTIP|Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares|G|N|N|100|Y|N
-VTIX|Virtuix Holdings Inc. - Class A Common Stock|G|N|N|100|N|N
+VTIX|Virtuix Holdings Inc. - Class A Common Stock|G|N|D|100|N|N
 VTRS|Viatris Inc. - Common Stock|Q|N|N|100|N|N
 VTSI|VirTra, Inc. - Common Stock|S|N|N|100|N|N
 VTVT|vTv Therapeutics Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -5420,6 +5420,7 @@ WNW|Meiwu Technology Company Limited - Ordinary Shares|S|N|N|100|N|N
 WOK|WORK Medical Technology Group LTD - Class A Ordinary Shares|S|N|N|100|N|N
 WOOD|iShares Global Timber & Forestry ETF|G|N|N|100|Y|N
 WOOF|Petco Health and Wellness Company, Inc. - Class A Common Stock|Q|N|N|100|N|N
+WORX|SCWorx Corp. - Common Stock|S|N|N|100|N|N
 WPRT|Westport Fuel Systems Inc - Common Shares|Q|N|N|100|N|N
 WQEY|WISeQey Corp - Ordinary Shares|G|N|N|100|N|N
 WRAP|Wrap Technologies, Inc. - Common Stock|S|N|N|100|N|N
@@ -5625,4 +5626,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1007202607:00|||||||
+File Creation Time: 1008202607:00|||||||

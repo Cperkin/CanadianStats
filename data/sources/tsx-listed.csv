@@ -187,6 +187,7 @@ ZWC,BMO Canadian High Dividend Covered Call ETF,TSX
 ZMBS,BMO Canadian MBS Index ETF,TSX
 ZCLN,BMO Clean Energy Index ETF,TSX
 ZCON,BMO Conservative ETF,TSX
+ZCRB,BMO Core Bond,TSX
 ZCB,BMO Corporate Bond Index ETF,TSX
 ZCDB,BMO Corporate Discount Bond ETF,TSX
 ZWB,BMO Covered Call Canadian Banks ETF,TSX
@@ -200,6 +201,7 @@ ZWU,BMO Covered Call Utilities ETF,TSX
 ZCDX,BMO Credit Stress Opportunities ETF,TSX
 ZDB,BMO Discount Bond Index ETF,TSX
 ZDJ,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,TSX
+ZEMB,BMO Emerging Markets Bond Fund,TSX
 ZEF,BMO Emerging Markets Bond Hedged to CAD Index ETF,TSX
 ZEB,BMO Equal Weight Banks Index ETF,TSX
 ZMT,BMO Equal Weight Global Base Metals Hedged to CAD Index ETF,TSX
@@ -267,6 +269,7 @@ ZEM,BMO MSCI Emerging Markets Index ETF,TSX
 ZEQ,BMO MSCI Europe High Quality Hedged to CAD Index ETF,TSX
 ESGG,BMO MSCI Global Selection Equity Index ETF,TSX
 ZID,BMO MSCI India Selection Equity Index ETF,TSX
+ZLAT,BMO MSCI Latin America GDP Weighted Index ETF,TSX
 ZEQL,BMO MSCI USA Equal Weight Index ETF,TSX
 ZUQ,BMO MSCI USA High Quality Index ETF,TSX
 ESGY,BMO MSCI USA Selection Equity Index ETF,TSX
