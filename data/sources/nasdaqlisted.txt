@@ -592,6 +592,7 @@ BCTX|BriaCell Therapeutics Corp. - Common Shares|S|N|N|100|N|N
 BCTXL|BriaCell Therapeutics Corp. - Warrants|S|N|N|100|N|N
 BCTXZ|BriaCell Therapeutics Corp. - Warrant|S|N|N|100|N|N
 BCYC|Bicycle Therapeutics plc - American Depositary Shares|Q|N|N|100|N|N
+BDAI|Biddance AI Systems, Inc. - Class A Ordinary Share|S|N|N|100|N|N
 BDCI|BTC Development Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BDCIU|BTC Development Corp. - Unit|G|N|N|100|N|N
 BDCIW|BTC Development Corp. - Warrant|G|N|N|100|N|N
@@ -1446,7 +1447,7 @@ DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100|N|N
 DOX|Amdocs Limited - Ordinary Shares|Q|N|N|100|N|N
 DOYU|DouYu International Holdings Limited - American Depositary Shares|Q|N|N|100|N|N
 DPRO|Draganfly Inc. - Common Shares|S|N|N|100|N|N
-DPU|Top KingWin Ltd - Class A Ordinary Shares|S|N|N|100|N|N
+DPU|Nexpu Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 DPZ|Domino's Pizza Inc - Common Stock|Q|N|N|40|N|N
 DRDB|Roman DBDR Acquisition Corp. II - Ordinary shares|G|N|D|100|N|N
 DRDBU|Roman DBDR Acquisition Corp. II - Unit|G|N|N|100|N|N
@@ -2020,7 +2021,7 @@ GAME|GameSquare Holdings, Inc. - Common stock|S|N|N|100|N|N
 GANX|Gain Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 GARY|Mango Growth ETF|G|N|N|100|Y|N
 GASS|StealthGas, Inc. - common stock|Q|N|N|100|N|N
-GAUZ|Gauzy Ltd. - Ordinary Shares|G|N|H|100|N|N
+GAUZ|Gauzy Ltd. - Ordinary Shares|G|N|E|100|N|N
 GAVA|Grayscale Avalanche Staking ETF|G|N|N|100|Y|N
 GBDC|Golub Capital BDC, Inc. - Closed End Fund|Q|N|N|100|N|N
 GBFH|GBank Financial Holdings Inc. - Common Stock|S|N|N|100|N|N
@@ -2280,7 +2281,7 @@ HCMAU|HCM III Acquisition Corp. - Units|G|N|N|100|N|N
 HCMAW|HCM III Acquisition Corp. - Warrants|G|N|N|100|N|N
 HCOW|Amplify COWS Covered Call ETF|G|N|N|100|Y|N
 HCSG|Healthcare Services Group, Inc. - Common Stock|Q|N|N|100|N|N
-HCTI|Healthcare Triangle, Inc. - Common Stock|S|N|N|100|N|N
+HCTI|Healthcare Triangle, Inc. - Common Stock|S|N|D|100|N|N
 HCWB|HCW Biologics Inc. - Common Stock|S|N|N|100|N|N
 HDL|SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares|G|N|N|100|N|N
 HDRN|Hadron Energy, Inc. - Common Stock|S|N|N|100|N|N
@@ -2313,7 +2314,6 @@ HISF|First Trust High Income Strategic Focus ETF|G|N|N|100|Y|N
 HIT|Health In Tech, Inc. - Class A Common Stock|S|N|N|100|N|N
 HITI|High Tide Inc. - Common Shares|S|N|N|100|N|N
 HIVE|HIVE Digital Technologies Ltd - Common Shares|S|N|N|100|N|N
-HKIT|Hitek Global Inc. - Class A Ordinary Share|S|N|N|100|N|N
 HKPD|Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares|S|N|D|100|N|N
 HLAL|Wahed FTSE USA Shariah ETF|G|N|N|100|Y|N
 HLIT|Harmonic Inc. - Common Stock|Q|N|N|100|N|N
@@ -3046,7 +3046,6 @@ MACIW|Melar Acquisition Corp. I - Warrant|G|N|N|100|N|N
 MAGH|Magnitude International Ltd - Ordinary Shares|S|N|D|100|N|N
 MAKO|Mako Mining Corp - Common Stock|S|N|N|100|N|N
 MAMA|Mama's Creations, Inc. - Common Stock|S|N|N|100|N|N
-MAMK|MaxsMaking Inc. - Class A Ordinary Shares|S|N|D|100|N|N
 MAMO|Massimo Group - Common Stock|S|N|N|100|N|N
 MANH|Manhattan Associates, Inc. - Common Stock|Q|N|N|100|N|N
 MAR|Marriott International - Class A Common Stock|Q|N|N|40|N|N
@@ -3548,8 +3547,6 @@ NVDS|Tradr 1.5X Short NVDA Daily ETF|G|N|N|100|Y|N
 NVDU|Direxion Daily NVDA Bull 2X ETF|G|N|N|100|Y|N
 NVEC|NVE Corporation - Common Stock|S|N|N|100|N|N
 NVMI|Nova Ltd. - Ordinary Shares|Q|N|N|40|N|N
-NVNI|Nvni Group Limited - Ordinary Shares|S|N|D|100|N|N
-NVNIW|Nvni Group Limited - Warrants|S|N|D|100|N|N
 NVNO|enVVeno Medical Corporation - Common Stock|S|N|N|100|N|N
 NVPS|PurePlay Nvidia Ecosystem Picks & Shovels Index ETF|G|N|N|100|Y|N
 NVTS|Navitas Semiconductor Corporation - Common Stock|G|N|N|100|N|N
@@ -3697,7 +3694,7 @@ OPTX|Syntec Optics Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
 OPTXW|Syntec Optics Holdings, Inc. - Warrant|S|N|N|100|N|N
 OPTZ|Optimize Strategy Index ETF|G|N|N|100|Y|N
 OPXS|Optex Systems Holdings, Inc. - Common Stock|S|N|N|100|N|N
-ORBS|Eightco Holdings Inc. - Common Stock|S|N|D|100|N|N
+ORBS|Eightco Holdings Inc. - Common Stock|S|N|N|100|N|N
 ORBX|Global X Space Tech ETF|G|N|N|100|Y|N
 ORCS|Direxion Daily ORCL Bear 1X ETF|G|N|N|100|Y|N
 ORCU|Direxion Daily ORCL Bull 2X ETF|G|N|N|100|Y|N
@@ -4431,7 +4428,10 @@ SBUX|Starbucks Corporation - Common Stock|Q|N|N|100|N|N
 SCA|GraniteShares Autocallable SMCI ETF|G|N|N|100|Y|N
 SCAG|Scage Future - American Depositary Shares|G|N|D|100|N|N
 SCAGW|Scage Future - Warrants|S|N|N|100|N|N
+SCAT|Southern Cross Acquisition II Corp. - Ordinary Shares|G|N|N|100|N|N
+SCATR|Southern Cross Acquisition II Corp. - Rights|G|N|N|100|N|N
 SCATU|Southern Cross Acquisition II Corp. - Units|S|N|N|100|N|N
+SCATW|Southern Cross Acquisition II Corp. - Warrants|G|N|N|100|N|N
 SCDS|JPMorgan Fundamental Data Science Small Core ETF|G|N|N|100|Y|N
 SCHL|Scholastic Corporation - Common Stock|Q|N|N|100|N|N
 SCII|SC II Acquisition Corp. - Class A ordinary share|G|N|N|100|N|N
@@ -5626,4 +5626,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1008202607:00|||||||
+File Creation Time: 1009202607:00|||||||
