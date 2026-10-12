@@ -2635,6 +2635,7 @@ IRHO|Iron Horse Acquisitions II Corp. - Common Stock|G|N|N|100|N|N
 IRHOR|Iron Horse Acquisitions II Corp. - Rights|G|N|N|100|N|N
 IRHOU|Iron Horse Acquisitions II Corp. - Units|G|N|N|100|N|N
 IRIX|IRIDEX Corporation - Common Stock|S|N|D|100|N|N
+IRLA|IRulya Therapeutics Inc. - Common Stock|S|N|D|100|N|N
 IRMD|iRadimed Corporation - Common Stock|G|N|N|100|N|N
 IRON|Disc Medicine, Inc. - Common Stock|G|N|N|100|N|N
 IRTC|iRhythm Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
@@ -4109,7 +4110,6 @@ QMID|WisdomTree U.S. MidCap Quality Growth Fund|G|N|N|100|Y|N
 QMLS|QumulusAI, Inc. - Common Stock|G|N|N|100|N|N
 QMOM|Alpha Architect U.S. Quantitative Momentum ETF|G|N|N|100|Y|N
 QNBC|QNB Corp. - Common Stock|S|N|N|100|N|N
-QNCX|Quince Therapeutics, Inc. - Common Stock|Q|N|D|100|N|N
 QNDX|State Street SPDR Portfolio Nasdaq 100 ETF|G|N|N|100|Y|N
 QNME|Quanome Technologies, Inc. - Common Stock|S|N|D|100|N|N
 QNRX|Quoin Pharmaceuticals, Ltd. - American Depositary Shares|S|N|N|100|N|N
@@ -5355,7 +5355,7 @@ WABC|Westamerica Bancorporation - Common Stock|Q|N|N|100|N|N
 WABF|Western Asset Bond ETF|G|N|N|100|Y|N
 WAFD|WaFd, Inc. - Common Stock|Q|N|N|100|N|N
 WAFDP|WaFd, Inc. - Depositary Shares|Q|N|N|100|N|N
-WAFU|Wah Fu Education Group Limited - Ordinary Shares|S|N|N|100|N|N
+WAFU|Wah Fu Education & Technology Group Ltd. - Ordinary Shares|S|N|N|100|N|N
 WAMA|WisdomTree US Adaptive Moving Average Fund|G|N|N|100|Y|N
 WARP|VanEck Space ETF|G|N|N|100|Y|N
 WASH|Washington Trust Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5518,9 +5518,6 @@ XQQI|NEOS Boosted Nasdaq-100 High Income ETF|G|N|N|100|Y|N
 XRAY|DENTSPLY SIRONA Inc. - Common Stock|Q|N|N|100|N|N
 XRPC|Canary XRP ETF|G|N|N|100|Y|N
 XRPI|Volatility Shares Trust XRP ETF|G|N|N|100|Y|N
-XRPN|Armada Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
-XRPNU|Armada Acquisition Corp. II - Units|G|N|N|100|N|N
-XRPNW|Armada Acquisition Corp. II - Warrant|G|N|N|100|N|N
 XRPT|Volatility Shares Trust XRP 2X ETF|G|N|N|100|Y|N
 XRTX|XORTX Therapeutics Inc. - Common Shares|S|N|N|100|N|N
 XRX|Xerox Holdings Corporation - Common Stock|Q|N|N|100|N|N
@@ -5629,4 +5626,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1009202621:31|||||||
+File Creation Time: 1012202607:00|||||||

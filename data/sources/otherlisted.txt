@@ -65,6 +65,7 @@ ACLC|American Century Large Cap Equity ETF|P|ACLC|Y|100|N|ACLC
 ACLO|TCW AAA CLO ETF|N|ACLO|Y|100|N|ACLO
 ACLZ|Corgi ACLS 2x Daily ETF|Z|ACLZ|Y|100|N|ACLZ
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
+ACMG|American Century Mid Cap Growth Insights ETF|Z|ACMG|Y|100|N|ACMG
 ACMM|Corgi ACMR 2x Daily ETF|Z|ACMM|Y|100|N|ACMM
 ACN|Accenture plc Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
 ACOM|Harbor Active Commodity ETF|P|ACOM|Y|100|N|ACOM
@@ -4328,7 +4329,6 @@ MI|NFT Limited Class A Ordinary Share|A|MI|N|100|N|MI
 MIAX|Miami International Holdings, Inc. Common Stock|N|MIAX|N|100|N|MIAX
 MIC|Corgi MU 2x Daily ETF|Z|MIC|Y|100|N|MIC
 MICC|The Magnum Ice Cream Company N.V. Ordinary Shares|N|MICC|N|100|N|MICC
-MID|American Century Mid Cap Growth Insights ETF|P|MID|Y|100|N|MID
 MIDE|Xtrackers S&P MidCap 400 Scored & Screened ETF|P|MIDE|Y|100|N|MIDE
 MIDU|Direxion Mid Cap Bull 3X ETF|P|MIDU|Y|100|N|MIDU
 MIG|VanEck Moody's Analytics IG Corporate Bond ETF|Z|MIG|Y|100|N|MIG
@@ -7666,4 +7666,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1009202621:31||||||
+File Creation Time: 1012202607:00||||||
