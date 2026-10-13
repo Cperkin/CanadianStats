@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2026-10-12T11:29:02.868Z",
+  "lastUpdatedAt": "2026-10-13T11:28:10.055Z",
   "mode": "full-source-build",
   "notes": "Universe generated from local source files under data/sources/.",
   "sources": [
@@ -9,8 +9,8 @@
   ],
   "counts": {
     "NASDAQ": 3466,
-    "NYSE": 2130,
+    "NYSE": 2129,
     "TSX": 743,
-    "total": 6339
+    "total": 6338
   }
 }

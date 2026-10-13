@@ -306,7 +306,6 @@ AMZY|YieldMax AMZN Option Income Strategy ETF|P|AMZY|Y|100|N|AMZY
 AN|AutoNation, Inc. Common Stock|N|AN|N|100|N|AN
 ANDG|Andersen Group Inc. Class A Common Stock|N|ANDG|N|100|N|ANDG
 ANET|Arista Networks, Inc. Common Stock|N|ANET|N|100|N|ANET
-ANEW|ProShares MSCI Transformational Changes ETF|P|ANEW|Y|100|N|ANEW
 ANF|Abercrombie & Fitch Company Common Stock|N|ANF|N|100|N|ANF
 ANG$D|American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D|N|ANGpD|N|100|N|ANG-D
 ANGX|Angel Studios, Inc. Class A Common Stock|N|ANGX|N|100|N|ANGX
@@ -1278,7 +1277,6 @@ CLF|Cleveland-Cliffs Inc. Common Stock|N|CLF|N|100|N|CLF
 CLH|Clean Harbors, Inc. Common Stock|N|CLH|N|40|N|CLH
 CLIM|Climate Global - Climate Resilient REIT Index ETF|P|CLIM|Y|100|N|CLIM
 CLIP|Global X 1-3 Month T-Bill ETF|P|CLIP|Y|100|N|CLIP
-CLIX|ProShares Long Online/Short Stores ETF|P|CLIX|Y|100|N|CLIX
 CLM|Cornerstone Strategic Investment Fund, Inc. Common Shares|A|CLM|N|100|N|CLM
 CLNK|Common Shares of Beneficial Interest of Bitwise Chainlink ETF|P|CLNK|Y|100|N|CLNK
 CLOB|VanEck AA-BB CLO ETF|P|CLOB|Y|100|N|CLOB
@@ -1510,7 +1508,6 @@ CTEST.O|NYSE Test One Common Stock|N|CTEST.O|N|100|Y|CTEST.O
 CTEST.S|NYSE Test Six Common Stock|N|CTEST.S|N|100|Y|CTEST.S
 CTEST.V|NYSE Test One Common Stock|N|CTEST.V|N|100|Y|CTEST.V
 CTEV|Claritev Corporation Class A Common Stock|N|CTEV|N|100|N|CTEV
-CTEX|ProShares S&P Kensho Cleantech ETF|P|CTEX|Y|100|N|CTEX
 CTGO|Contango Silver & Gold Inc. Common Stock|A|CTGO|N|100|N|CTGO
 CTIF|Castellan Targeted Income ETF|Z|CTIF|Y|100|N|CTIF
 CTJL|Corgi U.S. Equities 30% Structured Buffer ETF - July Series|Z|CTJL|Y|100|N|CTJL
@@ -1587,7 +1584,6 @@ DAO|Youdao, Inc. American Depositary Shares, each representing one Class A Ordin
 DAPR|FT Vest U.S. Equity Deep Buffer ETF - April|Z|DAPR|Y|100|N|DAPR
 DAR|Darling Ingredients Inc. Common Stock|N|DAR|N|100|N|DAR
 DARP|Grizzle Growth ETF|P|DARP|Y|100|N|DARP
-DAT|ProShares Big Data Refiners ETF|P|DAT|Y|100|N|DAT
 DAUG|FT Vest U.S. Equity Deep Buffer ETF - August|Z|DAUG|Y|100|N|DAUG
 DAVA|Endava plc American Depositary Shares (each representing one Class A Ordinary Share)|N|DAVA|N|100|N|DAVA
 DB|Deutsche Bank AG Common Stock|N|DB|N|100|N|DB
@@ -4186,7 +4182,6 @@ MAGY|Roundhill Magnificent Seven Covered Call ETF|Z|MAGY|Y|100|N|MAGY
 MAIA|MAIA Biotechnology, Inc. Common Stock|A|MAIA|N|100|N|MAIA
 MAIN|Main Street Capital Corporation Common Stock|N|MAIN|N|100|N|MAIN
 MAIR|Madison Air Solutions Corporation Class A Common Stock|N|MAIR|N|100|N|MAIR
-MAKX|ProShares S&P Kensho Smart Factories ETF|P|MAKX|Y|100|N|MAKX
 MAMB|Monarch Ambassador Income Index ETF|Z|MAMB|Y|100|N|MAMB
 MAN|ManpowerGroup Common Stock|N|MAN|N|100|N|MAN
 MANE|Veradermics, Incorporated Common Stock|N|MANE|N|100|N|MANE
@@ -4890,7 +4885,7 @@ OARK|YieldMax Innovation Option Income Strategy ETF|P|OARK|Y|100|N|OARK
 OASC|OneAscent Enhanced Small and Mid Cap ETF|P|OASC|Y|100|N|OASC
 OBDC|Blue Owl Capital Corporation Common Stock|N|OBDC|N|100|N|OBDC
 OBE|Obsidian Energy Ltd. Common Shares|A|OBE|N|100|N|OBE
-OBK|Origin Bancorp, Inc. Common Stock|N|OBK|N|100|N|OBK
+OBK|Origin Bancorp, Inc. Common Stock|F|OBK|N|100|N|OBK
 OBND|State Street Loomis Sayles Opportunistic Bond ETF|Z|OBND|Y|100|N|OBND
 OBOR|KraneShares MSCI One Belt One Road Index ETF|P|OBOR|Y|100|N|OBOR
 OC|Owens Corning Inc Common Stock New|N|OC|N|100|N|OC
@@ -4950,7 +4945,6 @@ OMC|Omnicom Group Inc. Common Stock|N|OMC|N|100|N|OMC
 OMF|OneMain Holdings, Inc. Common Stock|N|OMF|N|100|N|OMF
 OMFL|Invesco Russell 1000 Dynamic Multifactor ETF|Z|OMFL|Y|100|N|OMFL
 OMFS|Invesco Russell 2000 Dynamic Multifactor ETF|Z|OMFS|Y|100|N|OMFS
-OND|ProShares On-Demand ETF|P|OND|Y|100|N|OND
 ONDC|Corgi ONDS 2x Daily ETF|Z|ONDC|Y|100|N|ONDC
 ONDL|Defiance Daily Target 2X Long ONDS ETF|Z|ONDL|Y|100|N|ONDL
 ONDU|Tradr 2X Long ONDS Daily ETF|Z|ONDU|Y|100|N|ONDU
@@ -6113,6 +6107,7 @@ SKM|SK Telecom Co., Ltd. Common Stock|N|SKM|N|100|N|SKM
 SKT|Tanger Inc. Common Stock|N|SKT|N|100|N|SKT
 SKY|Champion Homes, Inc. Common Stock|N|SKY|N|100|N|SKY
 SKYD|Skydance Corporation Class B Common Stock|N|SKYD|N|100|N|SKYD
+SKYD.V|Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued|N|SKYD.WSw|N|100|N|SKYD+#
 SKYH|Sky Harbour Group Corporation Class A Common Stock|N|SKYH|N|100|N|SKYH
 SKYH.W|Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|SKYH.WS|N|100|N|SKYH+
 SLB|SLB Limited Common Shares|N|SLB|N|100|N|SLB
@@ -6427,7 +6422,6 @@ SUIL|2x Sui ETF|Z|SUIL|Y|100|N|SUIL
 SUN|Sunoco LP Common Units representing limited partner interests|F|SUN|N|100|N|SUN
 SUNB|Sunbelt Rentals Holdings, Inc. Common Stock|N|SUNB|N|100|N|SUNB
 SUNC|SunocoCorp LLC Common Units, representing limited liability company interests|F|SUNC|N|100|N|SUNC
-SUPL|ProShares Supply Chain Logistics ETF|P|SUPL|Y|100|N|SUPL
 SUPV|Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares|N|SUPV|N|100|N|SUPV
 SURE|AdvisorShares Insider Advantage ETF|P|SURE|Y|100|N|SURE
 SURI|Simplify Propel Opportunities ETF|P|SURI|Y|100|N|SURI
@@ -6616,7 +6610,6 @@ TILT|Northern Trust Morningstar US Market Factor Tilt ETF|Z|TILT|Y|100|N|TILT
 TIMB|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) |N|TIMB|N|100|N|TIMB
 TIME|Clockwise U.S. Core Equity ETF|P|TIME|Y|100|N|TIME
 TINS|Templeton International Insights ETF|P|TINS|Y|100|N|TINS
-TINT|ProShares Smart Materials ETF|P|TINT|Y|100|N|TINT
 TINY|ProShares Nanotechnology ETF|P|TINY|Y|100|N|TINY
 TIP|iShares TIPS Bond ETF|P|TIP|Y|100|N|TIP
 TIPA|Northern Trust 2030 Inflation-Linked Distributing Ladder ETF|P|TIPA|Y|100|N|TIPA
@@ -7073,7 +7066,6 @@ VELL|Defiance Daily Target 2X Long VELO ETF|Z|VELL|Y|100|N|VELL
 VEM|Virtus Emerging Markets Dividend ETF|P|VEM|Y|100|N|VEM
 VEMY|Virtus Stone Harbor Emerging Markets High Yield Bond ETF|P|VEMY|Y|100|N|VEMY
 VENU|Venu Holding Corporation Common Stock|A|VENU|N|100|N|VENU
-VERS|ProShares Metaverse ETF|P|VERS|Y|100|N|VERS
 VET|Vermilion Energy Inc. Common (Canada)|N|VET|N|100|N|VET
 VETZ|Academy Veteran Bond ETF|P|VETZ|Y|100|N|VETZ
 VEU|Vanguard FTSE All World Ex US ETF|P|VEU|Y|100|N|VEU
@@ -7666,4 +7658,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1012202607:00||||||
+File Creation Time: 1013202607:00||||||
