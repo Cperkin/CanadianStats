@@ -377,7 +377,7 @@ BEP.PR.M,Brookfield Renewable Partners L.P.,TSX
 BRF.PR.A,Brookfield Renewable Power Preferred Equity Inc.,TSX
 BNT,Brookfield Wealth Solutions Ltd.,TSX
 DOO,BRP Inc.,TSX
-HOM.U,BSR Real Estate Investment Trust,TSX
+BSRT.UN,BSR Real Estate Investment Trust,TSX
 BTB.DB.I,BTB Real Estate Investment Trust,TSX
 BNKR,Bunker Hill Mining Corp.,TSX
 BU,Burcon Nutrascience Corporation,TSX
@@ -950,6 +950,9 @@ EQCC,Global X All-Equity Asset Allocation Covered Call ETF,TSX
 HEQT,Global X All-Equity Asset Allocation ETF,TSX
 CMCC,Global X All-In-One Commodity Producers Equity Covered Call ETF,TSX
 COMX,Global X All-In-One Commodity Producers Equity ETF,TSX
+GOOP,Global X Alphabet PowerStock ETF,TSX
+AMZP,Global X Amazon PowerStock ETF,TSX
+AAPP,Global X Apple PowerStock ETF,TSX
 AIQ,Global X Artificial Intelligence & Technology Index ETF,TSX
 MTRX,Global X Artificial Intelligence Infrastructure Index ETF,TSX
 DRAM,Global X Artificial Intelligence Memory Index ETF,TSX
@@ -1023,6 +1026,7 @@ QQCC,Global X Nasdaq-100 Covered Call ETF,TSX
 HXQ,Global X Nasdaq-100 Index Corporate Class ETF,TSX
 QQQX,Global X Nasdaq-100 Index ETF,TSX
 HUN,Global X Natural Gas ETF,TSX
+NVDP,Global X NVIDIA PowerStock ETF,TSX
 NYSX,Global X NYSE 100 Index ETF,TSX
 RBOT,Global X Robotics & AI Index ETF,TSX
 HSH,Global X S&P 500 CAD Hedged Index Corporate Class ETF,TSX
@@ -1044,6 +1048,8 @@ HUZ,Global X Silver ETF,TSX
 SVCC,Global X Silver Miners Covered Call ETF,TSX
 SLVX,Global X Silver Miners Index ETF,TSX
 ORBX,Global X Space Tech Index ETF,TSX
+SPCP,Global X SpaceX PowerStock ETF,TSX
+TSLP,Global X Tesla PowerStock ETF,TSX
 TOKN,Global X Tokenization Ecosystem Index ETF,TSX
 PAVE,Global X U.S. Infrastructure Development Index ETF,TSX
 URCC,Global X Uranium Covered Call ETF,TSX
@@ -1703,6 +1709,7 @@ AIAI,NetraMark Holdings Inc.,TSX
 NFGC,New Found Gold Corp.,TSX
 NUAG,New Pacific Metals Corp.,TSX
 NXE,NexGen Energy Ltd.,TSX
+PCD.UN,Next Edge CIA Disciplined Growth Portfolio,TSX
 NEE,NextEra Energy CDR (CAD Hedged),TSX
 NEXT,NextSource Materials Inc.,TSX
 NXR.UN,Nexus Industrial REIT,TSX
@@ -1712,6 +1719,7 @@ NGEX,NGEx Minerals Ltd.,TSX
 NKE,NIKE CDR (CAD Hedged),TSX
 GOHI,Ninepoint Alphabet HighShares ETF,TSX
 NACO,Ninepoint Alternative Credit Opportunities Fund,TSX
+NAGF,Ninepoint American Growth Fund,TSX
 NBAL,Ninepoint Balanced+ Fund,TSX
 ABHI,Ninepoint Barrick HighShares ETF,TSX
 BCHI,Ninepoint BCE HighShares ETF,TSX

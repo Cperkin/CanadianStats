@@ -1,5 +1,5 @@
 {
-  "lastUpdatedAt": "2026-10-13T11:28:10.055Z",
+  "lastUpdatedAt": "2026-10-14T11:25:38.824Z",
   "mode": "full-source-build",
   "notes": "Universe generated from local source files under data/sources/.",
   "sources": [
@@ -8,9 +8,9 @@
     "tsx-listed.csv"
   ],
   "counts": {
-    "NASDAQ": 3466,
-    "NYSE": 2129,
-    "TSX": 743,
-    "total": 6338
+    "NASDAQ": 3464,
+    "NYSE": 2125,
+    "TSX": 746,
+    "total": 6335
   }
 }
