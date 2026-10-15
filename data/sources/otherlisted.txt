@@ -419,7 +419,6 @@ ASCE|Allspring SMID Core ETF|P|ASCE|Y|100|N|ASCE
 ASEA|Global X FTSE Southeast Asia ETF|P|ASEA|Y|100|N|ASEA
 ASG|Liberty All-Star Growth Fund, Inc.|N|ASG|N|100|N|ASG
 ASGI|abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest|N|ASGI|N|100|N|ASGI
-ASGI.R|abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights|N|ASGIr|N|100|N|ASGI^
 ASGM|Virtus AlphaSimplex Global Macro ETF|P|ASGM|Y|100|N|ASGM
 ASH|Ashland Inc. Common Stock|N|ASH|N|100|N|ASH
 ASHR|Xtrackers Harvest CSI 300 China A-Shares ETF|P|ASHR|Y|100|N|ASHR
@@ -522,6 +521,7 @@ AVSF|Avantis Short-Term Fixed Income ETF|P|AVSF|Y|100|N|AVSF
 AVSU|Avantis Responsible U.S. Equity ETF|P|AVSU|Y|100|N|AVSU
 AVTM|Avantis Total Equity Markets ETF|P|AVTM|Y|100|N|AVTM
 AVTR|Avantor, Inc. Common Stock|N|AVTR|N|100|N|AVTR
+AVUC|Avantis U.S. Core Equity ETF|P|AVUC|Y|100|N|AVUC
 AVUS|Avantis U.S. Equity ETF|P|AVUS|Y|100|N|AVUS
 AVUV|Avantis U.S. Small Cap Value ETF|P|AVUV|Y|100|N|AVUV
 AVY|Avery Dennison Corporation Common Stock|N|AVY|N|100|N|AVY
@@ -1030,7 +1030,6 @@ BWIV.U|Blue Water Acquisition Corp. IV Units, each consisting of one Class A ord
 BWIV.W|Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share|N|BWIV.WS|N|100|N|BWIV+
 BWLP|BW LPG Limited Common Shares|N|BWLP|N|100|N|BWLP
 BWMX|Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares|N|BWMX|N|100|N|BWMX
-BWOW|Bitwise Dogecoin ETF|P|BWOW|Y|100|N|BWOW
 BWQG|BWM Quality Growth ETF|Z|BWQG|Y|100|N|BWQG
 BWTG|Brendan Wood TopGun Index ETF|Z|BWTG|Y|100|N|BWTG
 BWX|State Street SPDR Bloomberg International Treasury Bond ETF|P|BWX|Y|100|N|BWX
@@ -2724,6 +2723,7 @@ GALX|VistaShares Space Supercycle ETF|P|GALX|Y|100|N|GALX
 GAM|General American Investors, Inc. Common Stock|N|GAM|N|100|N|GAM
 GAM$B|General American Investors Company, Inc. Cumulative Preferred Stock|N|GAMpB|N|100|N|GAM-B
 GAMR|Amplify Video Game Leaders ETF|P|GAMR|Y|100|N|GAMR
+GANZ|Tuttle Capital Thematic ETF|Z|GANZ|Y|100|N|GANZ
 GAP|Gap, Inc. (The) Common Stock|N|GAP|N|100|N|GAP
 GAPR|FT Vest U.S. Equity Moderate Buffer ETF - April|Z|GAPR|Y|100|N|GAPR
 GARA|Guinness Atkinson Real Assets Income ETF|P|GARA|Y|100|N|GARA
@@ -3246,7 +3246,7 @@ HYGH|iShares Interest Rate Hedged High Yield Bond ETF|P|HYGH|Y|100|N|HYGH
 HYGM|Amplify HYG High Yield 10% Target Income ETF|Z|HYGM|Y|100|N|HYGM
 HYGU|MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs|Z|HYGU|Y|100|N|HYGU
 HYGV|Northern Trust High Yield Value-Scored Bond ETF|P|HYGV|Y|100|N|HYGV
-HYGW|iShares High Yield Corporate Bond BuyWrite Strategy ETF|Z|HYGW|Y|100|N|HYGW
+HYGW|iShares HYG Premium Income+ ETF|Z|HYGW|Y|100|N|HYGW
 HYHG|ProShares High Yield Interest Rate Hedged|Z|HYHG|Y|100|N|HYHG
 HYI|Western Asset High Yield Opportunity Fund Inc. Common Stock|N|HYI|N|100|N|HYI
 HYIN|WisdomTree Private Credit and Alternative Income Fund|Z|HYIN|Y|100|N|HYIN
@@ -3585,7 +3585,7 @@ IVT|InvenTrust Properties Corp. Common Stock|N|IVT|N|100|N|IVT
 IVV|iShares Core S&P 500 ETF|P|IVV|Y|40|N|IVV
 IVVB|iShares Large Cap Deep Quarterly Laddered ETF|Z|IVVB|Y|100|N|IVVB
 IVVM|iShares Large Cap Moderate Quarterly Laddered ETF|Z|IVVM|Y|100|N|IVVM
-IVVW|iShares S&P 500 BuyWrite ETF|Z|IVVW|Y|100|N|IVVW
+IVVW|iShares IVV Premium Income+ ETF|Z|IVVW|Y|100|N|IVVW
 IVW|iShares S&P 500 Growth ETF|P|IVW|Y|100|N|IVW
 IVZ|Invesco Ltd Common Stock|N|IVZ|N|100|N|IVZ
 IWB|iShares Russell 1000 ETF|P|IWB|Y|40|N|IWB
@@ -3597,7 +3597,7 @@ IWL|iShares Russell Top 200 ETF|P|IWL|Y|100|N|IWL
 IWLG|NYLIM Winslow Large Cap Growth ETF|P|IWLG|Y|100|N|IWLG
 IWM|iShares Russell 2000 Index Fund|P|IWM|Y|40|N|IWM
 IWMI|NEOS Russell 2000 High Income ETF|Z|IWMI|Y|100|N|IWMI
-IWMW|iShares Russell 2000 BuyWrite ETF|Z|IWMW|Y|100|N|IWMW
+IWMW|iShares IWM Premium Income+ ETF|Z|IWMW|Y|100|N|IWMW
 IWMY|Defiance R2000 Weekly Distribution ETF|P|IWMY|Y|100|N|IWMY
 IWN|iShares Russell 2000 Value ETF|P|IWN|Y|100|N|IWN
 IWO|iShares Russell 2000 Growth Fund|P|IWO|Y|40|N|IWO
@@ -4108,7 +4108,7 @@ LQDH|iShares Interest Rate Hedged Corporate Bond ETF|P|LQDH|Y|100|N|LQDH
 LQDI|iShares Inflation Hedged Corporate Bond ETF|Z|LQDI|Y|100|N|LQDI
 LQDM|Amplify LQD Investment Grade 12% Target Income ETF|Z|LQDM|Y|100|N|LQDM
 LQDU|MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs|Z|LQDU|Y|100|N|LQDU
-LQDW|iShares Investment Grade Corporate Bond BuyWrite Strategy ETF|Z|LQDW|Y|100|N|LQDW
+LQDW|iShares LQD Premium Income+ ETF|Z|LQDW|Y|100|N|LQDW
 LQID|Kurv Enhanced Short Maturity ETF|Z|LQID|Y|100|N|LQID
 LQTI|FT Vest Investment Grade & Target Income ETF|P|LQTI|Y|100|N|LQTI
 LRCC|Corgi LRCX 2x Daily ETF|Z|LRCC|Y|100|N|LRCC
@@ -6169,6 +6169,7 @@ SMR|NuScale Power Corporation Class A Common Stock|N|SMR|N|100|N|SMR
 SMRF|ALPS Nautilus SMR, Nuclear & Technology ETF|P|SMRF|Y|100|N|SMRF
 SMRT|SmartRent, Inc. Class A Common Stock|N|SMRT|N|100|N|SMRT
 SMRX|Corgi SMR 2x Daily ETF|Z|SMRX|Y|100|N|SMRX
+SMRZ|Global X Small Modular Reactor ETF|Z|SMRZ|Y|100|N|SMRZ
 SMTG|Leverage Shares 2X Long SMTC Daily ETF|Z|SMTG|Y|100|N|SMTG
 SMTH|ALPS Smith Core Plus Bond ETF|P|SMTH|Y|100|N|SMTH
 SMTJ|Synera Funds Takumi+ ETF|P|SMTJ|Y|100|N|SMTJ
@@ -6199,7 +6200,6 @@ SNSC|SunScout Holding Limited Class A Ordinary Shares|A|SNSC|N|100|N|SNSC
 SNTH|MRP SynthEquity ETF|P|SNTH|Y|100|N|SNTH
 SNTQ|MRP SynthEquity Nasdaq 100 ETF|Z|SNTQ|Y|100|N|SNTQ
 SNUS$H|Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H|N|SNUSpH|N|100|N|SNUS-H
-SNUS$I|Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I|N|SNUSpI|N|100|N|SNUS-I
 SNX|TD SYNNEX Corporation Common Stock|N|SNX|N|100|N|SNX
 SNXX|Tradr 2X Long SNDK Daily ETF|Z|SNXX|Y|100|N|SNXX
 SO|Southern Company (The) Common Stock|N|SO|N|100|N|SO
@@ -6638,7 +6638,7 @@ TLTD|Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF|P|TLTD|Y
 TLTE|Northern Trust Morningstar Emerging Markets Factor Tilt ETF|P|TLTE|Y|100|N|TLTE
 TLTI|NEOS Enhanced Income 20+ Year Treasury Bond ETF|Z|TLTI|Y|100|N|TLTI
 TLTP|Amplify TLT U.S. Treasury 12% Option Income ETF|Z|TLTP|Y|100|N|TLTP
-TLTW|iShares 20+ Year Treasury Bond BuyWrite Strategy ETF|Z|TLTW|Y|100|N|TLTW
+TLTW|iShares TLT Premium Income+ ETF|Z|TLTW|Y|100|N|TLTW
 TLTX|Global X Treasury Bond Enhanced Income ETF|Z|TLTX|Y|100|N|TLTX
 TLYS|Tilly's, Inc. Common Stock|N|TLYS|N|100|N|TLYS
 TM|Toyota Motor Corporation Common Stock|N|TM|N|100|N|TM
@@ -7217,7 +7217,9 @@ WANT|Direxion Daily Consumer Discretionary Bull 3X ETF|P|WANT|Y|100|N|WANT
 WAR|U.S. Global Technology and Aerospace & Defense ETF|P|WAR|Y|100|N|WAR
 WAT|Waters Corporation Common Stock|N|WAT|N|40|N|WAT
 WATS|Corgi Battery Energy Storage Systems ETF|Z|WATS|Y|100|N|WATS
+WBEM|William Blair Emerging Markets Equity ETF|P|WBEM|Y|100|N|WBEM
 WBI|WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests|N|WBI|N|100|N|WBI
+WBIE|William Blair International Equity ETF|P|WBIE|Y|100|N|WBIE
 WBIF|WBI BullBear Value 3000 ETF|P|WBIF|Y|100|N|WBIF
 WBIG|WBI BullBear Yield 3000 ETF|P|WBIG|Y|100|N|WBIG
 WBIL|WBI BullBear Quality 3000 ETF|P|WBIL|Y|100|N|WBIL
@@ -7657,4 +7659,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1014202607:00||||||
+File Creation Time: 1015202607:00||||||

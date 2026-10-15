@@ -64,6 +64,7 @@ ACGL|Arch Capital Group Ltd. - Common Stock|Q|N|N|100|N|N
 ACGLN|Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G|Q|N|N|100|N|N
 ACGLO|Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F|Q|N|N|100|N|N
 ACHC|Acadia Healthcare Company, Inc. - Common Stock|Q|N|N|100|N|N
+ACHP|Global X Asia Semiconductor ETF|G|N|N|100|Y|N
 ACHV|Achieve Life Sciences, Inc.  - Common Shares|S|N|N|100|N|N
 ACIC|American Coastal Insurance Corporation - Common Stock|S|N|N|100|N|N
 ACIU|AC Immune SA - Common Stock|G|N|N|100|N|N
@@ -1383,6 +1384,7 @@ DETX|Liberty Defense Holdings, Ltd. - Common Shares|S|N|N|100|N|N
 DFDV|DeFi Development Corp. - Common Stock|S|N|N|100|N|N
 DFDVW|DeFi Development Corp. - Warrant|S|N|N|100|N|N
 DFGP|Dimensional Global Core Plus Fixed Income ETF|G|N|N|100|Y|N
+DFGV|DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares|G|N|N|100|Y|N
 DFGX|Dimensional International Core Fixed Income ETF|G|N|N|100|Y|N
 DFLI|Dragonfly Energy Holdings Corp - Common Stock|S|N|D|100|N|N
 DFLIW|Dragonfly Energy Holdings Corp - Warrant|S|N|D|100|N|N
@@ -1859,6 +1861,7 @@ FLN|First Trust Latin America AlphaDEX Fund|G|N|N|100|Y|N
 FLNA|Filana Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 FLNC|Fluence Energy, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FLNT|Fluent, Inc. - Common Stock|S|N|N|100|N|N
+FLSC|Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares|S|N|N|100|N|N
 FLUX|Flux Power Holdings, Inc. - Common Stock|S|N|D|100|N|N
 FLWS|1-800-FLOWERS.COM, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FLX|BingEx Limited - American Depositary Shares|Q|N|N|100|N|N
@@ -3153,6 +3156,7 @@ MGIH|Millennium Group International Holdings Limited - Ordinary Shares|S|N|N|100
 MGN|Megan Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MGNI|Magnite, Inc. - Common Stock|Q|N|N|100|N|N
 MGNX|MacroGenics, Inc. - Common Stock|Q|N|N|100|N|N
+MGOL|Leverage Shares MANGOS ETF|G|N|N|100|Y|N
 MGPI|MGP Ingredients, Inc. - Common Stock|Q|N|N|100|N|N
 MGRC|McGrath RentCorp - Common Stock|Q|N|N|100|N|N
 MGRT|Mega Fortune Company Limited - Ordinary Shares|S|N|N|100|N|N
@@ -3564,6 +3568,7 @@ NWSA|News Corporation - Class A Common Stock|Q|N|N|100|N|N
 NWTG|Newton Golf Company, Inc. - Common Stock|S|N|D|100|N|N
 NXAT|Nexus Advanced Technologies Inc. - Ordinary Shares|S|N|N|100|N|N
 NXATW|Nexus Advanced Technologies Inc. - Warrant|S|N|N|100|N|N
+NXDR|Nextdoor Holdings, Inc. - Common Stock|S|N|N|100|N|N
 NXGL|NexGel, Inc - Common Stock|S|N|D|100|N|N
 NXGLW|NexGel, Inc - Warrant|S|N|N|100|N|N
 NXH|Neighborhood Intelligence, Inc.  - Common Stock|Q|N|N|100|N|N
@@ -3849,6 +3854,7 @@ PENN|PENN Entertainment, Inc. - Common Stock|Q|N|N|100|N|N
 PEP|PepsiCo, Inc. - Common Stock|Q|N|N|100|N|N
 PEPG|PepGen Inc. - Common Stock|Q|N|N|100|N|N
 PEPS|Parametric Equity Plus ETF|G|N|N|100|Y|N
+PEPT|REX Peptide ETF|G|N|N|100|Y|N
 PERI|Perion Network Ltd - Ordinary Shares|Q|N|N|100|N|N
 PESI|Perma-Fix Environmental Services, Inc. - Common Stock|S|N|N|100|N|N
 PETS|PetMed Express, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3905,7 +3911,7 @@ PLCE|Children's Place, Inc. (The) - Common Stock|Q|N|N|100|N|N
 PLCI|Pelican Acquisition II Corporation - Ordinary Shares|S|N|N|100|N|N
 PLCIR|Pelican Acquisition II Corporation - Right|S|N|N|100|N|N
 PLCIU|Pelican Acquisition II Corporation - Unit|S|N|N|100|N|N
-PLMK|Plum Acquisition Corp. IV - Class A Ordinary Shares|G|N|N|100|N|N
+PLMK|Plum Acquisition Corp. IV - Class A Ordinary Shares|G|N|D|100|N|N
 PLMKU|Plum Acquisition Corp. IV - Unit|G|N|N|100|N|N
 PLMKW|Plum Acquisition Corp. IV - Warrants|G|N|N|100|N|N
 PLMR|Palomar Holdings, Inc. - Common stock|Q|N|N|100|N|N
@@ -4144,7 +4150,7 @@ QS|QuantumScape Corporation - Common Stock|Q|N|N|100|N|N
 QSEA|Quartzsea Acquisition Corporation - Ordinary Shares|G|N|N|100|N|N
 QSEAR|Quartzsea Acquisition Corporation - Rights|G|N|N|100|N|N
 QSEAU|Quartzsea Acquisition Corporation - Units|G|N|N|100|N|N
-QSI|Quantum-Si Incorporated - Class A Common Stock|G|N|D|100|N|N
+QSI|Quantum-Si Incorporated - Class A Common Stock|G|N|N|100|N|N
 QSIX|Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF|G|N|N|100|Y|N
 QSML|WisdomTree U.S. SmallCap Quality Growth Fund|G|N|N|100|Y|N
 QTEC|First Trust NASDAQ-100-Technology Sector Index Fund|G|N|N|100|Y|N
@@ -4353,6 +4359,7 @@ RTACU|Renatus Tactical Acquisition Corp I - Unit|G|N|D|100|N|N
 RTACW|Renatus Tactical Acquisition Corp I - Warrant|G|N|D|100|N|N
 RTB|RTB Digital, Inc. - Common Stock|S|N|N|100|N|N
 RTH|VanEck Retail ETF|G|N|N|40|Y|N
+RTHY|F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF|G|N|N|100|Y|N
 RTSN|Retension Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 RTXG|Leverage Shares 2X Long RTX Daily ETF|G|N|N|100|Y|N
 RTYY|GraniteShares YieldBoost RIOT ETF|G|N|N|100|Y|N
@@ -4379,7 +4386,7 @@ RXRX|Recursion Pharmaceuticals, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RXST|RxSight, Inc. - Common Stock|G|N|N|100|N|N
 RXT|Rackspace Technology, Inc. - Common Stock|Q|N|N|100|N|N
 RYAAY|Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares|Q|N|N|100|N|N
-RYET|Ruanyun Edai Technology Inc. - Ordinary shares|S|N|N|100|N|N
+RYET|Ruanyun Edai Technology Inc. - Ordinary shares|S|N|D|100|N|N
 RYM|RYTHM, Inc. - Common Stock|S|N|N|100|N|N
 RYOJ|rYojbaba Co., Ltd. - Common Shares|S|N|N|100|N|N
 RYTM|Rhythm Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
@@ -4720,7 +4727,7 @@ STAA|STAAR Surgical Company - Common Stock|G|N|N|100|N|N
 STAK|STAK Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 STBA|S&T Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 STEP|StepStone Group Inc. - Class A Common Stock|Q|N|N|100|N|N
-STEX|Streamex Corp. - Common Stock|S|N|N|100|N|N
+STEX|Streamex Corp. - Common Stock|S|N|D|100|N|N
 STFS|Star Fashion Culture Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 STGW|Stagwell Inc. - Class A Common Stock|Q|N|N|100|N|N
 STHO|Star Holdings - Shares of Beneficial Interest|G|N|N|100|N|N
@@ -5529,7 +5536,7 @@ XTERW|Karman Line Acquisition Corp. - Warrants|G|N|N|100|N|N
 XTIA|XTI Aerospace, Inc. Common Stock  - Common Stock|S|N|E|100|N|N
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
 XUSM|MarketDesk International Momentum ETF|G|N|N|100|Y|N
-XWEL|XWELL, Inc. - Common Stock|S|N|N|100|N|N
+XWEL|XWELL, Inc. - Common Stock|S|N|D|100|N|N
 XXII|22nd Century Group, Inc - Common Stock|S|N|N|100|N|N
 XXX|CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF|G|N|N|100|Y|N
 XYZG|Leverage Shares 2X Long XYZ Daily ETF|G|N|N|100|Y|N
@@ -5621,4 +5628,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1014202607:00|||||||
+File Creation Time: 1015202607:00|||||||
