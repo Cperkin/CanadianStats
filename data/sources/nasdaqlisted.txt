@@ -307,6 +307,7 @@ AMPGZ|Amplitech Group, Inc. - Series B Right|S|N|N|100|N|N
 AMPH|Amphastar Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AMPL|Amplitude, Inc. - Class A Common Stock|S|N|N|100|N|N
 AMRN|Amarin Corporation plc - American Depositary Shares|S|N|N|100|N|N
+AMRO|Amaero Inc. - Common Stock|S|N|N|100|N|N
 AMRX|Amneal Pharmaceuticals, Inc. - Class A Common Stock|Q|N|N|100|N|N
 AMSC|American Superconductor Corporation - Common Stock|Q|N|N|100|N|N
 AMSF|AMERISAFE, Inc. - Common Stock|Q|N|N|100|N|N
@@ -642,7 +643,7 @@ BGIN|Bgin Blockchain Limited - Class A Ordinary Shares|G|N|N|100|N|N
 BGL|Blue Gold Limited - Class A ordinary shares|G|N|D|100|N|N
 BGLC|BioNexus Gene Lab Corp - Common stock|S|N|N|100|N|N
 BGLWW|Blue Gold Limited - Warrant|S|N|N|100|N|N
-BGM|BGM Group Ltd. - Class A Ordinary Shares|S|N|D|100|N|N
+BGM|BGM Group Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 BGMS|Bio Green Med Solution, Inc. - Common Stock|S|N|N|100|N|N
 BGRN|iShares USD Green Bond ETF|G|N|N|100|Y|N
 BGRO|iShares Large Cap Growth Active ETF|G|N|N|100|Y|N
@@ -725,6 +726,7 @@ BMEA|Biomea Fusion, Inc. - Common Stock|Q|N|N|100|N|N
 BMGL|Basel Medical Group Ltd - ordinary shares|S|N|N|100|N|N
 BMHL|Bluemount Holdings Limited - Class B Ordinary Shares|S|N|N|100|N|N
 BMM|Blue Moon Metals Inc. - Common Shares|S|N|N|100|N|N
+BMMX|Black Mammoth Metals Corporation - Common Shares|S|N|N|100|N|N
 BMNG|Leverage Shares 2X Long BMNR Daily ETF|G|N|N|100|Y|N
 BMOP|BNY Mellon Municipal Opportunities ETF|G|N|N|100|Y|N
 BMR|Beamr Imaging Ltd. - Ordinary Share|S|N|N|100|N|N
@@ -1305,6 +1307,7 @@ CTSH|Cognizant Technology Solutions Corporation - Class A Common Stock|Q|N|N|100
 CTSO|Cytosorbents Corporation - Common Stock|S|N|D|100|N|N
 CTW|CTW - Class A Ordinary Shares|S|N|N|100|N|N
 CTXR|Citius Pharmaceuticals, Inc. - Common Stock|S|N|D|100|N|N
+CTY|City Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 CUB|Lionheart Holdings - Class A Ordinary Shares|G|N|N|100|N|N
 CUBWU|Lionheart Holdings - Unit|G|N|N|100|N|N
 CUBWW|Lionheart Holdings - Warrant|G|N|N|100|N|N
@@ -1817,7 +1820,7 @@ FGII|FG Imperii Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 FGIIU|FG Imperii Acquisition Corp. - Units|G|N|N|100|N|N
 FGIIW|FG Imperii Acquisition Corp. - Warrants|G|N|N|100|N|N
 FGIWW|FGI Industries Ltd. - warrant|S|N|N|100|N|N
-FGL|Founder Group Limited - Class A Ordinary Shares|S|N|D|100|N|N
+FGL|Founder Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 FGM|First Trust Germany AlphaDEX Fund|G|N|N|100|Y|N
 FGSI|FT Vest Growth Strength & Target Income ETF|G|N|N|100|Y|N
 FHB|First Hawaiian, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2428,6 +2431,7 @@ IACQ|Irenic Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 IACQU|Irenic Acquisition Corp. - Unit|G|N|N|100|N|N
 IACQW|Irenic Acquisition Corp. - Warrants|G|N|N|100|N|N
 IALT|iShares Systematic Alternatives Active ETF|G|N|N|100|Y|N
+IAM|Iambic Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 IART|Integra LifeSciences Holdings Corporation - Common Stock|Q|N|N|100|N|N
 IBAC|IB Acquisition Corp. - Common Stock|S|N|D|100|N|N
 IBACR|IB Acquisition Corp. - Right|S|N|D|100|N|N
@@ -3339,7 +3343,7 @@ MYMI|State Street My2029 Municipal Bond ETF|G|N|N|100|Y|N
 MYMJ|State Street My2030 Municipal Bond ETF|G|N|N|100|Y|N
 MYMK|State Street My2031 Municipal Bond ETF|G|N|N|100|Y|N
 MYML|State Street My2032 Municipal Bond ETF|G|N|N|100|Y|N
-MYPS|PLAYSTUDIOS, Inc.  - Class A Common Stock|S|N|D|100|N|N
+MYPS|PLAYSTUDIOS, Inc.  - Class A Common Stock|S|N|N|100|N|N
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|40|N|N
 MYSE|Myseum.AI, Inc. - Common Stock|S|N|N|100|N|N
 MYSZ|My Size, Inc. - Common Stock|S|N|D|100|N|N
@@ -4858,6 +4862,7 @@ TCPC|BlackRock TCP Capital Corp. - Closed End Fund|Q|N|N|100|N|N
 TCRT|Alaunos Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 TCRX|TScan Therapeutics, Inc. - Common Stock|G|N|D|100|N|N
 TCX|Tucows Inc. - Common Stock|S|N|N|100|N|N
+TCXB|TCGX Acquisition Corp. II - Class A Ordinary Shares|S|N|N|100|N|N
 TDAC|Translational Development Acquisition Corp. - Ordinary Shares|G|N|N|100|N|N
 TDACU|Translational Development Acquisition Corp. - Units|G|N|N|100|N|N
 TDACW|Translational Development Acquisition Corp. - Warrants|G|N|N|100|N|N
@@ -5628,4 +5633,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1015202607:00|||||||
+File Creation Time: 1016202611:01|||||||
