@@ -161,7 +161,7 @@ AGGA|EA Astoria Beacon Dynamic Core US Fixed Income ETF|G|N|N|100|Y|N
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AGIX|KraneShares Public-Private AI & Technology ETF|G|N|N|100|Y|N
 AGMB|AgomAb Therapeutics NV - ADRs representing one common share.|Q|N|N|100|N|N
-AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|N|100|N|N
+AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|D|100|N|N
 AGMI|Themes Silver Miners ETF|G|N|N|100|Y|N
 AGNC|AGNC Investment Corp. - Common Stock|Q|N|N|100|N|N
 AGNCL|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
@@ -3019,7 +3019,7 @@ LTRN|Lantern Pharma Inc. - Common Stock|S|N|D|100|N|N
 LTRX|Lantronix, Inc. - Common Stock|S|N|N|100|N|N
 LTRYW|Sports Entertainment Gaming Global Corporation  - Warrant|G|N|E|100|N|N
 LUCD|Lucid Diagnostics Inc. - Common Stock|S|N|N|100|N|N
-LUCY|Innovative Eyewear, Inc. - Common Stock|S|N|N|100|N|N
+LUCY|Innovative Eyewear, Inc. - Common Stock|S|N|D|100|N|N
 LUCYW|Innovative Eyewear, Inc. - Warrants|S|N|N|100|N|N
 LULG|Leverage Shares 2X Long LULU Daily ETF|G|N|N|100|Y|N
 LULU|lululemon athletica inc. - Common Stock|Q|N|N|100|N|N
@@ -3121,7 +3121,7 @@ MDWD|MediWound Ltd. - Ordinary Shares|G|N|N|100|N|N
 MDXG|MiMedx Group, Inc - Common Stock|S|N|N|100|N|N
 MDXH|MDxHealth SA - Ordinary Shares|S|N|D|100|N|N
 MEDP|Medpace Holdings, Inc. - Common Stock|Q|N|N|40|N|N
-MEDS|DataMeds AI, Inc. - Common Stock|S|N|D|100|N|N
+MEDS|DataMeds AI, Inc. - Common Stock|S|N|N|100|N|N
 MEDX|Horizon Kinetics Medical ETF|G|N|N|100|Y|N
 MEGL|Magic Empire Global Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MELI|MercadoLibre, Inc. - Common Stock|Q|N|N|10|N|N
@@ -3292,7 +3292,7 @@ MTCH|Match Group, Inc. - Common Stock|Q|N|N|100|N|N
 MTEK|Maris-Tech Ltd. - ordinary shares|S|N|N|100|N|N
 MTEKW|Maris-Tech Ltd. - Warrants|S|N|N|100|N|N
 MTEN|Mingteng International Corporation Inc. - Class A Ordinary Shares|S|N|N|100|N|N
-MTEX|Mannatech, Incorporated - Common Stock|S|N|D|100|N|N
+MTEX|Mannatech, Incorporated - Common Stock|S|N|N|100|N|N
 MTLS|Materialise NV - American Depositary Shares|Q|N|N|100|N|N
 MTRX|Matrix Service Company - Common Stock|Q|N|N|100|N|N
 MTSI|MACOM Technology Solutions Holdings, Inc. - Common Stock|Q|N|N|100|N|N
@@ -4158,7 +4158,7 @@ QSI|Quantum-Si Incorporated - Class A Common Stock|G|N|N|100|N|N
 QSIX|Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF|G|N|N|100|Y|N
 QSML|WisdomTree U.S. SmallCap Quality Growth Fund|G|N|N|100|Y|N
 QTEC|First Trust NASDAQ-100-Technology Sector Index Fund|G|N|N|100|Y|N
-QTEX|QTREX Quantum Ltd. - Ordinary Shares|S|N|D|100|N|N
+QTEX|QTREX Quantum Ltd. - Ordinary Shares|S|N|N|100|N|N
 QTI|QT Imaging Holdings, Inc. - Common Stock|S|N|N|100|N|N
 QTOP|iShares Nasdaq Top 30 Stocks ETF|G|N|N|100|Y|N
 QTR|Global X NASDAQ 100 Tail Risk ETF|G|N|N|100|Y|N
@@ -5116,8 +5116,8 @@ UBND|VictoryShares Core Plus Bond ETF|G|N|N|100|Y|N
 UBRL|GraniteShares 2x Long UBER Daily ETF|G|N|N|100|Y|N
 UBSI|United Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 UCAR|U Power Limited - Class A Ordinary Shares|S|N|N|100|N|N
-UCFI|CN Healthy Food Tech Group Corp. - Common Stock|S|N|D|100|N|N
-UCFIW|CN Healthy Food Tech Group Corp. - Warrant|S|N|D|100|N|N
+UCFI|CN Healthy Food Tech Group Corp. - Common Stock|S|N|N|100|N|N
+UCFIW|CN Healthy Food Tech Group Corp. - Warrant|S|N|N|100|N|N
 UCL|uCloudlink Group Inc. - American Depositary Shares|G|N|D|100|N|N
 UCRD|VictoryShares Corporate Bond ETF|G|N|N|100|Y|N
 UCTT|Ultra Clean Holdings, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5633,4 +5633,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1016202611:01|||||||
+File Creation Time: 1016202621:31|||||||
