@@ -343,6 +343,7 @@ KNGC,Brompton Canadian Cash Flow Kings ETF,TSX
 ESP,Brompton Energy Split Corp.,TSX
 BMAX,Brompton Enhanced Multi-Asset Income ETF,TSX
 EDGF,Brompton European Dividend Growth ETF,TSX
+PAYB,Brompton Financials HighPay ETF,TSX
 BEPR,Brompton Flaherty & Crumrine Enhanced Investment Grade Preferred ETF,TSX
 BPRF,Brompton Flaherty & Crumrine Investment Grade Preferred ETF,TSX
 KNGG,Brompton Global Cash Flow Kings ETF,TSX
@@ -358,6 +359,7 @@ SBC,Brompton Split Banc Corp.,TSX
 CLSA,Brompton Split Corp. Enhanced Equity Income ETF,TSX
 SPLT,Brompton Split Corp. Preferred Share ETF,TSX
 TLF,Brompton Tech Leaders Income ETF,TSX
+PAYT,Brompton Technology HighPay ETF,TSX
 KNGU,Brompton U.S. Cash Flow Kings ETF,TSX
 PAYU,Brompton U.S. Equity HighPay ETF,TSX
 PAYI,Brompton Utilities & Infrastructure HighPay ETF,TSX
@@ -2092,6 +2094,7 @@ SLSC,Sun Life Crescent Specialty Credit Private Pool,TSX
 SLF,Sun Life Financial Inc.,TSX
 SLGC,Sun Life MFS Global Core Plus Bond Fund,TSX
 SU,Suncor Energy Inc.,TSX
+SNDY,Sunday Lake Gold Corp.,TSX
 SPB,Superior Plus Corp.,TSX
 SMCI,Supermicro CDR (CAD Hedged),TSX
 SXP,Supremex Inc.,TSX
@@ -2284,7 +2287,6 @@ FLT,Volatus Aerospace Inc.,TSX
 VOXR,Vox Royalty Corp.,TSX
 WJX,Wajax Corporation,TSX
 WFC,Wall Financial Corporation,TSX
-WM,Wallbridge Mining Company Limited,TSX
 WMT,Walmart CDR (CAD Hedged),TSX
 DIS,Walt Disney CDR (CAD Hedged),TSX
 WCN,"Waste Connections, Inc.",TSX
