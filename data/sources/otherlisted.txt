@@ -192,6 +192,7 @@ AI|C3.ai, Inc. Class A Common Stock|N|AI|N|100|N|AI
 AIB|AIB Data Centers Inc. Common Stock|A|AIB|N|100|N|AIB
 AIBD|Direxion Daily AI and Big Data Bear 2X ETF|P|AIBD|Y|100|N|AIBD
 AIBF|iShares Future AI Beneficiaries ETF|P|AIBF|Y|100|N|AIBF
+AIBN|Defiance AI Infrastructure Bond ETF|P|AIBN|Y|100|N|AIBN
 AIBU|Direxion Daily AI and Big Data Bull 2X ETF|P|AIBU|Y|100|N|AIBU
 AIED|Defiance LLM Catalyst Momentum ETF|P|AIED|Y|100|N|AIED
 AIEQ|Amplify AI Powered Equity ETF|P|AIEQ|Y|100|N|AIEQ
@@ -1046,7 +1047,6 @@ BY|Byline Bancorp, Inc. Common Stock|N|BY|N|100|N|BY
 BYD|Boyd Gaming Corporation Common Stock|N|BYD|N|100|N|BYD
 BYLD|iShares Yield Optimized Bond ETF|P|BYLD|Y|100|N|BYLD
 BYRE|Principal Real Estate Active Opportunities ETF|P|BYRE|Y|100|N|BYRE
-BZH|Beazer Homes USA, Inc. Common Stock|N|BZH|N|100|N|BZH
 BZQ|ProShares UltraShort MSCI Brazil Capped|P|BZQ|Y|100|N|BZQ
 BZZ|Corgi Drones & Urban Air Mobility ETF|Z|BZZ|Y|100|N|BZZ
 C|Citigroup, Inc. Common Stock|N|C|N|100|N|C
@@ -6214,7 +6214,7 @@ SNUS$H|Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,0
 SNX|TD SYNNEX Corporation Common Stock|N|SNX|N|100|N|SNX
 SNXX|Tradr 2X Long SNDK Daily ETF|Z|SNXX|Y|100|N|SNXX
 SO|Southern Company (The) Common Stock|N|SO|N|100|N|SO
-SOAR|Volato Group, Inc. Class A Common Stock|A|SOAR|N|100|N|SOAR
+SOAR|SOAR AI, Inc. Class A Common Stock|A|SOAR|N|100|N|SOAR
 SOBO|South Bow Corporation Common Shares|N|SOBO|N|100|N|SOBO
 SOC|Sable Offshore Corp. Common Stock|N|SOC|N|100|N|SOC
 SOEZ|Franklin Solana ETF|P|SOEZ|Y|100|N|SOEZ
@@ -7657,7 +7657,6 @@ ZNOV|Innovator Equity Defined Protection ETF - 1 Yr November|Z|ZNOV|Y|100|N|ZNOV
 ZOCT|Innovator Equity Defined Protection ETF - 1 Yr October|Z|ZOCT|Y|100|N|ZOCT
 ZONE|Zone Frontier Inc. Class B Common Stock|A|ZONE|N|100|N|ZONE
 ZROZ|PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund|P|ZROZ|Y|100|N|ZROZ
-ZSB|USCF Sustainable Battery Metals Strategy Fund|P|ZSB|Y|100|N|ZSB
 ZSEP|Innovator Equity Defined Protection ETF - 1 Yr September|Z|ZSEP|Y|100|N|ZSEP
 ZSL|ProShares UltraShort Silver|P|ZSL|Y|100|N|ZSL
 ZTAX|X-Square Municipal Income ETF|P|ZTAX|Y|100|N|ZTAX
@@ -7674,4 +7673,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1019202612:11||||||
+File Creation Time: 1020202611:01||||||
