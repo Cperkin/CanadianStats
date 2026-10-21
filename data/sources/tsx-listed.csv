@@ -897,7 +897,7 @@ F,Ford CDR (CAD Hedged),TSX
 FGBL,Forstrong Global Balanced ETF,TSX
 FGRW,Forstrong Global Growth ETF,TSX
 FINC,Forstrong Global Income ETF,TSX
-FTNT,Fortinet CDR,TSX
+FTNT,Fortinet CDR (CAD Hedged),TSX
 FTS,Fortis Inc.,TSX
 FVI,Fortuna Mining Corp.,TSX
 FT,Fortune Minerals Limited,TSX
@@ -1485,7 +1485,7 @@ L,Loblaw Companies Limited,TSX
 LMT,Lockheed Martin CDR (CAD Hedged),TSX
 LUC,Lucara Diamond Corp.,TSX
 LULU,lululemon CDR (CAD Hedged),TSX
-LUME,Lumentum CDR,TSX
+LUME,Lumentum CDR (CAD Hedged),TSX
 LMCU,Lumina Metals Corp.,TSX
 LUG,Lundin Gold Inc.,TSX
 LUN,Lundin Mining Corporation,TSX
@@ -1972,7 +1972,7 @@ RIO,Rio2 Limited,TSX
 REI.UN,RioCan Real Estate Investment Trust,TSX
 HOOD,Robinhood CDR (CAD Hedged),TSX
 ROG,Roche CDR (CAD Hedged),TSX
-RKLB,Rocket Lab CDR,TSX
+RKLB,Rocket Lab CDR (CAD Hedged),TSX
 RKLC,Rocklinc Principled Equity ETF,TSX
 RGSI,Rockpoint Gas Storage Inc.,TSX
 RCI.A,Rogers Communications Inc.,TSX
@@ -2064,7 +2064,7 @@ SGR.U,Slate Grocery REIT,TSX
 SBLG,SLGI MFS Blended Research Low Vol Global Fund,TSX
 SBLI,SLGI MFS Blended Research Low Vol International Fund,TSX
 SRU.UN,SmartCentres Real Estate Investment Trust,TSX
-SNOW,Snowflake CDR,TSX
+SNOW,Snowflake CDR (CAD Hedged),TSX
 SGD,Snowline Gold Corp.,TSX
 SLS,Solaris Resources Inc.,TSX
 SLR,Solitario Resources Corp.,TSX
@@ -2237,7 +2237,7 @@ URB,Urbana Corporation,TSX
 FTU,US Financial 15 Split Corp.,TSX
 HISU.U,US High Interest Savings Account Fund,TSX
 MUSD.U,US Premium Cash Management Fund,TSX
-VLO,Valero Energy CDR,TSX
+VLO,Valero Energy CDR (CAD Hedged),TSX
 VLE,Valeura Energy Inc.,TSX
 VGC,Valor Gold Corp.,TSX
 VEQT,Vanguard All-Equity ETF Portfolio,TSX

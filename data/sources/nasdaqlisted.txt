@@ -179,7 +179,9 @@ AGZD|WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund|G|N|N|100|Y|N
 AHCO|AdaptHealth Corp.  - Common Stock|S|N|N|100|N|N
 AHD|GraniteShares Autocallable HOOD ETF|G|N|N|100|Y|N
 AHG|Akso Health Group - American Depositary Shares|S|N|N|100|N|N
+AHIC|Allspring Short-Term High Income Fund ETF|G|N|N|100|Y|N
 AHMA|Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares|S|N|N|100|N|N
+AHYM|Allspring High Yield Municipal Bond Fund ETF|G|N|N|100|Y|N
 AIA|iShares Asia 50 ETF|G|N|N|100|Y|N
 AIAI|AIAI Holdings Corporation - Class A common stock|G|N|N|100|N|N
 AIBZ|Bitzero Holdings Inc. - Common Shares|S|N|N|100|N|N
@@ -445,6 +447,7 @@ ASTE|Astec Industries, Inc. - Common Stock|Q|N|N|100|N|N
 ASTH|Astrana Health Inc. - Common Stock|S|N|N|100|N|N
 ASTI|Ascent Solar Technologies, Inc - Common Stock|S|N|N|100|N|N
 ASTL|Algoma Steel Group Inc. - Common Shares|G|N|N|100|N|N
+ASTM|Allspring Strategic Municipal Bond Fund ETF|G|N|N|100|Y|N
 ASTS|AST SpaceMobile, Inc. - Class A Common Stock|Q|N|N|100|N|N
 ASUR|Asure Software Inc - Common Stock|S|N|N|100|N|N
 ASYS|Amtech Systems, Inc. - Common Stock|Q|N|N|100|N|N
@@ -622,8 +625,8 @@ BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100|N|N
 BENF|Beneficient - Class A Common Stock|S|N|N|100|N|N
 BENFW|Beneficient - Warrant|S|N|N|100|N|N
 BESO|GSR Crypto Core3 ETF|G|N|N|100|Y|N
-BETR|Better Home & Finance Holding Company - Class A Common Stock|G|N|N|100|N|N
-BETRW|Better Home & Finance Holding Company - Warrant|G|N|N|100|N|N
+BETR|Better Home & Finance Holding Company - Class A Common Stock|G|N|D|100|N|N
+BETRW|Better Home & Finance Holding Company - Warrant|G|N|D|100|N|N
 BFC|Bank First Corporation - Common Stock|S|N|N|100|N|N
 BFLX|iShares Flexible Equity Active ETF|G|N|N|100|Y|N
 BFRG|Bullfrog AI Holdings, Inc. - Common Stock|S|N|D|100|N|N
@@ -856,7 +859,6 @@ BTCS|BTCS Inc. - Common Stock|S|N|N|100|N|N
 BTCT|BTC Digital Ltd. - Ordinary Shares|S|N|N|100|N|N
 BTDL|GraniteShares 2x Long BTDR Daily ETF|G|N|N|100|Y|N
 BTDR|Bitdeer Technologies Group - Ordinary Shares|S|N|N|100|N|N
-BTF|CoinShares Bitcoin and Ether ETF|G|N|N|100|Y|N
 BTGD|STKd 100% Bitcoin & 100% Gold ETF|G|N|N|100|Y|N
 BTLN|Brightline Interactive, Inc. - Common Stock|S|N|N|100|N|N
 BTMD|Biote Corp. - Class A common stock|G|N|N|100|N|N
@@ -1406,7 +1408,6 @@ DHC|Diversified Healthcare Trust  - Common Shares of Beneficial Interest|Q|N|N|1
 DHCNI|Diversified Healthcare Trust  - 5.625% Senior Notes due 2042|Q|N|N|100|N|N
 DHCNL|Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046|Q|N|N|100|N|N
 DIBS|1stdibs.com, Inc. - Common Stock|G|N|N|100|N|N
-DIME|CoinShares Altcoins ETF|G|N|N|100|Y|N
 DINE|Simplify Tax Aware Diversified Income Strategy ETF|G|N|N|100|Y|N
 DIOD|Diodes Incorporated - Common Stock|Q|N|N|100|N|N
 DIVD|Altrius Global Dividend ETF|G|N|N|100|Y|N
@@ -1924,7 +1925,7 @@ FRPT|Freshpet, Inc. - Common Stock|G|N|N|100|N|N
 FRSH|Freshworks Inc. - Class A Common Stock|Q|N|N|100|N|N
 FRST|Primis Financial Corp. - Common Stock|G|N|N|100|N|N
 FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares|S|N|N|100|N|N
-FRTT|Fort Technology Inc. - Common Shares|S|N|N|100|N|N
+FRTT|Fort Technology Inc. - Common Shares|S|N|D|100|N|N
 FRVO|Fervo Energy Company - Class A common stock|Q|N|N|100|N|N
 FRWD|Nomura Transformational Technologies ETF|G|N|N|100|Y|N
 FSBC|Five Star Bancorp - Common Stock|Q|N|N|100|N|N
@@ -2656,7 +2657,7 @@ ITHA|ITHAX Acquisition Corp III - Class A Ordinary Shares|G|N|N|100|N|N
 ITHAU|ITHAX Acquisition Corp III - Units|G|N|N|100|N|N
 ITHAW|ITHAX Acquisition Corp III - Warrants|G|N|N|100|N|N
 ITIC|Investors Title Company - Common Stock|Q|N|N|100|N|N
-ITOC|iTonic Holdings Ltd - Class A Ordinary Shares|S|N|D|100|N|N
+ITOC|iTonic Holdings Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100|N|N
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100|N|N
 IUS|Invesco RAFI Strategic US ETF|G|N|N|100|Y|N
@@ -3950,7 +3951,7 @@ POLA|Polar Power, Inc. - Common Stock|S|N|D|100|N|N
 POLE|Andretti Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 POLEU|Andretti Acquisition Corp. II - Unit|G|N|N|100|N|N
 POLEW|Andretti Acquisition Corp. II - Warrant|G|N|N|100|N|N
-POM|POMDOCTOR LIMITED - American Depositary Shares|G|N|D|100|N|N
+POM|POMDOCTOR LIMITED - Class A Ordinary Shares|G|N|D|100|N|N
 PONO|Pono Capital Four, Inc. - Class A Ordinary Shares|G|N|N|100|N|N
 PONOR|Pono Capital Four, Inc. - Rights|G|N|N|100|N|N
 PONOU|Pono Capital Four, Inc. - Units|G|N|N|100|N|N
@@ -4812,7 +4813,7 @@ TACOU|Berto Acquisition Corp. - unit|G|N|N|100|N|N
 TACOW|Berto Acquisition Corp. - Warrant|G|N|N|100|N|N
 TACT|TransAct Technologies Incorporated - Common Stock|G|N|N|100|N|N
 TANH|Tantech Holdings Ltd. - Class A Common Shares|S|N|N|100|N|N
-TAOP|Taoping Inc. - Ordinary Shares|S|N|N|100|N|N
+TAOP|Taoping Inc. - Ordinary Shares|S|N|D|100|N|N
 TAOX|Tao Synergies Inc. - Common Stock|S|N|N|100|N|N
 TAOZ|Thornburg American Opportunities Fund|G|N|N|100|Y|N
 TARA|Protara Therapeutics, Inc.  - Common Stock|G|N|N|100|N|N
@@ -4921,6 +4922,7 @@ TLA|GraniteShares Autocallable TSLA ETF|G|N|N|100|Y|N
 TLAC|Three Lions Acquisition Corp. - Ordinary Shares|G|N|N|100|N|N
 TLACU|Three Lions Acquisition Corp. - Units|G|N|N|100|N|N
 TLACW|Three Lions Acquisition Corp. - Warrants|G|N|N|100|N|N
+TLCE|Thrivent Large Cap Stock ETF|G|N|N|100|Y|N
 TLF|Tandy Leather Factory, Inc. - common stock|S|N|N|100|N|N
 TLG|Touchstone Large Company Growth ETF|G|N|N|100|Y|N
 TLIH|Ten-League International Holdings Limited - Ordinary Shares|S|N|N|100|N|N
@@ -5029,6 +5031,7 @@ TSEE|T. Rowe Price Small Cap ETF|G|N|N|100|Y|N
 TSEL|Touchstone Sands Capital US Select Growth ETF|G|N|N|100|Y|N
 TSEM|Tower Semiconductor Ltd. - Ordinary Shares|Q|N|N|100|N|N
 TSHA|Taysha Gene Therapies, Inc. - Common Stock|Q|N|N|100|N|N
+TSIE|Thrivent Securitized Income ETF|G|N|N|100|Y|N
 TSL|GraniteShares 1.25x Long TSLA Daily ETF|G|N|N|100|Y|N
 TSLA|Tesla, Inc.  - Common Stock|Q|N|N|40|N|N
 TSLG|Leverage Shares 2X Long TSLA Daily ETF|G|N|N|100|Y|N
@@ -5618,4 +5621,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1020202611:01|||||||
+File Creation Time: 1021202611:01|||||||
