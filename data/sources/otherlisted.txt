@@ -2447,6 +2447,7 @@ FIAX|Nicholas Fixed Income Alternative ETF|P|FIAX|Y|100|N|FIAX
 FICO|Fair Isaac Corporation Common Stock|N|FICO|N|10|N|FICO
 FIDI|Fidelity International High Dividend ETF|P|FIDI|Y|100|N|FIDI
 FIDU|Fidelity MSCI Industrials Index ETF|P|FIDU|Y|100|N|FIDU
+FIFT|HCM Select 50 ETF|F|FIFT|Y|100|N|FIFT
 FIG|Figma, Inc. Class A Common Stock|N|FIG|N|100|N|FIG
 FIGB|Fidelity Investment Grade Bond ETF|P|FIGB|Y|100|N|FIGB
 FIGS|FIGS, Inc. Class A Common Stock|N|FIGS|N|100|N|FIGS
@@ -3337,6 +3338,7 @@ ICE|Intercontinental Exchange Inc. Common Stock|N|ICE|N|100|N|ICE
 ICF|iShares Select U.S. REIT ETF|Z|ICF|Y|100|N|ICF
 ICL|ICL Group Ltd. Ordinary Shares|N|ICL|N|100|N|ICL
 ICLO|Invesco AAA CLO Floating Rate Note ETF|Z|ICLO|Y|100|N|ICLO
+ICOM|Tema Commodity Income ETF|F|ICOM|Y|100|N|ICOM
 ICOW|Pacer Developed Markets International Cash Cows 100 ETF|Z|ICOW|Y|100|N|ICOW
 ICPI|iShares 0-1 Year TIPS Bond ETF|P|ICPI|Y|100|N|ICPI
 ICPY|Tweedy, Browne International Insider + Value ETF|P|ICPY|Y|100|N|ICPY
@@ -6603,6 +6605,7 @@ THO|Thor Industries, Inc. Common Stock|N|THO|N|100|N|THO
 THOR|Thornburg Premium Income Builder ETF|P|THOR|Y|100|N|THOR
 THQ|abrdn Healthcare Opportunities Fund Shares of Beneficial Interest|N|THQ|N|100|N|THQ
 THRO|iShares U.S. Thematic Rotation Active ETF|P|THRO|Y|100|N|THRO
+THRU|Tema Commodity Infrastructure ETF|F|THRU|Y|100|N|THRU
 THTA|SoFi Enhanced Yield ETF|P|THTA|Y|100|N|THTA
 THW|abrdn World Healthcare Fund Shares of Beneficial Interest|N|THW|N|100|N|THW
 THY|Toews Agility Shares Dynamic Tactical Income ETF|P|THY|Y|100|N|THY
@@ -7670,4 +7673,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1021202611:01||||||
+File Creation Time: 1022202611:01||||||
