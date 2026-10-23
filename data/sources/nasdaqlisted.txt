@@ -371,6 +371,7 @@ APUR|Aperture AC - Class A Ordinary Shares|S|N|N|100|N|N
 APURR|Aperture AC - Rights|S|N|N|100|N|N
 APVO|Aptevo Therapeutics Inc. - Common Stock|S|N|N|100|N|N
 APWC|Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share|S|N|N|100|N|N
+APXC|Apex Critical Metals Corp. - American Depositary Shares|S|N|N|100|N|N
 APXT|Apex Treasury Corporation - Class A Ordinary Share|G|N|N|100|N|N
 APXTU|Apex Treasury Corporation - Units|G|N|N|100|N|N
 APXTW|Apex Treasury Corporation - Warrants|G|N|N|100|N|N
@@ -380,7 +381,7 @@ AQLG|HCM Large Cap Growth ETF|G|N|N|100|Y|N
 AQMS|Aqua Metals, Inc. - Common Stock|S|N|N|100|N|N
 AQST|Aquestive Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 AQWA|Global X Clean Water ETF|G|N|N|100|Y|N
-ARAI|Arrive AI Inc. - Common Stock|G|N|D|100|N|N
+ARAI|Arrive AI Inc. - Common Stock|S|N|D|100|N|N
 ARAY|Accuray Incorporated - Common Stock|S|N|D|100|N|N
 ARBB|ARB IOT Group Limited - Ordinary Shares|S|N|N|100|N|N
 ARBE|Arbe Robotics Ltd. - Ordinary Shares|S|N|D|100|N|N
@@ -2150,7 +2151,7 @@ GOU|GraniteShares 2x Long GOOGL Daily ETF|G|N|N|100|Y|N
 GOVI|Invesco Equal Weight 0-30 Year Treasury ETF|G|N|N|100|Y|N
 GOVX|GeoVax Labs, Inc. - Common Stock|S|N|D|100|N|N
 GOW|GOWell Energy Technology - Ordinary shares|G|N|N|100|N|N
-GP|GreenPower Motor Company Inc. - Common Shares|S|N|N|100|N|N
+GP|GreenPower Motor Company Inc. - Common Shares|S|N|D|100|N|N
 GPAC|General Purpose Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 GPACU|General Purpose Acquisition Corp. - Units|G|N|N|100|N|N
 GPACW|General Purpose Acquisition Corp. - Warrant|G|N|N|100|N|N
@@ -3032,6 +3033,7 @@ LX|LexinFintech Holdings Ltd. - American Depositary Shares|Q|N|D|100|N|N
 LXEH|Lixiang Education Holding Co., Ltd. - American Depositary Shares|G|N|N|100|N|N
 LXEO|Lexeo Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
+LYCA|Lycia Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 LYEL|Lyell Immunopharma, Inc. - Common Stock|Q|N|N|100|N|N
 LYFT|Lyft, Inc. - Class A Common Stock|Q|N|N|100|N|N
 LYTS|LSI Industries Inc. - Common Stock|Q|N|N|100|N|N
@@ -3786,6 +3788,8 @@ PATN|Pacer Nasdaq International Patent Leaders ETF|G|N|N|100|Y|N
 PAVM|PAVmed Inc. - Common Stock|S|N|N|100|N|N
 PAVS|Paranovus Entertainment Technology Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 PAX|Patria Investments Limited - Class A Common Shares|Q|N|N|100|N|N
+PAXG|Pine Tree Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
+PAXGR|Pine Tree Acquisition Corp. - Rights|G|N|N|100|N|N
 PAXGU|Pine Tree Acquisition Corp. - Units|G|N|N|100|N|N
 PAYO|Payoneer Global Inc. - Common Stock|G|N|N|100|N|N
 PAYP|PayPay Corporation - American Depository Shares|Q|N|N|100|N|N
@@ -4391,7 +4395,6 @@ SAAQU|Space Asset Acquisition Corp. - Units|G|N|N|100|N|N
 SAAQW|Space Asset Acquisition Corp. - Warrants|G|N|N|100|N|N
 SABR|Sabre Corporation - Common Stock|Q|N|N|100|N|N
 SABS|SAB Biotherapeutics, Inc. - Common Stock|S|N|N|100|N|N
-SABSW|SAB Biotherapeutics, Inc. - Warrant|S|N|N|100|N|N
 SAFT|Safety Insurance Group, Inc. - Common Stock|Q|N|N|100|N|N
 SAFX|XCF Global, Inc. - Class A Common Stock|S|N|D|100|N|N
 SAGT|SAGTEC GLOBAL LIMITED - Class A Ordinary shares|S|N|D|100|N|N
@@ -4458,8 +4461,6 @@ SDHIR|Siddhi Acquisition Corp - Right|G|N|N|100|N|N
 SDHIU|Siddhi Acquisition Corp - Unit|G|N|N|100|N|N
 SDOT|Sadot Group Inc. - Common Stock|S|N|N|100|N|N
 SDSI|American Century Short Duration Strategic Income ETF|G|N|N|100|Y|N
-SDST|Stardust Power Inc. - Common Stock|S|N|D|100|N|N
-SDSTW|Stardust Power Inc. - Warrant|S|N|D|100|N|N
 SDTY|YieldMax S&P 500 0DTE Covered Call Strategy ETF|G|N|N|100|Y|N
 SDVY|First Trust SMID Cap Rising Dividend Achievers ETF|G|N|N|100|Y|N
 SEAT|Vivid Seats Inc. - Class A common stock|Q|N|N|100|N|N
@@ -4597,6 +4598,7 @@ SMHC|VanEck China Semiconductor ETF|G|N|N|100|Y|N
 SMHX|VanEck Fabless Semiconductor ETF|G|N|N|100|Y|N
 SMID|Smith-Midland Corporation - Common Stock|S|N|N|100|N|N
 SMMT|Summit Therapeutics Inc.  - Common Stock|G|N|N|100|N|N
+SMNG|xETFs Samsung Group ETF|G|N|N|100|Y|N
 SMOM|Symmetry Panoramic Sector Momentum ETF|G|N|N|100|Y|N
 SMPL|The Simply Good Foods Company - Common Stock|S|N|N|100|N|N
 SMRI|Bushido Capital US Equity ETF|G|N|N|100|Y|N
@@ -4848,7 +4850,7 @@ TCHI|iShares MSCI China Multisector Tech ETF|G|N|N|100|Y|N
 TCMD|Tactile Systems Technology, Inc. - Common Stock|G|N|N|100|N|N
 TCOM|Trip.com Group Limited - American Depositary Shares|Q|N|N|100|N|N
 TCPC|BlackRock TCP Capital Corp. - Closed End Fund|Q|N|N|100|N|N
-TCRT|Alaunos Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
+TCRT|Alaunos Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 TCRX|TScan Therapeutics, Inc. - Common Stock|G|N|D|100|N|N
 TCX|Tucows Inc. - Common Stock|S|N|N|100|N|N
 TCXB|TCGX Acquisition Corp. II - Class A Ordinary Shares|S|N|N|100|N|N
@@ -5622,4 +5624,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1022202611:01|||||||
+File Creation Time: 1023202611:01|||||||
