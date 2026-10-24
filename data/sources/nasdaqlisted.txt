@@ -2133,7 +2133,7 @@ GNMA|iShares GNMA Bond ETF|G|N|N|100|Y|N
 GNOM|Global X Genomics & Biotechnology ETF|G|N|N|100|Y|N
 GNPX|Genprex, Inc. - Common Stock|S|N|N|100|N|N
 GNSS|Genasys Inc. - Common Stock|S|N|N|100|N|N
-GNTA|Genenta Science S.p.A. - American Depositary Shares|S|N|N|100|N|N
+GNTA|Genenta Science S.p.A. - American Depositary Shares|S|N|D|100|N|N
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100|N|N
 GO|Grocery Outlet Holding Corp. - Common Stock|Q|N|N|100|N|N
 GOAI|Eva Live Inc. - Common Stock|S|N|N|100|N|N
@@ -2212,10 +2212,10 @@ GTEC|Greenland Technologies Holding Corporation - Class A Ordinary Shares|S|N|N|
 GTEN|Gores Holdings X, Inc. - Class A ordinary shares|G|N|N|100|N|N
 GTENU|Gores Holdings X, Inc. - Units|G|N|N|100|N|N
 GTENW|Gores Holdings X, Inc. - Warrants|G|N|N|100|N|N
-GTERA|Globa Terra Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
-GTERR|Globa Terra Acquisition Corporation - Rights|G|N|N|100|N|N
-GTERU|Globa Terra Acquisition Corporation - Units|G|N|N|100|N|N
-GTERW|Globa Terra Acquisition Corporation - Warrants|G|N|N|100|N|N
+GTERA|Globa Terra Acquisition Corporation - Class A Ordinary Shares|G|N|D|100|N|N
+GTERR|Globa Terra Acquisition Corporation - Rights|G|N|D|100|N|N
+GTERU|Globa Terra Acquisition Corporation - Units|G|N|D|100|N|N
+GTERW|Globa Terra Acquisition Corporation - Warrants|G|N|D|100|N|N
 GTIM|Good Times Restaurants Inc. - Common Stock|S|N|N|100|N|N
 GTLB|GitLab Inc. - Class A Common Stock|Q|N|N|100|N|N
 GTM|ZoomInfo Technologies Inc. - Common Stock|Q|N|N|100|N|N
@@ -5624,4 +5624,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1023202611:01|||||||
+File Creation Time: 1023202621:31|||||||
