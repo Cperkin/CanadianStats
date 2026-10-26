@@ -46,7 +46,6 @@ ABUF|Aptus Laddered Buffer ETF|Z|ABUF|Y|100|N|ABUF
 ABX|Abacus Global Management, Inc. Class A Common Stock|N|ABX|N|100|N|ABX
 ABXB|Abacus Flexible Bond Leaders ETF|Z|ABXB|Y|100|N|ABXB
 ABXL|Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028|N|ABXL|N|100|N|ABXL
-ACA|Arcosa, Inc. Common Stock |N|ACA|N|100|N|ACA
 ACCO|Acco Brands Corporation Common Stock|N|ACCO|N|100|N|ACCO
 ACCS|ACCESS Newswire Inc. Common Stock|A|ACCS|N|100|N|ACCS
 ACEI|Innovator Equity Autocallable Income Strategy ETF|P|ACEI|Y|100|N|ACEI
@@ -60,6 +59,7 @@ ACHX|Corgi ACHR 2x Daily ETF|Z|ACHX|Y|100|N|ACHX
 ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
 ACIG|Hartford Alpha Capture International Growth ETF|Z|ACIG|Y|100|N|ACIG
 ACII|Innovator Index Autocallable Income Strategy ETF|P|ACII|Y|100|N|ACII
+ACIN|Hartford Alpha Capture International Equity ETF|Z|ACIN|Y|100|N|ACIN
 ACIO|Aptus Collared Investment Opportunity ETF|Z|ACIO|Y|100|N|ACIO
 ACIV|Hartford Alpha Capture International Value ETF|Z|ACIV|Y|100|N|ACIV
 ACKY|VistaShares Target 15 ACKtivist Distribution ETF|P|ACKY|Y|100|N|ACKY
@@ -1090,6 +1090,7 @@ CATO|Cato Corporation (The) Class A Common Stock|N|CATO|N|100|N|CATO
 CATX|Perspective Therapeutics, Inc. Common Stock|A|CATX|N|100|N|CATX
 CAUG|Corgi U.S. Equities 15% Structured Buffer ETF - August Series|Z|CAUG|Y|100|N|CAUG
 CAVA|CAVA Group, Inc. Common Stock|N|CAVA|N|100|N|CAVA
+CAYN|Calamos Least-Of Autocallable Income ETF|P|CAYN|Y|100|N|CAYN
 CB|Chubb Limited  Common Stock|N|CB|N|40|N|CB
 CBAN|Colony Bankcorp, Inc. Common Stock|N|CBAN|N|100|N|CBAN
 CBIL|Corgi 3-12 Month T-Bill ETF|Z|CBIL|Y|100|N|CBIL
@@ -1144,7 +1145,6 @@ CCU|Compania Cervecerias Unidas, S.A. Common Stock|N|CCU|N|100|N|CCU
 CCUP|T-REX 2X Long CRCL Daily Target ETF|Z|CCUP|Y|100|N|CCUP
 CCZ|Comcast Holdings ZONES|N|CCZ|N|100|N|CCZ
 CDE|Coeur Mining, Inc. Common Stock|N|CDE|N|100|N|CDE
-CDEI|Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF|P|CDEI|Y|100|N|CDEI
 CDLR|Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)|N|CDLR|N|100|N|CDLR
 CDNG|Leverage Shares 2X Long CDNS Daily ETF|Z|CDNG|Y|100|N|CDNG
 CDP|COPT Defense Properties Common Shares of Beneficial Interest|N|CDP|N|100|N|CDP
@@ -2056,7 +2056,6 @@ ELLA|Ellington Credit Company 8.50% Notes due 2031|N|ELLA|N|100|N|ELLA
 ELLO|Ellomay Capital Ltd Ordinary Shares (Israel)|A|ELLO|N|100|N|ELLO
 ELM|Elm Market Navigator ETF|P|ELM|Y|100|N|ELM
 ELMD|Electromed, Inc. Common Stock|A|ELMD|N|100|N|ELMD
-ELME|Elme Communities Common Stock|N|ELME|N|100|N|ELME
 ELPC|Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)|N|ELPC|N|100|N|ELPC
 ELS|Equity Lifestyle Properties, Inc. Common Stock|N|ELS|N|100|N|ELS
 ELV|Elevance Health, Inc. Common Stock|N|ELV|N|40|N|ELV
@@ -3021,6 +3020,7 @@ GTOS|Invesco Short Duration Total Return Bond ETF|Z|GTOS|Y|100|N|GTOS
 GTY|Getty Realty Corporation Common Stock|N|GTY|N|100|N|GTY
 GUG|Guggenheim Active Allocation Fund Common Shares of Beneficial Interest|N|GUG|N|100|N|GUG
 GUMI|Goldman Sachs Ultra Short Municipal Income ETF|P|GUMI|Y|100|N|GUMI
+GUNN|Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)|A|GUNN|N|100|N|GUNN
 GUNR|Northern Trust Morningstar Global Upstream Natural Resources ETF|P|GUNR|Y|100|N|GUNR
 GURU|Global X Guru Index ETF|P|GURU|Y|100|N|GURU
 GUSA|Goldman Sachs MarketBeta U.S. 1000 Equity ETF|P|GUSA|Y|100|N|GUSA
@@ -5049,7 +5049,6 @@ PALL|abrdn Physical Palladium Shares ETF|P|PALL|Y|100|N|PALL
 PAM|Pampa Energia S.A.|N|PAM|N|100|N|PAM
 PAMC|Pacer Lunt MidCap Multi-Factor Alternator ETF|P|PAMC|Y|100|N|PAMC
 PAPI|Parametric Equity Premium Income ETF|P|PAPI|Y|100|N|PAPI
-PAPL|Pineapple Financial Inc. Common Stock|A|PAPL|N|100|N|PAPL
 PAPR|Innovator U.S. Equity Power Buffer ETF - April|Z|PAPR|Y|100|N|PAPR
 PAR|PAR Technology Corporation Common Stock|N|PAR|N|100|N|PAR
 PARR|Par Pacific Holdings, Inc.  Common Stock|N|PARR|N|100|N|PARR
@@ -5416,6 +5415,7 @@ PTBD|Pacer Trendpilot US Bond ETF|P|PTBD|Y|100|N|PTBD
 PTEU|Pacer TrendpilotTM European Index ETF|Z|PTEU|Y|100|N|PTEU
 PTHS|Pelthos Therapeutics Inc. Common Stock|A|PTHS|N|100|N|PTHS
 PTIN|Pacer Trendpilot International ETF|P|PTIN|Y|100|N|PTIN
+PTIV|Pineapple Financial Inc. Common Stock|A|PTIV|N|100|N|PTIV
 PTL|Inspire 500 ETF|P|PTL|Y|40|N|PTL
 PTLC|Pacer Trendpilot US Large Cap ETF|Z|PTLC|Y|100|N|PTLC
 PTMC|Pacer Trendpilot US Mid Cap ETF|Z|PTMC|Y|100|N|PTMC
@@ -7264,7 +7264,6 @@ WDS|Woodside Energy Group Limited American Depositary Shares, each representing 
 WDTE|Defiance S&P 500 Weekly Distribution ETF|P|WDTE|Y|100|N|WDTE
 WEA|Western Asset Bond Fund Share of Beneficial Interest|N|WEA|N|100|N|WEA
 WEAT|Teucrium Wheat Fund ETV|P|WEAT|Y|100|N|WEAT
-WEAV|Weave Communications, Inc. Common Stock|N|WEAV|N|100|N|WEAV
 WEBL|Direxion Daily Dow Jones Internet Bull 3X ETF|P|WEBL|Y|100|N|WEBL
 WEBS|Direxion Daily Dow Jones Internet Bear 3X ETF|P|WEBS|Y|100|N|WEBS
 WEBX|Corgi Chinese Internet 2x Daily ETF|Z|WEBX|Y|100|N|WEBX
@@ -7673,4 +7672,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1023202621:31||||||
+File Creation Time: 1026202612:11||||||

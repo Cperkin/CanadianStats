@@ -31,6 +31,7 @@ AMD,Advanced Micro Devices CDR (CAD Hedged),TSX
 AAV,Advantage Energy Ltd.,TSX
 ARE,Aecon Group Inc.,TSX
 AEG,Aegis Brands Inc.,TSX
+AETR,Aetherion Technologies Inc.,TSX
 AFN,Ag Growth International Inc.,TSX
 AMGR,AGF American Growth Fund,TSX
 AENP,AGF Enhanced U.S. Income Plus Fund,TSX
@@ -736,6 +737,9 @@ DXCO,Dynamic Credit Opportunities Fund,TSX
 DXBG,Dynamic Global Fixed Income Fund,TSX
 DXR,Dynamic Retirement Income Fund,TSX
 DXCP,Dynamic Short Term Credit PLUS Fund,TSX
+DSCA,Dynamic Systematic Canadian Equity ETF,TSX
+DSIT,Dynamic Systematic International Equity ETF,TSX
+DSAM,Dynamic Systematic U.S. Equity ETF,TSX
 ENS,E Split Corp.,TSX
 ELF,E-L Financial Corporation Limited,TSX
 EAGR,East Side Games Group Inc.,TSX
@@ -1496,6 +1500,7 @@ PBY,Lysander-Canso Credit Income ActivETF,TSX
 LYFR,Lysander-Canso Floating Rate ActivETF,TSX
 LYUV.U,Lysander-Canso U.S. Corporate Value Bond Fund,TSX
 PR,Lysander-Slater Preferred Share ActivETF,TSX
+LTCE,Lysander-Triasima Canadian Equity Fund,TSX
 LORL,L’Oréal CDR (CAD Hedged),TSX
 XMF.A,M Split Corp.,TSX
 MAAA,Mackenzie AAA CLO ETF,TSX
@@ -2319,7 +2324,6 @@ WDC,Western Digital CDR (CAD Hedged),TSX
 WRG,Western Energy Services Corp.,TSX
 WEF,Western Forest Products Inc.,TSX
 WGX,Westgold Resources Limited,TSX
-WPRT,Westport Fuel Systems Inc.,TSX
 WTE,Westshore Terminals Investment Corporation,TSX
 WPM,Wheaton Precious Metals Corp.,TSX
 WCP,Whitecap Resources Inc.,TSX

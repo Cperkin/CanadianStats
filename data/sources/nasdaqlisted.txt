@@ -140,6 +140,7 @@ AESP|Aeon Acquisition I Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 AESPR|Aeon Acquisition I Corp. - Rights|G|N|N|100|N|N
 AESPU|Aeon Acquisition I Corp. - Units|G|N|N|100|N|N
 AESPW|Aeon Acquisition I Corp. - Warrants|G|N|N|100|N|N
+AETR|Aetherion Technologies Inc. - Common Shares|Q|N|N|100|N|N
 AEVA|Aeva Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 AEYE|AudioEye, Inc. - Common Stock|S|N|N|100|N|N
 AFCG|Advanced Flower Capital Inc. - Common Stock|G|N|N|100|N|N
@@ -1752,6 +1753,7 @@ FCAL|First Trust California Municipal High income ETF|G|N|N|100|Y|N
 FCAP|First Capital, Inc. - Common Stock|S|N|N|100|N|N
 FCBC|First Community Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 FCCO|First Community Corporation - Common Stock|S|N|N|100|N|N
+FCDH|Forcendra Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 FCEF|First Trust Income Opportunities ETF|G|N|N|100|Y|N
 FCEL|FuelCell Energy, Inc. - Common Stock|G|N|N|100|N|N
 FCFS|FirstCash Holdings, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2067,7 +2069,6 @@ GEVG|Leverage Shares 2X Long GEV Daily ETF|G|N|N|100|Y|N
 GEVO|Gevo, Inc. - Common Stock|S|N|N|100|N|N
 GEW|Cambria Global EW ETF|G|N|N|100|Y|N
 GFAI|Guardforce AI Co., Limited - Ordinary Shares|S|N|D|100|N|N
-GFGF|Guru Favorite Stocks ETF|G|N|N|100|Y|N
 GFLW|VictoryShares Free Cash Flow Growth ETF|G|N|N|100|Y|N
 GFS|GlobalFoundries Inc. - Ordinary Share|Q|N|N|100|N|N
 GFUZ|General Fusion Group Ltd. - Common Shares|G|N|N|100|N|N
@@ -4174,6 +4175,7 @@ QYLG|Global X Nasdaq 100 Covered Call & Growth ETF|G|N|N|100|Y|N
 RAA|SMI 3Fourteen REAL Asset Allocation ETF|G|N|N|100|Y|N
 RACC|Research Alliance Corporation III - Class A Ordinary Shares|S|N|N|100|N|N
 RACD|Research Alliance Corporation IV - Class A Ordinary Shares|S|N|N|100|N|N
+RADD|AB US Research Advanced ETF|G|N|N|100|Y|N
 RADX|Radiopharm Theranostics Limited - American Depositary Shares|S|N|N|100|N|N
 RAIL|Freightcar America, Inc. - Common Stock|Q|N|N|100|N|N
 RAIN|Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock|S|N|D|100|N|N
@@ -5322,7 +5324,6 @@ VSAT|ViaSat, Inc. - Common Stock|Q|N|N|100|N|N
 VSDA|VictoryShares Dividend Accelerator ETF|G|N|N|100|Y|N
 VSEC|VSE Corporation - Common Stock|Q|N|N|100|N|N
 VSECU|VSE Corporation - Tangible Equity Units|Q|N|N|100|N|N
-VSME|VS Media Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 VSMV|VictoryShares US Multi-Factor Minimum Volatility ETF|G|N|N|100|Y|N
 VSNT|Versant Media Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 VSOL|VanEck Solana ETF|G|N|N|100|Y|N
@@ -5420,7 +5421,6 @@ WOK|WORK Medical Technology Group LTD - Class A Ordinary Shares|S|N|N|100|N|N
 WOOD|iShares Global Timber & Forestry ETF|G|N|N|100|Y|N
 WOOF|Petco Health and Wellness Company, Inc. - Class A Common Stock|Q|N|N|100|N|N
 WORX|SCWorx Corp. - Common Stock|S|N|N|100|N|N
-WPRT|Westport Fuel Systems Inc - Common Shares|Q|N|N|100|N|N
 WQEY|WISeQey Corp - Ordinary Shares|G|N|N|100|N|N
 WRAP|Wrap Technologies, Inc. - Common Stock|S|N|N|100|N|N
 WRD|WeRide Inc. - American Depositary Shares|G|N|N|100|N|N
@@ -5624,4 +5624,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1023202621:31|||||||
+File Creation Time: 1026202612:11|||||||
