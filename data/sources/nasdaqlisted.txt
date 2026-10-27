@@ -1163,7 +1163,7 @@ CNSY|Cerenome, Inc. - Common Stock|S|N|N|100|N|N
 CNTB|Connect Biopharma Holdings Limited - Ordinary Shares|G|N|N|100|N|N
 CNTN|Canton Strategic Holdings, Inc. - Common Stock|S|N|N|100|N|N
 CNTX|Context Therapeutics Inc. - Common Stock|S|N|D|100|N|N
-CNTY|Century Casinos, Inc. - Common Stock|S|N|N|100|N|N
+CNTY|Century Casinos, Inc. - Common Stock|S|N|D|100|N|N
 CNVS|Cineverse Corp. - Class A Common Stock|S|N|N|100|N|N
 CNXC|Concentrix Corporation - Common Stock|Q|N|N|100|N|N
 CNXN|PC Connection, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1442,7 +1442,7 @@ DNMXW|Dynamix Corporation III - Warrants|G|N|N|100|N|N
 DNTH|Dianthus Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 DNUT|Krispy Kreme, Inc. - Common Stock|Q|N|N|100|N|N
 DOCU|DocuSign, Inc. - Common Stock|Q|N|N|100|N|N
-DOGZ|Dogness (International) Corporation - Class A Common Stock|S|N|N|100|N|N
+DOGZ|Dogness (International) Corporation - Class A Common Stock|S|N|D|100|N|N
 DOMH|Dominari Holdings Inc. - Common Stock|S|N|N|100|N|N
 DOO|BRP Inc. - Common Subordinate Voting Shares|Q|N|N|100|N|N
 DORM|Dorman Products, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1880,7 +1880,7 @@ FMET|Fidelity Metaverse ETF|G|N|N|100|Y|N
 FMFC|Kandal M Venture Limited - Class A ordinary Shares|S|N|D|100|N|N
 FMHI|First Trust Municipal High Income ETF|G|N|N|100|Y|N
 FMNB|Farmers National Banc Corp. - Common Stock|S|N|N|100|N|N
-FMST|Foremost Clean Energy Ltd. - Common Shares|S|N|N|100|N|N
+FMST|Foremost Clean Energy Ltd. - Common Shares|S|N|D|100|N|N
 FMSTW|Foremost Clean Energy Ltd. - Warrant|S|N|N|100|N|N
 FMTM|MarketDesk Focused U.S. Momentum ETF|G|N|N|100|Y|N
 FMUB|Fidelity Municipal Bond Opportunities ETF|G|N|N|100|Y|N
@@ -1890,7 +1890,7 @@ FNK|First Trust Mid Cap Value AlphaDEX Fund|G|N|N|100|Y|N
 FNKO|Funko, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FNLC|First Bancorp, Inc (ME) - Common Stock|Q|N|N|100|N|N
 FNRN|First Northern Community Bancorp - Common stock|S|N|N|100|N|N
-FNUC|Frontier Nuclear and Minerals Inc. - Common Shares|S|N|E|100|N|N
+FNUC|Frontier Nuclear and Minerals Inc. - Common Shares|S|N|N|100|N|N
 FNWB|First Northwest Bancorp - Common Stock|G|N|N|100|N|N
 FNWD|Finward Bancorp - common stock|S|N|N|100|N|N
 FNX|First Trust Mid Cap Core AlphaDEX Fund|G|N|N|100|Y|N
@@ -2609,7 +2609,7 @@ IPHXW|Inflection Point Acquisition Corp. VIII - Warrant|G|N|N|100|N|N
 IPKW|Invesco International BuyBack Achievers ETF|G|N|N|100|Y|N
 IPM|Intelligent Protection Management Corp.  - Common Stock|S|N|N|100|N|N
 IPSC|Century Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
-IPST|IP Strategy Holdings, Inc. - Common Stock|S|N|E|100|N|N
+IPST|IP Strategy Holdings, Inc. - Common Stock|S|N|N|100|N|N
 IPVV|InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares|G|N|N|100|N|N
 IPVVU|InterPrivate Investment Partners V, Inc. - Units|G|N|N|100|N|N
 IPVVW|InterPrivate Investment Partners V, Inc. - Warrants|G|N|N|100|N|N
@@ -2746,8 +2746,6 @@ KARD|Kardigan, Inc. - Common Stock|G|N|N|100|N|N
 KARO|Karooooo Ltd. - Ordinary shares|S|N|N|100|N|N
 KAT|Scharf ETF|G|N|N|100|Y|N
 KAZR|Skyline Builders Group Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
-KBAB|KraneShares 2x Long BABA Daily ETF|G|N|N|100|Y|N
-KBDU|KraneShares 2x Long BIDU Daily ETF|G|N|N|100|Y|N
 KBON|Karbon Capital Partners Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 KBONU|Karbon Capital Partners Corp. - Units|G|N|N|100|N|N
 KBONW|Karbon Capital Partners Corp. - Warrant|G|N|N|100|N|N
@@ -2785,7 +2783,6 @@ KINS|Kingstone Companies, Inc - Common Stock|S|N|N|100|N|N
 KIQQ|KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF|G|N|N|100|Y|N
 KITT|Nauticus Robotics, Inc. - Common stock|S|N|D|100|N|N
 KITTW|Nauticus Robotics, Inc. - Warrant|S|N|D|100|N|N
-KJD|KraneShares 2x Long JD Daily ETF|G|N|N|100|Y|N
 KLAC|KLA Corporation  - Common Stock|Q|N|N|10|N|N
 KLAG|Leverage Shares 2x Long KLAC Daily ETF|G|N|N|100|Y|N
 KLIC|Kulicke and Soffa Industries, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2795,7 +2792,6 @@ KLTR|Kaltura, Inc. - Common Stock|Q|N|N|100|N|N
 KLXE|KLX Energy Services Holdings, Inc.  - Common Stock|Q|N|N|100|N|N
 KMB|Kimberly-Clark Corporation - Common Stock|Q|N|N|100|N|N
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100|N|N
-KMLI|KraneShares 2x Long MELI Daily ETF|G|N|N|100|Y|N
 KMRK|K-Tech Solutions Company Limited - Class A Ordinary Shares|S|N|N|100|N|N
 KMTS|Kestra Medical Technologies, Ltd. - Common Stock|Q|N|N|100|N|N
 KNDI|Kandi Technologies Group, Inc. - Ordinary Shares|Q|N|D|100|N|N
@@ -2808,7 +2804,6 @@ KOSS|Koss Corporation - Common Stock|S|N|N|100|N|N
 KOYN|CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares|G|N|N|100|N|N
 KOYNU|CSLM Digital Asset Acquisition Corp III - Units|G|N|N|100|N|N
 KOYNW|CSLM Digital Asset Acquisition Corp III - Warrants|G|N|N|100|N|N
-KPDD|KraneShares 2x Long PDD Daily ETF|G|N|N|100|Y|N
 KPLT|Katapult Holdings, Inc. - Common Stock|G|N|N|100|N|N
 KPRX|Kiora Pharmaceuticals, Inc.  - Common Stock|S|N|N|100|N|N
 KPTI|Karyopharm Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
@@ -3359,7 +3354,6 @@ NAMS|NewAmsterdam Pharma Company N.V. - Ordinary Shares|G|N|N|100|N|N
 NAMSW|NewAmsterdam Pharma Company N.V. - Warrant|G|N|N|100|N|N
 NANO|Forge Nano Holdings Inc. - Common stock|G|N|N|100|N|N
 NANOW|Forge Nano Holdings Inc. - Warrants|S|N|N|100|N|N
-NATH|Nathan's Famous, Inc. - Common Stock|Q|N|N|100|N|N
 NATO|Themes Transatlantic Defense ETF|G|N|N|100|Y|N
 NATR|Nature's Sunshine Products, Inc. - Common Stock|S|N|N|100|N|N
 NAUT|Nautilus Biotechnology, Inc. - Common Stock|S|N|N|100|N|N
@@ -3568,7 +3562,7 @@ NWTG|Newton Golf Company, Inc. - Common Stock|S|N|D|100|N|N
 NXAT|Nexus Advanced Technologies Inc. - Ordinary Shares|S|N|N|100|N|N
 NXATW|Nexus Advanced Technologies Inc. - Warrant|S|N|N|100|N|N
 NXDR|Nextdoor Holdings, Inc. - Common Stock|S|N|N|100|N|N
-NXGL|NexGel, Inc - Common Stock|S|N|D|100|N|N
+NXGL|NexGel, Inc - Common Stock|S|N|N|100|N|N
 NXGLW|NexGel, Inc - Warrant|S|N|N|100|N|N
 NXH|Neighborhood Intelligence, Inc.  - Common Stock|Q|N|N|100|N|N
 NXL|Nexalin Technology, Inc. - Common Stock|S|N|D|100|N|N
@@ -3779,8 +3773,8 @@ PAMT|PAMT CORP - Common Stock|G|N|N|100|N|N
 PANG|Leverage Shares 2X Long PANW Daily ETF|G|N|N|100|Y|N
 PANL|Pangaea Logistics Solutions Ltd. - Common Stock|S|N|N|100|N|N
 PANW|Palo Alto Networks, Inc. - Common Stock|Q|N|N|100|N|N
-PARA|Banzai International, Inc. - Class A Common Stock|S|N|N|100|N|N
-PARAW|Banzai International, Inc. - Warrant|S|N|N|100|N|N
+PARA|Parabolic Technologies, Inc. - Class A Common Stock|S|N|N|100|N|N
+PARAW|Parabolic Technologies, Inc. - Warrant|S|N|N|100|N|N
 PARK|Park Dental Partners, Inc. - Common Stock|S|N|N|100|N|N
 PASG|Passage Bio, Inc. - Common Stock|S|N|N|100|N|N
 PASW|Ping An Biomedical Co., Ltd. - Class A Ordinary Shares|S|N|D|100|N|N
@@ -4448,6 +4442,7 @@ SCOR|comScore, Inc. - Common Stock|Q|N|N|100|N|N
 SCPQ|Social Commerce Partners Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 SCPQU|Social Commerce Partners Corporation - Unit|G|N|N|100|N|N
 SCPQW|Social Commerce Partners Corporation - Warrant|G|N|N|100|N|N
+SCQCU|SPACCircle Acquisition Corp. - Units|G|N|N|100|N|N
 SCSC|ScanSource, Inc. - Common Stock|Q|N|N|100|N|N
 SCTX|Scribe Therapeutics Inc. - Common Stock|G|N|N|100|N|N
 SCWO|374Water Inc. - common stock|S|N|N|100|N|N
@@ -5569,6 +5564,7 @@ YQQQ|YieldMax Short N100 Option Income Strategy ETF|G|N|N|100|Y|N
 YRAM|YieldMax Memory and Storage Portfolio Option Income ETF|G|N|N|100|Y|N
 YSAG|Y'all Street Physical Silver ETF|G|N|N|100|Y|N
 YSAU|Y'all Street Physical Gold ETF|G|N|N|100|Y|N
+YSKH|YieldMax SKHY Option Income Strategy ETF|G|N|N|100|Y|N
 YSPY|GraniteShares YieldBOOST SPY ETF|G|N|N|100|Y|N
 YSWY|Yesway, Inc. - Class A Common Stock|Q|N|N|100|N|N
 YSXT|YSX Tech. Co., Ltd  - Class A Ordinary Shares|S|N|N|100|N|N
@@ -5624,4 +5620,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1026202612:11|||||||
+File Creation Time: 1027202612:11|||||||
