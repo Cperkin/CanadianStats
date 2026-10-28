@@ -1494,7 +1494,6 @@ DUOG|Leverage Shares 2X Long DUOL Daily ETF|G|N|N|100|Y|N
 DUOL|Duolingo, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DUOT|Duos Technologies Group, Inc. - Common Stock|S|N|N|100|N|N
 DUSG|U.S. Small Cap Growth Portfolio: ETF Class Shares|G|N|N|100|Y|N
-DVAL|BrandywineGLOBAL-Dynamic US Large Cap Value ETF|G|N|N|100|Y|N
 DVGR|DAC 3D Dividend Growth ETF|G|N|N|100|Y|N
 DVLT|Datavault AI Inc. - Common Stock|S|N|D|100|N|N
 DVLU|First Trust Dorsey Wright Momentum & Value ETF|G|N|N|100|Y|N
@@ -1597,7 +1596,6 @@ EMAT|Evolution Metals & Technologies Corp. - Common Stock|G|N|N|100|N|N
 EMB|iShares J.P. Morgan USD Emerging Markets Bond ETF|G|N|N|100|Y|N
 EMBC|Embecta Corp. - Common Stock|Q|N|N|100|N|N
 EMCB|WisdomTree Emerging Markets Corporate Bond Fund|G|N|N|100|Y|N
-EMEM|Sophus Capital Emerging Market ETF|G|N|N|100|Y|N
 EMEQ|Nomura Focused Emerging Markets Equity ETF|G|N|N|100|Y|N
 EMIF|iShares Emerging Markets Infrastructure ETF|G|N|N|100|Y|N
 EMIS|Emmis Acquisition Corp. - Class A Ordinary Share|G|N|N|100|N|N
@@ -1807,6 +1805,7 @@ FFBC|First Financial Bancorp. - Common Stock|Q|N|N|100|N|N
 FFIN|First Financial Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 FFIV|F5, Inc. - Common Stock|Q|N|N|40|N|N
 FFR|FF EAI Robotics Ecosystem Inc. - Common Stock|S|N|N|100|N|N
+FFTT|Masonglory Limited - Class A Ordinary Shares|S|N|N|100|N|N
 FFUT|Fidelity Managed Futures ETF|G|N|N|100|Y|N
 FGBI|First Guaranty Bancshares, Inc. - Common Stock|G|N|N|100|N|N
 FGBIP|First Guaranty Bancshares, Inc. - 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
@@ -1847,7 +1846,7 @@ FIZZ|National Beverage Corp. - Common Stock|Q|N|N|100|N|N
 FJDI|ARC Group Securities Acquisition I - Class A Ordinary Shares|G|N|N|100|N|N
 FJDIR|ARC Group Securities Acquisition I - Rights|G|N|N|100|N|N
 FJDIU|ARC Group Securities Acquisition I - Units|G|N|N|100|N|N
-FJDIW|ARC Group Securities Acquisition I - Warrants|G|N|N|100|N|N
+FJDIW|ARC Group Securities Acquisition I - Warrants|G|N|D|100|N|N
 FJP|First Trust Japan AlphaDEX Fund|G|N|N|100|Y|N
 FKU|First Trust United Kingdom AlphaDEX Fund|G|N|N|100|Y|N
 FKWL|Franklin Wireless Corp. - common stock|S|N|N|100|N|N
@@ -2853,7 +2852,7 @@ LAND|Gladstone Land Corporation - Common Stock|G|N|N|100|N|N
 LANDO|Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock|G|N|N|100|N|N
 LANDP|Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock|G|N|N|100|N|N
 LARK|Landmark Bancorp Inc. - Common Stock|G|N|N|100|N|N
-LASE|Laser Photonics Corporation - Common Stock|S|N|N|100|N|N
+LASE|Laser Photonics Corporation - Common Stock|S|N|D|100|N|N
 LASR|nLIGHT, Inc. - Common Stock|Q|N|N|100|N|N
 LATA|Galata Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 LATAU|Galata Acquisition Corp. II - Units|G|N|N|100|N|N
@@ -3265,7 +3264,6 @@ MSFL|GraniteShares 2x Long MSFT Daily ETF|G|N|N|100|Y|N
 MSFT|Microsoft Corporation - Common Stock|Q|N|N|40|N|N
 MSFU|Direxion Daily MSFT Bull 2X ETF|G|N|N|100|Y|N
 MSGM|Motorsport Games Inc. - Class A Common Stock|S|N|N|100|N|N
-MSGY|Masonglory Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MSLE|Satellos Bioscience Inc. - Common Stock|G|N|N|100|N|N
 MSR|GraniteShares Autocallable MSTR ETF|G|N|N|100|Y|N
 MSS|Maison Solutions Inc. - Class A Common Stock|S|N|E|100|N|N
@@ -3291,7 +3289,6 @@ MTYY|GraniteShares YieldBOOST MSTR ETF|G|N|N|100|Y|N
 MU|Micron Technology, Inc. - Common Stock|Q|N|N|40|N|N
 MUD|Direxion Daily MU Bear 1X ETF|G|N|N|100|Y|N
 MULL|GraniteShares 2x Long MU Daily ETF|G|N|N|100|Y|N
-MULT|Franklin Multisector Income ETF|G|N|N|100|Y|N
 MUU|Direxion Daily MU Bull 2X ETF|G|N|N|100|Y|N
 MUY|YieldMax MU Option Income Strategy ETF|G|N|N|100|Y|N
 MUYY|GraniteShares YieldBOOST MU ETF|G|N|N|100|Y|N
@@ -4614,7 +4611,7 @@ SND|Smart Sand, Inc. - Common Stock|Q|N|N|100|N|N
 SNDK|Sandisk Corporation - Common Stock When-Issued|Q|N|N|40|N|N
 SNDL|SNDL Inc. - Common Shares|S|N|N|100|N|N
 SNDX|Syndax Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
-SNES|SenesTech, Inc. - Common Stock|S|N|N|100|N|N
+SNES|SenesTech, Inc. - Common Stock|S|N|D|100|N|N
 SNEX|StoneX Group Inc. - Common Stock|Q|N|N|100|N|N
 SNFCA|Security National Financial Corporation - Class A Common Stock|G|N|N|100|N|N
 SNGX|Soligenix, Inc. - Common Stock|S|N|D|100|N|N
@@ -5162,7 +5159,6 @@ USDE|StablecoinX Inc. - Class A Common Stock|S|N|N|100|N|N
 USDEW|StablecoinX Inc. - Warrants|S|N|N|100|N|N
 USDX|SGI Enhanced Core ETF|G|N|N|100|Y|N
 USEA|United Maritime Corporation - Common Stock|S|N|N|100|N|N
-USFI|BrandywineGLOBAL - U.S. Fixed Income ETF|G|N|N|100|Y|N
 USGG|Leverage Shares 2X Long USAR Daily ETF|G|N|N|100|Y|N
 USGO|U.S. GoldMining Inc. - Common stock|S|N|D|100|N|N
 USIG|iShares Broad USD Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
@@ -5620,4 +5616,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1027202612:11|||||||
+File Creation Time: 1028202612:11|||||||

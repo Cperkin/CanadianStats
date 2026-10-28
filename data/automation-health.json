@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-27T16:36:25.217Z",
+  "generatedAt": "2026-10-28T17:09:14.300Z",
   "status": "healthy",
   "freshness": {
-    "universeUpdatedAt": "2026-10-27T16:36:19.414Z",
+    "universeUpdatedAt": "2026-10-28T17:09:09.148Z",
     "universeAgeHours": 0,
-    "top20UpdatedAt": "2026-10-27T16:36:25.169Z",
+    "top20UpdatedAt": "2026-10-28T17:09:14.256Z",
     "top20AgeHours": 0
   },
   "counts": {
-    "universeCount": 6343,
+    "universeCount": 6342,
     "scoredCount": 0,
     "displayedTopCount": 20
   },
   "budget": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "top20Used": 10,
     "top20Limit": 200,
     "trackedUsed": 0,
