@@ -674,17 +674,17 @@ DAGL,Desjardins Global Opportunities ETF,TSX
 DMEI,Desjardins International Equity Index ETF,TSX
 DANC,Desjardins Market Neutral ETF,TSX
 DMQC,Desjardins Quebec Equity ETF,TSX
-DRCU,Desjardins RI Active Canadian Bond - Net-Zero Emissions Pathway ETF,TSX
-DRMC,Desjardins RI Canada - Net-Zero Emissions Pathway ETF,TSX
-DRFC,Desjardins RI Canada Multifactor - Net-Zero Emissions Pathway ETF,TSX
-DRMD,Desjardins RI Developed ex-USA ex-Canada - Net-Zero Emissions Pathway ETF,TSX
-DRME,Desjardins RI Emerging Markets - Net-Zero Emissions Pathway ETF,TSX
-DRFE,Desjardins RI Emerging Markets Multifactor - Net-Zero Emissions Pathway ETF,TSX
+DRCU,Desjardins RI Active Canadian Bond ETF,TSX
+DRMU,Desjardins RI American Equity ETF,TSX
+DRMC,Desjardins RI Canadian Equity ETF,TSX
+DRME,Desjardins RI Emerging Markets Equity ETF,TSX
 DRFG,Desjardins RI Global Multifactor - Fossil Fuel Reserves Free ETF,TSX
-DRMU,Desjardins RI USA - Net-Zero Emissions Pathway ETF,TSX
-DRFU,Desjardins RI USA Multifactor - Net-Zero Emissions Pathway ETF,TSX
+DRMD,Desjardins RI International Equity ETF,TSX
+DRFU,Desjardins RI Multifactor American Equity ETF,TSX
+DRFC,Desjardins RI Multifactor Canadian Equity ETF,TSX
+DRFE,Desjardins RI Multifactor Emerging Markets Equity ETF,TSX
+DRFD,Desjardins RI Multifactor International Equity ETF,TSX
 DUIG,Desjardins US Investment Grade Corporate Bond Index ETF,TSX
-DRFD,DesjardinsRIDeveloped ex-USAex-Canada Multifactor-Net-ZeroEmissionsPathwayETF,TSX
 DXT,Dexterra Group Inc.,TSX
 DRT,DIRTT Environmental Solutions Ltd.,TSX
 DSV,Discovery Mining Ltd.,TSX
@@ -898,6 +898,7 @@ FISV,Fiserv CDR (CAD Hedged),TSX
 MHC.U,Flagship Communities Real Estate Investment Trust,TSX
 FLNT,FLINT Corp.,TSX
 FAR,Foraco International SA,TSX
+FORU,ForAll Core & More U.S. Equity Index ETF,TSX
 F,Ford CDR (CAD Hedged),TSX
 FGBL,Forstrong Global Balanced ETF,TSX
 FGRW,Forstrong Global Growth ETF,TSX
@@ -2275,7 +2276,6 @@ VIDY,Vanguard FTSE Developed ex North America High Dividend Yield Index ETF,TSX
 VEE,Vanguard FTSE Emerging Markets All Cap Index ETF,TSX
 VXC,Vanguard FTSE Global All Cap ex Canada Index ETF,TSX
 VCOR,Vanguard Global Core-Plus Bond ETF,TSX
-VVO,Vanguard Global Minimum Volatility ETF,TSX
 VMO,Vanguard Global Momentum Factor ETF,TSX
 VVL,Vanguard Global Value Factor ETF,TSX
 VGRO,Vanguard Growth ETF Portfolio,TSX

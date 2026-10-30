@@ -1301,7 +1301,7 @@ CMCI|VanEck CMCI Commodity Strategy ETF|Z|CMCI|Y|100|N|CMCI
 CMCL|Caledonia Mining Corporation Plc Common Shares|A|CMCL|N|100|N|CMCL
 CMCM|Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares|N|CMCM|N|100|N|CMCM
 CMDB|Costamare Bulkers Holdings Limited Common Stock|N|CMDB|N|100|N|CMDB
-CMDT|PIMCO Commodity Strategy Active Exchange-Traded Fund|P|CMDT|Y|100|N|CMDT
+CMDT|PIMCO Commodity and Bond Strategy Active Exchange-Traded Fund|P|CMDT|Y|100|N|CMDT
 CMDY|iShares Bloomberg Roll Select Commodity Strategy ETF|P|CMDY|Y|100|N|CMDY
 CMF|iShares California Muni Bond ETF|P|CMF|Y|100|N|CMF
 CMG|Chipotle Mexican Grill, Inc. Common Stock|N|CMG|N|100|N|CMG
@@ -1385,7 +1385,7 @@ COR|Cencora, Inc. Common Stock|N|COR|N|40|N|COR
 CORB|AB Core Bond ETF|P|CORB|Y|100|N|CORB
 CORD|T-REX 2X Inverse CRWV Daily Target ETF|Z|CORD|Y|100|N|CORD
 CORN|Teucrium Corn Fund ETV|P|CORN|Y|100|N|CORN
-CORP|PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund|P|CORP|Y|100|N|CORP
+CORP|PIMCO Investment Grade Corporate Bond Exchange-Traded Fund|P|CORP|Y|100|N|CORP
 COSO|CoastalSouth Bancshares, Inc. Common Stock|N|COSO|N|100|N|COSO
 COSW|Roundhill COST WeeklyPay ETF|Z|COSW|Y|100|N|COSW
 COTY|Coty Inc. Class A Common Stock|N|COTY|N|100|N|COTY
@@ -2032,7 +2032,6 @@ EHCC|Global X Ethereum Covered Call ETF|Z|EHCC|Y|100|N|EHCC
 EHI|Western Asset Global High Income Fund Inc Common Stock|N|EHI|N|100|N|EHI
 EHY|Amplify Ethereum Max Income Covered Call ETF|Z|EHY|Y|100|N|EHY
 EIC|Eagle Point Income Company Common Shares of Beneficial Interest|N|EIC|N|100|N|EIC
-EICA|Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026|N|EICA|N|100|N|EICA
 EIDO|iShares MSCI Indonesia ETF|P|EIDO|Y|100|N|EIDO
 EIG|Employers Holdings Inc Common Stock|N|EIG|N|100|N|EIG
 EIIA|Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029|N|EIIA|N|100|N|EIIA
@@ -2088,7 +2087,7 @@ EMM|Global X Emerging Markets ex-China ETF|P|EMM|Y|100|N|EMM
 EMMF|WisdomTree Emerging Markets Multifactor Fund|P|EMMF|Y|100|N|EMMF
 EMMY|Corgi Emerging Markets Equities 15% Structured Buffer ETF - May Series|Z|EMMY|Y|100|N|EMMY
 EMN|Eastman Chemical Company Common Stock|N|EMN|N|100|N|EMN
-EMNT|PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund|P|EMNT|Y|100|N|EMNT
+EMNT|PIMCO Enhanced Short Maturity Active ESG and Bond Exchange-Traded Fund|P|EMNT|Y|100|N|EMNT
 EMO|ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock|N|EMO|N|100|N|EMO
 EMOP|AB Emerging Markets Opportunities ETF|P|EMOP|Y|100|N|EMOP
 EMOT|First Trust S&P 500 Economic Moat ETF|P|EMOT|Y|100|N|EMOT
@@ -2887,7 +2886,6 @@ GMAC|Simplify Brookwood Global Macro ETF|P|GMAC|Y|100|N|GMAC
 GMAR|FT Vest U.S. Equity Moderate Buffer ETF - March|Z|GMAR|Y|100|N|GMAR
 GMAY|FT Vest U.S. Equity Moderate Buffer ETF - May|Z|GMAY|Y|100|N|GMAY
 GME|GameStop Corporation Common Stock|N|GME|N|100|N|GME
-GME.W|GameStop Corporation Warrants to Purchase Common Stock|N|GME.WS|N|100|N|GME+
 GMEC|Corgi GME 2x Daily ETF|Z|GMEC|Y|100|N|GMEC
 GMED|Globus Medical, Inc. Class A Common Stock|N|GMED|N|100|N|GMED
 GMEU|T-REX 2X Long GME Daily Target ETF|Z|GMEU|Y|100|N|GMEU
@@ -3259,7 +3257,7 @@ HYLB|Xtrackers USD High Yield Corporate Bond ETF|P|HYLB|Y|100|N|HYLB
 HYLN|Hyliion Holdings Corp. Class A Common Stock|A|HYLN|N|100|N|HYLN
 HYMB|State Street SPDR Nuveen ICE High Yield Municipal Bond ETF|P|HYMB|Y|100|N|HYMB
 HYNX|T-REX 2X Long SKHY Daily Target ETF|P|HYNX|Y|100|N|HYNX
-HYS|PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund|P|HYS|Y|100|N|HYS
+HYS|PIMCO 0-5 Year High Yield Corporate Bond Exchange-Traded Fund|P|HYS|Y|100|N|HYS
 HYSA|BondBloxx High Yield Income ETF|P|HYSA|Y|100|N|HYSA
 HYSD|Columbia Short Duration High Yield ETF|P|HYSD|Y|100|N|HYSD
 HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock|N|HYT|N|100|N|HYT
@@ -4095,7 +4093,7 @@ LOFD|Direxion Daily SpaceX Bear 2X ETF|P|LOFD|Y|100|N|LOFD
 LOFF|Direxion Daily SpaceX Bull 2X ETF|P|LOFF|Y|100|N|LOFF
 LOHA|Roundhill HALO ETF|Z|LOHA|Y|100|N|LOHA
 LOMA|Loma Negra Compania Industrial Argentina Sociedad Anonima ADS|N|LOMA|N|100|N|LOMA
-LONZ|PIMCO Senior Loan Active Exchange-Traded Fund|P|LONZ|Y|100|N|LONZ
+LONZ|PIMCO Senior Loan and Short-Term Active ETF|P|LONZ|Y|100|N|LONZ
 LOPP|Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF|P|LOPP|Y|100|N|LOPP
 LOUP|Innovator Deepwater Frontier Tech ETF|P|LOUP|Y|100|N|LOUP
 LOW|Lowe's Companies, Inc. Common Stock|N|LOW|N|100|N|LOW
@@ -7671,4 +7669,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|TXSE|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|TXSE|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|TXSE|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|TXSE|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1029202612:11||||||
+File Creation Time: 1030202612:11||||||
