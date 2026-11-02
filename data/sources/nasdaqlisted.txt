@@ -243,7 +243,7 @@ ALGS|Aligos Therapeutics, Inc. - Common stock|S|N|N|100|N|N
 ALGT|Allegiant Travel Company - Common Stock|Q|N|N|100|N|N
 ALHC|Alignment Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 ALIL|Argent Focused Small Cap ETF|G|N|N|100|Y|N
-ALIS|Calisa Acquisition Corp - Ordinary shares|G|N|D|100|N|N
+ALIS|Calisa Acquisition Corp - Ordinary shares|G|N|N|100|N|N
 ALISR|Calisa Acquisition Corp - Right|G|N|N|100|N|N
 ALISU|Calisa Acquisition Corp - Units|G|N|N|100|N|N
 ALKS|Alkermes plc - Ordinary Shares|Q|N|N|100|N|N
@@ -633,7 +633,6 @@ BFLX|iShares Flexible Equity Active ETF|G|N|N|100|Y|N
 BFRG|Bullfrog AI Holdings, Inc. - Common Stock|S|N|D|100|N|N
 BFRGW|Bullfrog AI Holdings, Inc. - Warrants|S|N|N|100|N|N
 BFRI|Biofrontera Inc. - Common Stock|S|N|N|100|N|N
-BFRIW|Biofrontera Inc. - Warrants|S|N|N|100|N|N
 BFST|Business First Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 BGC|BGC Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 BGCG|Baillie Gifford International Concentrated Growth ETF|G|N|N|100|Y|N
@@ -941,6 +940,7 @@ CART|Maplebear Inc. - Common Stock|Q|N|N|100|N|N
 CARY|Angel Oak Income ETF|G|N|N|100|Y|N
 CARZ|First Trust S-Network Future Vehicles & Technology ETF|G|N|N|100|Y|N
 CASH|Pathward Financial, Inc. - Common Stock|Q|N|N|100|N|N
+CASK|Sempreon, Inc. - Common Stock|Q|N|N|100|N|N
 CASS|Cass Information Systems, Inc - Common Stock|Q|N|N|100|N|N
 CAST|FreeCast, Inc. - Class A common stock|G|N|N|100|N|N
 CASY|Caseys General Stores, Inc. - Common Stock|Q|N|N|40|N|N
@@ -1406,12 +1406,11 @@ DGRE|WisdomTree Emerging Markets Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGRS|WisdomTree U.S. SmallCap Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGRW|WisdomTree U.S. Quality Dividend Growth Fund|G|N|N|100|Y|N
 DGXX|Digi Power X Inc. - Common Subordinate Voting Shares|S|N|N|100|N|N
-DH|Definitive Healthcare Corp. - Class A Common Stock|Q|N|D|100|N|N
+DH|Definitive Healthcare Corp. - Class A Common Stock|Q|N|N|100|N|N
 DHC|Diversified Healthcare Trust  - Common Shares of Beneficial Interest|Q|N|N|100|N|N
 DHCNI|Diversified Healthcare Trust  - 5.625% Senior Notes due 2042|Q|N|N|100|N|N
 DHCNL|Diversified Healthcare Trust  - 6.25% Senior Notes Due 2046|Q|N|N|100|N|N
 DIBS|1stdibs.com, Inc. - Common Stock|G|N|N|100|N|N
-DINE|Simplify Tax Aware Diversified Income Strategy ETF|G|N|N|100|Y|N
 DIOD|Diodes Incorporated - Common Stock|Q|N|N|100|N|N
 DIVD|Altrius Global Dividend ETF|G|N|N|100|Y|N
 DJCO|Daily Journal Corp. (S.C.) - Common Stock|S|N|N|40|N|N
@@ -2110,7 +2109,7 @@ GLBS|Globus Maritime Limited - Common Stock|S|N|N|100|N|N
 GLCR|GlacierShares Nasdaq Iceland ETF|G|N|N|100|Y|N
 GLDB|IDX Alternative FIAT ETF|G|N|N|100|Y|N
 GLDI|ETRACS Gold Shares Covered Call ETNs due February 2, 2033|G|N|N|100|Y|N
-GLE|Global Engine Group Holding Limited - Class A Ordinary Shares|S|N|D|100|N|N
+GLE|Global Engine Group Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 GLIBA|Liberty Capital Corporation - Series A GCI Group Common Stock|Q|N|N|100|N|N
 GLIBK|Liberty Capital Corporation - Series C GCI Group Common Stock|Q|N|N|100|N|N
 GLND|Greenland Energy Company - Common Stock|G|N|N|100|N|N
@@ -2583,7 +2582,7 @@ INTS|Intensity Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 INTU|Intuit Inc. - Common Stock|Q|N|N|40|N|N
 INTW|GraniteShares 2x Long INTC Daily ETF|G|N|N|100|Y|N
 INTZ|Intrusion Inc. - Common Stock|S|N|D|100|N|N
-INV|Innventure, Inc. - Common Stock|G|N|N|100|N|N
+INV|Innventure, Inc. - Common Stock|G|N|D|100|N|N
 INVA|Innoviva, Inc. - Common Stock|Q|N|N|100|N|N
 INVE|INVE Technologies, Inc. - Common Stock|S|N|N|100|N|N
 INVZ|Innoviz Technologies Ltd. - Ordinary shares|S|N|D|100|N|N
@@ -2686,7 +2685,7 @@ JANX|Janux Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 JAPN|Horizon Kinetics Japan Owner Operator ETF|G|N|N|100|Y|N
 JATT|JATT II Acquisition Corp - Ordinary Shares|G|N|N|100|N|N
 JAZZ|Jazz Pharmaceuticals plc - Ordinary Shares|Q|N|N|100|N|N
-JBDI|JBDI Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+JBDI|JBDI Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 JBHT|J.B. Hunt Transport Services, Inc. - Common Stock|Q|N|N|100|N|N
 JBIO|Jade Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 JBLU|JetBlue Airways Corporation - Common Stock|Q|N|N|100|N|N
@@ -2795,7 +2794,7 @@ KMB|Kimberly-Clark Corporation - Common Stock|Q|N|N|100|N|N
 KMDA|Kamada Ltd. - Ordinary Shares|Q|N|N|100|N|N
 KMRK|K-Tech Solutions Company Limited - Class A Ordinary Shares|S|N|N|100|N|N
 KMTS|Kestra Medical Technologies, Ltd. - Common Stock|Q|N|N|100|N|N
-KNDI|Kandi Technologies Group, Inc. - Ordinary Shares|Q|N|D|100|N|N
+KNDI|Kandi Technologies Group, Inc. - Ordinary Shares|Q|N|N|100|N|N
 KNGZ|First Trust S&P 500 Diversified Dividend Aristocrats ETF|G|N|N|100|Y|N
 KNSA|Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares|Q|N|N|100|N|N
 KOD|Kodiak Sciences Inc - Common Stock|G|N|N|100|N|N
@@ -2984,7 +2983,6 @@ LPCVU|Launchpad Cadenza Acquisition Corp I - Unit|G|N|N|100|N|N
 LPCVW|Launchpad Cadenza Acquisition Corp I - Warrant|G|N|N|100|N|N
 LPLA|LPL Financial Holdings Inc. - Common Stock|Q|N|N|40|N|N
 LPTH|LightPath Technologies, Inc. - Class A Common Stock|S|N|N|100|N|N
-LQ|Simplify Tax Aware Alternatives ETF|G|N|N|100|Y|N
 LQDA|Liquidia Corporation - Common Stock|S|N|N|100|N|N
 LQDT|Liquidity Services, Inc. - Common Stock|Q|N|N|100|N|N
 LRCX|Lam Research Corporation - Common Stock|Q|N|N|40|N|N
@@ -3151,7 +3149,6 @@ MGN|Megan Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MGNI|Magnite, Inc. - Common Stock|Q|N|N|100|N|N
 MGNX|MacroGenics, Inc. - Common Stock|Q|N|N|100|N|N
 MGOL|Leverage Shares MANGOS ETF|G|N|N|100|Y|N
-MGPI|MGP Ingredients, Inc. - Common Stock|Q|N|N|100|N|N
 MGRC|McGrath RentCorp - Common Stock|Q|N|N|100|N|N
 MGRT|Mega Fortune Company Limited - Ordinary Shares|S|N|N|100|N|N
 MGRX|Mangoceuticals, Inc. - Common Stock|S|N|D|100|N|N
@@ -3166,7 +3163,7 @@ MILN|Global X Millennial Consumer ETF|G|N|N|100|Y|N
 MIND|MIND Technology, Inc. - Common Stock|S|N|N|100|N|N
 MIRA|MIRA Pharmaceuticals, Inc. - Common Stock|S|N|D|100|N|N
 MIRM|Mirum Pharmaceuticals, Inc. - common stock|G|N|N|100|N|N
-MIST|Milestone Pharmaceuticals Inc. - Common Shares|Q|N|N|100|N|N
+MIST|Milestone Pharmaceuticals Inc. - Common Shares|Q|N|D|100|N|N
 MITK|Mitek Systems, Inc. - Common Stock|S|N|N|100|N|N
 MKAM|MKAM ETF|G|N|N|100|Y|N
 MKDW|MKDWELL Tech Inc. - Ordinary Shares|S|N|N|100|N|N
@@ -3352,6 +3349,7 @@ NAMS|NewAmsterdam Pharma Company N.V. - Ordinary Shares|G|N|N|100|N|N
 NAMSW|NewAmsterdam Pharma Company N.V. - Warrant|G|N|N|100|N|N
 NANO|Forge Nano Holdings Inc. - Common stock|G|N|N|100|N|N
 NANOW|Forge Nano Holdings Inc. - Warrants|S|N|N|100|N|N
+NARA|Narragansett Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 NATO|Themes Transatlantic Defense ETF|G|N|N|100|Y|N
 NATR|Nature's Sunshine Products, Inc. - Common Stock|S|N|N|100|N|N
 NAUT|Nautilus Biotechnology, Inc. - Common Stock|S|N|N|100|N|N
@@ -3962,7 +3960,7 @@ POWW|Outdoor Holding Company - Common Stock|S|N|N|100|N|N
 POWWP|Outdoor Holding Company - 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock|S|N|N|100|N|N
 PPBT|Purple Biotech Ltd. - American Depositary Shares|S|N|N|100|N|N
 PPC|Pilgrim's Pride Corporation - Common Stock|Q|N|N|100|N|N
-PPCB|Propanc Biopharma, Inc. - Common Stock|S|N|N|100|N|N
+PPCB|Propanc Biopharma, Inc. - Common Stock|S|N|D|100|N|N
 PPH|VanEck Pharmaceutical ETF|G|N|N|100|Y|N
 PPHC|Public Policy Holding Company, Inc. - Common Stock|G|N|N|100|N|N
 PPI|Astoria Real Assets ETF|G|N|N|100|Y|N
@@ -4143,7 +4141,7 @@ QSEAU|Quartzsea Acquisition Corporation - Units|G|N|N|100|N|N
 QSI|Quantum-Si Incorporated - Class A Common Stock|G|N|N|100|N|N
 QSIX|Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF|G|N|N|100|Y|N
 QSML|WisdomTree U.S. SmallCap Quality Growth Fund|G|N|N|100|Y|N
-QTEC|First Trust NASDAQ-100-Technology Sector Index Fund|G|N|N|40|Y|N
+QTEC|First Trust NASDAQ-100- Technology Index Fund|G|N|N|40|Y|N
 QTEX|QTREX Quantum Ltd. - Ordinary Shares|S|N|N|100|N|N
 QTI|QT Imaging Holdings, Inc. - Common Stock|S|N|N|100|N|N
 QTOP|iShares Nasdaq Top 30 Stocks ETF|G|N|N|100|Y|N
@@ -5615,4 +5613,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1030202618:01|||||||
+File Creation Time: 1102202615:41|||||||
