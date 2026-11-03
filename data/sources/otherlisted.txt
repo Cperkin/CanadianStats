@@ -2079,6 +2079,7 @@ EMFI|Pictet Emerging Markets Debt ETF|P|EMFI|Y|100|N|EMFI
 EMGF|iShares Emerging Markets Equity Factor ETF|Z|EMGF|Y|100|N|EMGF
 EMHC|State Street SPDR Bloomberg Emerging Markets USD Bond ETF|P|EMHC|Y|100|N|EMHC
 EMHY|iShares J.P. Morgan EM High Yield Bond ETF|Z|EMHY|Y|100|N|EMHY
+EMIL|VanEck EM Focus Inflation Bond ETF|P|EMIL|Y|100|N|EMIL
 EMJL|Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series|Z|EMJL|Y|100|N|EMJL
 EMJN|Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series|Z|EMJN|Y|100|N|EMJN
 EMKT|Lazard Emerging Markets Opportunities ETF|P|EMKT|Y|100|N|EMKT
@@ -6584,6 +6585,7 @@ TGRW|T. Rowe Price Growth Stock ETF|P|TGRW|Y|100|N|TGRW
 TGS|Transportadora de Gas del Sur SA TGS Common Stock|N|TGS|N|100|N|TGS
 TGT|Target Corporation Common Stock|N|TGT|N|100|N|TGT
 THC|Tenet Healthcare Corporation Common Stock|N|THC|N|40|N|THC
+THCR|THOR Conservative Risk Dynamic ETF|N|THCR|Y|100|N|THCR
 THD|iShares MSCI Thailand ETF|P|THD|Y|100|N|THD
 THEQ|T. Rowe Price Hedged Equity ETF|P|THEQ|Y|100|N|THEQ
 THG|Hanover Insurance Group Inc|N|THG|N|100|N|THG
@@ -7193,6 +7195,7 @@ VTP|Vanguard Total Inflation-Protected Securities ETF|P|VTP|Y|100|N|VTP
 VTR|Ventas, Inc. Common Stock|N|VTR|N|100|N|VTR
 VTS|Vitesse Energy, Inc. Common Stock|N|VTS|N|100|N|VTS
 VTV|Vanguard Morningstar Value ETF|P|VTV|Y|100|N|VTV
+VTVX|XFUNDS Value Income ETF|P|VTVX|Y|100|N|VTVX
 VUG|Vanguard Morningstar Growth ETF|P|VUG|Y|100|N|VUG
 VUS|Virtus US Dividend ETF|P|VUS|Y|100|N|VUS
 VUSB|Vanguard Ultra-Short Bond ETF|Z|VUSB|Y|100|N|VUSB
@@ -7664,4 +7667,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1102202615:41||||||
+File Creation Time: 1103202612:11||||||
