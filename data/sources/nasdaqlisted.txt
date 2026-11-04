@@ -535,7 +535,7 @@ AYA|Aya Gold & Silver Inc. - Common Shares|Q|N|N|100|N|N
 AYTU|Aytu BioPharma, Inc.  - Common Stock|S|N|N|100|N|N
 AZ|A2Z Cust2Mate Solutions Corp. - Common Shares|S|N|N|100|N|N
 AZI|Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
-AZIO|Azio AI Holdings, Inc. - Common stock|S|N|D|100|N|N
+AZIO|Azio AI Holdings, Inc. - Common stock|S|N|N|100|N|N
 AZR|Azora Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 AZTA|Azenta, Inc. - Common Stock|Q|N|N|100|N|N
 AZYY|GraniteShares YieldBoost AMZN ETF|G|N|N|100|Y|N
@@ -2133,7 +2133,6 @@ GNMA|iShares GNMA Bond ETF|G|N|N|100|Y|N
 GNOM|Global X Genomics & Biotechnology ETF|G|N|N|100|Y|N
 GNPX|Genprex, Inc. - Common Stock|S|N|N|100|N|N
 GNSS|Genasys Inc. - Common Stock|S|N|N|100|N|N
-GNTA|Genenta Science S.p.A. - American Depositary Shares|S|N|D|100|N|N
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100|N|N
 GO|Grocery Outlet Holding Corp. - Common Stock|Q|N|N|100|N|N
 GOAI|Eva Live Inc. - Common Stock|S|N|N|100|N|N
@@ -2236,7 +2235,7 @@ GWAV|Greenwave Technology Solutions, Inc. - Common Stock|S|N|N|100|N|N
 GWRS|Global Water Resources, Inc. - common stock|G|N|N|100|N|N
 GXAI|Gaxos.ai Inc. - Common Stock|S|N|D|100|N|N
 GXDW|Global X Dorsey Wright Thematic ETF|G|N|N|100|Y|N
-GYGY|Game Your Game, Inc. - Common Stock|S|N|N|100|N|N
+GYGY|Game Your Game, Inc. - Common Stock|S|N|D|100|N|N
 GYRE|Gyre Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 GYRO|Gyrodyne , LLC - Common Stock|S|N|N|100|N|N
 HACQ|HCM IV Acquisition Corp. - Class A Ordinary Share|G|N|N|100|N|N
@@ -2558,6 +2557,7 @@ INEO|INNEOVA Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
 INGN|Inogen, Inc - Common Stock|Q|N|N|100|N|N
 INHD|Inno Holdings Inc. - Common Stock|S|N|N|100|N|N
 INIO|INNIO N.V. - Ordinary Shares|Q|N|N|100|N|N
+INK|AB Equity Premium Income ETF|G|N|N|100|Y|N
 INKT|MiNK Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 INLF|INLIF LIMITED - Class A Ordinary shares|S|N|N|100|N|N
 INM|InMed Pharmaceuticals Inc. - Common Shares|S|N|D|100|N|N
@@ -2850,7 +2850,7 @@ LAND|Gladstone Land Corporation - Common Stock|G|N|N|100|N|N
 LANDO|Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock|G|N|N|100|N|N
 LANDP|Gladstone Land Corporation - 6.00% Series C Cumulative Redeemable Preferred Stock|G|N|N|100|N|N
 LARK|Landmark Bancorp Inc. - Common Stock|G|N|N|100|N|N
-LASE|Laser Photonics Corporation - Common Stock|S|N|D|100|N|N
+LASE|LASE Corp. - Common Stock|S|N|D|100|N|N
 LASR|nLIGHT, Inc. - Common Stock|Q|N|N|100|N|N
 LATA|Galata Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 LATAU|Galata Acquisition Corp. II - Units|G|N|N|100|N|N
@@ -3042,7 +3042,7 @@ MANH|Manhattan Associates, Inc. - Common Stock|Q|N|N|100|N|N
 MAR|Marriott International - Class A Common Stock|Q|N|N|40|N|N
 MARA|MARA Holdings, Inc. - Common Stock|S|N|N|100|N|N
 MARPS|Marine Petroleum Trust - Units of Beneficial Interest|S|N|N|100|N|N
-MASK|3 E Network Technology Group Ltd - Class A Ordinary Shares|S|N|N|100|N|N
+MASK|3 E Network Technology Group Ltd - Class A Ordinary Shares|S|N|D|100|N|N
 MASS|908 Devices Inc. - Common Stock|G|N|N|100|N|N
 MAT|Mattel, Inc. - Common Stock|Q|N|N|100|N|N
 MATE|Man Active Trend Enhanced ETF|G|N|N|100|Y|N
@@ -3765,7 +3765,7 @@ PAMT|PAMT CORP - Common Stock|G|N|N|100|N|N
 PANG|Leverage Shares 2X Long PANW Daily ETF|G|N|N|100|Y|N
 PANL|Pangaea Logistics Solutions Ltd. - Common Stock|S|N|N|100|N|N
 PANW|Palo Alto Networks, Inc. - Common Stock|Q|N|N|40|N|N
-PARA|Parabolic Technologies, Inc. - Class A Common Stock|S|N|N|100|N|N
+PARA|Parabolic Technologies, Inc. - Class A Common Stock|S|N|D|100|N|N
 PARAW|Parabolic Technologies, Inc. - Warrant|S|N|N|100|N|N
 PARK|Park Dental Partners, Inc. - Common Stock|S|N|N|100|N|N
 PASG|Passage Bio, Inc. - Common Stock|S|N|N|100|N|N
@@ -3939,7 +3939,7 @@ POCI|Precision Optics Corporation, Inc. - Common stock|S|N|N|100|N|N
 PODC|PodcastOne, Inc. - Common Stock|S|N|N|100|N|N
 PODD|Insulet Corporation - Common Stock|Q|N|N|100|N|N
 POET|POET Technologies Inc. - Common Shares|S|N|N|100|N|N
-POLA|Polar Power, Inc. - Common Stock|S|N|D|100|N|N
+POLA|Polar Power, Inc. - Common Stock|S|N|N|100|N|N
 POLE|Andretti Acquisition Corp. II - Class A Ordinary Shares|G|N|N|100|N|N
 POLEU|Andretti Acquisition Corp. II - Unit|G|N|N|100|N|N
 POLEW|Andretti Acquisition Corp. II - Warrant|G|N|N|100|N|N
@@ -4383,6 +4383,7 @@ SAAQU|Space Asset Acquisition Corp. - Units|G|N|N|100|N|N
 SAAQW|Space Asset Acquisition Corp. - Warrants|G|N|N|100|N|N
 SABR|Sabre Corporation - Common Stock|Q|N|N|100|N|N
 SABS|SAB Biotherapeutics, Inc. - Common Stock|S|N|N|100|N|N
+SAEN|Genenta Science S.p.A. - American Depositary Shares|S|N|D|100|N|N
 SAFT|Safety Insurance Group, Inc. - Common Stock|Q|N|N|100|N|N
 SAFX|XCF Global, Inc. - Class A Common Stock|S|N|D|100|N|N
 SAGT|SAGTEC GLOBAL LIMITED - Class A Ordinary shares|S|N|D|100|N|N
@@ -4454,7 +4455,7 @@ SDTY|YieldMax S&P 500 0DTE Covered Call Strategy ETF|G|N|N|100|Y|N
 SDVY|First Trust SMID Cap Rising Dividend Achievers ETF|G|N|N|100|Y|N
 SEAT|Vivid Seats Inc. - Class A common stock|Q|N|N|100|N|N
 SEDG|SolarEdge Technologies, Inc. - Common Stock|Q|N|N|100|N|N
-SEED|Origin Agritech Limited - Ordinary Shares|S|N|N|100|N|N
+SEED|Origin Agritech Limited - Ordinary Shares|S|N|D|100|N|N
 SEEM|SEI Select Emerging Markets Equity ETF|G|N|N|100|Y|N
 SEER|Seer, Inc. - Class A Common Stock|Q|N|N|100|N|N
 SEGG|Sports Entertainment Gaming Global Corporation  - Common Stock|G|N|E|100|N|N
@@ -4631,7 +4632,7 @@ SOLC|Canary Marinade Solana ETF|G|N|N|100|Y|N
 SOLS|Solstice Advanced Materials Inc. - Common Stock|Q|N|N|100|N|N
 SOLT|2x Solana ETF|G|N|N|100|Y|N
 SOLZ|Solana ETF|G|N|N|100|Y|N
-SONM|DNA X, Inc. - Common Stock|S|N|D|100|N|N
+SONM|DNA X, Inc. - Common Stock|S|N|N|100|N|N
 SONO|Sonos, Inc. - Common Stock|Q|N|N|100|N|N
 SOPH|SOPHiA GENETICS SA - Ordinary Shares|Q|N|N|100|N|N
 SORA|AsiaStrategy - Ordinary Shares|S|N|N|100|N|N
@@ -5607,4 +5608,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1103202612:11|||||||
+File Creation Time: 1104202612:11|||||||
