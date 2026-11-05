@@ -54,6 +54,7 @@ ACBH|Pacer Metaurus High Income Autocallable ETF|G|N|N|100|Y|N
 ACCL|Acco Group Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ACCV|Accelevation Holdings Corp. - Class A ordinary shares|Q|N|N|100|N|N
 ACDC|ProFrac Holding Corp. - Class A Common Stock|Q|N|N|100|N|N
+ACEM|American Century Emerging Markets Insights ETF|G|N|N|100|Y|N
 ACEP|ARS Core Equity Portfolio ETF|G|N|N|100|Y|N
 ACET|Adicet Bio, Inc. - Common Stock|S|N|N|100|N|N
 ACFN|Acorn Energy, Inc. - Common Stock|S|N|N|100|N|N
@@ -127,7 +128,7 @@ AEBI|Aebi Schmidt Holding AG - Common Stock|Q|N|N|100|N|N
 AEC|Anfield Energy Inc. - Common Shares|S|N|N|100|N|N
 AEHL|Antelope Enterprise Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 AEHR|Aehr Test Systems - Common Stock|S|N|N|100|N|N
-AEI|Alset Inc. - Common Stock|S|N|N|100|N|N
+AEI|Alset Inc. - Common Stock|S|N|D|100|N|N
 AEIS|Advanced Energy Industries, Inc. - Common Stock|Q|N|N|40|N|N
 AEMD|Aethlon Medical, Inc. - Common Stock|S|N|N|100|N|N
 AENT|Alliance Entertainment Holding Corporation - common stock|S|N|N|100|N|N
@@ -160,6 +161,8 @@ AGEN|Agenus Inc. - Common Stock|S|N|N|100|N|N
 AGGA|EA Astoria Beacon Dynamic Core US Fixed Income ETF|G|N|N|100|Y|N
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AGIX|KraneShares Public-Private AI & Technology ETF|G|N|N|100|Y|N
+AGLT|Agility Robotics, Inc. - Ordinary Shares|G|N|N|100|N|N
+AGLTW|Agility Robotics, Inc. - Warrants|S|N|N|100|N|N
 AGMB|AgomAb Therapeutics NV - ADRs representing one common share.|Q|N|N|100|N|N
 AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|D|100|N|N
 AGMI|Themes Silver Miners ETF|G|N|N|100|Y|N
@@ -544,7 +547,7 @@ BABX|GraniteShares 2x Long BABA Daily ETF|G|N|N|100|Y|N
 BACC|Blue Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 BACCR|Blue Acquisition Corp. - Right|G|N|N|100|N|N
 BACCU|Blue Acquisition Corp. - Unit|G|N|N|100|N|N
-BAER|Bridger Aerospace Group Holdings, Inc. - Common Stock|G|N|N|100|N|N
+BAER|Bridger Aerospace Group Holdings, Inc. - Common Stock|G|N|D|100|N|N
 BAERW|Bridger Aerospace Group Holdings, Inc. - Warrant|G|N|N|100|N|N
 BAFE|Brown Advisory Flexible Equity ETF|G|N|N|100|Y|N
 BAFN|BayFirst Financial Corp. - Common Stock|S|N|N|100|N|N
@@ -990,9 +993,6 @@ CCSB|Carbon Collective Short Duration Green Bond ETF|G|N|N|100|Y|N
 CCSI|Consensus Cloud Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 CCSO|Carbon Collective Climate Solutions U.S. Equity ETF|G|N|N|100|Y|N
 CCTG|CCSC Technology International Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
-CCXI|Churchill Capital Corp XI - Class A Ordinary Shares|G|N|N|100|N|N
-CCXIU|Churchill Capital Corp XI - Units|G|N|N|100|N|N
-CCXIW|Churchill Capital Corp XI - Warrants|G|N|N|100|N|N
 CD|Chaince Digital Holdings Inc. - American Ordinary Shares|G|N|N|100|N|N
 CDC|VictoryShares US EQ Income Enhanced Volatility Wtd ETF|G|N|N|100|Y|N
 CDIG|City Different Investments Global Equity ETF|G|N|N|100|Y|N
@@ -1351,8 +1351,8 @@ DAAQ|Digital Asset Acquisition Corp. - Class A Ordinary shares|G|N|N|100|N|N
 DAAQU|Digital Asset Acquisition Corp. - Units|G|N|N|100|N|N
 DAAQW|Digital Asset Acquisition Corp. - Warrant|G|N|N|100|N|N
 DADS|Digital Asset Debt Strategy ETF|G|N|N|100|Y|N
-DAIC|CID HoldCo, Inc. - Common Stock|G|N|H|100|N|N
-DAICW|CID HoldCo, Inc. - Warrants|G|N|H|100|N|N
+DAIC|CID HoldCo, Inc. - Common Stock|S|N|H|100|N|N
+DAICW|CID HoldCo, Inc. - Warrants|S|N|H|100|N|N
 DAIO|Data I/O Corporation - Common Stock|S|N|N|100|N|N
 DAK|Dakota Active Equity ETF|G|N|N|100|Y|N
 DAKT|Daktronics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1665,7 +1665,7 @@ ETOR|eToro Group Ltd. - Class A Common Shares|Q|N|N|100|N|N
 ETRA|Electra Therapeutics, Inc. - Common stock|Q|N|N|100|N|N
 ETS|Elite Express Holding Inc. - Class A Common Stock|S|N|N|100|N|N
 EU|enCore Energy Corp. - Common Stock|S|N|N|100|N|N
-EUDA|Euda Health Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+EUDA|Euda Health Holdings Limited - Class A Ordinary Shares|S|N|N|100|N|N
 EUDAW|Euda Health Holdings Limited - Warrant|S|N|N|100|N|N
 EUFN|iShares MSCI Europe Financials ETF|G|N|N|100|Y|N
 EURK|Eureka Acquisition Corp - Class A Ordinary Share|S|N|D|100|N|N
@@ -2111,8 +2111,8 @@ GLDI|ETRACS Gold Shares Covered Call ETNs due February 2, 2033|G|N|N|100|Y|N
 GLE|Global Engine Group Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 GLIBA|Liberty Capital Corporation - Series A GCI Group Common Stock|Q|N|N|100|N|N
 GLIBK|Liberty Capital Corporation - Series C GCI Group Common Stock|Q|N|N|100|N|N
-GLND|Greenland Energy Company - Common Stock|G|N|N|100|N|N
-GLNDW|Greenland Energy Company - Warrant|G|N|N|100|N|N
+GLND|Greenland Energy Company - Common Stock|G|N|D|100|N|N
+GLNDW|Greenland Energy Company - Warrant|G|N|D|100|N|N
 GLNG|Golar LNG Limited - Common Shares|Q|N|N|100|N|N
 GLOO|Gloo Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 GLOW|VictoryShares WestEnd Global Equity ETF|G|N|N|100|Y|N
@@ -2318,6 +2318,7 @@ HLIT|Harmonic Inc. - Common Stock|Q|N|N|100|N|N
 HLMN|Hillman Solutions Corp. - Common Stock|G|N|N|100|N|N
 HLNE|Hamilton Lane Incorporated - Class A Common Stock|Q|N|N|100|N|N
 HLP|Hongli Group Inc. - Class A Ordinary Shares|S|N|N|100|N|N
+HLT|Hilton Worldwide Holdings Inc. - Common Stock|Q|N|N|40|N|N
 HLTH|Tema Healthcare AI ETF|G|N|N|100|Y|N
 HLXC|Helix Acquisition Corp. III - Class A Ordinary Shares|G|N|D|100|N|N
 HMH|HMH Holding Inc. - Common Stock|Q|N|N|100|N|N
@@ -2557,6 +2558,7 @@ INEO|INNEOVA Holdings Limited - Class A Ordinary Shares|S|N|D|100|N|N
 INGN|Inogen, Inc - Common Stock|Q|N|N|100|N|N
 INHD|Inno Holdings Inc. - Common Stock|S|N|N|100|N|N
 INIO|INNIO N.V. - Ordinary Shares|Q|N|N|100|N|N
+INJC|Canary Staked INJ ETF|G|N|N|100|Y|N
 INK|AB Equity Premium Income ETF|G|N|N|100|Y|N
 INKT|MiNK Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 INLF|INLIF LIMITED - Class A Ordinary shares|S|N|N|100|N|N
@@ -2963,7 +2965,7 @@ LOGO|Alpha Brands Consumption Leaders ETF|G|N|N|100|Y|N
 LONA|LeonaBio, Inc. - Common Stock|S|N|N|100|N|N
 LOOP|Loop Industries, Inc. - Common Stock|G|N|D|100|N|N
 LOPE|Grand Canyon Education, Inc. - Common Stock|Q|N|N|100|N|N
-LOT|Lotus Technology Inc. - American Depositary Shares|Q|N|N|100|N|N
+LOT|Lotus Technology Inc. - American Depositary Shares|Q|N|D|100|N|N
 LOTI|Liberty One Tactical Income ETF|G|N|N|100|Y|N
 LOTWW|Lotus Technology Inc. - Warrants|S|N|N|100|N|N
 LOVE|The Lovesac Company - Common Stock|G|N|N|100|N|N
@@ -4458,7 +4460,7 @@ SEDG|SolarEdge Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 SEED|Origin Agritech Limited - Ordinary Shares|S|N|D|100|N|N
 SEEM|SEI Select Emerging Markets Equity ETF|G|N|N|100|Y|N
 SEER|Seer, Inc. - Class A Common Stock|Q|N|N|100|N|N
-SEGG|Sports Entertainment Gaming Global Corporation  - Common Stock|G|N|E|100|N|N
+SEGG|Sports Entertainment Gaming Global Corporation  - Common Stock|G|N|N|100|N|N
 SEIC|SEI Investments Company - Common Stock|Q|N|N|100|N|N
 SEIE|SEI Select International Equity ETF|G|N|N|100|Y|N
 SEIS|SEI Select Small Cap ETF|G|N|N|100|Y|N
@@ -5512,9 +5514,9 @@ XSLLW|Xsolla SPAC 1 - Warrants|G|N|N|100|N|N
 XSPC|VegaShares Space & AI ETF|G|N|N|100|Y|N
 XSPI|NEOS Boosted S&P 500 High Income ETF|G|N|N|100|Y|N
 XT|iShares Future Exponential Technologies ETF|G|N|N|100|Y|N
-XTER|Karman Line Acquisition Corp. - Class A Ordinary Shares|G|N|N|100|N|N
-XTERU|Karman Line Acquisition Corp. - Units|G|N|N|100|N|N
-XTERW|Karman Line Acquisition Corp. - Warrants|G|N|N|100|N|N
+XTER|Xterax Corporation II - Class A Ordinary Shares|G|N|N|100|N|N
+XTERU|Xterax Corporation II - Units|G|N|N|100|N|N
+XTERW|Xterax Corporation II - Warrants|G|N|N|100|N|N
 XTIA|XTI Aerospace, Inc. Common Stock  - Common Stock|S|N|N|100|N|N
 XTLB|XTL Biopharmaceuticals Ltd. - American Depositary Shares|S|N|N|100|N|N
 XUSM|MarketDesk International Momentum ETF|G|N|N|100|Y|N
@@ -5608,4 +5610,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1104202612:11|||||||
+File Creation Time: 1105202612:11|||||||
