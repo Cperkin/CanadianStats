@@ -3089,7 +3089,7 @@ MCHS|Matthews China Innovators Active ETF|G|N|N|100|Y|N
 MCHX|Marchex, Inc. - Class B Common Stock|Q|N|N|100|N|N
 MCRB|Seres Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 MCRI|Monarch Casino & Resort, Inc. - Common Stock|Q|N|N|100|N|N
-MCTA|Charming Medical Limited - Class A Ordinary Shares|S|N|D|100|N|N
+MCTA|Charming Medical Limited - Class A Ordinary Shares|S|N|N|100|N|N
 MDAI|Spectral AI, Inc. - Class A Common Stock|S|N|N|100|N|N
 MDAIW|Spectral AI, Inc. - Warrants|S|N|N|100|N|N
 MDB|MongoDB, Inc. - Class A Common Stock|G|N|N|40|N|N
@@ -4257,9 +4257,9 @@ RGTIW|Rigetti Computing, Inc.  - Redeemable warrants, each whole warrant exercis
 RGTX|Defiance Daily Target 2X Long RGTI ETF|G|N|N|100|Y|N
 RGTZ|Defiance Daily Target 2x Short RGTI ETF|G|N|N|100|Y|N
 RGYY|GraniteShares YieldBoost RGTI ETF|G|N|N|100|Y|N
-RIBB|Ribbon Acquisition Corp - Class A Ordinary Shares|S|N|N|100|N|N
-RIBBR|Ribbon Acquisition Corp - Rights|S|N|N|100|N|N
-RIBBU|Ribbon Acquisition Corp - Unit|S|N|N|100|N|N
+RIBB|Ribbon Acquisition Corp - Class A Ordinary Shares|S|N|D|100|N|N
+RIBBR|Ribbon Acquisition Corp - Rights|S|N|D|100|N|N
+RIBBU|Ribbon Acquisition Corp - Unit|S|N|D|100|N|N
 RICK|RCI Hospitality Holdings, Inc. - Common Stock|G|N|N|100|N|N
 RIFR|Russell Investments Global Infrastructure ETF|G|N|N|100|Y|N
 RIGL|Rigel Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5382,7 +5382,7 @@ WHLRL|Wheeler Real Estate Investment Trust, Inc. - 7.00% Senior Subordinated Con
 WHLRP|Wheeler Real Estate Investment Trust, Inc. - Series B Preferred Stock|S|N|N|100|N|N
 WHWK|Whitehawk Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 WIMA|WisdomTree International Adaptive Moving Average Fund|G|N|N|100|Y|N
-WIMI|WiMi Hologram Cloud Inc. - Class B Ordinary Shares|G|N|N|100|N|N
+WIMI|WiMi Hologram Cloud Inc. - Class B Ordinary Shares|G|N|D|100|N|N
 WINA|Winmark Corporation - Common Stock|G|N|N|40|N|N
 WING|Wingstop Inc. - Common Stock|Q|N|N|100|N|N
 WISE|Themes Generative Artificial Intelligence ETF|G|N|N|100|Y|N
@@ -5609,4 +5609,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
-File Creation Time: 1106202612:11|||||||
+File Creation Time: 1106202621:31|||||||
