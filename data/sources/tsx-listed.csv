@@ -221,6 +221,8 @@ ESGB,BMO ESG Corporate Bond Index ETF,TSX
 ESGF,BMO ESG US Corporate Bond Hedged to CAD Index ETF,TSX
 ZWP,BMO Europe High Dividend Covered Call ETF,TSX
 ZWE,BMO Europe High Dividend Covered Call Hedged to CAD ETF,TSX
+ZESC,BMO European Securitized Credit ETF,TSX
+ZFIX,BMO Fixed Income ETF,TSX
 ZFH,BMO Floating Rate High Yield ETF,TSX
 COMM,BMO Global Communications Index ETF,TSX
 DISC,BMO Global Consumer Discretionary Hedged to CAD Index ETF,TSX
@@ -228,6 +230,8 @@ STPL,BMO Global Consumer Staples Hedged to CAD Index ETF,TSX
 ZWQT,BMO Global Enhanced Income Fund,TSX
 ZWG,BMO Global High Dividend Covered Call ETF,TSX
 ZGI,BMO Global Infrastructure Index ETF,TSX
+ZGSC,BMO Global Securitized Credit Hedged to CAD ETF,TSX
+ZGDB,BMO Global Short-Term Discount Bond Hedged to CAD ETF,TSX
 ZGLD,BMO Gold Bullion ETF,TSX
 ZGLH,BMO Gold Bullion Hedged to CAD ETF,TSX
 ZGB,BMO Government Bond Index ETF,TSX
@@ -235,6 +239,7 @@ ZGRO,BMO Growth ETF,TSX
 ZQB,BMO High Quality Corporate Bond Index ETF,TSX
 ZHY,BMO High Yield US Corporate Bond Hedged to CAD Index ETF,TSX
 ZJK,BMO High Yield US Corporate Bond Index ETF,TSX
+ZINC,BMO Income ETF,TSX
 ZDI,BMO International Dividend ETF,TSX
 ZDH,BMO International Dividend Hedged to CAD ETF,TSX
 ZJPN,BMO Japan Index ETF,TSX
@@ -259,6 +264,7 @@ ZIC,BMO Mid-Term US IG Corporate Bond Index ETF,TSX
 ZMMK,BMO Money Market Fund,TSX
 ZMI,BMO Monthly Income ETF,TSX
 ZGQ,BMO MSCI All Country World High Quality Index ETF,TSX
+ZALL,BMO MSCI All Country World Index ETF,TSX
 ZDIV,BMO MSCI Canada IMI High Dividend Yield Index ETF,TSX
 ESGA,BMO MSCI Canada Selection Equity Index ETF,TSX
 ZVC,BMO MSCI Canada Value Index ETF,TSX
