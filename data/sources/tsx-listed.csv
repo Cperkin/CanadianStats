@@ -1129,6 +1129,7 @@ HBA,Hamilton Australian Bank Equal-Weight Index ETF,TSX
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX
 CMAX,Hamilton Canadian Equity YIELD MAXIMIZER TM ETF,TSX
 HMAX,Hamilton Canadian Financials YIELD MAXIMIZER TM ETF,TSX
+CGOV,Hamilton Canadian T-Bill ETF,TSX
 HEB,HAMILTON CHAMPIONS TM Canadian Bank Equal-Weight Index ETF,TSX
 CMVP,HAMILTON CHAMPIONS TM Canadian Dividend Index ETF,TSX
 HFN,HAMILTON CHAMPIONS TM Canadian Financials Index ETF,TSX
@@ -1154,6 +1155,7 @@ HBND,Hamilton U.S. Bond YIELD MAXIMIZER TM ETF,TSX
 SMAX,Hamilton U.S. Equity YIELD MAXIMIZER TM ETF,TSX
 FMAX,Hamilton U.S. Financials YIELD MAXIMIZER TM ETF,TSX
 HUM,Hamilton U.S. Mid-Cap Financials ETF,TSX
+UGOV.U,Hamilton U.S. T-Bill ETF,TSX
 HBIL,Hamilton U.S. T-Bill YIELD MAXIMIZER TM ETF,TSX
 UMAX,Hamilton Utilities YIELD MAXIMIZER TM ETF,TSX
 HMM.A,Hammond Manufacturing Company Limited,TSX
@@ -2082,6 +2084,8 @@ SVM,Silvercorp Metals Inc.,TSX
 SRV.UN,SIR Royalty Income Fund,TSX
 SKE,Skeena Resources Limited,TSX
 SGR.U,Slate Grocery REIT,TSX
+SBGE,SLGI MFS Blended Research Global Equity Fund,TSX
+SBIE,SLGI MFS Blended Research International Equity Fund,TSX
 SBLG,SLGI MFS Blended Research Low Vol Global Fund,TSX
 SBLI,SLGI MFS Blended Research Low Vol International Fund,TSX
 SRU.UN,SmartCentres Real Estate Investment Trust,TSX
@@ -2120,9 +2124,14 @@ STG,STRACON Group Holding Inc.,TSX
 MSTR,Strategy CDR (CAD Hedged),TSX
 SCR,Strathcona Resources Ltd.,TSX
 SYK,Stryker CDR (CAD Hedged),TSX
+SBAL,Sun Life Balanced ETF+ Portfolio,TSX
+SCNS,Sun Life Conservative ETF+ Portfolio,TSX
 SLCA,Sun Life Core Advantage Credit Private Pool,TSX
 SLSC,Sun Life Crescent Specialty Credit Private Pool,TSX
+SEQT,Sun Life Equity ETF+ Portfolio,TSX
 SLF,Sun Life Financial Inc.,TSX
+SFIX,Sun Life Fixed Income ETF+ Portfolio,TSX
+SGRW,Sun Life Growth ETF+ Portfolio,TSX
 SLGC,Sun Life MFS Global Core Plus Bond Fund,TSX
 SU,Suncor Energy Inc.,TSX
 SNDY,Sunday Lake Gold Corp.,TSX
