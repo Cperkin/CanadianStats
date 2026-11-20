@@ -1168,6 +1168,7 @@ GOGY,Harvest Alphabet Enhanced High Income Shares ETF,TSX
 AMHE,Harvest Amazon Enhanced High Income Shares ETF,TSX
 AMZH,Harvest Amazon High Income Shares ETF,TSX
 AMDY,Harvest AMD Enhanced High Income Shares ETF,TSX
+ANTE,Harvest Anthropic Enhanced High Income Shares ETF,TSX
 APLE,Harvest Apple Enhanced High Income Shares ETF,TSX
 ASME,Harvest ASML Enhanced High Income Shares ETF,TSX
 HBIE,Harvest Balanced Income & Growth Enhanced ETF,TSX
@@ -1760,6 +1761,7 @@ NKE,NIKE CDR (CAD Hedged),TSX
 GOHI,Ninepoint Alphabet HighShares ETF,TSX
 NACO,Ninepoint Alternative Credit Opportunities Fund,TSX
 NAGF,Ninepoint American Growth Fund,TSX
+ANHI,Ninepoint Anthropic HighShares ETF,TSX
 NBAL,Ninepoint Balanced+ Fund,TSX
 ABHI,Ninepoint Barrick HighShares ETF,TSX
 BCHI,Ninepoint BCE HighShares ETF,TSX
@@ -2041,6 +2043,7 @@ SIS,Savaria Corporation,TSX
 AAPU,SavvyLong (2X) AAPL ETF,TSX
 AMDU,SavvyLong (2X) AMD ETF,TSX
 AMZU,SavvyLong (2X) AMZN ETF,TSX
+ANTU,SavvyLong (2X) Anthropic ETF,TSX
 ABXU,SavvyLong (2X) Barrick ETF,TSX
 CCOU,SavvyLong (2X) Cameco ETF,TSX
 CNQU,SavvyLong (2X) Cdn Natural Resources ETF,TSX
@@ -2054,6 +2057,7 @@ MSFU,SavvyLong (2X) MSFT ETF,TSX
 MSTU,SavvyLong (2X) MSTR ETF,TSX
 NVDU,SavvyLong (2X) NVDA ETF,TSX
 PLTU,SavvyLong (2X) PLTR ETF,TSX
+SNDU,SavvyLong (2X) SanDisk ETF,TSX
 SHPU,SavvyLong (2X) Shopify ETF,TSX
 ORBU,SavvyLong (2X) SpaceX ETF,TSX
 TSLU,SavvyLong (2X) TSLA ETF,TSX
@@ -2193,8 +2197,6 @@ TQSM,TD Q U.S. Small-Mid-Cap Equity ETF,TSX
 TCSB,TD Select Short Term Corporate Bond Ladder ETF,TSX
 TUSB,TD Select U.S. Short Term Corporate Bond Ladder ETF,TSX
 TSTB,TD Short Term Bond Fund,TSX
-TBCF,TD Target 2026 Investment Grade Bond ETF,TSX
-TBUF.U,TD Target 2026 U.S. Investment Grade Bond ETF,TSX
 TBCG,TD Target 2027 Investment Grade Bond ETF,TSX
 TBUG.U,TD Target 2027 U.S. Investment Grade Bond ETF,TSX
 TBCH,TD Target 2028 Investment Grade Bond ETF,TSX
