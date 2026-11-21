@@ -263,7 +263,7 @@ ALOVU|Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units|G|N|N|100|N|N
 ALOVW|Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants|G|N|N|100|N|N
 ALOY|REalloys Inc. - Common Stock|S|N|N|100|N|N
 ALP|Alpha Compute Corp  - Ordinary Shares|S|N|N|100|N|N
-ALPS|ALPS Group Inc - Ordinary Share|G|N|D|100|N|N
+ALPS|ALPS Group Inc - Ordinary Share|G|N|N|100|N|N
 ALPX|Alpex Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
 ALPXR|Alpex Acquisition Corporation - Rights|G|N|N|100|N|N
 ALPXU|Alpex Acquisition Corporation - Units|G|N|N|100|N|N
@@ -2436,7 +2436,7 @@ IBB|iShares Biotechnology ETF|G|N|N|100|Y|N
 IBBQ|Invesco Nasdaq Biotechnology ETF|G|N|N|100|Y|N
 IBCP|Independent Bank Corporation - Common Stock|Q|N|N|100|N|N
 IBEX|IBEX Limited - Common Share|G|N|N|100|N|N
-IBG|Innovation Beverage Group Limited - Ordinary Shares|S|N|D|100|N|N
+IBG|Innovation Beverage Group Limited - Ordinary Shares|S|N|N|100|N|N
 IBGA|iShares iBonds Dec 2044 Term Treasury ETF|G|N|N|100|Y|N
 IBGB|iShares iBonds Dec 2045 Term Treasury ETF|G|N|N|100|Y|N
 IBGC|iShares iBonds Dec 2046 Term Treasury ETF|G|N|N|100|Y|N
@@ -3242,7 +3242,7 @@ MRDN|Meridian Holdings Inc. - Common Stock|S|N|N|100|N|N
 MREO|Mereo BioPharma Group plc - American Depositary Shares|S|N|D|100|N|N
 MRKR|Marker Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 MRLN|Merlin, Inc. - Common Stock|G|N|N|100|N|N
-MRM|MEDIROM Healthcare Technologies Inc. - American Depositary Share|S|N|H|100|N|N
+MRM|MEDIROM Healthcare Technologies Inc. - American Depositary Share|S|N|D|100|N|N
 MRNA|Moderna, Inc. - Common Stock|Q|N|N|100|N|N
 MRNO|Murano Global Investments PLC - Ordinary Shares|S|N|D|100|N|N
 MRNOW|Murano Global Investments PLC - Warrants|S|N|N|100|N|N
@@ -3331,7 +3331,7 @@ MYML|State Street My2032 Municipal Bond ETF|G|N|N|100|Y|N
 MYPS|PLAYSTUDIOS, Inc.  - Class A Common Stock|S|N|N|100|N|N
 MYRG|MYR Group, Inc. - Common Stock|Q|N|N|40|N|N
 MYSE|Myseum.AI, Inc. - Common Stock|S|N|N|100|N|N
-MYSZ|My Size, Inc. - Common Stock|S|N|D|100|N|N
+MYSZ|My Size, Inc. - Common Stock|S|N|N|100|N|N
 MYX|Maywood Acquisition Corp. 2 - Class A Ordinary Share|G|N|N|100|N|N
 MYXXR|Maywood Acquisition Corp. 2 - Rights|G|N|N|100|N|N
 MYXXU|Maywood Acquisition Corp. 2 - Units|G|N|N|100|N|N
@@ -5607,4 +5607,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYN|PTL LTD - Class A Ordinary Shares|S|N|N|100|N|N
-File Creation Time: 1120202614:01|||||||
+File Creation Time: 1120202621:31|||||||
