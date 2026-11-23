@@ -248,6 +248,7 @@ ALL$I|Allstate Corporation (The) Depositary Shares each representing a 1/1,000th
 ALL$J|Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J|N|ALLpJ|N|100|N|ALL-J
 ALLE|Allegion plc Ordinary Shares|N|ALLE|N|100|N|ALLE
 ALLY|Ally Financial Inc. Common Stock|N|ALLY|N|100|N|ALLY
+ALLZ|Zacks All-Cap Core ETF|Z|ALLZ|Y|100|N|ALLZ
 ALRG|Allspring LT Large Core ETF|P|ALRG|Y|100|N|ALRG
 ALSN|Allison Transmission Holdings, Inc. Common Stock|N|ALSN|N|100|N|ALSN
 ALTG|Alta Equipment Group Inc. Class A Common Stock|N|ALTG|N|100|N|ALTG
@@ -305,6 +306,7 @@ AMZP|Kurv Yield Premium Strategy Amazon (AMZN) ETF|Z|AMZP|Y|100|N|AMZP
 AMZW|Roundhill AMZN WeeklyPay ETF|Z|AMZW|Y|100|N|AMZW
 AMZY|YieldMax AMZN Option Income Strategy ETF|P|AMZY|Y|100|N|AMZY
 AN|AutoNation, Inc. Common Stock|N|AN|N|100|N|AN
+ANDD|Leverage Shares 2X Short Anthropic Daily ETF|Z|ANDD|Y|100|N|ANDD
 ANDG|Andersen Group Inc. Class A Common Stock|N|ANDG|N|100|N|ANDG
 ANET|Arista Networks, Inc. Common Stock|N|ANET|N|100|N|ANET
 ANF|Abercrombie & Fitch Company Common Stock|N|ANF|N|100|N|ANF
@@ -312,7 +314,11 @@ ANG|Corgi FTSE Fallen Angels Bond ETF|Z|ANG|Y|100|N|ANG
 ANG$D|American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D|N|ANGpD|N|100|N|ANG-D
 ANGX|Angel Studios, Inc. Class A Common Stock|N|ANGX|N|100|N|ANGX
 ANRO|Alto Neuroscience, Inc. Common Stock|N|ANRO|N|100|N|ANRO
+ANSS|Leverage Shares 1X Short Anthropic Daily ETF|Z|ANSS|Y|100|N|ANSS
+ANTT|Tradr 2X Long Anthropic Daily ETF|Z|ANTT|Y|100|N|ANTT
 ANTW|Anthropic AI Lab Ecosystem ETF|P|ANTW|Y|100|N|ANTW
+ANTZ|Tradr 2X Short Anthropic Daily ETF|Z|ANTZ|Y|100|N|ANTZ
+ANUU|Leverage Shares 2X Long Anthropic Daily ETF|Z|ANUU|Y|100|N|ANUU
 ANVS|Annovis Bio, Inc. Common Stock|N|ANVS|N|100|N|ANVS
 AOA|iShares Core 80/20 Aggressive Allocation ETF|P|AOA|Y|100|N|AOA
 AOCT|Innovator Equity Defined Protection ETF - 2 Yr to October 2028|Z|AOCT|Y|100|N|AOCT
@@ -456,6 +462,7 @@ ATH$D|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Inter
 ATH$E|Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed-Rate Reset Perpetual Non-Cumulative Preference Share, Series E|N|ATHpE|N|100|N|ATH-E
 ATHM|Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.|N|ATHM|N|100|N|ATHM
 ATHS|Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064|N|ATHS|N|100|N|ATHS
+ATHX|2x Anthropic ETF|Z|ATHX|Y|100|N|ATHX
 ATI|ATI Inc. Common Stock|N|ATI|N|100|N|ATI
 ATMP|iPath Select MLP ETN|Z|ATMP|N|100|N|ATMP
 ATMU|Atmus Filtration Technologies Inc. Common Stock|N|ATMU|N|100|N|ATMU
@@ -780,10 +787,9 @@ BINT|Bluemonte Global Equity ETF|P|BINT|Y|100|N|BINT
 BINV|Brandes International ETF|Z|BINV|Y|100|N|BINV
 BIO|Bio-Rad Laboratories, Inc. Class A Common Stock|N|BIO|N|40|N|BIO
 BIO.B|Bio-Rad Laboratories, Inc. Class B  Common Stock|N|BIO.B|N|40|N|BIO.B
-BIP|Brookfield Infrastructure Partners LP Limited Partnership Units|N|BIP|N|100|N|BIP
-BIP$A|Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13|N|BIPpA|N|100|N|BIP-A
-BIP$B|Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14|N|BIPpB|N|100|N|BIP-B
-BIPC|Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation|N|BIPC|N|100|N|BIPC
+BIP|Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares|N|BIP|N|100|N|BIP
+BIPF$A|Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13|N|BIPFpA|N|100|N|BIPF-A
+BIPF$B|Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14|N|BIPFpB|N|100|N|BIPF-B
 BIPH|Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081|N|BIPH|N|100|N|BIPH
 BIPI|BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes|N|BIPI|N|100|N|BIPI
 BIPJ|Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084|N|BIPJ|N|100|N|BIPJ
@@ -1264,6 +1270,7 @@ CJUL|Corgi U.S. Equities 15% Structured Buffer ETF - July Series|Z|CJUL|Y|100|N|
 CJUN|Corgi U.S. Equities 15% Structured Buffer ETF - June Series|Z|CJUN|Y|100|N|CJUN
 CKX|CKX Lands, Inc. Common Stock|A|CKX|N|100|N|CKX
 CL|Colgate-Palmolive Company Common Stock|N|CL|N|100|N|CL
+CLAU|T-REX 2X Long Anthropic Daily Target ETF|Z|CLAU|Y|100|N|CLAU
 CLB|Core Laboratories Inc. Common Stock|N|CLB|N|100|N|CLB
 CLBR|Colombier Acquisition Corp. III Class A Ordinary Shares|N|CLBR|N|100|N|CLBR
 CLBR.U|Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant|N|CLBR.U|N|100|N|CLBR=
@@ -1766,6 +1773,7 @@ DISK|Tema Memory ETF|P|DISK|Y|100|N|DISK
 DISV|Dimensional International Small Cap Value ETF|Z|DISV|Y|100|N|DISV
 DIT|AMCON Distributing Company Common Stock|A|DIT|N|100|N|DIT
 DIV|Global X Super Dividend ETF|P|DIV|Y|100|N|DIV
+DIVA|AB Equity Income ETF|P|DIVA|Y|100|N|DIVA
 DIVB|iShares Core Dividend ETF|Z|DIVB|Y|100|N|DIVB
 DIVE|Dana Concentrated Dividend ETF|P|DIVE|Y|100|N|DIVE
 DIVG|Invesco S&P 500 High Dividend Growers ETF|P|DIVG|Y|100|N|DIVG
@@ -6366,7 +6374,6 @@ SRI|Stoneridge, Inc. Common Stock|N|SRI|N|100|N|SRI
 SRJN|Spire Inc. 6.375% Junior Subordinated Notes due 2086|N|SRJN|N|100|N|SRJN
 SRL|Scully Royalty Ltd.|N|SRL|N|100|N|SRL
 SRLN|State Street Blackstone Senior Loan ETF|P|SRLN|Y|100|N|SRLN
-SROI|Calamos Antetokounmpo Global Sustainable Equities ETF|P|SROI|Y|100|N|SROI
 SRS|ProShares UltraShort Real Estate|P|SRS|Y|100|N|SRS
 SRTY|ProShares UltraPro Short Russell2000|P|SRTY|Y|100|N|SRTY
 SRV|NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest|N|SRV|N|100|N|SRV
@@ -7639,6 +7646,7 @@ ZAPR|Innovator Equity Defined Protection ETF - 1 Yr April|Z|ZAPR|Y|100|N|ZAPR
 ZAUG|Innovator Equity Defined Protection ETF - 1 Yr August|Z|ZAUG|Y|100|N|ZAUG
 ZBH|Zimmer Biomet Holdings, Inc. Common Stock|N|ZBH|N|100|N|ZBH
 ZBZX|BATS BZX Exchange test issue|Z|ZBZX|N|100|Y|ZBZX
+ZCAP|Zacks Small-Cap Core ETF|Z|ZCAP|Y|100|N|ZCAP
 ZCBA|Global X Zero Coupon Bond 2030 ETF|P|ZCBA|Y|100|N|ZCBA
 ZCBB|Global X Zero Coupon Bond 2031 ETF|P|ZCBB|Y|100|N|ZCBB
 ZCBC|Global X Zero Coupon Bond 2032 ETF|P|ZCBC|Y|100|N|ZCBC
@@ -7651,6 +7659,7 @@ ZDEK|Innovator Equity Defined Protection ETF - 1 Yr December|Z|ZDEK|Y|100|N|ZDEK
 ZDGE|Zedge, Inc. Class B Common Stock |A|ZDGE|N|100|N|ZDGE
 ZDIS|Virtus Zevenbergen Discovery Growth ETF|P|ZDIS|Y|100|N|ZDIS
 ZECP|Zacks Earnings Consistent Portfolio ETF|Z|ZECP|Y|100|N|ZECP
+ZECX|2x ZCSH ETF|P|ZECX|Y|100|N|ZECX
 ZEPP|Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares|N|ZEPP|N|100|N|ZEPP
 ZETA|Zeta Global Holdings Corp. Class A Common Stock|N|ZETA|N|100|N|ZETA
 ZEXIT|IEX Test Company Test Symbol Two for IEX|V|ZEXIT|N|100|Y|ZEXIT
@@ -7691,4 +7700,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1120202621:31||||||
+File Creation Time: 1123202617:01||||||

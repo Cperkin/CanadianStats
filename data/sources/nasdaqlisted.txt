@@ -199,6 +199,7 @@ AIFU|AIFU Inc. - Class A Ordinary Share|Q|N|N|100|N|N
 AIIO|Robo.ai Inc. - Class B Ordinary Shares|S|N|N|100|N|N
 AIIOW|Robo.ai Inc. - Warrant|S|N|N|100|N|N
 AIIR|Air Global PLC - Ordinary shares|S|N|N|100|N|N
+AIL|GraniteShares 2x Long Anthropic Daily ETF|G|N|N|100|Y|N
 AIMD|Ainos, Inc. - Common Stock|S|N|N|100|N|N
 AIMDW|Ainos, Inc. - warrants|S|N|N|100|N|N
 AIMG|Defiance AI Magnificent 10 ETF|G|N|N|100|Y|N
@@ -338,9 +339,16 @@ ANNA|AleAnna, Inc. - Class A Common Stock|S|N|N|100|N|N
 ANNAW|AleAnna, Inc. - Warrant|S|N|N|100|N|N
 ANNX|Annexon, Inc. - common stock|Q|N|N|100|N|N
 ANPA|Rich Sparkle Holdings Limited - Ordinary Shares|S|N|N|100|N|N
+ANS|GraniteShares 2x Short Anthropic Daily ETF|G|N|N|100|Y|N
 ANT|Anthropic, PBC - Class A Common Stock|Q|N|N|100|N|N
 ANTA|Antalpha Platform Holding Company - Class A Ordinary Shares|G|N|N|100|N|N
+ANTC|Defiance 2X ANT Long Daily ETF|G|N|N|100|Y|N
+ANTD|Direxion Daily Anthropic Bear 2X ETF|G|N|N|100|Y|N
+ANTO|Direxion Daily Anthropic Bull 2X ETF|G|N|N|100|Y|N
+ANTQ|Defiance 2X ANT Short Daily ETF|G|N|N|100|Y|N
+ANTU|ProShares Ultra Anthropic|G|N|N|100|Y|N
 ANTX|AN2 Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
+ANTY|ProShares UltraShort Anthropic|G|N|N|100|Y|N
 ANV|GraniteShares Autocallable NVDA ETF|G|N|N|100|Y|N
 AOHY|Angel Oak High Yield Opportunities ETF|G|N|N|100|Y|N
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100|N|N
@@ -521,6 +529,7 @@ AVX|Avax One Technology Ltd. - Common Shares|S|N|N|100|N|N
 AVXC|Avantis Emerging Markets ex-China Equity ETF|G|N|N|100|Y|N
 AVXL|Anavex Life Sciences Corp. - Common Stock|Q|N|N|100|N|N
 AVXX|Defiance Daily Target 2x Long AVAV ETF|G|N|N|100|Y|N
+AVZO|Avenzo Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 AWRE|Aware, Inc. - Common Stock|G|N|N|100|N|N
 AXG|Solowin Holdings - Class A Ordinary Share|S|N|N|100|N|N
 AXGN|Axogen, Inc. - Common Stock|S|N|N|100|N|N
@@ -688,9 +697,6 @@ BIYA|Baiya International Group Inc.  - Ordinary Shares|S|N|N|100|N|N
 BJDX|Bluejay Diagnostics, Inc. - Common Stock|S|N|N|100|N|N
 BJRI|BJ's Restaurants, Inc. - Common Stock|Q|N|N|100|N|N
 BKCH|Global X Blockchain ETF|G|N|N|100|Y|N
-BKHA|Black Hawk Acquisition Corporation - Class A Ordinary Shares|G|N|N|100|N|N
-BKHAR|Black Hawk Acquisition Corporation - Rights|G|N|N|100|N|N
-BKHAU|Black Hawk Acquisition Corporation - Units|G|N|N|100|N|N
 BKMI|BNY Mellon Municipal Intermediate ETF|G|N|N|100|Y|N
 BKMS|BNY Mellon Municipal Short Duration ETF|G|N|N|100|Y|N
 BKNG|Booking Holdings Inc. - Common Stock|Q|N|N|100|N|N
@@ -1133,6 +1139,7 @@ CLSKW|CleanSpark, Inc. - Warrant|S|N|N|100|N|N
 CLSM|ETC Cabana Target Leading Sector Moderate ETF|G|N|N|100|Y|N
 CLST|Catalyst Bancorp, Inc. - common stock|S|N|N|100|N|N
 CLWT|Euro Tech Holdings Company Limited - Ordinary Shares|S|N|N|100|N|N
+CLYD|Clywedog Therapeutics Holdings, Inc. - Common Stock|S|N|N|100|N|N
 CLYM|Climb Bio, Inc. - Common Stock|G|N|N|100|N|N
 CMBO|Wayfinder Dynamic U.S. Interest Rate ETF|G|N|N|100|Y|N
 CMCO|Columbus McKinnon Corporation - Common Stock|Q|N|N|100|N|N
@@ -1610,6 +1617,7 @@ ENGS|Energys Group Limited - Ordinary Shares|S|N|N|100|N|N
 ENHE|iShares Enhanced Emerging Markets Active ETF|G|N|N|100|Y|N
 ENHI|iShares Enhanced International Active ETF|G|N|N|100|Y|N
 ENHU|iShares Enhanced Large Cap Core Active ETF|G|N|N|100|Y|N
+ENHV|iShares Enhanced Large Cap Value Active ETF|G|N|N|100|Y|N
 ENLT|Enlight Renewable Energy Ltd. - Ordinary Shares|Q|N|N|100|N|N
 ENLV|Enlivex Ltd. - Ordinary Shares|S|N|D|100|N|N
 ENPH|Enphase Energy, Inc. - Common Stock|G|N|N|100|N|N
@@ -1686,6 +1694,8 @@ EVOXU|Evolution Global Acquisition Corp - Units|G|N|N|100|N|N
 EVOXW|Evolution Global Acquisition Corp - Warrants|G|N|N|100|N|N
 EVPF|Eaton Vance Preferred Securities and Income ETF|G|N|N|100|Y|N
 EVRG|Evergy, Inc. - Common Stock|Q|N|N|100|N|N
+EVRL|Everli Global Holdings - Class A Ordinary Shares|G|N|N|100|N|N
+EVRLW|Everli Global Holdings - Warrant|S|N|N|100|N|N
 EVSD|Eaton Vance Short Duration Income ETF|G|N|N|100|Y|N
 EVYM|Eaton Vance High Income Municipal ETF|G|N|N|100|Y|N
 EWAV|East West Ave Acquisition Corp. - Common Stock|G|N|N|100|N|N
@@ -2067,7 +2077,7 @@ GERN|Geron Corporation - Common Stock|Q|N|N|100|N|N
 GEVG|Leverage Shares 2X Long GEV Daily ETF|G|N|N|100|Y|N
 GEVO|Gevo, Inc. - Common Stock|S|N|N|100|N|N
 GEW|Cambria Global EW ETF|G|N|N|100|Y|N
-GFAI|Guardforce AI Co., Limited - Ordinary Shares|S|N|D|100|N|N
+GFAI|Guardforce AI Co., Limited - Class A Ordinary Shares|S|N|D|100|N|N
 GFLW|VictoryShares Free Cash Flow Growth ETF|G|N|N|100|Y|N
 GFS|GlobalFoundries Inc. - Ordinary Share|Q|N|N|100|N|N
 GFUZ|General Fusion Group Ltd. - Common Shares|G|N|N|100|N|N
@@ -3036,9 +3046,6 @@ LZ|LegalZoom.com, Inc. - Common Stock|Q|N|N|100|N|N
 LZMH|LZ Technology Holdings Limited - Class B Ordinary Shares|S|N|N|100|N|N
 MAAS|Maase Inc. - Class A Ordinary Shares|G|N|N|100|N|N
 MAAY|GraniteShares YieldBOOST MARA ETF|G|N|N|100|Y|N
-MACI|Melar Acquisition Corp. I - Class A Ordinary Shares|G|N|N|100|N|N
-MACIU|Melar Acquisition Corp. I - Unit|G|N|N|100|N|N
-MACIW|Melar Acquisition Corp. I - Warrant|G|N|N|100|N|N
 MAGH|Magnitude International Ltd - Ordinary Shares|S|N|D|100|N|N
 MAKO|Mako Mining Corp - Common Stock|S|N|N|100|N|N
 MAMA|Mama's Creations, Inc. - Common Stock|S|N|N|100|N|N
@@ -4278,11 +4285,9 @@ RJET|Republic Airways Holdings Inc. - Common Stock|Q|N|N|100|N|N
 RKDA|Arcadia Biosciences, Inc. - Common Stock|S|N|D|100|N|N
 RKLB|Rocket Lab Corporation - Common Stock|Q|N|N|100|N|N
 RKLX|Defiance Daily Target 2X Long RKLB ETF|G|N|N|100|Y|N
-RKNG|Defiance Retail Kings ETF|G|N|N|100|Y|N
 RKTO|Rocket One Inc. - Common Stock|S|N|D|100|N|N
 RLAY|Relay Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 RLMD|Relmada Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
-RLYB|Rallybio Corporation - Common Stock|S|N|N|100|N|N
 RMBI|Richmond Mutual Bancorporation, Inc. - Common Stock|S|N|N|100|N|N
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100|N|N
 RMCF|Rocky Mountain Chocolate Factory, Inc. - Common Stock|S|N|N|100|N|N
@@ -5221,6 +5226,7 @@ VERA|Vera Therapeutics, Inc. - Class A Common Stock|G|N|N|100|N|N
 VERI|Veritone, Inc. - Common Stock|G|N|N|100|N|N
 VERU|Veru Inc. - Common Stock|S|N|N|100|N|N
 VERX|Vertex, Inc. - Class A Common Stock|G|N|N|100|N|N
+VESI|Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 VFF|Village Farms International, Inc. - Common Shares|S|N|N|100|N|N
 VFLO|VictoryShares Free Cash Flow ETF|G|N|N|100|Y|N
 VFS|VinFast Auto Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -5607,4 +5613,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYN|PTL LTD - Class A Ordinary Shares|S|N|N|100|N|N
-File Creation Time: 1120202621:31|||||||
+File Creation Time: 1123202617:01|||||||

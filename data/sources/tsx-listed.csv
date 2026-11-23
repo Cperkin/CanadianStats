@@ -379,9 +379,9 @@ BAM,Brookfield Asset Management Ltd.,TSX
 BBUC,Brookfield Business Corporation,TSX
 BN,Brookfield Corporation,TSX
 BGI.UN,Brookfield Global Infrastructure Securities Income Fund,TSX
-BIPC,Brookfield Infrastructure Corporation,TSX
 BILP.PR.A,Brookfield Infrastructure L.P.,TSX
-BIP.PR.E,Brookfield Infrastructure Partners L.P.,TSX
+BIP.PR.E,Brookfield Infrastructure Partners Inc.,TSX
+BIPF.PR.E,Brookfield Infrastructure Partners L.P.,TSX
 BPO.PR.A,Brookfield Office Properties Inc.,TSX
 BPYP.PR.A,Brookfield Property Preferred L.P.,TSX
 BPS.PR.A,Brookfield Property Split Corp.,TSX
@@ -1242,7 +1242,6 @@ HUBL,Harvest US Bank Leaders Income ETF,TSX
 HBF,Harvest US Equity Leaders Income ETF,TSX
 HUTE,Harvest Utilities Leaders Enhanced Income ETF,TSX
 HUTL,Harvest Utilities Leaders Income ETF,TSX
-HWX,Headwater Exploration Inc.,TSX
 AIDX,HealWELL AI Inc.,TSX
 HFPC.U,Helios Fairfax Partners Corporation,TSX
 HSTR,Heliostar Metals Ltd.,TSX
@@ -2251,6 +2250,7 @@ TRZ,Transat A.T. Inc.,TSX
 TCL.A,Transcontinental Inc.,TSX
 TSL,Tree Island Steel Ltd.,TSX
 TKO,Trekor Metals Limited,TSX
+TBX,Tributary Exploration Inc,TSX
 TCW,Trican Well Service Ltd.,TSX
 TMQ,Trilogy Metals Inc.,TSX
 TFPM,Triple Flag Precious Metals Corp.,TSX
