@@ -380,7 +380,7 @@ BBUC,Brookfield Business Corporation,TSX
 BN,Brookfield Corporation,TSX
 BGI.UN,Brookfield Global Infrastructure Securities Income Fund,TSX
 BILP.PR.A,Brookfield Infrastructure L.P.,TSX
-BIP.PR.E,Brookfield Infrastructure Partners Inc.,TSX
+BIP,Brookfield Infrastructure Partners Inc.,TSX
 BIPF.PR.E,Brookfield Infrastructure Partners L.P.,TSX
 BPO.PR.A,Brookfield Office Properties Inc.,TSX
 BPYP.PR.A,Brookfield Property Preferred L.P.,TSX
@@ -1595,6 +1595,7 @@ MMAC,Manulife CQS Multi Asset Credit Fund,TSX
 MDIF,Manulife Dividend Income Fund,TSX
 MFC,Manulife Financial Corporation,TSX
 MFUN,Manulife Fundamental Equity Fund,TSX
+MGLO,Manulife Global Growth Fund,TSX
 MGAP,Manulife Growth ETF Portfolio,TSX
 MCLC,Manulife Multifactor Canadian Large Cap Index ETF,TSX
 MCSM,Manulife Multifactor Canadian SMID Cap Index ETF,TSX
@@ -2173,7 +2174,9 @@ TBAL,TD Balanced ETF Portfolio,TSX
 TDB,TD Canadian Aggregate Bond Index ETF,TSX
 TBNK,TD Canadian Bank Dividend Index ETF,TSX
 TCCB,TD Canadian Corporate Bond Fund,TSX
+TCB,TD Canadian Corporate Bond Index ETF,TSX
 TTP,TD Canadian Equity Index ETF,TSX
+TGB,TD Canadian Government Bond Index ETF,TSX
 TCLB,TD Canadian Long Term Federal Bond ETF,TSX
 TCSH,TD Cash Management ETF,TSX
 TCON,TD Conservative ETF Portfolio,TSX

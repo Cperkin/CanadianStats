@@ -639,7 +639,7 @@ BFC|Bank First Corporation - Common Stock|S|N|N|100|N|N
 BFLX|iShares Flexible Equity Active ETF|G|N|N|100|Y|N
 BFRG|Bullfrog AI Holdings, Inc. - Common Stock|S|N|D|100|N|N
 BFRGW|Bullfrog AI Holdings, Inc. - Warrants|S|N|N|100|N|N
-BFRI|Biofrontera Inc. - Common Stock|S|N|N|100|N|N
+BFRI|Biofrontera Inc. - Common Stock|S|N|D|100|N|N
 BFST|Business First Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 BGC|BGC Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 BGCG|Baillie Gifford International Concentrated Growth ETF|G|N|N|100|Y|N
@@ -1215,7 +1215,6 @@ CPAG|F/m Compoundr U.S. Aggregate Bond ETF|G|N|N|100|Y|N
 CPB|The Campbell's Company - Common Stock|Q|N|N|100|N|N
 CPBI|Central Plains Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 CPHC|Canterbury Park Holding Corporation - Common Stock|G|N|N|100|N|N
-CPHY|F/m Compoundr High Yield Bond ETF|G|N|N|100|Y|N
 CPIX|Cumberland Pharmaceuticals Inc. - Common Stock|Q|N|N|100|N|N
 CPLS|AB Core Plus Bond ETF|G|N|N|100|Y|N
 CPOP|Pop Culture Group Co., Ltd - Class A Ordinary Shares|S|N|N|100|N|N
@@ -1535,7 +1534,6 @@ EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
 EBC|Eastern Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
 EBI|Longview Advantage ETF|G|N|N|100|Y|N
 EBIZ|Global X E-commerce ETF|G|N|N|100|Y|N
-EBMT|Eagle Bancorp Montana, Inc. - Common Stock|G|N|N|100|N|N
 EBON|Ebang International Holdings Inc. - Class A Ordinary Shares|Q|N|N|100|N|N
 ECBK|ECB Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 ECHO|EchoStar Corporation - Common stock|Q|N|N|100|N|N
@@ -2044,7 +2042,7 @@ GCBC|Greene Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 GCGR|General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares|G|N|N|100|N|N
 GCGRU|General Catalyst Global Resilience Merger Corp. - Units|G|N|N|100|N|N
 GCGRW|General Catalyst Global Resilience Merger Corp. - Warrants|G|N|N|100|N|N
-GCL|GCL Global Holdings Ltd - Ordinary Shares|S|N|D|100|N|N
+GCL|GCL Global Holdings Ltd - Ordinary Shares|S|N|N|100|N|N
 GCLWW|GCL Global Holdings Ltd - Warrants|S|N|N|100|N|N
 GCMG|GCM Grosvenor Inc. - Class A Common Stock|G|N|N|100|N|N
 GCT|GigaCloud Technology Inc - Class A Ordinary Shares|G|N|N|100|N|N
@@ -2609,9 +2607,6 @@ IOVA|Iovance Biotherapeutics, Inc. - Common Stock|G|N|N|100|N|N
 IOYY|GraniteShares YieldBOOST IONQ ETF|G|N|N|100|Y|N
 IPAR|Interparfums, Inc. - Common Stock|Q|N|N|100|N|N
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100|N|N
-IPFX|Inflection Point Acquisition Corp. VI - Class A Ordinary Shares|G|N|N|100|N|N
-IPFXU|Inflection Point Acquisition Corp. VI - Units|G|N|N|100|N|N
-IPFXW|Inflection Point Acquisition Corp. VI - Warrant|G|N|N|100|N|N
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100|N|N
 IPHA|Innate Pharma S.A. - American Depositary Shares|Q|N|N|100|N|N
 IPHX|Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares|G|N|N|100|N|N
@@ -3119,7 +3114,7 @@ MEA|GraniteShares Autocallable META ETF|G|N|N|100|Y|N
 MEDP|Medpace Holdings, Inc. - Common Stock|Q|N|N|40|N|N
 MEDS|DataMeds AI, Inc. - Common Stock|S|N|N|100|N|N
 MEDX|Horizon Kinetics Medical ETF|G|N|N|100|Y|N
-MEGL|Magic Empire Global Limited - Class A Ordinary Shares|S|N|N|100|N|N
+MEGL|Magic Empire Global Limited - Class A Ordinary Shares|S|N|D|100|N|N
 MELI|MercadoLibre, Inc. - Common Stock|Q|N|N|10|N|N
 MEMA|Man Active Emerging Markets Alternative ETF|G|N|N|100|Y|N
 MEMS|Matthews Emerging Markets Discovery Active ETF|G|N|N|100|Y|N
@@ -3436,7 +3431,7 @@ NHIV|NewHold Investment Corp IV - Class A Ordinary Shares|G|N|N|100|N|N
 NHIVU|NewHold Investment Corp IV - Units|G|N|N|100|N|N
 NHIVW|NewHold Investment Corp IV - Warrants|G|N|N|100|N|N
 NHP|National Healthcare Properties, Inc. - Common Stock|G|N|N|100|N|N
-NHTC|Natural Health Trends Corp. - Common Stock|S|N|N|100|N|N
+NHTC|Natural Health Trends Corp. - Common Stock|S|N|D|100|N|N
 NICE|NICE Ltd - American Depositary Shares each representing one Ordinary Share|Q|N|N|100|N|N
 NICM|Nicola Mining Inc. - American Depositary Shares|S|N|N|100|N|N
 NIKI|Niki BioSolutions, Inc. - Common Stock|S|N|N|100|N|N
@@ -3574,7 +3569,7 @@ NXPI|NXP Semiconductors N.V. - Common Stock|Q|N|N|100|N|N
 NXPL|NextPlat Corp - Common Stock|S|N|N|100|N|N
 NXST|Nexstar Media Group, Inc. - Common Stock|Q|N|N|100|N|N
 NXT|Nextpower Inc. - Common Stock|Q|N|N|100|N|N
-NXTC|NextCure, Inc. - Common Stock|Q|N|N|100|N|N
+NXTC|NextCure, Inc. - Common Stock|Q|N|D|100|N|N
 NXTG|First Trust Indxx NextG ETF|G|N|N|100|Y|N
 NXTS|Nexentis Technologies Inc. - Common Stock|S|N|D|100|N|N
 NXTT|Next Technology Holding Inc. - Ordinary Shares|S|N|N|100|N|N
@@ -3592,6 +3587,7 @@ OBAWU|Oxley Bridge Acquisition Limited - Unit|G|N|N|100|N|N
 OBAWW|Oxley Bridge Acquisition Limited - Warrants|G|N|N|100|N|N
 OBIL|US Treasury 12 Month Bill ETF|G|N|N|100|Y|N
 OBIO|Orchestra BioMed Holdings, Inc. - Ordinary Shares|G|N|N|100|N|N
+OBMT|Opportunity Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 OBT|Orange County Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 OBTC|Osprey Bitcoin Trust|G|N|N|100|Y|N
 OBX|Obsidian Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
@@ -3878,7 +3874,7 @@ PGY|Pagaya Technologies Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 PGYWW|Pagaya Technologies Ltd. - Warrants|S|N|N|100|N|N
 PHAR|Pharming Group N.V. - ADS, each representing 10 ordinary shares|G|N|N|100|N|N
 PHAT|Phathom Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
-PHIO|Phio Pharmaceuticals Corp. - Common Stock|S|N|N|100|N|N
+PHIO|Phio Pharmaceuticals Corp. - Common Stock|S|N|D|100|N|N
 PHO|Invesco Water Resources ETF|G|N|N|100|Y|N
 PHOE|Phoenix Asia Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 PHOS|First Phosphate Corp. - American Depositary Shares|G|N|N|100|N|N
@@ -4192,7 +4188,6 @@ RBIL|F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF|G|N|N|100|Y
 RBKB|Rhinebeck Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 RBNE|Robin Energy Ltd. - Common Stock|S|N|N|100|N|N
 RCAT|Red Cat Holdings, Inc. - Common Stock|S|N|N|100|N|N
-RCAX|Defiance Daily Target 2x Long RCAT ETF|G|N|N|100|Y|N
 RCBC|River City Bank - Common stock|S|N|N|100|N|N
 RCEL|Avita Medical, Inc. - Common Stock|S|N|N|100|N|N
 RCGE|RockCreek Global Equality ETF|G|N|N|100|Y|N
@@ -4331,7 +4326,7 @@ ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100|N|N
 RPAY|Repay Holdings Corporation - Class A Common Stock|S|N|N|100|N|N
 RPD|Rapid7, Inc. - Common Stock|G|N|N|100|N|N
 RPGL|Republic Power Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
-RPID|Rapid Micro Biosystems, Inc. - Class A Common Stock|S|N|N|100|N|N
+RPID|Rapid Micro Biosystems, Inc. - Class A Common Stock|S|N|D|100|N|N
 RPRX|Royalty Pharma plc - Class A Ordinary Shares|Q|N|N|100|N|N
 RR|Richtech Robotics Inc. - Class B Common Stock|S|N|N|100|N|N
 RRBI|Red River Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5223,7 +5218,7 @@ VEFA|VanEck MSCI EAFE Analyst Sentiment ETF|G|N|N|100|Y|N
 VELO|Velo3D, Inc. - Common stock|S|N|N|100|N|N
 VEON|VEON Ltd. - American Depositary Shares|Q|N|N|100|N|N
 VERA|Vera Therapeutics, Inc. - Class A Common Stock|G|N|N|100|N|N
-VERI|Veritone, Inc. - Common Stock|G|N|N|100|N|N
+VERI|Veritone, Inc. - Common Stock|G|N|D|100|N|N
 VERU|Veru Inc. - Common Stock|S|N|N|100|N|N
 VERX|Vertex, Inc. - Class A Common Stock|G|N|N|100|N|N
 VESI|Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares|S|N|N|100|N|N
@@ -5613,4 +5608,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYN|PTL LTD - Class A Ordinary Shares|S|N|N|100|N|N
-File Creation Time: 1123202617:01|||||||
+File Creation Time: 1124202615:41|||||||

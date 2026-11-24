@@ -1389,7 +1389,6 @@ COPR|Idaho Copper Corporation Common Stock|A|COPR|N|100|N|COPR
 COPR.W|Idaho Copper Corporation Common Stock Purchase Warrant|A|COPR.WS|N|100|N|COPR+
 COPX|Global X Copper Miners ETF|P|COPX|Y|100|N|COPX
 COPY|Tweedy, Browne Insider + Value ETF|P|COPY|Y|100|N|COPY
-COPZ|Defiance Daily Target 2X Long Copper Miners ETF|P|COPZ|Y|100|N|COPZ
 COR|Cencora, Inc. Common Stock|N|COR|N|40|N|COR
 CORB|AB Core Bond ETF|P|CORB|Y|100|N|CORB
 CORD|T-REX 2X Inverse CRWV Daily Target ETF|Z|CORD|Y|100|N|CORD
@@ -3598,6 +3597,7 @@ ITW|Illinois Tool Works Inc. Common Stock|N|ITW|N|40|N|ITW
 ITWO|ProShares Russell 2000 High Income ETF|Z|ITWO|Y|100|N|ITWO
 IVAI|Ives Ultra AI Opportunities Inc. Common Stock|N|IVAI|N|100|N|IVAI
 IVE|iShares S&P 500 Value ETF|P|IVE|Y|100|N|IVE
+IVEA|Dan IVES Wedbush AI Autocallable Income ETF|P|IVEA|Y|100|N|IVEA
 IVEP|Dan IVES Wedbush AI Power & Infrastructure ETF|P|IVEP|Y|100|N|IVEP
 IVES|Dan IVES Wedbush AI Revolution ETF|P|IVES|Y|100|N|IVES
 IVLU|iShares MSCI Intl Value Factor ETF|P|IVLU|Y|100|N|IVLU
@@ -3866,7 +3866,6 @@ KDEC|Innovator U.S. Small Cap Power Buffer ETF - December|Z|KDEC|Y|100|N|KDEC
 KDEF|PLUS Korea Defense Industry Index ETF|P|KDEF|Y|100|N|KDEF
 KDRN|Kingsbarn Tactical Bond ETF|P|KDRN|Y|100|N|KDRN
 KDVD|Keeley Dividend ETF|P|KDVD|Y|100|N|KDVD
-KEEX|Defiance Daily Target 2x Long KEEL ETF|Z|KEEX|Y|100|N|KEEX
 KEMQ|KraneShares Public-Private Emerging Markets Internet and Technology ETF|P|KEMQ|Y|100|N|KEMQ
 KEMX|KraneShares MSCI Emerging Markets ex China Index ETF|P|KEMX|Y|100|N|KEMX
 KEN|Kenon Holdings Ltd. Ordinary Shares|N|KEN|N|100|N|KEN
@@ -5555,6 +5554,8 @@ QRED.U|QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary
 QSE|Corgi Growth & Technology 10% Structured Buffer ETF - September Series|Z|QSE|Y|100|N|QSE
 QSIG|WisdomTree U.S. Short Term Corporate Bond Fund|Z|QSIG|Y|100|N|QSIG
 QSOL|Invesco Galaxy Solana ETF|Z|QSOL|Y|100|N|QSOL
+QSPC|Quantum Space, Inc. Class A-1 Common Stock|N|QSPC|N|100|N|QSPC
+QSPC.W|Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share|A|QSPC.WS|N|100|N|QSPC+
 QSPT|FT Vest Nasdaq-100 Buffer ETF - September|Z|QSPT|Y|100|N|QSPT
 QSR|Restaurant Brands International Inc. Common Shares|N|QSR|N|100|N|QSR
 QSU|Defiance Daily Target 2X Long QS ETF|P|QSU|Y|100|N|QSU
@@ -7597,6 +7598,7 @@ XZO|Exzeo Group, Inc. Common Stock|N|XZO|N|100|N|XZO
 YALA|Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share|N|YALA|N|100|N|YALA
 YALL|Truth Social God Bless America ETF|P|YALL|Y|100|N|YALL
 YANG|Direxion Daily FTSE China Bear 3X ETF|P|YANG|Y|100|N|YANG
+YANT|YieldMax ANT Option Income Strategy ETF|P|YANT|Y|100|N|YANT
 YASX|Yorkville America Space Index ETF|P|YASX|Y|100|N|YASX
 YBIT|YieldMax Bitcoin Option Income Strategy ETF|P|YBIT|Y|100|N|YBIT
 YBTC|Roundhill Bitcoin Covered Call Strategy ETF|Z|YBTC|Y|100|N|YBTC
@@ -7700,4 +7702,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1123202617:01||||||
+File Creation Time: 1124202615:41||||||
