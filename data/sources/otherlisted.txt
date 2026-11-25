@@ -4700,7 +4700,7 @@ NHYB|Nuveen High Yield Corporate Bond ETF|P|NHYB|Y|100|N|NHYB
 NHYM|Nuveen High Yield Municipal Income ETF|P|NHYM|Y|100|N|NHYM
 NI|NiSource Inc Common Stock|N|NI|N|100|N|NI
 NIC|Nicolet Bankshares Inc. Common Stock|N|NIC|N|100|N|NIC
-NICO|Hexis Active Nicotine Engagement ETF|P|NICO|Y|100|N|NICO
+NICO|Hexis Active Nicotine Engagement ETF|F|NICO|Y|100|N|NICO
 NIE|Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest|N|NIE|N|100|N|NIE
 NIHI|NEOS MSCI EAFE High Income ETF|Z|NIHI|Y|100|N|NIHI
 NIM|Nuveen Select Maturities Municipal Fund Common Stock|N|NIM|N|100|N|NIM
@@ -7702,4 +7702,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1124202615:41||||||
+File Creation Time: 1125202614:01||||||
