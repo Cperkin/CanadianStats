@@ -200,8 +200,8 @@ AIIO|Robo.ai Inc. - Class B Ordinary Shares|S|N|N|100|N|N
 AIIOW|Robo.ai Inc. - Warrant|S|N|N|100|N|N
 AIIR|Air Global PLC - Ordinary shares|S|N|N|100|N|N
 AIL|GraniteShares 2x Long Anthropic Daily ETF|G|N|N|100|Y|N
-AIMD|Ainos, Inc. - Common Stock|S|N|N|100|N|N
-AIMDW|Ainos, Inc. - warrants|S|N|N|100|N|N
+AIMD|Ainos, Inc. - Common Stock|S|N|D|100|N|N
+AIMDW|Ainos, Inc. - warrants|S|N|D|100|N|N
 AIMG|Defiance AI Magnificent 10 ETF|G|N|N|100|Y|N
 AIMS|Acuitas Small Cap Active ETF|G|N|N|100|Y|N
 AINF|Defiance Inference AI Chip ETF|G|N|N|100|Y|N
@@ -767,7 +767,7 @@ BOT|RoboStrategy, Inc. - Common Stock|G|N|N|100|N|N
 BOTJ|Bank of the James Financial Group, Inc. - Common Stock|S|N|N|100|N|N
 BOTT|Themes Humanoid Robotics ETF|G|N|N|100|Y|N
 BOTZ|Global X Robotics & Artificial Intelligence ETF|G|N|N|100|Y|N
-BOXL|Boxlight Corporation - Class A Common Stock|S|N|N|100|N|N
+BOXL|Boxlight Corporation - Class A Common Stock|S|N|D|100|N|N
 BPAC|Blueport Acquisition Ltd - Class A Ordinary Shares|S|N|N|100|N|N
 BPACR|Blueport Acquisition Ltd - Rights|S|N|N|100|N|N
 BPACU|Blueport Acquisition Ltd - Units|S|N|N|100|N|N
@@ -1880,9 +1880,9 @@ FLXS|Flexsteel Industries, Inc. - Common Stock|Q|N|N|100|N|N
 FLY|Firefly Aerospace Inc. - Common Stock|G|N|N|100|N|N
 FLYE|Fly-E Group, Inc. - Common Stock|S|N|N|100|N|N
 FLYW|Flywire Corporation - Voting Common Stock|Q|N|N|100|N|N
-FMAC|Future Money Acquisition Corporation - Ordinary Shares|G|N|E|100|N|N
-FMACR|Future Money Acquisition Corporation - Rights|G|N|E|100|N|N
-FMACU|Future Money Acquisition Corporation - Units|G|N|E|100|N|N
+FMAC|Future Money Acquisition Corporation - Ordinary Shares|G|N|N|100|N|N
+FMACR|Future Money Acquisition Corporation - Rights|G|N|N|100|N|N
+FMACU|Future Money Acquisition Corporation - Units|G|N|N|100|N|N
 FMAO|Farmers & Merchants Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 FMB|First Trust Managed Municipal ETF|G|N|N|100|Y|N
 FMBH|First Mid Bancshares, Inc. - Common Stock|G|N|N|100|N|N
@@ -1898,7 +1898,7 @@ FNK|First Trust Mid Cap Value AlphaDEX Fund|G|N|N|100|Y|N
 FNKO|Funko, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FNLC|First Bancorp, Inc (ME) - Common Stock|Q|N|N|100|N|N
 FNRN|First Northern Community Bancorp - Common stock|S|N|N|100|N|N
-FNUC|Frontier Nuclear and Minerals Inc. - Common Shares|S|N|N|100|N|N
+FNUC|Frontier Nuclear and Minerals Inc. - Common Shares|S|N|E|100|N|N
 FNWB|First Northwest Bancorp - Common Stock|G|N|N|100|N|N
 FNWD|Finward Bancorp - common stock|S|N|N|100|N|N
 FNX|First Trust Mid Cap Core AlphaDEX Fund|G|N|N|100|Y|N
@@ -2290,7 +2290,7 @@ HCMAW|HCM III Acquisition Corp. - Warrants|G|N|N|100|N|N
 HCOP|Hartford Hybrid and Credit Opportunities ETF|G|N|N|100|Y|N
 HCOW|Amplify COWS Covered Call ETF|G|N|N|100|Y|N
 HCSG|Healthcare Services Group, Inc. - Common Stock|Q|N|N|100|N|N
-HCTI|Healthcare Triangle, Inc. - Common Stock|S|N|D|100|N|N
+HCTI|Healthcare Triangle, Inc. - Common Stock|S|N|N|100|N|N
 HCWB|HCW Biologics Inc. - Common Stock|S|N|N|100|N|N
 HDL|SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares|G|N|N|100|N|N
 HDRN|Hadron Energy, Inc. - Common Stock|S|N|N|100|N|N
@@ -4676,7 +4676,7 @@ SPWR|SunPower Inc. - Common Stock|G|N|D|100|N|N
 SPWRW|SunPower Inc. - Warrant|S|N|N|100|N|N
 SPXD|Xtrackers S&P 500 Diversified Sector Weight ETF|G|N|N|100|Y|N
 SPYQ|Tradr 2X Long SPY Quarterly ETF|G|N|N|100|Y|N
-SQFT|Presidio Property Trust, Inc. - Class A Common Stock|S|N|N|100|N|N
+SQFT|Presidio Property Trust, Inc. - Class A Common Stock|S|N|D|100|N|N
 SQFTP|Presidio Property Trust, Inc. - 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share|S|N|N|100|N|N
 SQFTW|Presidio Property Trust, Inc. - Series A Common Stock Purchase Warrants|S|N|N|100|N|N
 SQLV|Royce Quant Small-Cap Quality Value ETF|G|N|N|100|Y|N
@@ -5324,7 +5324,7 @@ VTWG|Vanguard Russell 2000 Growth ETF|G|N|N|40|Y|N
 VTWO|Vanguard Russell 2000 ETF|G|N|N|100|Y|N
 VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100|Y|N
 VUZI|Vuzix Corporation  - Common Stock|S|N|N|100|N|N
-VVOS|Vivos Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
+VVOS|Vivos Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 VWAV|VisionWave Holdings, Inc. - Common Stock|G|N|N|100|N|N
 VWAVW|VisionWave Holdings, Inc. - Warrant|S|N|N|100|N|N
 VWOB|Vanguard Emerging Markets Government Bond ETF|G|N|N|100|Y|N
@@ -5608,4 +5608,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYN|PTL LTD - Class A Ordinary Shares|S|N|N|100|N|N
-File Creation Time: 1125202614:01|||||||
+File Creation Time: 1125202621:32|||||||
