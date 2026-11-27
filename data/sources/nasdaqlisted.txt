@@ -2181,7 +2181,7 @@ GRAG|Leverage Shares 2X Long GRAB Daily ETF|G|N|N|100|Y|N
 GRAL|GRAIL, Inc. - Common Stock|Q|N|N|100|N|N
 GRAN|Grande Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
 GRCE|Grace Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
-GRDX|GridAI Technologies Corp.  - Common Stock|S|N|N|100|N|N
+GRDX|GridAI Power Corp. - Common Stock|S|N|N|100|N|N
 GRFS|Grifols, S.A. - American Depositary Shares|Q|N|N|100|N|N
 GRI|GRI Bio, Inc. - Common Stock|S|N|N|100|N|N
 GRID|First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund|G|N|N|100|Y|N
@@ -2290,7 +2290,6 @@ HCMAW|HCM III Acquisition Corp. - Warrants|G|N|N|100|N|N
 HCOP|Hartford Hybrid and Credit Opportunities ETF|G|N|N|100|Y|N
 HCOW|Amplify COWS Covered Call ETF|G|N|N|100|Y|N
 HCSG|Healthcare Services Group, Inc. - Common Stock|Q|N|N|100|N|N
-HCTI|Healthcare Triangle, Inc. - Common Stock|S|N|N|100|N|N
 HCWB|HCW Biologics Inc. - Common Stock|S|N|N|100|N|N
 HDL|SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares|G|N|N|100|N|N
 HDRN|Hadron Energy, Inc. - Common Stock|S|N|N|100|N|N
@@ -2385,6 +2384,7 @@ HTHT|H World Group Limited - American Depositary Shares|Q|N|N|100|N|N
 HTLD|Heartland Express, Inc. - Common Stock|Q|N|N|100|N|N
 HTLM|HomesToLife Ltd - Ordinary Shares|S|N|N|100|N|N
 HTO|H2O America  - Common Stock|Q|N|N|100|N|N
+HTOEU|H2O America  - Equity Units|Q|N|N|100|N|N
 HTOO|Fusion Fuel Green PLC - Ordinary Shares|S|N|N|100|N|N
 HTZ|Hertz Global Holdings, Inc - Common Stock|Q|N|N|100|N|N
 HTZWW|Hertz Global Holdings, Inc - Warrant|Q|N|N|100|N|N
@@ -4491,7 +4491,7 @@ SGA|Saga Communications, Inc. - Class A Common Stock|G|N|N|100|N|N
 SGC|Superior Group of Companies, Inc. - Common Stock|G|N|N|100|N|N
 SGHT|Sight Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 SGLD|Scorpio Gold Corporation - Common Stock|S|N|N|100|N|N
-SGLY|Singularity Future Technology Ltd. - Common Stock|S|N|D|100|N|N
+SGLY|Compower Ltd. - Common Stock|S|N|D|100|N|N
 SGML|Sigma Lithium Corporation - common shares|S|N|N|100|N|N
 SGMT|Sagimet Biosciences Inc. - Series A Common Stock|G|N|N|100|N|N
 SGP|SpyGlass Pharma, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5324,7 +5324,6 @@ VTWG|Vanguard Russell 2000 Growth ETF|G|N|N|40|Y|N
 VTWO|Vanguard Russell 2000 ETF|G|N|N|100|Y|N
 VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100|Y|N
 VUZI|Vuzix Corporation  - Common Stock|S|N|N|100|N|N
-VVOS|Vivos Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 VWAV|VisionWave Holdings, Inc. - Common Stock|G|N|N|100|N|N
 VWAVW|VisionWave Holdings, Inc. - Warrant|S|N|N|100|N|N
 VWOB|Vanguard Emerging Markets Government Bond ETF|G|N|N|100|Y|N
@@ -5608,4 +5607,4 @@ ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYN|PTL LTD - Class A Ordinary Shares|S|N|N|100|N|N
-File Creation Time: 1125202621:32|||||||
+File Creation Time: 1127202614:01|||||||
