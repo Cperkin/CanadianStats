@@ -389,7 +389,7 @@ AQLG|HCM Large Cap Growth ETF|G|N|N|100|Y|N
 AQMS|Aqua Metals, Inc. - Common Stock|S|N|N|100|N|N
 AQST|Aquestive Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 AQWA|Global X Clean Water ETF|G|N|N|100|Y|N
-ARAI|Arrive AI Inc. - Common Stock|S|N|D|100|N|N
+ARAI|Arrive AI Inc. - Common Stock|S|N|N|100|N|N
 ARAY|Accuray Incorporated - Common Stock|S|N|N|100|N|N
 ARBB|ARB IOT Group Limited - Ordinary Shares|S|N|N|100|N|N
 ARBE|Arbe Robotics Ltd. - Ordinary Shares|S|N|D|100|N|N
@@ -1151,7 +1151,7 @@ CMMB|Chemomab Therapeutics Ltd.  - American Depositary Shares|S|N|N|100|N|N
 CMND|Clearmind Medicine Inc. - Common Shares|S|N|N|100|N|N
 CMPR|Cimpress plc - Ordinary Shares|Q|N|N|100|N|N
 CMPS|COMPASS Pathways Plc - American Depository Shares|Q|N|N|100|N|N
-CMPX|Compass Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+CMPX|Compass Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 CMRC|Commerce.com, Inc. - Series 1 Common Stock|G|N|N|100|N|N
 CMTL|Comtech Telecommunications Corp. - Common Stock|Q|N|N|100|N|N
 CMTV|Community Bancorp.  - Common stock|S|N|N|100|N|N
@@ -1741,7 +1741,7 @@ FANG|Diamondback Energy, Inc. - Common Stock|Q|N|N|100|N|N
 FAST|Fastenal Company - Common Stock|Q|N|N|100|N|N
 FATE|Fate Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 FATN|FatPipe, Inc. - common stock|S|N|N|100|N|N
-FBDT|First Breach Inc. - Common Stock|S|N|N|100|N|N
+FBDT|First Breach Inc. - Common Stock|S|N|D|100|N|N
 FBEQ|Franklin US Equity Bitcoin Drip Index ETF|G|N|N|100|Y|N
 FBGL|FBS Global Limited - Ordinary Shares|S|N|N|100|N|N
 FBIO|Fortress Biotech, Inc. - Common Stock|S|N|N|100|N|N
@@ -1765,7 +1765,7 @@ FCDH|Forcendra Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 FCEF|First Trust Income Opportunities ETF|G|N|N|100|Y|N
 FCEL|FuelCell Energy, Inc. - Common Stock|G|N|N|100|N|N
 FCFS|FirstCash Holdings, Inc. - Common Stock|Q|N|N|100|N|N
-FCHL|Fitness Champs Holdings Limited - Ordinary Shares|S|N|D|100|N|N
+FCHL|Fitness Champs Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 FCLO|Fidelity CLO ETF|G|N|N|100|Y|N
 FCNCA|First Citizens BancShares, Inc. - Class A Common Stock|Q|N|N|10|N|N
 FCNCN|First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E|Q|N|N|100|N|N
@@ -1934,7 +1934,7 @@ FRPH|FRP Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 FRPT|Freshpet, Inc. - Common Stock|G|N|N|100|N|N
 FRSH|Freshworks Inc. - Class A Common Stock|Q|N|N|100|N|N
 FRST|Primis Financial Corp. - Common Stock|G|N|N|100|N|N
-FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares|S|N|N|100|N|N
+FRSX|Foresight Autonomous Holdings Ltd. - American Depositary Shares|S|N|D|100|N|N
 FRTT|Fort Technology Inc. - Common Shares|S|N|D|100|N|N
 FRVO|Fervo Energy Company - Class A common stock|Q|N|N|100|N|N
 FRWD|Nomura Transformational Technologies ETF|G|N|N|100|Y|N
@@ -2050,7 +2050,7 @@ GCT|GigaCloud Technology Inc - Class A Ordinary Shares|G|N|N|100|N|N
 GDC|GD Culture Group Limited - Common Stock|S|N|N|100|N|N
 GDEV|GDEV Inc. - Ordinary Shares|G|N|N|100|N|N
 GDHG|Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares|S|N|N|100|N|N
-GDRX|GoodRx Holdings, Inc. - Class A Common Stock|Q|N|E|100|N|N
+GDRX|GoodRx Holdings, Inc. - Class A Common Stock|Q|N|N|100|N|N
 GDS|GDS Holdings Limited - American Depositary Shares|G|N|N|100|N|N
 GDTC|CytoMed Therapeutics Limited - Ordinary Shares|S|N|D|100|N|N
 GDYN|Grid Dynamics Holdings, Inc. - Class A Common Stock|S|N|N|100|N|N
@@ -2452,7 +2452,7 @@ IBGC|iShares iBonds Dec 2046 Term Treasury ETF|G|N|N|100|Y|N
 IBGK|iShares iBonds Dec 2054 Term Treasury ETF|G|N|N|100|Y|N
 IBGL|iShares iBonds Dec 2055 Term Treasury ETF|G|N|N|100|Y|N
 IBGM|iShares iBonds Dec 2056 Term Treasury ETF|G|N|N|100|Y|N
-IBIO|iBio, Inc. - Common Stock|S|N|N|100|N|N
+IBIO|iBio, Inc. - Common Stock|S|N|D|100|N|N
 IBIT|iShares Bitcoin Trust ETF|G|N|N|100|Y|N
 IBKR|Interactive Brokers Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 IBOT|VanEck Robotics ETF|G|N|N|100|Y|N
@@ -3598,7 +3598,7 @@ OCCIM|OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock|S|N|N|100|
 OCCIN|OFS Credit Company, Inc. - 5.25% Series E Term Preferred Stock Due 2026|S|N|N|100|N|N
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100|N|N
 OCG|Oriental Culture Holding LTD - Ordinary Shares|S|N|N|100|N|N
-OCGN|Ocugen, Inc. - Common Stock|S|N|N|100|N|N
+OCGN|Ocugen, Inc. - Common Stock|S|N|D|100|N|N
 OCLT|OceanLight Acquisition Corporation - Ordinary Shares|G|N|N|100|N|N
 OCLTR|OceanLight Acquisition Corporation - Rights|G|N|N|100|N|N
 OCLTU|OceanLight Acquisition Corporation - Units|G|N|N|100|N|N
@@ -3813,7 +3813,7 @@ PCHX|State Street SPDR Nasdaq MyPaycheck ETF|G|N|N|100|Y|N
 PCLA|PicoCELA Inc. - American Depositary Shares|S|N|N|100|N|N
 PCMM|BondBloxx Private Credit CLO ETF|G|N|N|100|Y|N
 PCPI|PIMCO Inflation PLUS Active Exchange-Traded Fund|G|N|N|100|Y|N
-PCSA|Processa Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
+PCSA|Processa Pharmaceuticals, Inc. - Common Stock|S|N|D|100|N|N
 PCT|PureCycle Technologies, Inc. - Common stock|S|N|N|100|N|N
 PCTTU|PureCycle Technologies, Inc. - Unit|S|N|N|100|N|N
 PCTTW|PureCycle Technologies, Inc. - Warrant|S|N|N|100|N|N
@@ -4196,9 +4196,9 @@ RCKY|Rocky Brands, Inc. - Common Stock|Q|N|N|100|N|N
 RCMT|RCM Technologies, Inc. - Common Stock|G|N|N|100|N|N
 RCON|Recon Technology, Ltd. - Class A Ordinary Shares|S|N|N|100|N|N
 RCT|RedCloud Holdings plc - Ordinary Shares|S|N|D|100|N|N
-RDAC|Rising Dragon Acquisition Corp. - Ordinary Shares|S|N|D|100|N|N
-RDACR|Rising Dragon Acquisition Corp. - Rights|S|N|D|100|N|N
-RDACU|Rising Dragon Acquisition Corp. - Unit|S|N|D|100|N|N
+RDAC|Rising Dragon Acquisition Corp. - Ordinary Shares|S|N|N|100|N|N
+RDACR|Rising Dragon Acquisition Corp. - Rights|S|N|N|100|N|N
+RDACU|Rising Dragon Acquisition Corp. - Unit|S|N|N|100|N|N
 RDAG|Republic Digital Acquisition Company - Class A Ordinary Shares|G|N|N|100|N|N
 RDAGU|Republic Digital Acquisition Company - Unit|G|N|N|100|N|N
 RDAGW|Republic Digital Acquisition Company - Warrants|G|N|N|100|N|N
@@ -4326,7 +4326,7 @@ ROP|Roper Technologies, Inc. - Common Stock|Q|N|N|40|N|N
 ROST|Ross Stores, Inc. - Common Stock|Q|N|N|100|N|N
 RPAY|Repay Holdings Corporation - Class A Common Stock|S|N|N|100|N|N
 RPD|Rapid7, Inc. - Common Stock|G|N|N|100|N|N
-RPGL|Republic Power Group Limited - Class A Ordinary Shares|S|N|N|100|N|N
+RPGL|Republic Power Group Limited - Class A Ordinary Shares|S|N|E|100|N|N
 RPID|Rapid Micro Biosystems, Inc. - Class A Common Stock|S|N|D|100|N|N
 RPRX|Royalty Pharma plc - Class A Ordinary Shares|Q|N|N|100|N|N
 RR|Richtech Robotics Inc. - Class B Common Stock|S|N|N|100|N|N
@@ -4566,7 +4566,7 @@ SLMBP|SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B|Q
 SLMT|Solmate Infrastructure Public Limited Company - Class B Ordinary Shares|S|N|N|100|N|N
 SLN|Silence Therapeutics Plc - American Depository Share|G|N|N|100|N|N
 SLNG|Stabilis Solutions, Inc. - Common Stock|S|N|N|100|N|N
-SLNH|Soluna Holdings, Inc. - Common Stock|S|N|N|100|N|N
+SLNH|Soluna Holdings, Inc. - Common Stock|S|N|D|100|N|N
 SLNHP|Soluna Holdings, Inc. - 9.0% Series A Cumulative Perpetual Preferred Stock|S|N|N|100|N|N
 SLQD|iShares 0-5 Year Investment Grade Corporate Bond ETF|G|N|N|100|Y|N
 SLRC|SLR Investment Corp. - Closed End Fund|Q|N|N|100|N|N
@@ -4782,7 +4782,7 @@ SWRD|Stewards Inc - Common Stock|S|N|N|100|N|N
 SWVL|Swvl Holdings Corp - Ordinary Shares|S|N|N|100|N|N
 SWVLW|Swvl Holdings Corp - Warrant|S|N|N|100|N|N
 SXTC|China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares|S|N|N|100|N|N
-SXTP|60 Degrees Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
+SXTP|60 Degrees Pharmaceuticals, Inc. - Common Stock|S|N|D|100|N|N
 SXTPW|60 Degrees Pharmaceuticals, Inc. - Warrant|S|N|N|100|N|N
 SY|So-Young International Inc. - American Depository Shares|S|N|N|100|N|N
 SYBT|Stock Yards Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -5601,10 +5601,10 @@ ZUMZ|Zumiez Inc. - Common Stock|Q|N|N|100|N|N
 ZURA|Zura Bio Limited - Class A Ordinary shares|S|N|N|100|N|N
 ZVRA|Zevra Therapeutics, Inc.  - Common Stock|Q|N|N|100|N|N
 ZVZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
-ZWZZT|NASDAQ TEST STOCK NC|S|Y|N|100|N|N
+ZWZZT|NASDAQ TEST STOCK despac Test|S|Y|N|100|N|N
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100|N|N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100|N|N
 ZYBT|Zhengye Biotechnology Holding Limited - Class A Ordinary Shares|S|N|N|100|N|N
 ZYME|Zymeworks Inc. - Common Stock|Q|N|N|100|N|N
 ZYN|PTL LTD - Class A Ordinary Shares|S|N|N|100|N|N
-File Creation Time: 1127202614:01|||||||
+File Creation Time: 1127202621:33|||||||

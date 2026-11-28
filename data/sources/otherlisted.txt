@@ -139,6 +139,7 @@ AFIX|Allspring Broad Market Core Bond ETF|P|AFIX|Y|100|N|AFIX
 AFK|VanEck Africa Index ETF|P|AFK|Y|100|N|AFK
 AFL|AFLAC Incorporated Common Stock|N|AFL|N|100|N|AFL
 AFLG|First Trust Active Factor Large Cap ETF|P|AFLG|Y|100|N|AFLG
+AFLR|Aligned Pathway Flourishing ETF|P|SOVF|Y|100|N|SOVF
 AFMC|First Trust Active Factor Mid Cap ETF|P|AFMC|Y|100|N|AFMC
 AFSM|First Trust Active Factor Small Cap ETF|P|AFSM|Y|100|N|AFSM
 AG|First Majestic Silver Corp. Ordinary Shares (Canada)|N|AG|N|100|N|AG
@@ -910,7 +911,6 @@ BOND|PIMCO Active Bond Exchange-Traded Fund Exchange-Traded Fund|N|BOND|Y|100|N|
 BOOT|Boot Barn Holdings, Inc. Common Stock|N|BOOT|N|100|N|BOOT
 BORR|Borr Drilling Limited Common Shares|N|BORR|N|100|N|BORR
 BOUT|CapForce IBD Breakout Opportunities ETF|P|BOUT|Y|100|N|BOUT
-BOW|Bowhead Specialty Holdings Inc. Common Stock|N|BOW|N|100|N|BOW
 BOX|Box, Inc. Class A Common Stock|N|BOX|N|100|N|BOX
 BOXA|Alpha Architect Aggregate Bond ETF|Z|BOXA|Y|100|N|BOXA
 BOXX|Alpha Architect 1-3 Month Box ETF|Z|BOXX|Y|100|N|BOXX
@@ -1567,7 +1567,7 @@ CWH|Camping World Holdings, Inc. Class A Common Stock|N|CWH|N|100|N|CWH
 CWI|State Street SPDR MSCI ACWI ex-US ETF|P|CWI|Y|100|N|CWI
 CWK|Cushman & Wakefield Ltd. Common Shares|N|CWK|N|100|N|CWK
 CWS|AdvisorShares Focused Equity ETF|P|CWS|Y|100|N|CWS
-CWT|California Water Service Group Common Stock|N|CWT|N|100|N|CWT
+CWT|Watermark Utilities Common Stock|N|CWT|N|100|N|CWT
 CWVX|Tradr 2X Long CRWV Daily ETF|Z|CWVX|Y|100|N|CWVX
 CX|Cemex, S.A.B. de C.V. Sponsored ADR|N|CX|N|100|N|CX
 CXM|Sprinklr, Inc. Class A Common Stock|N|CXM|N|100|N|CXM
@@ -1912,7 +1912,6 @@ DUSB|Dimensional Ultrashort Fixed Income ETF|P|DUSB|Y|100|N|DUSB
 DUSL|Direxion Daily Industrials Bull 3X ETF|P|DUSL|Y|100|N|DUSL
 DUST|Direxion Daily Gold Miners Index Bear 2X ETF|P|DUST|Y|100|N|DUST
 DUTY|U.S. Defense ETF|P|DUTY|Y|100|N|DUTY
-DV|DoubleVerify Holdings, Inc. Common Stock|N|DV|N|100|N|DV
 DVA|DaVita Inc. Common Stock|N|DVA|N|100|N|DVA
 DVDN|Kingsbarn Dividend Opportunity ETF|P|DVDN|Y|100|N|DVDN
 DVN|Devon Energy Corporation Common Stock|N|DVN|N|100|N|DVN
@@ -4635,7 +4634,7 @@ NBSM|Neuberger Small-Mid Cap ETF|P|NBSM|Y|100|N|NBSM
 NBTR|Neuberger Total Return Bond ETF|P|NBTR|Y|100|N|NBTR
 NBXG|Neuberger Next Generation Connectivity Fund Inc. Common Stock|N|NBXG|N|100|N|NBXG
 NC|NACCO Industries, Inc. Common Stock|N|NC|N|100|N|NC
-NCA|Nuveen California Municipal Value Fund|N|NCA|N|100|N|NCA
+NCA|Nuveen California Municipal Income Fund Common Stock|N|NCA|N|100|N|NCA
 NCDL|Nuveen Churchill Direct Lending Corp. Common Stock|N|NCDL|N|100|N|NCDL
 NCLH|Norwegian Cruise Line Holdings Ltd. Ordinary Shares|N|NCLH|N|100|N|NCLH
 NCLO|Nuveen AA-BBB CLO ETF|P|NCLO|Y|100|N|NCLO
@@ -4745,7 +4744,7 @@ NNI|Nelnet, Inc. Common Stock|N|NNI|N|100|N|NNI
 NNN|NNN REIT, Inc. Common Stock|N|NNN|N|100|N|NNN
 NNOV|Innovator Growth-100 Power Buffer ETF - November|Z|NNOV|Y|100|N|NNOV
 NNVC|NanoViricides, Inc. Common Stock|A|NNVC|N|100|N|NNVC
-NNY|Nuveen New York Municipal Value Fund Common Stock|N|NNY|N|100|N|NNY
+NNY|Nuveen New York Municipal Income Fund Common Stock|N|NNY|N|100|N|NNY
 NOA|North American Construction Group Ltd. Common Shares (no par)|N|NOA|N|100|N|NOA
 NOAH|Noah Holdings Limited American Depositary Shares|N|NOAH|N|100|N|NOAH
 NOBL|ProShares S&P 500 Dividend Aristocrats ETF|Z|NOBL|Y|100|N|NOBL
@@ -6257,7 +6256,6 @@ SOS|SOS Limited Class A Ordinary Shares|N|SOS|N|100|N|SOS
 SOUL|Soulpower Acquisition Corporation Class A Ordinary Shares|N|SOUL|N|100|N|SOUL
 SOUL.R|Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one-tenth (1/10) of one Class A Ordinary Share|N|SOULr|N|100|N|SOUL^
 SOUL.U|Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right|N|SOUL.U|N|100|N|SOUL=
-SOVF|Sovereign's Capital Flourish Fund|P|SOVF|Y|100|N|SOVF
 SOXL|Direxion Daily Semiconductor Bull 3X ETF|P|SOXL|Y|100|N|SOXL
 SOXS|Direxion Daily Semiconductor Bear 3X ETF|P|SOXS|Y|100|N|SOXS
 SOXY|YieldMax Target 12 Semiconductor Option Income ETF|P|SOXY|Y|100|N|SOXY
@@ -7702,4 +7700,4 @@ ZZZTA|TXSE Test Stk 1 Common Stock|F|ZZZTA|N|10|Y|ZZZTA
 ZZZTE|TXSE Test Stk 2 ETF|F|ZZZTE|Y|100|Y|ZZZTE
 ZZZTT|ETF|F|ZZZTT|Y|100|Y|ZZZTT
 ZZZTX|TXSE Test Stk 5 Common Stock|F|ZZZTX|N|40|Y|ZZZTX
-File Creation Time: 1127202614:01||||||
+File Creation Time: 1127202621:33||||||
